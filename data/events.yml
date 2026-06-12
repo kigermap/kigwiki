@@ -1,0 +1,87 @@
+- id: event-1553-city-wall
+  date: 明嘉靖三十二年
+  sort_date: "1553-01-01"
+  title: 筑城墙以备倭患
+  category: 建置沿革
+  period: 明代
+  people:
+    - person-zhang-san
+  places:
+    - place-county-seat
+  sources:
+    - source-county-gazetteer-1993
+  confidence: 中
+  summary: 据旧志记载，当地于嘉靖年间修筑城墙，作为防务设施。
+  tags:
+    - 城防
+    - 军事
+
+- id: event-1912-office-change
+  date: 1912年
+  sort_date: "1912-01-01"
+  title: 县署改称县公署
+  category: 政区建置
+  period: 民国
+  people: []
+  places:
+    - place-county-seat
+  sources:
+    - source-archive-1912
+  confidence: 高
+  summary: 辛亥后地方行政机构名称发生变化。
+  tags:
+    - 行政
+    - 机构
+
+- id: event-1949-government
+  date: 1949-10-01
+  sort_date: "1949-10-01"
+  title: 成立人民政府
+  category: 政事
+  period: 现代
+  people:
+    - person-li-si
+  places:
+    - place-county-seat
+  sources:
+    - source-county-gazetteer-1993
+  confidence: 高
+  summary: 当地政权机构完成更替，人民政府成立。
+  tags:
+    - 政权
+    - 机构
+
+- id: event-1986-school
+  date: 1986-05
+  sort_date: "1986-05-01"
+  title: 新建县中教学楼
+  category: 教育
+  period: 改革开放
+  people: []
+  places:
+    - place-county-school
+  sources:
+    - source-school-annals
+  confidence: 高
+  summary: 县中扩建教学设施，办学规模扩大。
+  tags:
+    - 教育
+    - 建设
+
+- id: event-2010-heritage
+  date: 2010-09-01
+  sort_date: "2010-09-01"
+  title: 老街传统民居列入保护名录
+  category: 文化遗产
+  period: 当代
+  people: []
+  places:
+    - place-old-street
+  sources:
+    - source-cultural-list-2010
+  confidence: 高
+  summary: 老街部分传统民居被纳入地方文化遗产保护范围。
+  tags:
+    - 文化
+    - 建筑
+

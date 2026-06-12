@@ -1,0 +1,16 @@
+:root {
+  --chronicle-border: color-mix(in srgb, var(--md-default-fg-color) 18%, transparent);
+}
+
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--chronicle-border);
+}
+
+.md-typeset table:not([class]) {
+  font-size: 0.72rem;
+}
+
+.md-typeset img {
+  border-radius: 6px;
+}
+

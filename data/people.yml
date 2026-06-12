@@ -1,0 +1,16 @@
+- id: person-zhang-san
+  name: 张三
+  type: 人物
+  birth: 不详
+  death: 不详
+  file: people/zhang-san.md
+  summary: 示例人物，用于展示人物条目的写法。
+
+- id: person-li-si
+  name: 李四
+  type: 人物
+  birth: 1918
+  death: 1999
+  file:
+  summary: 参与地方机构建设的示例人物。
+

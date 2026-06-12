@@ -1,0 +1,24 @@
+- id: place-county-seat
+  name: 县城
+  type: 城镇
+  current_name: 县城
+  file: places/county-seat.md
+  coordinates: "31.2304, 121.4737"
+  summary: 示例地点，用于承载建置沿革和城市空间变化。
+
+- id: place-county-school
+  name: 县中
+  type: 学校
+  current_name: 县第一中学
+  file:
+  coordinates:
+  summary: 示例教育地点。
+
+- id: place-old-street
+  name: 老街
+  type: 街区
+  current_name: 老街历史文化街区
+  file:
+  coordinates:
+  summary: 示例历史街区。
+

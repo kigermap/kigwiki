@@ -1,0 +1,7 @@
+[build]
+command = "python scripts/build_indexes.py && mkdocs build --strict"
+publish = "site"
+
+[build.environment]
+PYTHON_VERSION = "3.12"
+

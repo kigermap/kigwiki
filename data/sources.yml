@@ -1,0 +1,32 @@
+- id: source-county-gazetteer-1993
+  title: 《示例县志》
+  short_title: 示例县志
+  type: 方志
+  year: 1993
+  holder: 县志办公室
+  citation: 示例县地方志编纂委员会：《示例县志》，1993年，第35页。
+
+- id: source-archive-1912
+  title: 民国元年县公署档案
+  short_title: 1912档案
+  type: 档案
+  year: 1912
+  holder: 县档案馆
+  citation: 县档案馆藏，民国元年行政类档案，第2卷。
+
+- id: source-school-annals
+  title: 《县中校史资料汇编》
+  short_title: 县中校史
+  type: 校史
+  year: 2006
+  holder: 县第一中学
+  citation: 县第一中学：《县中校史资料汇编》，2006年，第18页。
+
+- id: source-cultural-list-2010
+  title: 2010年地方文化遗产保护名录
+  short_title: 保护名录
+  type: 名录
+  year: 2010
+  holder: 文旅局
+  citation: 文旅局：《2010年地方文化遗产保护名录》，2010年。
+

@@ -1,0 +1,97 @@
+site_name: 编年史与方志资料库
+site_description: 一个无数据库、可公开发布、适合编年史和修志的静态 Wiki。
+repo_url: https://github.com/your-name/chronicle-wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - search.share
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+hooks:
+  - scripts/mkdocs_hooks.py
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - 首页: index.md
+  - 编年:
+      - chronicle/index.md
+      - 全量大事记: generated/events.md
+      - 按年份: generated/events-by-year.md
+  - 志书:
+      - gazetteer/index.md
+      - 建置沿革: gazetteer/administration.md
+      - 自然地理: gazetteer/geography.md
+      - 风俗文化: gazetteer/culture.md
+  - 人物:
+      - people/index.md
+      - 人物索引: generated/people-index.md
+      - 张三示例: people/zhang-san.md
+  - 地点:
+      - places/index.md
+      - 地点索引: generated/places-index.md
+      - 县城示例: places/county-seat.md
+  - 来源:
+      - sources/index.md
+      - 来源索引: generated/sources-index.md
+  - 写作指南:
+      - guide/content-model.md
+      - guide/writing.md
+      - guide/deploy.md
