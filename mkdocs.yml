@@ -1,46 +1,359 @@
-site_name: 编年史与方志资料库
-site_description: 一个无数据库、可公开发布、适合编年史和修志的静态 Wiki。
-repo_url: https://github.com/your-name/chronicle-wiki
-edit_uri: edit/main/docs/
+site_name: Kigurumi 编年志
+site_description: 面向 kigurumi 社群的编年史、修志与资料馆。
+site_author: Kigurumi Chronicle Archive
 
 theme:
   name: material
   language: zh
+  logo: assets/images/sample-archive.svg
+  favicon: assets/images/sample-archive.svg
   features:
+    - announce.dismiss
+    - content.code.copy
     - navigation.sections
     - navigation.indexes
     - navigation.top
     - navigation.footer
+    - navigation.tracking
+    - navigation.path
     - toc.follow
+    - search.suggest
     - search.highlight
     - search.share
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: teal
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: 切换到深色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: teal
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: 切换到浅色模式
 
 plugins:
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: zh-Hans
+          name: 简体中文
+          default: true
+          build: true
+          link: /
+          site_name: Kigurumi 编年志
+          site_description: 面向 kigurumi 社群的编年史、修志与资料馆。
+          theme:
+            language: zh
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-night
+                  name: 切换到深色模式
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-sunny
+                  name: 切换到浅色模式
+          extra:
+            social:
+              - icon: material/book-open-page-variant
+                link: /chronicle/
+                name: 编年
+              - icon: material/archive-search
+                link: /generated/events/
+                name: 全量大事记
+          nav:
+            - 首页: index.md
+            - 编年:
+                - chronicle/index.md
+                - 全量大事记: generated/events.md
+                - 按年份: generated/events-by-year.md
+            - 志书:
+                - gazetteer/index.md
+                - 建置沿革: gazetteer/administration.md
+                - 自然地理: gazetteer/geography.md
+                - 风俗文化: gazetteer/culture.md
+            - 人物:
+                - people/index.md
+                - 人物索引: generated/people-index.md
+                - 档案整理员 A: people/zhang-san.md
+            - 地点:
+                - places/index.md
+                - 地点索引: generated/places-index.md
+                - 星绸会馆: places/county-seat.md
+            - 来源:
+                - sources/index.md
+                - 来源索引: generated/sources-index.md
+            - 写作指南:
+                - guide/content-model.md
+                - guide/writing.md
+                - guide/deploy.md
+        - locale: zh-Hant
+          name: 繁體中文
+          build: true
+          link: /zh-Hant/
+          site_name: Kigurumi 編年志
+          site_description: 面向 kigurumi 社群的編年史、修志與資料館。
+          theme:
+            language: zh-Hant
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-night
+                  name: 切換到深色模式
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-sunny
+                  name: 切換到淺色模式
+          extra:
+            social:
+              - icon: material/book-open-page-variant
+                link: /zh-Hant/chronicle/
+                name: 編年
+              - icon: material/archive-search
+                link: /zh-Hant/generated/events/
+                name: 全量大事記
+          nav:
+            - 首頁: index.md
+            - 編年:
+                - chronicle/index.md
+                - 全量大事記: generated/events.md
+                - 按年份: generated/events-by-year.md
+            - 志書:
+                - gazetteer/index.md
+                - 建置沿革: gazetteer/administration.md
+                - 自然地理: gazetteer/geography.md
+                - 風俗文化: gazetteer/culture.md
+            - 人物:
+                - people/index.md
+                - 人物索引: generated/people-index.md
+                - 檔案整理員 A: people/zhang-san.md
+            - 地點:
+                - places/index.md
+                - 地點索引: generated/places-index.md
+                - 星綢會館: places/county-seat.md
+            - 來源:
+                - sources/index.md
+                - 來源索引: generated/sources-index.md
+            - 寫作指南:
+                - guide/content-model.md
+                - guide/writing.md
+                - guide/deploy.md
+        - locale: en
+          name: English
+          build: true
+          link: /en/
+          site_name: Kigurumi Chronicle
+          site_description: A chronicle, gazetteer, and source archive for the kigurumi community.
+          theme:
+            language: en
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-night
+                  name: Switch to dark mode
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-sunny
+                  name: Switch to light mode
+          extra:
+            social:
+              - icon: material/book-open-page-variant
+                link: /en/chronicle/
+                name: Chronicle
+              - icon: material/archive-search
+                link: /en/generated/events/
+                name: Event Index
+          nav:
+            - Home: index.md
+            - Chronicle:
+                - chronicle/index.md
+                - Event Index: generated/events.md
+                - By Year: generated/events-by-year.md
+            - Gazetteer:
+                - gazetteer/index.md
+                - Administration: gazetteer/administration.md
+                - Geography: gazetteer/geography.md
+                - Culture: gazetteer/culture.md
+            - People:
+                - people/index.md
+                - People Index: generated/people-index.md
+                - Archivist A: people/zhang-san.md
+            - Places:
+                - places/index.md
+                - Places Index: generated/places-index.md
+                - Xingchou Hall: places/county-seat.md
+            - Sources:
+                - sources/index.md
+                - Sources Index: generated/sources-index.md
+            - Writing Guide:
+                - guide/content-model.md
+                - guide/writing.md
+                - guide/deploy.md
+        - locale: ja
+          name: 日本語
+          build: true
+          link: /ja/
+          site_name: Kigurumi 編年誌
+          site_description: kigurumi コミュニティのための編年史、地誌、資料アーカイブ。
+          theme:
+            language: ja
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-night
+                  name: ダークモードに切り替え
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-sunny
+                  name: ライトモードに切り替え
+          extra:
+            social:
+              - icon: material/book-open-page-variant
+                link: /ja/chronicle/
+                name: 編年
+              - icon: material/archive-search
+                link: /ja/generated/events/
+                name: 事件索引
+          nav:
+            - ホーム: index.md
+            - 編年:
+                - chronicle/index.md
+                - 事件索引: generated/events.md
+                - 年別: generated/events-by-year.md
+            - 地誌:
+                - gazetteer/index.md
+                - 沿革: gazetteer/administration.md
+                - 地理: gazetteer/geography.md
+                - 文化: gazetteer/culture.md
+            - 人物:
+                - people/index.md
+                - 人物索引: generated/people-index.md
+                - アーカイブ整理員 A: people/zhang-san.md
+            - 場所:
+                - places/index.md
+                - 場所索引: generated/places-index.md
+                - 星綢会館: places/county-seat.md
+            - 出典:
+                - sources/index.md
+                - 出典索引: generated/sources-index.md
+            - 執筆ガイド:
+                - guide/content-model.md
+                - guide/writing.md
+                - guide/deploy.md
+        - locale: ru
+          name: Русский
+          build: true
+          link: /ru/
+          site_name: Хроника Kigurumi
+          site_description: Хроника, справочник и архив источников сообщества kigurumi.
+          theme:
+            language: ru
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-night
+                  name: Переключить на темную тему
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: custom
+                accent: custom
+                toggle:
+                  icon: material/weather-sunny
+                  name: Переключить на светлую тему
+          extra:
+            social:
+              - icon: material/book-open-page-variant
+                link: /ru/chronicle/
+                name: Хроника
+              - icon: material/archive-search
+                link: /ru/generated/events/
+                name: Индекс событий
+          nav:
+            - Главная: index.md
+            - Хроника:
+                - chronicle/index.md
+                - Индекс событий: generated/events.md
+                - По годам: generated/events-by-year.md
+            - Газеттир:
+                - gazetteer/index.md
+                - Администрация: gazetteer/administration.md
+                - География: gazetteer/geography.md
+                - Культура: gazetteer/culture.md
+            - Люди:
+                - people/index.md
+                - Индекс людей: generated/people-index.md
+                - Архивариус A: people/zhang-san.md
+            - Места:
+                - places/index.md
+                - Индекс мест: generated/places-index.md
+                - Зал Xingchou: places/county-seat.md
+            - Источники:
+                - sources/index.md
+                - Индекс источников: generated/sources-index.md
+            - Руководство:
+                - guide/content-model.md
+                - guide/writing.md
+                - guide/deploy.md
   - search:
       lang:
         - zh
         - en
+        - ja
+        - ru
 
 hooks:
   - scripts/mkdocs_hooks.py
 
 extra_css:
-  - assets/stylesheets/extra.css
+  - assets/stylesheets/extra.css?v=20260613-leftnav-sticky
+
+extra_javascript:
+  - assets/javascripts/archive-ui.js?v=20260613-leftnav-sticky
+
+extra:
+  generator: false
+  social:
+    - icon: material/book-open-page-variant
+      link: /chronicle/
+      name: 编年
+    - icon: material/archive-search
+      link: /generated/events/
+      name: 全量大事记
 
 markdown_extensions:
   - admonition
@@ -83,11 +396,11 @@ nav:
   - 人物:
       - people/index.md
       - 人物索引: generated/people-index.md
-      - 张三示例: people/zhang-san.md
+      - 档案整理员 A: people/zhang-san.md
   - 地点:
       - places/index.md
       - 地点索引: generated/places-index.md
-      - 县城示例: places/county-seat.md
+      - 星绸会馆: places/county-seat.md
   - 来源:
       - sources/index.md
       - 来源索引: generated/sources-index.md

@@ -1,44 +1,44 @@
 - id: event-1553-city-wall
-  date: 明嘉靖三十二年
-  sort_date: "1553-01-01"
-  title: 筑城墙以备倭患
-  category: 建置沿革
-  period: 明代
+  date: 2014-05-18
+  sort_date: "2014-05-18"
+  title: 星绸会馆首次开放社群整理日
+  category: 场地沿革
+  period: 早期社群
   people:
     - person-zhang-san
   places:
     - place-county-seat
   sources:
     - source-county-gazetteer-1993
-  confidence: 中
-  summary: 据旧志记载，当地于嘉靖年间修筑城墙，作为防务设施。
+  confidence: 高
+  summary: 成员集中整理活动照片、制作记录和服装维护笔记，形成最早的可检索社群资料。
   tags:
-    - 城防
-    - 军事
+    - 资料整理
+    - 场地
 
 - id: event-1912-office-change
-  date: 1912年
-  sort_date: "1912-01-01"
-  title: 县署改称县公署
-  category: 政区建置
-  period: 民国
+  date: 2016-08-07
+  sort_date: "2016-08-07"
+  title: 夏季见面会建立活动编号规则
+  category: 社群治理
+  period: 形成期
   people: []
   places:
     - place-county-seat
   sources:
     - source-archive-1912
   confidence: 高
-  summary: 辛亥后地方行政机构名称发生变化。
+  summary: 以年份、城市、活动类型组合编号，方便后续照片、访谈和物料归档。
   tags:
-    - 行政
-    - 机构
+    - 活动
+    - 编目
 
 - id: event-1949-government
-  date: 1949-10-01
-  sort_date: "1949-10-01"
-  title: 成立人民政府
-  category: 政事
-  period: 现代
+  date: 2019-11-23
+  sort_date: "2019-11-23"
+  title: 完成第一批口述访谈转写
+  category: 口述史
+  period: 成熟期
   people:
     - person-li-si
   places:
@@ -46,42 +46,41 @@
   sources:
     - source-county-gazetteer-1993
   confidence: 高
-  summary: 当地政权机构完成更替，人民政府成立。
+  summary: 围绕入坑契机、制作分工、线下礼仪和早期活动记忆完成访谈转写。
   tags:
-    - 政权
-    - 机构
+    - 访谈
+    - 记忆
 
 - id: event-1986-school
-  date: 1986-05
-  sort_date: "1986-05-01"
-  title: 新建县中教学楼
-  category: 教育
-  period: 改革开放
+  date: 2021-04-10
+  sort_date: "2021-04-10"
+  title: 建立面具维护与收纳规范
+  category: 工艺维护
+  period: 维护期
   people: []
   places:
     - place-county-school
   sources:
     - source-school-annals
   confidence: 高
-  summary: 县中扩建教学设施，办学规模扩大。
+  summary: 形成清洁、运输、展示和修复记录模板，降低活动后资料和实物散失风险。
   tags:
-    - 教育
-    - 建设
+    - 工艺
+    - 维护
 
 - id: event-2010-heritage
-  date: 2010-09-01
-  sort_date: "2010-09-01"
-  title: 老街传统民居列入保护名录
-  category: 文化遗产
-  period: 当代
+  date: 2024-10-06
+  sort_date: "2024-10-06"
+  title: 社群年表公开试运行
+  category: 数字资料馆
+  period: 当代整理
   people: []
   places:
     - place-old-street
   sources:
     - source-cultural-list-2010
   confidence: 高
-  summary: 老街部分传统民居被纳入地方文化遗产保护范围。
+  summary: 将活动、人物、地点和来源拆分为结构化资料，开放公众阅读并保留协作者编辑权限。
   tags:
-    - 文化
-    - 建筑
-
+    - 年表
+    - 数字化

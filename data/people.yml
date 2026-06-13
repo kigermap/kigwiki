@@ -1,16 +1,15 @@
 - id: person-zhang-san
-  name: 张三
-  type: 人物
-  birth: 不详
-  death: 不详
+  name: 档案整理员 A
+  type: 社群成员
+  birth:
+  death:
   file: people/zhang-san.md
-  summary: 示例人物，用于展示人物条目的写法。
+  summary: 参与早期资料编目、活动照片整理和来源校对。
 
 - id: person-li-si
-  name: 李四
-  type: 人物
-  birth: 1918
-  death: 1999
+  name: 访谈协作者 B
+  type: 口述史协作者
+  birth:
+  death:
   file:
-  summary: 参与地方机构建设的示例人物。
-
+  summary: 参与口述访谈转写和社群术语校对。

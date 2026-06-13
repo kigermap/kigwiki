@@ -1,32 +1,31 @@
 - id: source-county-gazetteer-1993
-  title: 《示例县志》
-  short_title: 示例县志
-  type: 方志
-  year: 1993
-  holder: 县志办公室
-  citation: 示例县地方志编纂委员会：《示例县志》，1993年，第35页。
+  title: 《星绸会馆整理日记录》
+  short_title: 整理日记录
+  type: 工作记录
+  year: 2014
+  holder: 社群档案组
+  citation: 社群档案组：《星绸会馆整理日记录》，2014年。
 
 - id: source-archive-1912
-  title: 民国元年县公署档案
-  short_title: 1912档案
-  type: 档案
-  year: 1912
-  holder: 县档案馆
-  citation: 县档案馆藏，民国元年行政类档案，第2卷。
+  title: 2016夏季见面会活动手册
+  short_title: 2016活动手册
+  type: 活动资料
+  year: 2016
+  holder: 活动筹备组
+  citation: 活动筹备组：《2016夏季见面会活动手册》，2016年。
 
 - id: source-school-annals
-  title: 《县中校史资料汇编》
-  short_title: 县中校史
-  type: 校史
-  year: 2006
-  holder: 县第一中学
-  citation: 县第一中学：《县中校史资料汇编》，2006年，第18页。
+  title: 《面具维护与收纳规范》
+  short_title: 维护规范
+  type: 工艺文档
+  year: 2021
+  holder: 制作工坊
+  citation: 制作工坊：《面具维护与收纳规范》，2021年。
 
 - id: source-cultural-list-2010
-  title: 2010年地方文化遗产保护名录
-  short_title: 保护名录
-  type: 名录
-  year: 2010
-  holder: 文旅局
-  citation: 文旅局：《2010年地方文化遗产保护名录》，2010年。
-
+  title: 2024线上资料馆发布记录
+  short_title: 发布记录
+  type: 数字资料
+  year: 2024
+  holder: 社群档案组
+  citation: 社群档案组：《2024线上资料馆发布记录》，2024年。

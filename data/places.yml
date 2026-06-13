@@ -1,24 +1,23 @@
 - id: place-county-seat
-  name: 县城
-  type: 城镇
-  current_name: 县城
+  name: 星绸会馆
+  type: 线下据点
+  current_name: 星绸会馆
   file: places/county-seat.md
-  coordinates: "31.2304, 121.4737"
-  summary: 示例地点，用于承载建置沿革和城市空间变化。
+  coordinates:
+  summary: 社群活动、资料整理、展示和访谈的复合型据点。
 
 - id: place-county-school
-  name: 县中
-  type: 学校
-  current_name: 县第一中学
+  name: 制作工坊
+  type: 工艺空间
+  current_name: 制作工坊
   file:
   coordinates:
-  summary: 示例教育地点。
+  summary: 面具维护、服装整理和运输打包的工作空间。
 
 - id: place-old-street
-  name: 老街
-  type: 街区
-  current_name: 老街历史文化街区
+  name: 线上资料馆
+  type: 数字空间
+  current_name: 线上资料馆
   file:
   coordinates:
-  summary: 示例历史街区。
-
+  summary: 对公众开放的编年、志书、人物、地点和来源检索入口。
