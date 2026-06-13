@@ -1,4 +1,5 @@
 site_name: Kigurumi 编年志
+site_url: https://kigwiki.com/
 site_description: 面向 kigurumi 社群的编年史、修志与资料馆。
 site_author: Kigurumi Chronicle Archive
 copyright: Copyright &copy; 2026 Kigurumi Chronicle Archive. Content is provided for archival and educational reference; please preserve attribution and source context when citing.
@@ -86,6 +87,15 @@ plugins:
               - icon: material/information
                 link: /about/
                 name: 关于介绍
+              - icon: material/format-quote-close
+                link: /citation/
+                name: 引用规范
+              - icon: material/frequently-asked-questions
+                link: /faq/
+                name: 常见问题
+              - icon: material/license
+                link: /license/
+                name: 开源协议
           nav:
             - 首页: index.md
             - 关于介绍: about/index.md
@@ -98,6 +108,9 @@ plugins:
                 - 地点目录: places/index.md
                 - 人物目录: people/index.md
                 - 来源目录: sources/index.md
+            - 引用规范: citation/index.md
+            - 常见问题: faq/index.md
+            - 开源协议: license/index.md
         - locale: zh-Hant
           name: 繁體中文
           build: true
@@ -139,6 +152,15 @@ plugins:
               - icon: material/information
                 link: /zh-Hant/about/
                 name: 關於介紹
+              - icon: material/format-quote-close
+                link: /zh-Hant/citation/
+                name: 引用規範
+              - icon: material/frequently-asked-questions
+                link: /zh-Hant/faq/
+                name: 常見問題
+              - icon: material/license
+                link: /zh-Hant/license/
+                name: 開源協議
           nav:
             - 首頁: index.md
             - 關於介紹: about/index.md
@@ -151,6 +173,9 @@ plugins:
                 - 地點目錄: places/index.md
                 - 人物目錄: people/index.md
                 - 來源目錄: sources/index.md
+            - 引用規範: citation/index.md
+            - 常見問題: faq/index.md
+            - 開源協議: license/index.md
         - locale: en
           name: English
           build: true
@@ -192,6 +217,15 @@ plugins:
               - icon: material/information
                 link: /en/about/
                 name: About
+              - icon: material/format-quote-close
+                link: /en/citation/
+                name: Citation
+              - icon: material/frequently-asked-questions
+                link: /en/faq/
+                name: FAQ
+              - icon: material/license
+                link: /en/license/
+                name: License
           nav:
             - Home: index.md
             - About: about/index.md
@@ -204,6 +238,9 @@ plugins:
                 - Places: places/index.md
                 - People: people/index.md
                 - Sources: sources/index.md
+            - Citation: citation/index.md
+            - FAQ: faq/index.md
+            - License: license/index.md
         - locale: ja
           name: 日本語
           build: true
@@ -245,6 +282,15 @@ plugins:
               - icon: material/information
                 link: /ja/about/
                 name: 紹介
+              - icon: material/format-quote-close
+                link: /ja/citation/
+                name: 引用規範
+              - icon: material/frequently-asked-questions
+                link: /ja/faq/
+                name: FAQ
+              - icon: material/license
+                link: /ja/license/
+                name: ライセンス
           nav:
             - ホーム: index.md
             - 紹介: about/index.md
@@ -257,6 +303,9 @@ plugins:
                 - 場所目録: places/index.md
                 - 人物目録: people/index.md
                 - 出典目録: sources/index.md
+            - 引用規範: citation/index.md
+            - FAQ: faq/index.md
+            - ライセンス: license/index.md
         - locale: ru
           name: Русский
           build: true
@@ -298,6 +347,15 @@ plugins:
               - icon: material/information
                 link: /ru/about/
                 name: О проекте
+              - icon: material/format-quote-close
+                link: /ru/citation/
+                name: Цитирование
+              - icon: material/frequently-asked-questions
+                link: /ru/faq/
+                name: FAQ
+              - icon: material/license
+                link: /ru/license/
+                name: Лицензия
           nav:
             - Главная: index.md
             - О проекте: about/index.md
@@ -310,6 +368,9 @@ plugins:
                 - Места: places/index.md
                 - Люди: people/index.md
                 - Источники: sources/index.md
+            - Цитирование: citation/index.md
+            - FAQ: faq/index.md
+            - Лицензия: license/index.md
   - search:
       lang:
         - zh
@@ -344,6 +405,15 @@ extra:
     - icon: material/information
       link: /about/
       name: 关于介绍
+    - icon: material/format-quote-close
+      link: /citation/
+      name: 引用规范
+    - icon: material/frequently-asked-questions
+      link: /faq/
+      name: 常见问题
+    - icon: material/license
+      link: /license/
+      name: 开源协议
 
 markdown_extensions:
   - admonition
@@ -384,3 +454,6 @@ nav:
       - 地点目录: places/index.md
       - 人物目录: people/index.md
       - 来源目录: sources/index.md
+  - 引用规范: citation/index.md
+  - 常见问题: faq/index.md
+  - 开源协议: license/index.md

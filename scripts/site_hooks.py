@@ -3,13 +3,16 @@ from __future__ import annotations
 import json
 import re
 import shutil
+from html import unescape
 from pathlib import Path
 
 
+SITE_URL = "https://kigwiki.com/"
 DEFAULT_LANG = "zh-Hans"
 DEFAULT_SITE_NAME = "Kigurumi 编年志"
 DEFAULT_DESCRIPTION = "面向 kigurumi 社群的编年史、修志与资料馆。"
 DEFAULT_NOT_FOUND_TITLE = "404 - 页面未找到"
+DEFAULT_IMAGE = f"{SITE_URL}assets/images/kigurumi-archive-hero-v2.png"
 DEFAULT_COPYRIGHT = (
     "Copyright &copy; 2026 Kigurumi 编年志资料馆。"
     "本站内容用于资料整理、研究与教育参考；引用时请保留署名、出处与语境。"
@@ -61,6 +64,21 @@ DEFAULT_NAV = """
         <span class="md-ellipsis">来源目录</span>
       </a>
     </li>
+    <li class="md-nav__item">
+      <a href="/citation/" class="md-nav__link">
+        <span class="md-ellipsis">引用规范</span>
+      </a>
+    </li>
+    <li class="md-nav__item">
+      <a href="/faq/" class="md-nav__link">
+        <span class="md-ellipsis">常见问题</span>
+      </a>
+    </li>
+    <li class="md-nav__item">
+      <a href="/license/" class="md-nav__link">
+        <span class="md-ellipsis">开源协议</span>
+      </a>
+    </li>
   </ul>
 """
 DEFAULT_PRIMARY_NAV = f"""
@@ -105,6 +123,225 @@ DEFAULT_SEARCH_TRANSLATIONS = {
     "search.result.term.missing": "缺少",
     "select.version": "选择版本",
 }
+PAGE_DESCRIPTIONS = {
+    "/": "Kigurumi 编年志是面向 kigurumi 社群的公开资料馆，整理编年史、志目、人物、地点、来源和参与流程。",
+    "/about/": "了解 Kigurumi 编年志的项目定位、资料馆体例、公开边界和长期修志目标。",
+    "/join/": "了解如何参与 Kigurumi 编年志，提交资料、校对线索、翻译页面、维护站点并加入 KigerMap 社区交流群。",
+    "/support/": "了解如何为 Kigurumi 编年志贡献资料、参与校对、支持维护和协助长期整理。",
+    "/chronicle/": "Kigurumi 编年志编年总览，说明社群事件记录体例、预制时间线和年度资料整理方向。",
+    "/years/": "Kigurumi 编年志年份目录，按年度浏览和补录事件、地点、人物、来源与待考事项。",
+    "/places/": "Kigurumi 编年志地点目录，记录会馆、工坊、展场、聚会空间、线上据点等公开可写的社群空间。",
+    "/people/": "Kigurumi 编年志人物目录，记录公开可写的社群角色、贡献、参与阶段和来源依据。",
+    "/sources/": "Kigurumi 编年志来源目录，维护照片、手册、访谈、网页存档和公开说明等证据链。",
+    "/citation/": "Kigurumi 编年志引用规范，说明如何引用页面、事件、地点、人物、来源和素材并保留语境。",
+    "/faq/": "Kigurumi 编年志常见问题，介绍项目是什么、成立目的、如何加入、免费开源和隐私原则。",
+    "/license/": "Kigurumi 编年志开源协议说明，区分网站代码 MIT License、原创文字 CC BY 4.0 与第三方素材授权边界。",
+}
+LANG_PREFIXES = ("/zh-Hant", "/en", "/ja", "/ru")
+FAQ_ITEMS = [
+    (
+        "基础介绍：Kigurumi 编年志是什么？",
+        "Kigurumi 编年志是一个面向 kigurumi 社群的公开资料馆和修志项目，以静态网站形式整理公开介绍、编年线索、地点目录、人物贡献、来源目录、参与流程和引用规范。",
+    ),
+    (
+        "成立目的：这个项目为什么成立？",
+        "项目成立的目的，是把分散在活动现场、相册、访谈、网页、制作笔记和成员记忆中的公开资料，整理成可阅读、可引用、可校勘、可持续维护的资料体系。",
+    ),
+    (
+        "如何加入：我可以怎样参与？",
+        "你可以反馈错字、补充年份线索、校对地点说明、提供公开来源、整理照片批次、翻译页面或维护站点，也可以通过 QQ 群 1067398012 加入 KigerMap 社区交流群。",
+    ),
+    (
+        "免费开源：Kigurumi 编年志是免费开源的吗？",
+        "是的。站点面向公众免费访问，网站代码采用 MIT License 开源；原创说明文字默认采用 CC BY 4.0，可在署名、附链接、保留语境并标注改动的前提下分享和改写。第三方图片、访谈、海报、二维码和用户投稿仍保留原始权利。",
+    ),
+]
+
+
+def _absolute_url(path: str) -> str:
+    return f"{SITE_URL.rstrip('/')}/{path.lstrip('/')}"
+
+
+def _page_url_from_output(site_dir: Path, path: Path) -> str:
+    relative = path.relative_to(site_dir).as_posix()
+    if relative == "index.html":
+        return SITE_URL
+    if relative.endswith("/index.html"):
+        relative = relative[: -len("index.html")]
+    return _absolute_url(relative)
+
+
+def _canonical_path_from_output(site_dir: Path, path: Path) -> str:
+    relative = path.relative_to(site_dir).as_posix()
+    if relative == "index.html":
+        return "/"
+    if relative.endswith("/index.html"):
+        relative = "/" + relative[: -len("index.html")]
+    else:
+        relative = "/" + relative
+    return relative
+
+
+def _content_path(pathname: str) -> str:
+    for prefix in LANG_PREFIXES:
+        if pathname == f"{prefix}/":
+            return "/"
+        if pathname.startswith(f"{prefix}/"):
+            return pathname[len(prefix) :]
+    return pathname
+
+
+def _page_description(pathname: str) -> str:
+    return PAGE_DESCRIPTIONS.get(_content_path(pathname), DEFAULT_DESCRIPTION)
+
+
+def _extract_title(html: str) -> str:
+    match = re.search(r"<title>(.*?)</title>", html, flags=re.S)
+    if not match:
+        return DEFAULT_SITE_NAME
+    return unescape(re.sub(r"\s+", " ", match.group(1)).strip())
+
+
+def _extract_lang(html: str) -> str:
+    match = re.search(r'<html lang="([^"]+)"', html)
+    return match.group(1) if match else "zh"
+
+
+def _meta_tag(name: str, content: str) -> str:
+    return f'<meta name="{name}" content="{content}">'
+
+
+def _property_tag(prop: str, content: str) -> str:
+    return f'<meta property="{prop}" content="{content}">'
+
+
+def _replace_or_insert_head(html: str, pattern: str, replacement: str) -> str:
+    if re.search(pattern, html, flags=re.S):
+        return re.sub(pattern, replacement, html, count=1, flags=re.S)
+    return html.replace("</head>", f"  {replacement}\n  </head>", 1)
+
+
+def _drop_managed_seo(html: str) -> str:
+    html = re.sub(r'\s*<link rel="canonical" href="[^"]*">\n?', "\n", html)
+    html = re.sub(r'\s*<meta (?:name|property)="(?:og:[^"]+|twitter:[^"]+)" content="[^"]*">\n?', "\n", html)
+    html = re.sub(r'\s*<script type="application/ld\+json" data-archive-seo>.*?</script>\n?', "\n", html, flags=re.S)
+    return html
+
+
+def _json_ld(page_url: str, title: str, description: str, pathname: str, lang: str) -> list[dict]:
+    home_url = _absolute_url("/")
+    graph: list[dict] = [
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "@id": f"{home_url}#website",
+            "url": home_url,
+            "name": DEFAULT_SITE_NAME,
+            "description": DEFAULT_DESCRIPTION,
+            "inLanguage": lang,
+            "publisher": {"@id": f"{home_url}#organization"},
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": f"{home_url}?q={{search_term_string}}",
+                "query-input": "required name=search_term_string",
+            },
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": f"{home_url}#organization",
+            "name": "Kigurumi Chronicle Archive",
+            "alternateName": ["Kigurumi 编年志", "KigerMap 社区资料馆"],
+            "url": home_url,
+            "logo": _absolute_url("/assets/images/sample-archive.svg"),
+        },
+    ]
+
+    content_path = _content_path(pathname)
+    page_type = "WebPage" if content_path == "/" else "Article"
+    graph.append(
+        {
+            "@context": "https://schema.org",
+            "@type": page_type,
+            "@id": f"{page_url}#webpage",
+            "url": page_url,
+            "name": title,
+            "headline": title,
+            "description": description,
+            "inLanguage": lang,
+            "isPartOf": {"@id": f"{home_url}#website"},
+            "publisher": {"@id": f"{home_url}#organization"},
+            "image": DEFAULT_IMAGE,
+        }
+    )
+
+    crumbs = [{"@type": "ListItem", "position": 1, "name": "首页", "item": home_url}]
+    if content_path != "/":
+        crumbs.append({"@type": "ListItem", "position": 2, "name": title.split(" - ")[0], "item": page_url})
+        graph.append(
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "@id": f"{page_url}#breadcrumb",
+                "itemListElement": crumbs,
+            }
+        )
+
+    if content_path == "/faq/":
+        graph.append(
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "@id": f"{page_url}#faq",
+                "url": page_url,
+                "inLanguage": lang,
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": question,
+                        "acceptedAnswer": {"@type": "Answer", "text": answer},
+                    }
+                    for question, answer in FAQ_ITEMS
+                ],
+            }
+        )
+
+    return graph
+
+
+def _inject_seo(html: str, *, page_url: str, pathname: str) -> str:
+    html = _drop_managed_seo(html)
+    title = _extract_title(html)
+    lang = _extract_lang(html)
+    description = _page_description(pathname)
+    og_type = "website" if _content_path(pathname) == "/" else "article"
+
+    html = _replace(
+        r'<meta name="description" content="[^"]*">',
+        _meta_tag("description", description),
+        html,
+    )
+    html = _replace_or_insert_head(html, r'<meta name="robots" content="[^"]*">', _meta_tag("robots", "index,follow"))
+
+    tags = [
+        f'<link rel="canonical" href="{page_url}">',
+        _property_tag("og:type", og_type),
+        _property_tag("og:site_name", DEFAULT_SITE_NAME),
+        _property_tag("og:title", title),
+        _property_tag("og:description", description),
+        _property_tag("og:url", page_url),
+        _property_tag("og:image", DEFAULT_IMAGE),
+        _meta_tag("twitter:card", "summary_large_image"),
+        _meta_tag("twitter:title", title),
+        _meta_tag("twitter:description", description),
+        _meta_tag("twitter:image", DEFAULT_IMAGE),
+        (
+            '<script type="application/ld+json" data-archive-seo>'
+            + json.dumps(_json_ld(page_url, title, description, pathname, lang), ensure_ascii=False, separators=(",", ":"))
+            + "</script>"
+        ),
+    ]
+    return html.replace("</head>", "\n      " + "\n      ".join(tags) + "\n  </head>", 1)
 
 
 def _replace(pattern: str, replacement: str, text: str) -> str:
@@ -150,8 +387,17 @@ def _mirror_sitemaps(site_dir: Path) -> None:
             shutil.copyfile(sitemap_file, directory / sitemap_file.name)
 
 
+def _patch_html_pages(site_dir: Path) -> None:
+    for path in site_dir.rglob("*.html"):
+        html = path.read_text(encoding="utf-8")
+        pathname = _canonical_path_from_output(site_dir, path)
+        html = _inject_seo(html, page_url=_page_url_from_output(site_dir, path), pathname=pathname)
+        path.write_text(html, encoding="utf-8")
+
+
 def on_post_build(config, **kwargs):
     site_dir = Path(config["site_dir"])
+    _patch_html_pages(site_dir)
     _mirror_sitemaps(site_dir)
 
     path = site_dir / "404.html"
@@ -159,6 +405,7 @@ def on_post_build(config, **kwargs):
         return
 
     html = path.read_text(encoding="utf-8")
+    html = _drop_managed_seo(html)
     html = html.replace('<html lang="ru"', f'<html lang="{DEFAULT_LANG}"')
     html = html.replace('<body ', '<body class="archive-error-page" ', 1)
     html = _replace(
@@ -273,5 +520,6 @@ def on_post_build(config, **kwargs):
         _patch_config,
         html,
     )
+    html = _inject_seo(html, page_url=_absolute_url("/404.html"), pathname="/404.html")
 
     path.write_text(html, encoding="utf-8")

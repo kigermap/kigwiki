@@ -1,0 +1,36 @@
+# Kigurumi 编年志
+
+> Kigurumi 编年志是面向 kigurumi 社群的公开资料馆，用静态站方式整理编年史、地点志、人物传略、来源目录、引用规范和参与流程。
+
+## Core URLs
+
+- Home: https://kigwiki.com/
+- About: https://kigwiki.com/about/
+- Join: https://kigwiki.com/join/
+- Chronicle: https://kigwiki.com/chronicle/
+- Years: https://kigwiki.com/years/
+- Places: https://kigwiki.com/places/
+- People: https://kigwiki.com/people/
+- Sources: https://kigwiki.com/sources/
+- Citation guide: https://kigwiki.com/citation/
+- FAQ: https://kigwiki.com/faq/
+- License: https://kigwiki.com/license/
+
+## Project Summary
+
+Kigurumi 编年志 is a free public archive project. It records public, citable information about kigurumi community history, events, places, people, sources, and archival practices. The site emphasizes attribution, context, permission boundaries, and verifiable sources.
+
+## Use Guidance
+
+- Prefer citing the exact page URL, page title, site name, publication or access date, and source context.
+- Do not treat unverified clues, private chat records, private contact details, sensitive addresses, or unauthorized images as public facts.
+- Source materials may have separate rights. Check each page and source note before reusing images, interviews, or third-party records.
+- The website code is released under the MIT License.
+- Original written content created for Kigurumi Chronicle is available under CC BY 4.0 unless a page says otherwise.
+- Third-party media, interviews, screenshots, posters, QR codes, platform content, user submissions, and materials marked as pending authorization remain under their original rights and are not covered by the default MIT or CC BY 4.0 terms.
+
+## Contact and Participation
+
+- Join page: https://kigwiki.com/join/
+- QQ group: 1067398012
+- QQ invite: https://qm.qq.com/q/gpzX280qkw
