@@ -1,6 +1,7 @@
 site_name: Kigurumi 编年志
 site_description: 面向 kigurumi 社群的编年史、修志与资料馆。
 site_author: Kigurumi Chronicle Archive
+copyright: Copyright &copy; 2026 Kigurumi Chronicle Archive. Content is provided for archival and educational reference; please preserve attribution and source context when citing.
 
 theme:
   name: material
@@ -50,6 +51,7 @@ plugins:
           link: /
           site_name: Kigurumi 编年志
           site_description: 面向 kigurumi 社群的编年史、修志与资料馆。
+          copyright: Copyright &copy; 2026 Kigurumi 编年志资料馆。本站内容用于资料整理、研究与教育参考；引用时请保留署名、出处与语境。
           theme:
             language: zh
             palette:
@@ -69,44 +71,40 @@ plugins:
                   name: 切换到浅色模式
           extra:
             social:
-              - icon: material/book-open-page-variant
+              - icon: material/home
+                link: /
+                name: 首页
+              - icon: material/account-plus
+                link: /join/
+                name: 参与加入
+              - icon: material/timeline-clock
                 link: /chronicle/
-                name: 编年
-              - icon: material/archive-search
-                link: /generated/events/
-                name: 全量大事记
+                name: 编年目录
+              - icon: material/map-marker-radius
+                link: /places/
+                name: 地点目录
+              - icon: material/information
+                link: /about/
+                name: 关于介绍
           nav:
             - 首页: index.md
+            - 关于介绍: about/index.md
+            - 参与加入: join/index.md
+            - 贡献与支持: support/index.md
             - 编年:
-                - chronicle/index.md
-                - 全量大事记: generated/events.md
-                - 按年份: generated/events-by-year.md
-            - 志书:
-                - gazetteer/index.md
-                - 建置沿革: gazetteer/administration.md
-                - 自然地理: gazetteer/geography.md
-                - 风俗文化: gazetteer/culture.md
-            - 人物:
-                - people/index.md
-                - 人物索引: generated/people-index.md
-                - 档案整理员 A: people/zhang-san.md
-            - 地点:
-                - places/index.md
-                - 地点索引: generated/places-index.md
-                - 星绸会馆: places/county-seat.md
-            - 来源:
-                - sources/index.md
-                - 来源索引: generated/sources-index.md
-            - 写作指南:
-                - guide/content-model.md
-                - guide/writing.md
-                - guide/deploy.md
+                - 编年总览: chronicle/index.md
+                - 年份目录: years/index.md
+            - 志目:
+                - 地点目录: places/index.md
+                - 人物目录: people/index.md
+                - 来源目录: sources/index.md
         - locale: zh-Hant
           name: 繁體中文
           build: true
           link: /zh-Hant/
           site_name: Kigurumi 編年志
           site_description: 面向 kigurumi 社群的編年史、修志與資料館。
+          copyright: Copyright &copy; 2026 Kigurumi 編年志資料館。本站內容用於資料整理、研究與教育參考；引用時請保留署名、出處與語境。
           theme:
             language: zh-Hant
             palette:
@@ -126,44 +124,40 @@ plugins:
                   name: 切換到淺色模式
           extra:
             social:
-              - icon: material/book-open-page-variant
+              - icon: material/home
+                link: /zh-Hant/
+                name: 首頁
+              - icon: material/account-plus
+                link: /zh-Hant/join/
+                name: 參與加入
+              - icon: material/timeline-clock
                 link: /zh-Hant/chronicle/
-                name: 編年
-              - icon: material/archive-search
-                link: /zh-Hant/generated/events/
-                name: 全量大事記
+                name: 編年目錄
+              - icon: material/map-marker-radius
+                link: /zh-Hant/places/
+                name: 地點目錄
+              - icon: material/information
+                link: /zh-Hant/about/
+                name: 關於介紹
           nav:
             - 首頁: index.md
+            - 關於介紹: about/index.md
+            - 參與加入: join/index.md
+            - 貢獻與支持: support/index.md
             - 編年:
-                - chronicle/index.md
-                - 全量大事記: generated/events.md
-                - 按年份: generated/events-by-year.md
-            - 志書:
-                - gazetteer/index.md
-                - 建置沿革: gazetteer/administration.md
-                - 自然地理: gazetteer/geography.md
-                - 風俗文化: gazetteer/culture.md
-            - 人物:
-                - people/index.md
-                - 人物索引: generated/people-index.md
-                - 檔案整理員 A: people/zhang-san.md
-            - 地點:
-                - places/index.md
-                - 地點索引: generated/places-index.md
-                - 星綢會館: places/county-seat.md
-            - 來源:
-                - sources/index.md
-                - 來源索引: generated/sources-index.md
-            - 寫作指南:
-                - guide/content-model.md
-                - guide/writing.md
-                - guide/deploy.md
+                - 編年總覽: chronicle/index.md
+                - 年份目錄: years/index.md
+            - 志目:
+                - 地點目錄: places/index.md
+                - 人物目錄: people/index.md
+                - 來源目錄: sources/index.md
         - locale: en
           name: English
           build: true
           link: /en/
           site_name: Kigurumi Chronicle
           site_description: A chronicle, gazetteer, and source archive for the kigurumi community.
+          copyright: Copyright &copy; 2026 Kigurumi Chronicle Archive. Content is provided for archival and educational reference; please preserve attribution and source context when citing.
           theme:
             language: en
             palette:
@@ -183,44 +177,40 @@ plugins:
                   name: Switch to light mode
           extra:
             social:
-              - icon: material/book-open-page-variant
+              - icon: material/home
+                link: /en/
+                name: Home
+              - icon: material/account-plus
+                link: /en/join/
+                name: Join
+              - icon: material/timeline-clock
                 link: /en/chronicle/
                 name: Chronicle
-              - icon: material/archive-search
-                link: /en/generated/events/
-                name: Event Index
+              - icon: material/map-marker-radius
+                link: /en/places/
+                name: Places
+              - icon: material/information
+                link: /en/about/
+                name: About
           nav:
             - Home: index.md
+            - About: about/index.md
+            - Join: join/index.md
+            - Contribute: support/index.md
             - Chronicle:
-                - chronicle/index.md
-                - Event Index: generated/events.md
-                - By Year: generated/events-by-year.md
+                - Overview: chronicle/index.md
+                - Years: years/index.md
             - Gazetteer:
-                - gazetteer/index.md
-                - Administration: gazetteer/administration.md
-                - Geography: gazetteer/geography.md
-                - Culture: gazetteer/culture.md
-            - People:
-                - people/index.md
-                - People Index: generated/people-index.md
-                - Archivist A: people/zhang-san.md
-            - Places:
-                - places/index.md
-                - Places Index: generated/places-index.md
-                - Xingchou Hall: places/county-seat.md
-            - Sources:
-                - sources/index.md
-                - Sources Index: generated/sources-index.md
-            - Writing Guide:
-                - guide/content-model.md
-                - guide/writing.md
-                - guide/deploy.md
+                - Places: places/index.md
+                - People: people/index.md
+                - Sources: sources/index.md
         - locale: ja
           name: 日本語
           build: true
           link: /ja/
           site_name: Kigurumi 編年誌
           site_description: kigurumi コミュニティのための編年史、地誌、資料アーカイブ。
+          copyright: Copyright &copy; 2026 Kigurumi 編年誌アーカイブ。本文は資料整理、研究、教育参照のために提供しています。引用時は署名、出典、文脈を保ってください。
           theme:
             language: ja
             palette:
@@ -240,44 +230,40 @@ plugins:
                   name: ライトモードに切り替え
           extra:
             social:
-              - icon: material/book-open-page-variant
+              - icon: material/home
+                link: /ja/
+                name: ホーム
+              - icon: material/account-plus
+                link: /ja/join/
+                name: 参加
+              - icon: material/timeline-clock
                 link: /ja/chronicle/
-                name: 編年
-              - icon: material/archive-search
-                link: /ja/generated/events/
-                name: 事件索引
+                name: 編年目録
+              - icon: material/map-marker-radius
+                link: /ja/places/
+                name: 場所目録
+              - icon: material/information
+                link: /ja/about/
+                name: 紹介
           nav:
             - ホーム: index.md
+            - 紹介: about/index.md
+            - 参加案内: join/index.md
+            - 貢献と支援: support/index.md
             - 編年:
-                - chronicle/index.md
-                - 事件索引: generated/events.md
-                - 年別: generated/events-by-year.md
-            - 地誌:
-                - gazetteer/index.md
-                - 沿革: gazetteer/administration.md
-                - 地理: gazetteer/geography.md
-                - 文化: gazetteer/culture.md
-            - 人物:
-                - people/index.md
-                - 人物索引: generated/people-index.md
-                - アーカイブ整理員 A: people/zhang-san.md
-            - 場所:
-                - places/index.md
-                - 場所索引: generated/places-index.md
-                - 星綢会館: places/county-seat.md
-            - 出典:
-                - sources/index.md
-                - 出典索引: generated/sources-index.md
-            - 執筆ガイド:
-                - guide/content-model.md
-                - guide/writing.md
-                - guide/deploy.md
+                - 編年総覧: chronicle/index.md
+                - 年別目録: years/index.md
+            - 志目:
+                - 場所目録: places/index.md
+                - 人物目録: people/index.md
+                - 出典目録: sources/index.md
         - locale: ru
           name: Русский
           build: true
           link: /ru/
           site_name: Хроника Kigurumi
           site_description: Хроника, справочник и архив источников сообщества kigurumi.
+          copyright: Copyright &copy; 2026 Архив Kigurumi Chronicle. Материалы предназначены для архивных, исследовательских и образовательных целей; при цитировании сохраняйте авторство, источник и контекст.
           theme:
             language: ru
             palette:
@@ -297,38 +283,33 @@ plugins:
                   name: Переключить на светлую тему
           extra:
             social:
-              - icon: material/book-open-page-variant
+              - icon: material/home
+                link: /ru/
+                name: Главная
+              - icon: material/account-plus
+                link: /ru/join/
+                name: Участие
+              - icon: material/timeline-clock
                 link: /ru/chronicle/
                 name: Хроника
-              - icon: material/archive-search
-                link: /ru/generated/events/
-                name: Индекс событий
+              - icon: material/map-marker-radius
+                link: /ru/places/
+                name: Места
+              - icon: material/information
+                link: /ru/about/
+                name: О проекте
           nav:
             - Главная: index.md
+            - О проекте: about/index.md
+            - Как участвовать: join/index.md
+            - Поддержать: support/index.md
             - Хроника:
-                - chronicle/index.md
-                - Индекс событий: generated/events.md
-                - По годам: generated/events-by-year.md
-            - Газеттир:
-                - gazetteer/index.md
-                - Администрация: gazetteer/administration.md
-                - География: gazetteer/geography.md
-                - Культура: gazetteer/culture.md
-            - Люди:
-                - people/index.md
-                - Индекс людей: generated/people-index.md
-                - Архивариус A: people/zhang-san.md
-            - Места:
-                - places/index.md
-                - Индекс мест: generated/places-index.md
-                - Зал Xingchou: places/county-seat.md
-            - Источники:
-                - sources/index.md
-                - Индекс источников: generated/sources-index.md
-            - Руководство:
-                - guide/content-model.md
-                - guide/writing.md
-                - guide/deploy.md
+                - Обзор: chronicle/index.md
+                - Годы: years/index.md
+            - Справочник:
+                - Места: places/index.md
+                - Люди: people/index.md
+                - Источники: sources/index.md
   - search:
       lang:
         - zh
@@ -337,23 +318,32 @@ plugins:
         - ru
 
 hooks:
-  - scripts/mkdocs_hooks.py
+  - scripts/site_hooks.py
 
 extra_css:
-  - assets/stylesheets/extra.css?v=20260613-leftnav-sticky
+  - assets/stylesheets/extra.css?v=20260613-join-qq-card
 
 extra_javascript:
-  - assets/javascripts/archive-ui.js?v=20260613-leftnav-sticky
+  - assets/javascripts/archive-ui.js?v=20260613-mobile-nav
 
 extra:
   generator: false
   social:
-    - icon: material/book-open-page-variant
+    - icon: material/home
+      link: /
+      name: 首页
+    - icon: material/account-plus
+      link: /join/
+      name: 参与加入
+    - icon: material/timeline-clock
       link: /chronicle/
-      name: 编年
-    - icon: material/archive-search
-      link: /generated/events/
-      name: 全量大事记
+      name: 编年目录
+    - icon: material/map-marker-radius
+      link: /places/
+      name: 地点目录
+    - icon: material/information
+      link: /about/
+      name: 关于介绍
 
 markdown_extensions:
   - admonition
@@ -384,27 +374,13 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
+  - 关于介绍: about/index.md
+  - 参与加入: join/index.md
+  - 贡献与支持: support/index.md
   - 编年:
-      - chronicle/index.md
-      - 全量大事记: generated/events.md
-      - 按年份: generated/events-by-year.md
-  - 志书:
-      - gazetteer/index.md
-      - 建置沿革: gazetteer/administration.md
-      - 自然地理: gazetteer/geography.md
-      - 风俗文化: gazetteer/culture.md
-  - 人物:
-      - people/index.md
-      - 人物索引: generated/people-index.md
-      - 档案整理员 A: people/zhang-san.md
-  - 地点:
-      - places/index.md
-      - 地点索引: generated/places-index.md
-      - 星绸会馆: places/county-seat.md
-  - 来源:
-      - sources/index.md
-      - 来源索引: generated/sources-index.md
-  - 写作指南:
-      - guide/content-model.md
-      - guide/writing.md
-      - guide/deploy.md
+      - 编年总览: chronicle/index.md
+      - 年份目录: years/index.md
+  - 志目:
+      - 地点目录: places/index.md
+      - 人物目录: people/index.md
+      - 来源目录: sources/index.md

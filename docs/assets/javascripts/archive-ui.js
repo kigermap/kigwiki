@@ -14,10 +14,10 @@
       showingAll: (total) => `显示全部 ${total} 条记录`,
       noResults: "没有找到符合条件的结果",
       noResultsTitle: "未找到匹配记录",
-      noResultsHint: "可以试试大事记、来源索引或地点索引。",
-      events: "大事记",
-      sources: "来源索引",
-      places: "地点索引",
+      noResultsHint: "可以试试首页、参与加入或编年总览。",
+      home: "首页",
+      join: "参与加入",
+      chronicle: "编年总览",
       resultsFound: (count) => `找到 ${count} 个符合条件的结果`,
       untitled: "未命名页面",
       typeToSearch: "键入以开始搜索",
@@ -28,10 +28,10 @@
       showingAll: (total) => `顯示全部 ${total} 筆記錄`,
       noResults: "沒有找到符合條件的結果",
       noResultsTitle: "未找到符合記錄",
-      noResultsHint: "可以試試全量大事記、來源索引或地點索引。",
-      events: "全量大事記",
-      sources: "來源索引",
-      places: "地點索引",
+      noResultsHint: "可以試試首頁、參與加入或編年總覽。",
+      home: "首頁",
+      join: "參與加入",
+      chronicle: "編年總覽",
       resultsFound: (count) => `找到 ${count} 個符合條件的結果`,
       untitled: "未命名頁面",
       typeToSearch: "輸入以開始搜尋",
@@ -42,10 +42,10 @@
       showingAll: (total) => `Showing all ${total} records`,
       noResults: "No matching results found",
       noResultsTitle: "No matching records",
-      noResultsHint: "Try the event index, sources index, or places index.",
-      events: "Event Index",
-      sources: "Sources Index",
-      places: "Places Index",
+      noResultsHint: "Try Home, Join, or Chronicle.",
+      home: "Home",
+      join: "Join",
+      chronicle: "Chronicle",
       resultsFound: (count) => `Found ${count} matching results`,
       untitled: "Untitled page",
       typeToSearch: "Type to start searching",
@@ -56,10 +56,10 @@
       showingAll: (total) => `全 ${total} 件の記録を表示`,
       noResults: "一致する結果が見つかりません",
       noResultsTitle: "一致する記録はありません",
-      noResultsHint: "事件索引、出典索引、場所索引も試してください。",
-      events: "事件索引",
-      sources: "出典索引",
-      places: "場所索引",
+      noResultsHint: "ホーム、参加案内、編年総覧も試してください。",
+      home: "ホーム",
+      join: "参加案内",
+      chronicle: "編年総覧",
       resultsFound: (count) => `${count} 件の一致する結果が見つかりました`,
       untitled: "無題のページ",
       typeToSearch: "入力して検索を開始",
@@ -70,10 +70,10 @@
       showingAll: (total) => `Показаны все записи: ${total}`,
       noResults: "Подходящие результаты не найдены",
       noResultsTitle: "Совпадений нет",
-      noResultsHint: "Попробуйте индекс событий, источников или мест.",
-      events: "Индекс событий",
-      sources: "Индекс источников",
-      places: "Индекс мест",
+      noResultsHint: "Попробуйте главную страницу, участие или хронику.",
+      home: "Главная",
+      join: "Участие",
+      chronicle: "Хроника",
       resultsFound: (count) => `Найдено результатов: ${count}`,
       untitled: "Страница без названия",
       typeToSearch: "Начните вводить запрос",
@@ -84,6 +84,180 @@
   const getMessages = () => {
     const lang = document.documentElement.lang || "zh-Hans";
     return MESSAGES[lang] || MESSAGES[lang.split("-")[0]] || MESSAGES["zh-Hans"];
+  };
+
+  const LOCALES = {
+    "/zh-Hant/": {
+      lang: "zh-Hant",
+      siteName: "Kigurumi 編年志",
+      navLabel: "導航",
+      links: [
+        ["首頁", "/zh-Hant/"],
+        ["關於介紹", "/zh-Hant/about/"],
+        ["參與加入", "/zh-Hant/join/"],
+        ["貢獻與支持", "/zh-Hant/support/"],
+        ["編年總覽", "/zh-Hant/chronicle/"],
+        ["年份目錄", "/zh-Hant/years/"],
+        ["地點目錄", "/zh-Hant/places/"],
+        ["人物目錄", "/zh-Hant/people/"],
+        ["來源目錄", "/zh-Hant/sources/"],
+      ],
+    },
+    "/en/": {
+      lang: "en",
+      siteName: "Kigurumi Chronicle",
+      navLabel: "Navigation",
+      links: [
+        ["Home", "/en/"],
+        ["About", "/en/about/"],
+        ["Join", "/en/join/"],
+        ["Contribute", "/en/support/"],
+        ["Chronicle", "/en/chronicle/"],
+        ["Years", "/en/years/"],
+        ["Places", "/en/places/"],
+        ["People", "/en/people/"],
+        ["Sources", "/en/sources/"],
+      ],
+    },
+    "/ja/": {
+      lang: "ja",
+      siteName: "Kigurumi 編年誌",
+      navLabel: "ナビゲーション",
+      links: [
+        ["ホーム", "/ja/"],
+        ["紹介", "/ja/about/"],
+        ["参加案内", "/ja/join/"],
+        ["貢献と支援", "/ja/support/"],
+        ["編年総覧", "/ja/chronicle/"],
+        ["年別目録", "/ja/years/"],
+        ["場所目録", "/ja/places/"],
+        ["人物目録", "/ja/people/"],
+        ["出典目録", "/ja/sources/"],
+      ],
+    },
+    "/ru/": {
+      lang: "ru",
+      siteName: "Хроника Kigurumi",
+      navLabel: "Навигация",
+      links: [
+        ["Главная", "/ru/"],
+        ["О проекте", "/ru/about/"],
+        ["Участие", "/ru/join/"],
+        ["Поддержать", "/ru/support/"],
+        ["Хроника", "/ru/chronicle/"],
+        ["Годы", "/ru/years/"],
+        ["Места", "/ru/places/"],
+        ["Люди", "/ru/people/"],
+        ["Источники", "/ru/sources/"],
+      ],
+    },
+    "/": {
+      lang: "zh-Hans",
+      siteName: "Kigurumi 编年志",
+      navLabel: "导航栏",
+      links: [
+        ["首页", "/"],
+        ["关于介绍", "/about/"],
+        ["参与加入", "/join/"],
+        ["贡献与支持", "/support/"],
+        ["编年总览", "/chronicle/"],
+        ["年份目录", "/years/"],
+        ["地点目录", "/places/"],
+        ["人物目录", "/people/"],
+        ["来源目录", "/sources/"],
+      ],
+    },
+  };
+
+  const getLocaleForPath = () => {
+    const path = location.pathname;
+    return (
+      ["/zh-Hant/", "/en/", "/ja/", "/ru/"].find((prefix) => path.startsWith(prefix)) || "/"
+    );
+  };
+
+  const stripPermalink = (value) => value.replace(/\s*¶\s*$/, "").replace(/\s+/g, " ").trim();
+
+  const getMobilePageTitle = () => {
+    const locale = LOCALES[getLocaleForPath()] || LOCALES["/"];
+    const headingTitle = stripPermalink(document.querySelector(".md-content h1")?.textContent || "");
+    if (headingTitle && headingTitle !== locale.siteName) return headingTitle;
+
+    const documentTitle = stripPermalink(document.title.split(" - ")[0] || "");
+    if (documentTitle && documentTitle !== locale.siteName) return documentTitle;
+
+    const currentPath = location.pathname.replace(/\/?$/, "/");
+    const matchingNavLink = Array.from(document.querySelectorAll(".md-nav--primary .md-nav__link"))
+      .find((link) => {
+        try {
+          return new URL(link.href, location.href).pathname.replace(/\/?$/, "/") === currentPath;
+        } catch {
+          return false;
+        }
+      });
+    const navTitle = stripPermalink(matchingNavLink?.textContent || "");
+    if (navTitle && navTitle !== locale.siteName) return navTitle;
+
+    return locale.links[0][0];
+  };
+
+  const setupMobilePageTitle = () => {
+    const headerTitle = document.querySelector(".md-header__title");
+    const current = headerTitle?.querySelector(
+      '.md-header__topic[data-md-component="header-topic"] .md-ellipsis'
+    );
+    if (!headerTitle || !current) return;
+
+    current.textContent = getMobilePageTitle();
+    headerTitle.classList.add("archive-mobile-page-title-ready");
+  };
+
+  const setupNotFoundLocale = () => {
+    const isNotFound =
+      document.body?.classList.contains("error") ||
+      document.body?.classList.contains("archive-error-page") ||
+      document.title.startsWith("404") ||
+      document.querySelector(".md-content h1")?.textContent.trim().startsWith("404");
+    if (!isNotFound) return;
+
+    const localePath = getLocaleForPath();
+    const locale = LOCALES[localePath] || LOCALES["/"];
+    document.documentElement.lang = locale.lang;
+
+    document.querySelectorAll('.md-header__topic:not([data-md-component="header-topic"]) .md-ellipsis').forEach((label) => {
+      if (label.textContent.trim()) label.textContent = locale.siteName;
+    });
+
+    document.querySelectorAll("[data-md-component='logo']").forEach((logo) => {
+      logo.setAttribute("href", locale.links[0][1]);
+      logo.setAttribute("title", locale.siteName);
+      logo.setAttribute("aria-label", locale.siteName);
+    });
+
+    document.querySelectorAll(".md-nav--primary").forEach((nav) => {
+      nav.setAttribute("aria-label", locale.navLabel);
+      const title = nav.querySelector(".md-nav__title");
+      if (title) {
+        Array.from(title.childNodes)
+          .filter((node) => node.nodeType === Node.TEXT_NODE)
+          .forEach((node) => {
+            node.textContent = ` ${locale.siteName}`;
+          });
+      }
+
+      const list = nav.querySelector(":scope > .md-nav__list");
+      if (!list) return;
+      list.innerHTML = locale.links
+        .map(
+          ([label, href]) => `
+            <li class="md-nav__item">
+              <a href="${href}" class="md-nav__link">
+                <span class="md-ellipsis">${label}</span>
+              </a>
+            </li>`
+        )
+        .join("");
+    });
   };
 
   let searchIndexPromise;
@@ -256,9 +430,9 @@
               <h1 class="md-search-result__title">${escapeHtml(messages.noResultsTitle)}</h1>
               <p class="md-search-result__teaser">${escapeHtml(messages.noResultsHint)}</p>
               <p class="archive-search-fallback-links">
-                <a href="${new URL("generated/events/", location.href).href}">${escapeHtml(messages.events)}</a>
-                <a href="${new URL("generated/sources-index/", location.href).href}">${escapeHtml(messages.sources)}</a>
-                <a href="${new URL("generated/places-index/", location.href).href}">${escapeHtml(messages.places)}</a>
+                <a href="${new URL(".", getSiteBase()).href}">${escapeHtml(messages.home)}</a>
+                <a href="${new URL("join/", getSiteBase()).href}">${escapeHtml(messages.join)}</a>
+                <a href="${new URL("chronicle/", getSiteBase()).href}">${escapeHtml(messages.chronicle)}</a>
               </p>
             </article>
           </div>
@@ -388,6 +562,8 @@
   };
 
   ready(() => {
+    setupMobilePageTitle();
+    setupNotFoundLocale();
     enhanceTables();
     setupIndexFilters();
     setupSearchFallback();
@@ -396,6 +572,8 @@
 
   if (window.document$?.subscribe) {
     window.document$.subscribe(() => {
+      setupMobilePageTitle();
+      setupNotFoundLocale();
       enhanceTables();
       setupIndexFilters();
       setupSearchFallback();

@@ -1,28 +1,47 @@
 <section class="archive-page-intro" markdown>
   <p class="archive-kicker">Chronicle</p>
-  <h1>编年</h1>
-  <p>编年部分记录 kigurumi 社群在活动、制作、展陈、访谈和数字化整理上的关键节点。事实先进入结构化事件表，再由志书章节扩写背景、影响和材料来源。</p>
+  <h1>编年总览</h1>
+  <p>编年目录按时间顺序收束社群事件，是全站资料的主轴。活动、展陈、制作规范、访谈、线上资料馆更新和重要协作，都应先在这里确定年份与位置。</p>
 </section>
 
-<div class="archive-feature-grid archive-feature-grid--compact">
-  <article class="archive-feature">
-    <span class="archive-feature__icon">全</span>
-    <h3>全量大事记</h3>
-    <p>按时间列出所有已编目事件，适合快速校对年份、地点和来源。</p>
-    <a href="../generated/events/">查看</a>
-  </article>
-  <article class="archive-feature">
-    <span class="archive-feature__icon">年</span>
-    <h3>按年份</h3>
-    <p>把事件按年份分段，适合写年鉴、活动回顾和阶段总结。</p>
-    <a href="../generated/events-by-year/">查看</a>
-  </article>
-</div>
+<section class="archive-section" markdown>
+  <p class="archive-kicker">Chronicle Design</p>
+  <h2>编年体例</h2>
+  <p>每条纪事建议包含：年份、月份或日期、事件名称、地点、相关人物、来源、公开范围、可信度和待考事项。若资料尚不完整，也可以先建立条目，标记为“待补来源”或“待核日期”。</p>
 
-## 记录原则
+  <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature">
+      <span class="archive-feature__icon">纪</span>
+      <h3>大事纪</h3>
+      <p>记录对社群发展、活动组织、公开展示和资料整理有影响的节点。</p>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">本</span>
+      <h3>纪事本末</h3>
+      <p>对跨年度事件建立专题线索，说明起因、经过、影响和资料来源。</p>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">表</span>
+      <h3>年表索引</h3>
+      <p>把年份、地点、人物和来源串联起来，为后续检索与引用提供入口。</p>
+    </article>
+  </div>
+</section>
 
-- 一条事件只记录一件相对明确的事。
-- 日期不确定时，`date` 写原始表述，`sort_date` 写可排序的估计日期。
-- 公开页面不放详细地址、未授权照片、私人联系方式和敏感身份信息。
-- 每条事件尽量绑定来源，来源可以是活动手册、照片批次、访谈稿、维护规范或发布记录。
-- 对存疑材料使用 `confidence: 中` 或 `confidence: 低`。
+<section class="archive-section" markdown>
+  <p class="archive-kicker">Draft Timeline</p>
+  <h2>预制时间线</h2>
+  <div class="archive-timeline">
+    <div><time>2010s</time><strong>资料萌芽期</strong><span>早期活动、照片批次、制作经验和线下聚会开始形成可整理线索。</span></div>
+    <div><time>2014-2018</time><strong>活动与空间积累</strong><span>社群活动、会馆、工坊、摄影协作和展陈实践逐渐留下稳定资料。</span></div>
+    <div><time>2019-2023</time><strong>线上整理期</strong><span>访谈转写、资料表、公开页面和多语言入口成为长期维护需求。</span></div>
+    <div><time>2024-至今</time><strong>编年志建设期</strong><span>以静态站方式建立目录、体例、参与流程和公开边界。</span></div>
+  </div>
+</section>
+
+<section class="archive-section" markdown>
+  <div class="archive-note">
+    <strong>下一步</strong>
+    <p>真实事件录入后，编年总览应继续拆分为年度页面、专题页面和来源索引。每条纪事都应能回到至少一个来源条目。</p>
+  </div>
+</section>
