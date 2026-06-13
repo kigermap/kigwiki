@@ -15,6 +15,19 @@
   </div>
 </section>
 
+<section class="archive-section" markdown>
+  <p class="archive-kicker">Translated Source</p>
+  <h2>已整理资料</h2>
+  <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature">
+      <span class="archive-feature__icon">调</span>
+      <h3>2017 着ぐるみ国势调查结果报告书</h3>
+      <p>收录 2017 年日文问卷报告的完整整理内容，并嵌入原报告图表，涵盖样本结构、活动形态、装备拥有、社群认知、性别越境与成人向主题等统计内容。</p>
+      <a href="survey-reports/kigurumi-census-2017/">阅读资料</a>
+    </article>
+  </div>
+</section>
+
 <section class="archive-section archive-section--split">
   <div markdown>
     <p class="archive-kicker">Citation Discipline</p>

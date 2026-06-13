@@ -89,6 +89,18 @@ mkdocs build --strict --clean
 mkdocs build --clean
 ```
 
+如果新增或替换调查报告图表资源，可以先运行资料索引校验：
+
+```bash
+python scripts/build_indexes.py
+```
+
+需要输出辅助 JSON 索引时使用：
+
+```bash
+python scripts/build_indexes.py --write
+```
+
 ## 页面开发约定
 
 每个页面优先在 `docs/zh-Hans/` 下维护，再根据需要补齐其他语言。同一路径页面会对应不同语言版本，例如：
