@@ -1,36 +1,37 @@
 <section class="archive-page-intro" markdown>
   <p class="archive-kicker">Sources</p>
-  <h1>来源</h1>
-  <p>来源是社群修志的根。活动照片、访谈转写、活动手册、维护规范、发布记录都可以成为来源，但每一种来源都需要标注公开范围和引用方式。</p>
+  <h1>来源目录</h1>
+  <p>来源目录是编年志可信度的根基。没有来源，纪事只能算线索；有了来源、授权和版本说明，资料才可以被公开引用、复核和继续修订。</p>
 </section>
 
-<div class="archive-feature-grid archive-feature-grid--compact">
-  <article class="archive-feature">
-    <span class="archive-feature__icon">索</span>
-    <h3>来源索引</h3>
-    <p>自动汇总来源类型、年份、馆藏出处和关联事件数。</p>
-    <a href="../generated/sources-index/">打开索引</a>
-  </article>
-  <article class="archive-feature">
-    <span class="archive-feature__icon">引</span>
-    <h3>引用格式</h3>
-    <p>为照片、访谈、手册和维护规范保留可追溯的引用方式。</p>
-  </article>
-  <article class="archive-feature">
-    <span class="archive-feature__icon">界</span>
-    <h3>公开范围</h3>
-    <p>来源可公开展示摘要，也可以把原件、录音或高清照片保留在内部。</p>
-  </article>
-</div>
+<section class="archive-section" markdown>
+  <p class="archive-kicker">Source Types</p>
+  <h2>来源类型</h2>
+  <div class="archive-feature-grid">
+    <article class="archive-feature"><span class="archive-feature__icon">照</span><h3>照片与相册</h3><p>活动照片、展陈图、维护照片、批次编号、摄影者署名和授权状态。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">册</span><h3>手册与海报</h3><p>活动手册、公开海报、流程说明、报名页和公告截图。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">访</span><h3>访谈与口述</h3><p>录音、转写稿、公开摘要、当事人确认和匿名要求。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">网</span><h3>网页与存档</h3><p>公开网页、社交平台帖子、发布记录、网页快照和版本差异。</p></article>
+  </div>
+</section>
 
-来源数据写在 `data/sources.yml`。
+<section class="archive-section archive-section--split">
+  <div markdown>
+    <p class="archive-kicker">Citation Discipline</p>
+    <h2>引用规范</h2>
+    <p>每条来源建议记录标题、作者或提供者、日期、原始位置、可访问状态、授权说明、引用格式和备注。若来源来自私人整理，应先确认是否可以公开署名或只可内部保存。</p>
+  </div>
+  <ol class="archive-steps">
+    <li><strong>确认来源</strong><span>知道资料来自哪里，谁可以解释它</span></li>
+    <li><strong>确认授权</strong><span>知道是否能公开、是否需署名、是否需打码</span></li>
+    <li><strong>确认版本</strong><span>记录发布日期、修订时间和可能的版本差异</span></li>
+    <li><strong>绑定条目</strong><span>把来源连接到对应的年份、地点、人物和事件</span></li>
+  </ol>
+</section>
 
-## 来源类型
-
-| 类型 | 示例 |
-| --- | --- |
-| 活动资料 | 活动手册、流程表、签到记录 |
-| 影像资料 | 照片批次、授权截图、精选图册 |
-| 口述资料 | 访谈录音、转写稿、校对稿 |
-| 工艺文档 | 面具维护、服装收纳、运输规范 |
-| 数字记录 | 资料馆发布记录、索引变更、版本记录 |
+<section class="archive-section" markdown>
+  <div class="archive-note">
+    <strong>底线</strong>
+    <p>宁可暂缓发布，也不要把来源不明、授权不明或会伤害当事人的资料写成公开事实。可信的编年志，首先要经得起来源追问。</p>
+  </div>
+</section>
