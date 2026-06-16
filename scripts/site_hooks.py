@@ -130,6 +130,10 @@ PAGE_DESCRIPTIONS = {
     "/support/": "了解如何为 Kigurumi 编年志贡献资料、参与校对、支持维护和协助长期整理。",
     "/chronicle/": "Kigurumi 编年志编年总览，说明社群事件记录体例、预制时间线和年度资料整理方向。",
     "/years/": "Kigurumi 编年志年份目录，按年度浏览和补录事件、地点、人物、来源与待考事项。",
+    "/years/2025/": "2025 年 Kigurumi 编年史，整理公开活动、跨境合作、官方 IP greeting、规则治理、产业链变化和年度图表。",
+    "/zh-Hant/years/2025/": "2025 年 Kigurumi 編年史繁體中文整理版，收錄公開活動、跨境合作、官方 IP greeting、規則治理、產業鏈變化和年度圖表。",
+    "/ja/years/2025/": "2025年 Kigurumi 編年史の日本語整理版。公開イベント、越境協力、公式 IP greeting、規則治理、産業変化を扱います。",
+    "/ru/years/2025/": "Русская версия хроники Kigurumi 2025 года: публичные события, трансграничные связи, official IP greeting, правила и индустрия.",
     "/places/": "Kigurumi 编年志地点目录，记录会馆、工坊、展场、聚会空间、线上据点等公开可写的社群空间。",
     "/people/": "Kigurumi 编年志人物目录，记录公开可写的社群角色、贡献、参与阶段和来源依据。",
     "/sources/": "Kigurumi 编年志来源目录，维护照片、手册、访谈、网页存档和公开说明等证据链。",
@@ -192,6 +196,8 @@ def _content_path(pathname: str) -> str:
 
 
 def _page_description(pathname: str) -> str:
+    if pathname in PAGE_DESCRIPTIONS:
+        return PAGE_DESCRIPTIONS[pathname]
     return PAGE_DESCRIPTIONS.get(_content_path(pathname), DEFAULT_DESCRIPTION)
 
 

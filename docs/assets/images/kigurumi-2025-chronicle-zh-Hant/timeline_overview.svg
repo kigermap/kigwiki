@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1020" viewBox="0 0 1800 1020">
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans CJK SC', 'Microsoft YaHei', 'PingFang SC', sans-serif;} .small{font-size:18px;}</style>
+<rect width="100%" height="100%" fill="#fafafa"/>
+<rect x="44" y="42" width="1712" height="936" rx="32" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="90" y="105" font-size="42" font-weight="800" fill="#111827" text-anchor="start" opacity="1">2025 年 Kigurumi 公開節點時間軸</text>
+<text x="90" y="146" font-size="24" font-weight="400" fill="#6b7280" text-anchor="start" opacity="1">社群活動、官方 IP、規則治理、產業鏈与傳聞场域并行推进</text>
+<line x1="120" y1="520" x2="1680" y2="520" stroke="#d1d5db" stroke-width="6" stroke-linecap="round"/>
+<circle cx="120.0" cy="520" r="18" fill="#64748b" stroke="#ffffff" stroke-width="6"/>
+<line x1="120.0" y1="520" x2="120.0" y2="420" stroke="#64748b" stroke-width="2.5" opacity="0.55"/>
+<rect x="30.0" y="230" width="180" height="190" rx="20" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+<rect x="30.0" y="230" width="180" height="42" rx="20" fill="#64748b" opacity="0.12"/>
+<text x="120.0" y="259" font-size="20" font-weight="800" fill="#64748b" text-anchor="middle" opacity="1">1月</text>
+<text x="120.0" y="306" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">术语与身份</text>
+<text x="120.0" y="334" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">口径重置</text>
+<rect x="72.0" y="380" width="96" height="28" rx="14" fill="#64748b" opacity="0.13"/>
+<text x="120.0" y="400" font-size="16" font-weight="700" fill="#64748b" text-anchor="middle" opacity="1">考究</text>
+<circle cx="250.0" cy="520" r="18" fill="#7c3aed" stroke="#ffffff" stroke-width="6"/>
+<line x1="250.0" y1="520" x2="250.0" y2="610" stroke="#7c3aed" stroke-width="2.5" opacity="0.55"/>
+<rect x="160.0" y="610" width="180" height="190" rx="20" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+<rect x="160.0" y="610" width="180" height="42" rx="20" fill="#7c3aed" opacity="0.12"/>
+<text x="250.0" y="639" font-size="20" font-weight="800" fill="#7c3aed" text-anchor="middle" opacity="1">2/24</text>
+<text x="250.0" y="686" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">東京</text>
+<text x="250.0" y="714" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">きぐるみパーティ!3</text>
+<rect x="202.0" y="760" width="96" height="28" rx="14" fill="#7c3aed" opacity="0.13"/>
+<text x="250.0" y="780" font-size="16" font-weight="700" fill="#7c3aed" text-anchor="middle" opacity="1">社群</text>
+<circle cx="380.0" cy="520" r="18" fill="#0ea5e9" stroke="#ffffff" stroke-width="6"/>
+<line x1="380.0" y1="520" x2="380.0" y2="420" stroke="#0ea5e9" stroke-width="2.5" opacity="0.55"/>
+<rect x="290.0" y="230" width="180" height="190" rx="20" fill="#ffffff" stroke="#0ea5e9" stroke-width="2"/>
+<rect x="290.0" y="230" width="180" height="42" rx="20" fill="#0ea5e9" opacity="0.12"/>
+<text x="380.0" y="259" font-size="20" font-weight="800" fill="#0ea5e9" text-anchor="middle" opacity="1">3月</text>
+<text x="380.0" y="306" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">hololive</text>
+<text x="380.0" y="334" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">官方Greeting</text>
+<rect x="332.0" y="380" width="96" height="28" rx="14" fill="#0ea5e9" opacity="0.13"/>
+<text x="380.0" y="400" font-size="16" font-weight="700" fill="#0ea5e9" text-anchor="middle" opacity="1">官方</text>
+<circle cx="510.0" cy="520" r="18" fill="#0ea5e9" stroke="#ffffff" stroke-width="6"/>
+<line x1="510.0" y1="520" x2="510.0" y2="610" stroke="#0ea5e9" stroke-width="2.5" opacity="0.55"/>
+<rect x="420.0" y="610" width="180" height="190" rx="20" fill="#ffffff" stroke="#0ea5e9" stroke-width="2"/>
+<rect x="420.0" y="610" width="180" height="42" rx="20" fill="#0ea5e9" opacity="0.12"/>
+<text x="510.0" y="639" font-size="20" font-weight="800" fill="#0ea5e9" text-anchor="middle" opacity="1">3/22-23</text>
+<text x="510.0" y="686" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">AnimeJapan</text>
+<text x="510.0" y="714" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">FGO greeting</text>
+<rect x="462.0" y="760" width="96" height="28" rx="14" fill="#0ea5e9" opacity="0.13"/>
+<text x="510.0" y="780" font-size="16" font-weight="700" fill="#0ea5e9" text-anchor="middle" opacity="1">官方</text>
+<circle cx="640.0" cy="520" r="18" fill="#059669" stroke="#ffffff" stroke-width="6"/>
+<line x1="640.0" y1="520" x2="640.0" y2="420" stroke="#059669" stroke-width="2.5" opacity="0.55"/>
+<rect x="550.0" y="230" width="180" height="190" rx="20" fill="#ffffff" stroke="#059669" stroke-width="2"/>
+<rect x="550.0" y="230" width="180" height="42" rx="20" fill="#059669" opacity="0.12"/>
+<text x="640.0" y="259" font-size="20" font-weight="800" fill="#059669" text-anchor="middle" opacity="1">5/23</text>
+<text x="640.0" y="306" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">Anime North</text>
+<text x="640.0" y="334" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">制面工作坊</text>
+<rect x="592.0" y="380" width="96" height="28" rx="14" fill="#059669" opacity="0.13"/>
+<text x="640.0" y="400" font-size="16" font-weight="700" fill="#059669" text-anchor="middle" opacity="1">技術</text>
+<circle cx="770.0" cy="520" r="18" fill="#f97316" stroke="#ffffff" stroke-width="6"/>
+<line x1="770.0" y1="520" x2="770.0" y2="610" stroke="#f97316" stroke-width="2.5" opacity="0.55"/>
+<rect x="680.0" y="610" width="180" height="190" rx="20" fill="#ffffff" stroke="#f97316" stroke-width="2"/>
+<rect x="680.0" y="610" width="180" height="42" rx="20" fill="#f97316" opacity="0.12"/>
+<text x="770.0" y="639" font-size="20" font-weight="800" fill="#f97316" text-anchor="middle" opacity="1">5月</text>
+<text x="770.0" y="686" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">Doll Weekend</text>
+<text x="770.0" y="714" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">× First Klass 日本</text>
+<rect x="722.0" y="760" width="96" height="28" rx="14" fill="#f97316" opacity="0.13"/>
+<text x="770.0" y="780" font-size="16" font-weight="700" fill="#f97316" text-anchor="middle" opacity="1">跨境</text>
+<circle cx="900.0" cy="520" r="18" fill="#7c3aed" stroke="#ffffff" stroke-width="6"/>
+<line x1="900.0" y1="520" x2="900.0" y2="420" stroke="#7c3aed" stroke-width="2.5" opacity="0.55"/>
+<rect x="810.0" y="230" width="180" height="190" rx="20" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+<rect x="810.0" y="230" width="180" height="42" rx="20" fill="#7c3aed" opacity="0.12"/>
+<text x="900.0" y="259" font-size="20" font-weight="800" fill="#7c3aed" text-anchor="middle" opacity="1">6/1</text>
+<text x="900.0" y="306" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">北九州</text>
+<text x="900.0" y="334" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">着ぐるみ大行進!3</text>
+<rect x="852.0" y="380" width="96" height="28" rx="14" fill="#7c3aed" opacity="0.13"/>
+<text x="900.0" y="400" font-size="16" font-weight="700" fill="#7c3aed" text-anchor="middle" opacity="1">社群</text>
+<circle cx="1030.0" cy="520" r="18" fill="#ca8a04" stroke="#ffffff" stroke-width="6"/>
+<line x1="1030.0" y1="520" x2="1030.0" y2="610" stroke="#ca8a04" stroke-width="2.5" opacity="0.55"/>
+<rect x="940.0" y="610" width="180" height="190" rx="20" fill="#ffffff" stroke="#ca8a04" stroke-width="2"/>
+<rect x="940.0" y="610" width="180" height="42" rx="20" fill="#ca8a04" opacity="0.12"/>
+<text x="1030.0" y="639" font-size="20" font-weight="800" fill="#ca8a04" text-anchor="middle" opacity="1">6/17</text>
+<text x="1030.0" y="686" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">關稅/轉運倉</text>
+<text x="1030.0" y="714" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">供應鏈壓力</text>
+<rect x="982.0" y="760" width="96" height="28" rx="14" fill="#ca8a04" opacity="0.13"/>
+<text x="1030.0" y="780" font-size="16" font-weight="700" fill="#ca8a04" text-anchor="middle" opacity="1">产业</text>
+<circle cx="1160.0" cy="520" r="18" fill="#0ea5e9" stroke="#ffffff" stroke-width="6"/>
+<line x1="1160.0" y1="520" x2="1160.0" y2="420" stroke="#0ea5e9" stroke-width="2.5" opacity="0.55"/>
+<rect x="1070.0" y="230" width="180" height="190" rx="20" fill="#ffffff" stroke="#0ea5e9" stroke-width="2"/>
+<rect x="1070.0" y="230" width="180" height="42" rx="20" fill="#0ea5e9" opacity="0.12"/>
+<text x="1160.0" y="259" font-size="20" font-weight="800" fill="#0ea5e9" text-anchor="middle" opacity="1">7月</text>
+<text x="1160.0" y="306" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">Anime Expo</text>
+<text x="1160.0" y="334" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">Aniplex kigurumi</text>
+<rect x="1112.0" y="380" width="96" height="28" rx="14" fill="#0ea5e9" opacity="0.13"/>
+<text x="1160.0" y="400" font-size="16" font-weight="700" fill="#0ea5e9" text-anchor="middle" opacity="1">官方</text>
+<circle cx="1290.0" cy="520" r="18" fill="#dc2626" stroke="#ffffff" stroke-width="6"/>
+<line x1="1290.0" y1="520" x2="1290.0" y2="610" stroke="#dc2626" stroke-width="2.5" opacity="0.55"/>
+<rect x="1200.0" y="610" width="180" height="190" rx="20" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<rect x="1200.0" y="610" width="180" height="42" rx="20" fill="#dc2626" opacity="0.12"/>
+<text x="1290.0" y="639" font-size="20" font-weight="800" fill="#dc2626" text-anchor="middle" opacity="1">8/1-3</text>
+<text x="1290.0" y="686" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">WCS 2025</text>
+<text x="1290.0" y="714" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">遮面規則承認</text>
+<rect x="1242.0" y="760" width="96" height="28" rx="14" fill="#dc2626" opacity="0.13"/>
+<text x="1290.0" y="780" font-size="16" font-weight="700" fill="#dc2626" text-anchor="middle" opacity="1">規則</text>
+<circle cx="1420.0" cy="520" r="18" fill="#db2777" stroke="#ffffff" stroke-width="6"/>
+<line x1="1420.0" y1="520" x2="1420.0" y2="420" stroke="#db2777" stroke-width="2.5" opacity="0.55"/>
+<rect x="1330.0" y="230" width="180" height="190" rx="20" fill="#ffffff" stroke="#db2777" stroke-width="2"/>
+<rect x="1330.0" y="230" width="180" height="42" rx="20" fill="#db2777" opacity="0.12"/>
+<text x="1420.0" y="259" font-size="20" font-weight="800" fill="#db2777" text-anchor="middle" opacity="1">8/16-17</text>
+<text x="1420.0" y="306" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">DW12 河源</text>
+<text x="1420.0" y="334" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">千人級大型化</text>
+<rect x="1372.0" y="380" width="96" height="28" rx="14" fill="#db2777" opacity="0.13"/>
+<text x="1420.0" y="400" font-size="16" font-weight="700" fill="#db2777" text-anchor="middle" opacity="1">規模</text>
+<circle cx="1550.0" cy="520" r="18" fill="#7c3aed" stroke="#ffffff" stroke-width="6"/>
+<line x1="1550.0" y1="520" x2="1550.0" y2="610" stroke="#7c3aed" stroke-width="2.5" opacity="0.55"/>
+<rect x="1460.0" y="610" width="180" height="190" rx="20" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+<rect x="1460.0" y="610" width="180" height="42" rx="20" fill="#7c3aed" opacity="0.12"/>
+<text x="1550.0" y="639" font-size="20" font-weight="800" fill="#7c3aed" text-anchor="middle" opacity="1">11/3</text>
+<text x="1550.0" y="686" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">北九州</text>
+<text x="1550.0" y="714" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">着ぐるみ大行進!4</text>
+<rect x="1502.0" y="760" width="96" height="28" rx="14" fill="#7c3aed" opacity="0.13"/>
+<text x="1550.0" y="780" font-size="16" font-weight="700" fill="#7c3aed" text-anchor="middle" opacity="1">延續</text>
+<circle cx="1680.0" cy="520" r="18" fill="#6b7280" stroke="#ffffff" stroke-width="6"/>
+<line x1="1680.0" y1="520" x2="1680.0" y2="420" stroke="#6b7280" stroke-width="2.5" opacity="0.55"/>
+<rect x="1590.0" y="230" width="180" height="190" rx="20" fill="#ffffff" stroke="#6b7280" stroke-width="2"/>
+<rect x="1590.0" y="230" width="180" height="42" rx="20" fill="#6b7280" opacity="0.12"/>
+<text x="1680.0" y="259" font-size="20" font-weight="800" fill="#6b7280" text-anchor="middle" opacity="1">11/27</text>
+<text x="1680.0" y="306" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">匿名論壇</text>
+<text x="1680.0" y="334" font-size="18" font-weight="650" fill="#111827" text-anchor="middle" opacity="1">傳聞场域活跃</text>
+<rect x="1632.0" y="380" width="96" height="28" rx="14" fill="#6b7280" opacity="0.13"/>
+<text x="1680.0" y="400" font-size="16" font-weight="700" fill="#6b7280" text-anchor="middle" opacity="1">傳聞</text>
+<circle cx="90" cy="930" r="9" fill="#7c3aed"/>
+<text x="108" y="937" font-size="18" font-weight="600" fill="#374151" text-anchor="start" opacity="1">社群/延續</text>
+<circle cx="335" cy="930" r="9" fill="#0ea5e9"/>
+<text x="353" y="937" font-size="18" font-weight="600" fill="#374151" text-anchor="start" opacity="1">官方IP</text>
+<circle cx="580" cy="930" r="9" fill="#059669"/>
+<text x="598" y="937" font-size="18" font-weight="600" fill="#374151" text-anchor="start" opacity="1">技術/产业</text>
+<circle cx="825" cy="930" r="9" fill="#f97316"/>
+<text x="843" y="937" font-size="18" font-weight="600" fill="#374151" text-anchor="start" opacity="1">跨境/規模</text>
+<circle cx="1070" cy="930" r="9" fill="#dc2626"/>
+<text x="1088" y="937" font-size="18" font-weight="600" fill="#374151" text-anchor="start" opacity="1">規則/風險</text>
+<circle cx="1315" cy="930" r="9" fill="#64748b"/>
+<text x="1333" y="937" font-size="18" font-weight="600" fill="#374151" text-anchor="start" opacity="1">傳聞/考究</text>
+<text x="1605" y="930" font-size="18" font-weight="400" fill="#9ca3af" text-anchor="end" opacity="1">原創資訊圖 · 非完整事件地圖</text>
+</svg>
