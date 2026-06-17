@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="100%" height="100%" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1200" height="16" fill="#EF4444"/>
+<circle cx="1110" cy="90" r="55" fill="#EF4444" opacity="0.14"/>
+<circle cx="1055" cy="135" r="35" fill="#FFB86B" opacity="0.18"/>
+<text x="58" y="78" font-size="38" font-weight="700" fill="#111827" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">2024年リスク治理マトリクス</text>
+<text x="60" y="116" font-size="20" font-weight="400" fill="#4B5563" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">2024年の負面と制約は噂話ではなく、イベント治理の課題として記録する。</text>
+<rect x="60" y="140" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="140" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="178" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">高温と体力リスク</text>
+<text x="88" y="212" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">WCS 熱中症ゼロへ初出展</text>
+<text x="88" y="237" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">C104 両日 東京35℃+</text>
+<text x="88" y="262" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">全頭マスクとタイツは放熱が難しい</text>
+<rect x="610" y="140" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="140" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="178" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">夜間・徹夜リスク</text>
+<text x="638" y="212" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">Night2nd 21:30—7:30</text>
+<text x="638" y="237" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">睡眠不足と注意力低下</text>
+<text x="638" y="262" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">帰路・休憩・補水の計画が必要</text>
+<rect x="60" y="318" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="318" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="356" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">撮影同意</text>
+<text x="88" y="390" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">着ぐFesta は横撮りを明確に禁止</text>
+<text x="88" y="415" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">無許可撮影は盗撮と見なす</text>
+<text x="88" y="440" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">公開時は被写体を尊重</text>
+<rect x="610" y="318" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="318" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="356" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">身体接触の境界</text>
+<text x="638" y="390" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">着ぐFesta はハグを明確に禁止</text>
+<text x="638" y="415" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">面の状態では拒否しにくい</text>
+<text x="638" y="440" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">規則は「馴染みの空気」に優先</text>
+<rect x="60" y="496" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="496" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="534" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">動線と装備制限</text>
+<text x="88" y="568" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">FGO Fes は移動困難衣装を制限</text>
+<text x="88" y="593" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">長物/大型造形は分割または制限</text>
+<text x="88" y="618" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">同行者と視線補助が必要</text>
+<rect x="610" y="496" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="496" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="534" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">中止・交通・治理</text>
+<text x="638" y="568" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">Special studio 中止</text>
+<text x="638" y="593" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">台風で新幹線/飛行機が欠航</text>
+<text x="638" y="618" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Arial, sans-serif">出禁提示と規則摩擦</text>
+</svg>

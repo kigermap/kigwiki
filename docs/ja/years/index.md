@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>2024年 Kigurumi 編年史</h3><p>2024年の kigurumi 関連活動、公式 greeting、中文圏 Doll/Kig の節点、知識生産、リスク治理、年度結論を整理し、ローカライズした図表を含める。</p><a href="2024/">2024年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>2025年 Kigurumi 編年史</h3><p>2025年の kigurumi 関連活動、規則、越境協力、産業チェーン、リスク治理、年度結論を整理し、ローカライズした図表を含める。</p><a href="2025/">2025年を読む</a></article>
   </div>
 </section>

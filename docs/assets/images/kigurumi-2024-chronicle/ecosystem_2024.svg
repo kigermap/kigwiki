@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="100%" height="100%" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1200" height="16" fill="#6C63FF"/>
+<circle cx="1110" cy="90" r="55" fill="#6C63FF" opacity="0.14"/>
+<circle cx="1055" cy="135" r="35" fill="#FFB86B" opacity="0.18"/>
+<text x="58" y="78" font-size="38" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">2024 年生态分层图</text>
+<text x="60" y="116" font-size="20" font-weight="400" fill="#4B5563" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">按资料性质区分，避免把官方吉祥物、玩家 animegao、娃展和普通 cosplay 混为一谈</text>
+<rect x="60" y="134" width="500" height="142" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="134" width="10" height="142" rx="5" fill="#6C63FF"/>
+<text x="88" y="170" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">爱好者专门活动</text>
+<text x="88" y="204" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">着ぐFesta 5/6、kig_Doll</text>
+<text x="88" y="231" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">きぐるみパーティ 1/2</text>
+<text x="88" y="258" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">着ぐるみ大行進 1/2</text>
+<rect x="610" y="134" width="500" height="142" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="134" width="10" height="142" rx="5" fill="#6C63FF"/>
+<text x="638" y="170" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">官方 IP greeting</text>
+<text x="638" y="204" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">hololive SUPER EXPO 2024</text>
+<text x="638" y="231" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">FGO AnimeJapan / FGO Fes</text>
+<text x="638" y="258" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">C105 hololive 企业展位</text>
+<rect x="60" y="324" width="500" height="142" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="324" width="10" height="142" rx="5" fill="#6C63FF"/>
+<text x="88" y="360" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">大型综合展会</text>
+<text x="88" y="394" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">WCS 2024、C104/C105</text>
+<text x="88" y="421" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">高温、动线、身份确认</text>
+<text x="88" y="448" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">公共场域规则压力</text>
+<rect x="610" y="324" width="500" height="142" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="324" width="10" height="142" rx="5" fill="#6C63FF"/>
+<text x="638" y="360" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">中国 Doll/Kig 线</text>
+<text x="638" y="394" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">Doll Weekend 11</text>
+<text x="638" y="421" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">广东佛山、才艺殿堂</text>
+<text x="638" y="448" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">参与规模突破 500 人</text>
+<rect x="60" y="514" width="500" height="142" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="514" width="10" height="142" rx="5" fill="#6C63FF"/>
+<text x="88" y="550" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">知识与考究</text>
+<text x="88" y="584" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">Advent Calendar 25/25</text>
+<text x="88" y="611" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">160 份问卷报告</text>
+<text x="88" y="638" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">参与者报告与经验复盘</text>
+<rect x="610" y="514" width="500" height="142" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="514" width="10" height="142" rx="5" fill="#6C63FF"/>
+<text x="638" y="550" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">产业与制作</text>
+<text x="638" y="584" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">Anime North 新入门面具设计</text>
+<text x="638" y="611" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">面具/服装/摄影/同人志</text>
+<text x="638" y="638" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">maker 与 dealer 场景</text>
+</svg>

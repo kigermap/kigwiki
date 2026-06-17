@@ -40,9 +40,15 @@
 </section>
 
 <section class="archive-section" markdown>
-  <p class="archive-kicker">Published Year</p>
+  <p class="archive-kicker">Published Years</p>
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature">
+      <span class="archive-feature__icon">24</span>
+      <h3>2024 年 Kigurumi 编年史</h3>
+      <p>收录 2024 年专门活动成形、官方 IP greeting、Doll Weekend 11、夏季安全治理、年底知识生产和风险边界等内容。</p>
+      <a href="../years/2024/">进入年度页</a>
+    </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">25</span>
       <h3>2025 年 Kigurumi 编年史</h3>

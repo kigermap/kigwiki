@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="100%" height="100%" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1200" height="16" fill="#EF4444"/>
+<circle cx="1110" cy="90" r="55" fill="#EF4444" opacity="0.14"/>
+<circle cx="1055" cy="135" r="35" fill="#FFB86B" opacity="0.18"/>
+<text x="58" y="78" font-size="38" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">2024 风险治理矩阵</text>
+<text x="60" y="116" font-size="20" font-weight="400" fill="#4B5563" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">2024 年记录到的负面与约束，不写成八卦，而写成活动治理议题</text>
+<rect x="60" y="140" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="140" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="178" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">高温与体力风险</text>
+<text x="88" y="212" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">WCS 热中症ゼロへ初出展</text>
+<text x="88" y="237" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">C104 两日东京 35℃+</text>
+<text x="88" y="262" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">全头套与紧身衣散热困难</text>
+<rect x="610" y="140" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="140" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="178" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">夜间与通宵风险</text>
+<text x="638" y="212" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">Night2nd 21:30—7:30</text>
+<text x="638" y="237" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">睡眠不足与注意力下降</text>
+<text x="638" y="262" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">返程、休息、补水需规划</text>
+<rect x="60" y="318" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="318" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="356" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">摄影同意</text>
+<text x="88" y="390" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">着ぐFesta 明确禁止横撮り</text>
+<text x="88" y="415" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">未经许可拍摄被视为偷拍</text>
+<text x="88" y="440" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">照片公开需尊重被摄者</text>
+<rect x="610" y="318" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="318" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="356" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">身体接触边界</text>
+<text x="638" y="390" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">着ぐFesta 明确禁止拥抱</text>
+<text x="638" y="415" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">面具状态难以拒绝</text>
+<text x="638" y="440" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">规则优先于“熟人气氛”</text>
+<rect x="60" y="496" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="496" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="534" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">动线与装备限制</text>
+<text x="88" y="568" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">FGO Fes 限制移动困难服装</text>
+<text x="88" y="593" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">长物/大型造形需拆分或限制</text>
+<text x="88" y="618" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">需要随行与视线辅助</text>
+<rect x="610" y="496" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="496" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="534" font-size="24" font-weight="700" fill="#111827" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">取消、交通与治理</text>
+<text x="638" y="568" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">Special studio 取消</text>
+<text x="638" y="593" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">台风致新干线/飞机取消</text>
+<text x="638" y="618" font-size="18" font-weight="400" fill="#374151" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">出禁提示与规则摩擦</text>
+</svg>

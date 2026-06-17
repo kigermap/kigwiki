@@ -16,9 +16,10 @@
 </section>
 
 <section class="archive-section" markdown>
-  <p class="archive-kicker">Published Year</p>
+  <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>Хроника Kigurumi 2024 года</h3><p>Профильные события, official IP greeting, Doll Weekend 11, летняя безопасность, производство знаний и границы рисков в 2024 году.</p><a href="../years/2024/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>Хроника Kigurumi 2025 года</h3><p>Публичные узлы 2025 года, правила мероприятий, межрегиональные связи, Doll Weekend 12, WCS, official IP greeting и управление рисками.</p><a href="../years/2025/">Открыть год</a></article>
   </div>
 </section>

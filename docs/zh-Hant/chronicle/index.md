@@ -16,9 +16,10 @@
 </section>
 
 <section class="archive-section" markdown>
-  <p class="archive-kicker">Published Year</p>
+  <p class="archive-kicker">Published Years</p>
   <h2>已錄入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>2024 年 Kigurumi 編年史</h3><p>收錄 2024 年專門活動成形、官方 IP greeting、Doll Weekend 11、夏季安全治理、年底知識生產和風險邊界等內容。</p><a href="../years/2024/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>2025 年 Kigurumi 編年史</h3><p>收錄 2025 年公開節點、活動制度、跨地域網絡、Doll Weekend 12、WCS 規則、官方 IP greeting 和風險治理等內容。</p><a href="../years/2025/">進入年度頁</a></article>
   </div>
 </section>
