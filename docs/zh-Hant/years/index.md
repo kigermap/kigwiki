@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>2024 年 Kigurumi 編年史</h3><p>整理 2024 年公開可檢索的 kigurumi 活動、官方 greeting、中文娃/Kig 圈節點、知識生產、風險治理和年度結論，並納入本地化圖表資源。</p><a href="2024/">閱讀 2024 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>2025 年 Kigurumi 編年史</h3><p>整理 2025 年公開可檢索的 kigurumi 活動、規則、跨境合作、產業鏈、風險治理和年度結論，並納入本地化圖表資源。</p><a href="2025/">閱讀 2025 年</a></article>
   </div>
 </section>

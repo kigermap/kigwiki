@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="100%" height="100%" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1200" height="16" fill="#EF4444"/>
+<circle cx="1110" cy="90" r="55" fill="#EF4444" opacity="0.14"/>
+<circle cx="1055" cy="135" r="35" fill="#FFB86B" opacity="0.18"/>
+<text x="58" y="78" font-size="32" font-weight="700" fill="#111827" font-family="Inter, Arial, sans-serif">Матрица рисков 2024</text>
+<text x="60" y="116" font-size="14" font-weight="400" fill="#4B5563" font-family="Inter, Arial, sans-serif">Негатив и ограничения 2024 записаны как задачи управления событиями, а не как сплетни.</text>
+<rect x="60" y="140" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="140" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="178" font-size="21" font-weight="700" fill="#111827" font-family="Inter, Arial, sans-serif">Жара и выносливость</text>
+<text x="88" y="212" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">WCS: первый booth Heatstroke Zero</text>
+<text x="88" y="237" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">C104: Токио 35℃+ два дня</text>
+<text x="88" y="262" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">полная маска и suit плохо отводят тепло</text>
+<rect x="610" y="140" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="140" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="178" font-size="21" font-weight="700" fill="#111827" font-family="Inter, Arial, sans-serif">Ночь и бессонница</text>
+<text x="638" y="212" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">Night2nd 21:30—7:30</text>
+<text x="638" y="237" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">недосып и падение внимания</text>
+<text x="638" y="262" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">нужны план возвращения, отдых, вода</text>
+<rect x="60" y="318" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="318" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="356" font-size="21" font-weight="700" fill="#111827" font-family="Inter, Arial, sans-serif">Согласие на съемку</text>
+<text x="88" y="390" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">着ぐFesta явно запрещает side-shooting</text>
+<text x="88" y="415" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">съемка без согласия считается скрытой</text>
+<text x="88" y="440" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">публикация уважает модель</text>
+<rect x="610" y="318" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="318" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="356" font-size="21" font-weight="700" fill="#111827" font-family="Inter, Arial, sans-serif">Границы прикосновений</text>
+<text x="638" y="390" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">着ぐFesta явно запрещает объятия</text>
+<text x="638" y="415" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">в маске трудно отказать</text>
+<text x="638" y="440" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">правила важнее «своей атмосферы»</text>
+<rect x="60" y="496" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="60" y="496" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="88" y="534" font-size="21" font-weight="700" fill="#111827" font-family="Inter, Arial, sans-serif">Маршруты и снаряжение</text>
+<text x="88" y="568" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">FGO Fes ограничивает трудные костюмы</text>
+<text x="88" y="593" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">длинные/крупные props ограничиваются</text>
+<text x="88" y="618" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">нужны сопровождающие и помощь обзора</text>
+<rect x="610" y="496" width="500" height="156" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="610" y="496" width="10" height="156" rx="5" fill="#EF4444"/>
+<text x="638" y="534" font-size="21" font-weight="700" fill="#111827" font-family="Inter, Arial, sans-serif">Отмена, транспорт, правила</text>
+<text x="638" y="568" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">отмена Special studio</text>
+<text x="638" y="593" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">тайфун отменил поезда/рейсы</text>
+<text x="638" y="618" font-size="15" font-weight="400" fill="#374151" font-family="Inter, Arial, sans-serif">ban notice и трение правил</text>
+</svg>
