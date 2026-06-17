@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050">
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans CJK SC', 'Microsoft YaHei', 'PingFang SC', sans-serif;}</style>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<rect x="52" y="46" width="1496" height="958" rx="36" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="100" y="115" font-size="42" font-weight="800" fill="#111827" text-anchor="start" opacity="1">Слои экосистемы Kigurumi 2025</text>
+<text x="100" y="158" font-size="24" font-weight="400" fill="#64748b" text-anchor="start" opacity="1">同一个词在不同场景里指向不同实践；本文将它们分层记录，避免混淆。</text>
+<circle cx="800" cy="525" r="145" fill="#ede9fe" stroke="#7c3aed" stroke-width="4"/>
+<text x="800" y="505" font-size="40" font-weight="900" fill="#5b21b6" text-anchor="middle" opacity="1">KIGURUMI</text>
+<text x="800" y="545" font-size="22" font-weight="650" fill="#5b21b6" text-anchor="middle" opacity="1">Полная персонажность / закрытое лицо</text>
+<text x="800" y="580" font-size="18" font-weight="400" fill="#6d28d9" text-anchor="middle" opacity="1">ключевой термин открытых данных 2025</text>
+<rect x="120" y="260" width="360" height="190" rx="24" fill="#ffffff" stroke="#7c3aed" stroke-width="3"/>
+<rect x="120" y="260" width="360" height="52" rx="24" fill="#7c3aed" opacity="0.12"/>
+<text x="142" y="296" font-size="24" font-weight="800" fill="#7c3aed" text-anchor="start" opacity="1">Animegao / Kig / Kiger</text>
+<text x="144" y="345.0" font-size="21" font-weight="450" fill="#374151">动画脸面具、肤色衣、角色服装、摄影与表演</text>
+<text x="144" y="373.35" font-size="21" font-weight="450" fill="#374151">；本文核心讨论对象。</text>
+<line x1="800" y1="525" x2="300.0" y2="355.0" stroke="#7c3aed" stroke-width="2" opacity="0.35"/>
+<rect x="1120" y="260" width="360" height="190" rx="24" fill="#ffffff" stroke="#0ea5e9" stroke-width="3"/>
+<rect x="1120" y="260" width="360" height="52" rx="24" fill="#0ea5e9" opacity="0.12"/>
+<text x="1142" y="296" font-size="24" font-weight="800" fill="#0ea5e9" text-anchor="start" opacity="1">офиц. Mascot / IP Greeting</text>
+<text x="1144" y="345.0" font-size="21" font-weight="450" fill="#374151">FGO、hololive、Aniplex 等品牌方安排的</text>
+<text x="1144" y="373.35" font-size="21" font-weight="450" fill="#374151">официальные встречи с воплощенными персонажами.</text>
+<line x1="800" y1="525" x2="1300.0" y2="355.0" stroke="#0ea5e9" stroke-width="2" opacity="0.35"/>
+<rect x="120" y="625" width="360" height="190" rx="24" fill="#ffffff" stroke="#db2777" stroke-width="3"/>
+<rect x="120" y="625" width="360" height="52" rx="24" fill="#db2777" opacity="0.12"/>
+<text x="142" y="661" font-size="24" font-weight="800" fill="#db2777" text-anchor="start" opacity="1">Doller / 娃 / 变娃</text>
+<text x="144" y="710.0" font-size="21" font-weight="450" fill="#374151">中文圈更常见的“娃化”表达，强调身体、头</text>
+<text x="144" y="738.35" font-size="21" font-weight="450" fill="#374151">壳、沉浸与大型活动。</text>
+<line x1="800" y1="525" x2="300.0" y2="720.0" stroke="#db2777" stroke-width="2" opacity="0.35"/>
+<rect x="1120" y="625" width="360" height="190" rx="24" fill="#ffffff" stroke="#f97316" stroke-width="3"/>
+<rect x="1120" y="625" width="360" height="52" rx="24" fill="#f97316" opacity="0.12"/>
+<text x="1142" y="661" font-size="24" font-weight="800" fill="#f97316" text-anchor="start" opacity="1">Furry / Gawa-cos / 全头套</text>
+<text x="1144" y="710.0" font-size="21" font-weight="450" fill="#374151">兽装、特摄式皮套、头盔、全脸面具等相邻全</text>
+<text x="1144" y="738.35" font-size="21" font-weight="450" fill="#374151">身装扮。</text>
+<line x1="800" y1="525" x2="1300.0" y2="720.0" stroke="#f97316" stroke-width="2" opacity="0.35"/>
+<rect x="570" y="785" width="460" height="135" rx="24" fill="#ffffff" stroke="#64748b" stroke-width="3"/>
+<rect x="570" y="785" width="460" height="52" rx="24" fill="#64748b" opacity="0.12"/>
+<text x="592" y="821" font-size="24" font-weight="800" fill="#64748b" text-anchor="start" opacity="1">电商语境的 Kigurumi 睡衣</text>
+<text x="594" y="870.0" font-size="21" font-weight="450" fill="#374151">常见英文误解。本文不把普通连体睡衣作为主线，只在术</text>
+<text x="594" y="898.35" font-size="21" font-weight="450" fill="#374151">语边界中说明。</text>
+<line x1="800" y1="525" x2="800.0" y2="852.5" stroke="#64748b" stroke-width="2" opacity="0.35"/>
+<rect x="195" y="910" width="1210" height="44" rx="22" fill="#f1f5f9" stroke="#e2e8f0"/>
+<text x="800" y="939" font-size="22" font-weight="650" fill="#334155" text-anchor="middle" opacity="1">阅读原则：офиц.人偶、爱好者 animegao、中文娃圈与相邻全身装扮互有交集，但不能互相替代。</text>
+</svg>

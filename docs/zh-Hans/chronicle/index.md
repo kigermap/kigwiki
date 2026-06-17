@@ -40,6 +40,19 @@
 </section>
 
 <section class="archive-section" markdown>
+  <p class="archive-kicker">Published Year</p>
+  <h2>已录入年度</h2>
+  <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature">
+      <span class="archive-feature__icon">25</span>
+      <h3>2025 年 Kigurumi 编年史</h3>
+      <p>收录 2025 年公开节点、活动制度、跨地域网络、Doll Weekend 12、WCS 规则、官方 IP greeting 和风险治理等内容。</p>
+      <a href="../years/2025/">进入年度页</a>
+    </article>
+  </div>
+</section>
+
+<section class="archive-section" markdown>
   <div class="archive-note">
     <strong>下一步</strong>
     <p>真实事件录入后，编年总览应继续拆分为年度页面、专题页面和来源索引。每条纪事都应能回到至少一个来源条目。</p>

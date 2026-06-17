@@ -103,7 +103,9 @@ plugins:
             - 贡献与支持: support/index.md
             - 编年:
                 - 编年总览: chronicle/index.md
-                - 年份目录: years/index.md
+                - 年份目录:
+                    - 年份总览: years/index.md
+                    - 2025 年 Kigurumi 编年史: years/2025/index.md
             - 志目:
                 - 地点目录: places/index.md
                 - 人物目录: people/index.md
@@ -171,7 +173,9 @@ plugins:
             - 貢獻與支持: support/index.md
             - 編年:
                 - 編年總覽: chronicle/index.md
-                - 年份目錄: years/index.md
+                - 年份目錄:
+                    - 年份總覽: years/index.md
+                    - 2025 年 Kigurumi 編年史: years/2025/index.md
             - 志目:
                 - 地點目錄: places/index.md
                 - 人物目錄: people/index.md
@@ -307,7 +311,9 @@ plugins:
             - 貢献と支援: support/index.md
             - 編年:
                 - 編年総覧: chronicle/index.md
-                - 年別目録: years/index.md
+                - 年別目録:
+                    - 年別総覧: years/index.md
+                    - 2025年 Kigurumi 編年史: years/2025/index.md
             - 志目:
                 - 場所目録: places/index.md
                 - 人物目録: people/index.md
@@ -375,7 +381,9 @@ plugins:
             - Поддержать: support/index.md
             - Хроника:
                 - Обзор: chronicle/index.md
-                - Годы: years/index.md
+                - Годы:
+                    - Обзор годов: years/index.md
+                    - Хроника Kigurumi 2025 года: years/2025/index.md
             - Справочник:
                 - Места: places/index.md
                 - Люди: people/index.md
@@ -464,7 +472,9 @@ nav:
   - 贡献与支持: support/index.md
   - 编年:
       - 编年总览: chronicle/index.md
-      - 年份目录: years/index.md
+      - 年份目录:
+          - 年份总览: years/index.md
+          - 2025 年 Kigurumi 编年史: years/2025/index.md
   - 志目:
       - 地点目录: places/index.md
       - 人物目录: people/index.md
