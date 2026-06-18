@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="430" viewBox="0 0 980 430" role="img" aria-labelledby="title desc">
+  <title id="title">AIGC時代のオピニオンリーダーのSOR生成メカニズム</title>
+  <desc id="desc">刺激、有機体、反応の三つの層が、AIGC時代のオピニオンリーダー形成にどう関わるかを示す図。</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfa"/>
+      <stop offset="1" stop-color="#eef3ef"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#247c78"/>
+    </marker>
+    <style>
+      .bg { fill: url(#paper); }
+      .frame { fill: none; stroke: #d8e1db; stroke-width: 2; }
+      .box { fill: #ffffff; stroke: #d8e1db; stroke-width: 2; }
+      .box-a { fill: #f7fbfa; stroke: #247c78; }
+      .box-b { fill: #fff8fa; stroke: #a65372; }
+      .box-c { fill: #fffaf0; stroke: #92733e; }
+      .title { font: 700 24px "Noto Sans CJK JP", "Hiragino Sans", sans-serif; fill: #172235; }
+      .head { font: 700 22px "Noto Sans CJK JP", "Hiragino Sans", sans-serif; fill: #172235; }
+      .label { font: 500 17px "Noto Sans CJK JP", "Hiragino Sans", sans-serif; fill: #314154; }
+      .small { font: 500 15px "Noto Sans CJK JP", "Hiragino Sans", sans-serif; fill: #647185; }
+      .arrow { stroke: #247c78; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect class="bg" x="1" y="1" width="978" height="428" rx="8"/>
+  <rect class="frame" x="18" y="18" width="944" height="394" rx="8"/>
+  <text class="title" x="490" y="54" text-anchor="middle">AIGC時代のオピニオンリーダーのSOR生成メカニズム</text>
+
+  <rect class="box box-a" x="54" y="100" width="250" height="218" rx="8"/>
+  <text class="head" x="179" y="134" text-anchor="middle">刺激 S</text>
+  <text class="small" x="179" y="158" text-anchor="middle">技術環境 + 社会的反応</text>
+  <text class="label" x="84" y="194">情報過多と選別需要</text>
+  <text class="label" x="84" y="225">多モーダル化で敷居低下</text>
+  <text class="label" x="84" y="256">推薦アルゴリズムの増幅</text>
+  <text class="label" x="84" y="287">認知代償と専門依存</text>
+
+  <rect class="box box-b" x="365" y="100" width="250" height="218" rx="8"/>
+  <text class="head" x="490" y="134" text-anchor="middle">有機体 O</text>
+  <text class="small" x="490" y="158" text-anchor="middle">主体の成長と感情体験</text>
+  <text class="label" x="395" y="194">知識ネットワーク蓄積</text>
+  <text class="label" x="395" y="225">技術理解と処理能力</text>
+  <text class="label" x="395" y="256">自己効力感と達成動機</text>
+  <text class="label" x="395" y="287">事実確認とリスク感知</text>
+
+  <rect class="box box-c" x="676" y="100" width="250" height="218" rx="8"/>
+  <text class="head" x="801" y="134" text-anchor="middle">反応 R</text>
+  <text class="small" x="801" y="158" text-anchor="middle">行動出力 + 相互作用</text>
+  <text class="label" x="706" y="194">コンテンツ制作の高速化</text>
+  <text class="label" x="706" y="225">生成 - 修正 - 検証</text>
+  <text class="label" x="706" y="256">行列運用とコミュニティ</text>
+  <text class="label" x="706" y="287">影響力の反復更新</text>
+
+  <path class="arrow" d="M314 209 H350"/>
+  <path class="arrow" d="M625 209 H661"/>
+  <path class="arrow" d="M802 323 C802 374 178 374 178 323"/>
+  <text class="small" x="490" y="384" text-anchor="middle">相互作用の習慣、承認フィードバック、技術学習が生成過程を強化する</text>
+</svg>

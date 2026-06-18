@@ -25,6 +25,12 @@
       <p>收錄 2017 年日文問卷報告的完整整理內容，並嵌入原報告圖表，涵蓋樣本結構、活動形態、裝備擁有、社羣認知、性別越境與成人向主題等統計內容。</p>
       <a href="survey-reports/kigurumi-census-2017/">閱讀資料</a>
     </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">論</span>
+      <h3>AIGC 時代意見領袖生成機理與趨勢挑戰</h3>
+      <p>收錄蔡聖涵、魏德毓發表於《寧德師範學院學報（哲學社會科學版）》2026 年第 1 期的論文內容，並補充 SOR 生成機理與增強回路輔助圖示。</p>
+      <a href="academic-papers/aigc-opinion-leaders/">閱讀資料</a>
+    </article>
   </div>
 </section>
 

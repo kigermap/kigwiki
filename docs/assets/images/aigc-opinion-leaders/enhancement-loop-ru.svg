@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="460" viewBox="0 0 980 460" role="img" aria-labelledby="title desc">
+  <title id="title">Положительный контур усиления лидеров мнений AIGC</title>
+  <desc id="desc">Схема показывает положительный цикл между техническим пониманием, производством контента, доверием, социальным капиталом и влиянием.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfa"/>
+      <stop offset="1" stop-color="#eef3ef"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#a65372"/>
+    </marker>
+    <style>
+      .bg { fill: url(#paper); }
+      .frame { fill: none; stroke: #d8e1db; stroke-width: 2; }
+      .node { fill: #ffffff; stroke: #d8e1db; stroke-width: 2; }
+      .node-a { fill: #f7fbfa; stroke: #247c78; }
+      .node-b { fill: #fff8fa; stroke: #a65372; }
+      .node-c { fill: #fffaf0; stroke: #92733e; }
+      .node-d { fill: #f6f8ff; stroke: #123a5a; }
+      .node-e { fill: #f8fff9; stroke: #4f7b61; }
+      .title { font: 700 26px "Noto Sans", "Arial", sans-serif; fill: #172235; }
+      .head { font: 700 20px "Noto Sans", "Arial", sans-serif; fill: #172235; }
+      .label { font: 500 16px "Noto Sans", "Arial", sans-serif; fill: #314154; }
+      .small { font: 500 15px "Noto Sans", "Arial", sans-serif; fill: #647185; }
+      .arrow { stroke: #a65372; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect class="bg" x="1" y="1" width="978" height="458" rx="8"/>
+  <rect class="frame" x="18" y="18" width="944" height="424" rx="8"/>
+  <text class="title" x="490" y="54" text-anchor="middle">Положительный контур усиления лидеров мнений AIGC</text>
+
+  <rect class="node node-a" x="384" y="88" width="212" height="88" rx="8"/>
+  <text class="head" x="490" y="124" text-anchor="middle">Техническое знание</text>
+  <text class="small" x="490" y="150" text-anchor="middle">Инструменты, модели, знания</text>
+
+  <rect class="node node-b" x="666" y="176" width="218" height="92" rx="8"/>
+  <text class="head" x="775" y="212" text-anchor="middle">Контент</text>
+  <text class="small" x="775" y="238" text-anchor="middle">Генерация, правка, проверка</text>
+
+  <rect class="node node-c" x="548" y="322" width="224" height="88" rx="8"/>
+  <text class="head" x="660" y="358" text-anchor="middle">Доверие</text>
+  <text class="small" x="660" y="384" text-anchor="middle">Следование, признание, диалог</text>
+
+  <rect class="node node-d" x="208" y="322" width="224" height="88" rx="8"/>
+  <text class="head" x="320" y="358" text-anchor="middle">Социальный капитал</text>
+  <text class="small" x="320" y="384" text-anchor="middle">Сети, обмен ресурсами, голос</text>
+
+  <rect class="node node-e" x="96" y="176" width="218" height="92" rx="8"/>
+  <text class="head" x="205" y="212" text-anchor="middle">Рост влияния</text>
+  <text class="small" x="205" y="238" text-anchor="middle">Охват, монетизация, роли</text>
+
+  <path class="arrow" d="M596 132 C642 135 682 151 720 176"/>
+  <path class="arrow" d="M779 268 C766 303 734 323 706 335"/>
+  <path class="arrow" d="M548 366 H444"/>
+  <path class="arrow" d="M258 322 C231 304 212 286 205 269"/>
+  <path class="arrow" d="M205 176 C237 130 304 114 384 119"/>
+
+  <text class="small" x="490" y="222" text-anchor="middle">Путь трансформации капитала</text>
+  <text class="label" x="490" y="250" text-anchor="middle">Культурный капитал → социальный капитал → экономический капитал</text>
+  <text class="small" x="490" y="278" text-anchor="middle">Доходы и ресурсы снова вкладываются в оборудование, команды и маркетинг</text>
+</svg>

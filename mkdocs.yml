@@ -114,6 +114,8 @@ plugins:
                     - 来源总览: sources/index.md
                     - 调查报告:
                         - 2017 着ぐるみ国势调查结果报告书: sources/survey-reports/kigurumi-census-2017/index.md
+                    - 学术论文:
+                        - AIGC 时代意见领袖生成机理与趋势挑战: sources/academic-papers/aigc-opinion-leaders/index.md
             - 引用规范: citation/index.md
             - 常见问题: faq/index.md
             - 开源协议: license/index.md
@@ -185,6 +187,8 @@ plugins:
                     - 來源總覽: sources/index.md
                     - 調查報告:
                         - 2017 着ぐるみ國勢調查結果報告書: sources/survey-reports/kigurumi-census-2017/index.md
+                    - 學術論文:
+                        - AIGC 時代意見領袖生成機理與趨勢挑戰: sources/academic-papers/aigc-opinion-leaders/index.md
             - 引用規範: citation/index.md
             - 常見問題: faq/index.md
             - 開源協議: license/index.md
@@ -324,6 +328,8 @@ plugins:
                     - 出典総覧: sources/index.md
                     - 調査報告:
                         - 2017 着ぐるみ国勢調査結果報告書: sources/survey-reports/kigurumi-census-2017/index.md
+                    - 学術論文:
+                        - AIGC時代のオピニオンリーダー生成メカニズムと動向・課題: sources/academic-papers/aigc-opinion-leaders/index.md
             - 引用規範: citation/index.md
             - FAQ: faq/index.md
             - ライセンス: license/index.md
@@ -395,6 +401,8 @@ plugins:
                     - Обзор источников: sources/index.md
                     - Отчеты об опросах:
                         - Отчет о переписи кигуруми 2017 года: sources/survey-reports/kigurumi-census-2017/index.md
+                    - Научные статьи:
+                        - Механизм формирования лидеров мнений в эпоху AIGC и вызовы развития: sources/academic-papers/aigc-opinion-leaders/index.md
             - Цитирование: citation/index.md
             - FAQ: faq/index.md
             - Лицензия: license/index.md
@@ -487,6 +495,8 @@ nav:
           - 来源总览: sources/index.md
           - 调查报告:
               - 2017 着ぐるみ国势调查结果报告书: sources/survey-reports/kigurumi-census-2017/index.md
+          - 学术论文:
+              - AIGC 时代意见领袖生成机理与趋势挑战: sources/academic-papers/aigc-opinion-leaders/index.md
   - 引用规范: citation/index.md
   - 常见问题: faq/index.md
   - 开源协议: license/index.md
