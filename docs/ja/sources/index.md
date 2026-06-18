@@ -14,6 +14,12 @@
       <p>2017 年の日本語アンケート報告を、原報告の図表とともに整理しています。サンプル構造、活動形態、装備所有、界隈認識、性別越境、成人向け統計項目などを含みます。</p>
       <a href="survey-reports/kigurumi-census-2017/">資料を読む</a>
     </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">論</span>
+      <h3>AIGC時代のオピニオンリーダー生成メカニズムと動向・課題</h3>
+      <p>蔡聖涵・魏徳毓が『寧徳師範学院学報（哲学社会科学版）』2026 年第 1 期に発表した論文を整理し、SOR 生成メカニズムと強化ループの補助図を加えています。</p>
+      <a href="academic-papers/aigc-opinion-leaders/">資料を読む</a>
+    </article>
   </div>
 </section>
 

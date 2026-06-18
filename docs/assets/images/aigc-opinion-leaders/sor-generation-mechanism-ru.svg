@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="430" viewBox="0 0 980 430" role="img" aria-labelledby="title desc">
+  <title id="title">SOR-механизм формирования лидеров мнений AIGC</title>
+  <desc id="desc">Схема показывает, как стимул, организм и реакция формируют лидеров мнений в эпоху AIGC.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfa"/>
+      <stop offset="1" stop-color="#eef3ef"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#247c78"/>
+    </marker>
+    <style>
+      .bg { fill: url(#paper); }
+      .frame { fill: none; stroke: #d8e1db; stroke-width: 2; }
+      .box { fill: #ffffff; stroke: #d8e1db; stroke-width: 2; }
+      .box-a { fill: #f7fbfa; stroke: #247c78; }
+      .box-b { fill: #fff8fa; stroke: #a65372; }
+      .box-c { fill: #fffaf0; stroke: #92733e; }
+      .title { font: 700 26px "Noto Sans", "Arial", sans-serif; fill: #172235; }
+      .head { font: 700 22px "Noto Sans", "Arial", sans-serif; fill: #172235; }
+      .label { font: 500 16px "Noto Sans", "Arial", sans-serif; fill: #314154; }
+      .small { font: 500 15px "Noto Sans", "Arial", sans-serif; fill: #647185; }
+      .arrow { stroke: #247c78; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect class="bg" x="1" y="1" width="978" height="428" rx="8"/>
+  <rect class="frame" x="18" y="18" width="944" height="394" rx="8"/>
+  <text class="title" x="490" y="54" text-anchor="middle">SOR-механизм формирования лидеров мнений AIGC</text>
+
+  <rect class="box box-a" x="54" y="100" width="250" height="218" rx="8"/>
+  <text class="head" x="179" y="134" text-anchor="middle">Стимул S</text>
+  <text class="small" x="179" y="158" text-anchor="middle">Техносреда + соц. отклик</text>
+  <text class="label" x="84" y="194">Информационная перегрузка</text>
+  <text class="label" x="84" y="225">Снижение порога творчества</text>
+  <text class="label" x="84" y="256">Алгоритмы усиливают охват</text>
+  <text class="label" x="84" y="287">Когнитивная компенсация</text>
+
+  <rect class="box box-b" x="365" y="100" width="250" height="218" rx="8"/>
+  <text class="head" x="490" y="134" text-anchor="middle">Организм O</text>
+  <text class="small" x="490" y="158" text-anchor="middle">Рост субъекта и эмоции</text>
+  <text class="label" x="395" y="194">Запас знаний</text>
+  <text class="label" x="395" y="225">Техническое понимание</text>
+  <text class="label" x="395" y="256">Самоэффективность</text>
+  <text class="label" x="395" y="287">Проверка фактов и рисков</text>
+
+  <rect class="box box-c" x="676" y="100" width="250" height="218" rx="8"/>
+  <text class="head" x="801" y="134" text-anchor="middle">Реакция R</text>
+  <text class="small" x="801" y="158" text-anchor="middle">Выход действий + диалог</text>
+  <text class="label" x="706" y="194">Ускорение контента</text>
+  <text class="label" x="706" y="225">Генерация - правка - проверка</text>
+  <text class="label" x="706" y="256">Платформы и сообщества</text>
+  <text class="label" x="706" y="287">Итерация влияния</text>
+
+  <path class="arrow" d="M314 209 H350"/>
+  <path class="arrow" d="M625 209 H661"/>
+  <path class="arrow" d="M802 323 C802 374 178 374 178 323"/>
+  <text class="small" x="490" y="384" text-anchor="middle">Привычки взаимодействия, признание и обучение усиливают процесс формирования</text>
+</svg>
