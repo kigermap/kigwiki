@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 34 пикселей; вес шрифта: 800; заливка: #263238; }
+      .sub { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; заливка: #52616b; }
+      .label { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; вес шрифта: 700; заливка: #263238; }
+      .small { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 14 пикселей; заливка: #455a64; }
+      .tiny { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 12 пикселей; заливка: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">2023 → 2024 → 2025: Пишите только префикс, продолжение не повторяйте.</text>
+  <text x="56" y="94" class="sub">В этой статье 2023 год рассматривается как передовой узел; последующее расширение было зафиксировано в 2024/2025 году.</text>
+  <rect x="70" y="150" width="315" height="60" rx="18" fill="#fff3e0" filter="url(#shadow)"/>
+  <text x="228" y="186" text-anchor="middle" class="small" font-weight="700">着ぐFesta 3-е/Ночь/4-е</text>
+<path d="M385,180 L435,180" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="440" y="150" width="315" height="60" rx="18" fill="#e8f5e9" filter="url(#shadow)"/>
+  <text x="598" y="186" text-anchor="middle" class="small" font-weight="700">2024 5/6/Night2nd/kig_Doll</text>
+<path d="M755,180 L805,180" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="810" y="150" width="315" height="60" rx="18" fill="#e3f2fd" filter="url(#shadow)"/>
+  <text x="968" y="186" text-anchor="middle" class="small" font-weight="700">2025 Дальнейшая специализация и местная деятельность</text>
+  <rect x="70" y="242" width="315" height="60" rx="18" fill="#fff3e0" filter="url(#shadow)"/>
+  <text x="228" y="278" text-anchor="middle" class="small" font-weight="700">DW10: 400+ с впервые прибывшими зарубежными участниками</text>
+<path d="M385,272 L435,272" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="440" y="242" width="315" height="60" rx="18" fill="#e8f5e9" filter="url(#shadow)"/>
+  <text x="598" y="278" text-anchor="middle" class="small" font-weight="700">DW11: 500+ и визуализация талантов</text>
+<path d="M755,272 L805,272" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="810" y="242" width="315" height="60" rx="18" fill="#e3f2fd" filter="url(#shadow)"/>
+  <text x="968" y="278" text-anchor="middle" class="small" font-weight="700">DW12: 1000+, фейерверки, дроны, парад</text>
+  <rect x="70" y="334" width="315" height="60" rx="18" fill="#fff3e0" filter="url(#shadow)"/>
+  <text x="228" y="370" text-anchor="middle" class="small" font-weight="700">WCS2023: полное возрождение и текст и теплового удара</text>
+<path d="M385,364 L435,364" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="440" y="334" width="315" height="60" rx="18" fill="#e8f5e9" filter="url(#shadow)"/>
+  <text x="598" y="370" text-anchor="middle" class="small" font-weight="700">WCS2024 Меры против теплового удара более очевидно</text>
+<path d="M755,364 L805,364" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="810" y="334" width="315" height="60" rx="18" fill="#e3f2fd" filter="url(#shadow)"/>
+  <text x="968" y="370" text-anchor="middle" class="small" font-weight="700">WCS2025 Более четкие правила ношения одежды, закрывающей лицо.</text>
+  <rect x="70" y="426" width="315" height="60" rx="18" fill="#fff3e0" filter="url(#shadow)"/>
+  <text x="228" y="462" text-anchor="middle" class="small" font-weight="700">FGO AJ / FGO Фес 2023 г.</text>
+<path d="M385,456 L435,456" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="440" y="426" width="315" height="60" rx="18" fill="#e8f5e9" filter="url(#shadow)"/>
+  <text x="598" y="462" text-anchor="middle" class="small" font-weight="700">Стенд FGO 2024 и 9-летие</text>
+<path d="M755,456 L805,456" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="810" y="426" width="315" height="60" rx="18" fill="#e3f2fd" filter="url(#shadow)"/>
+  <text x="968" y="462" text-anchor="middle" class="small" font-weight="700">FGO Масштабная презентация в честь 10-летия 2025 г.</text>
+  <rect x="70" y="518" width="315" height="60" rx="18" fill="#fff3e0" filter="url(#shadow)"/>
+  <text x="228" y="554" text-anchor="middle" class="small" font-weight="700">hololive Приветствие с ярмарки игрушек</text>
+<path d="M385,548 L435,548" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="440" y="518" width="315" height="60" rx="18" fill="#e8f5e9" filter="url(#shadow)"/>
+  <text x="598" y="554" text-anchor="middle" class="small" font-weight="700">hololive СУПЕР ЭКСПО 2024</text>
+<path d="M755,548 L805,548" stroke="#78909c" stroke-width="3" marker-end="url(#arrow2)"/>
+  <rect x="810" y="518" width="315" height="60" rx="18" fill="#e3f2fd" filter="url(#shadow)"/>
+  <text x="968" y="554" text-anchor="middle" class="small" font-weight="700">hololive Расширение состава участников SUPER EXPO 2025</text>
+  <defs><marker id="arrow2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#78909c"/></marker></defs>
+  <text x="228" y="608" class="label" text-anchor="middle">2023 год</text>
+  <text x="598" y="608" class="label" text-anchor="middle">2024 год</text>
+  <text x="968" y="608" class="label" text-anchor="middle">2025 год</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 34 пикселей; вес шрифта: 800; заливка: #263238; }
+      .sub { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; заливка: #52616b; }
+      .label { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; вес шрифта: 700; заливка: #263238; }
+      .small { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 14 пикселей; заливка: #455a64; }
+      .tiny { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 12 пикселей; заливка: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">Ритм офлайн-активности в Японии: упорядоченная траектория 着ぐFesta</text>
+  <text x="56" y="94" class="sub">Публичная информация в 2023 году показывает, что 着ぐFesta постепенно перешел от «начала» к фотографии, социальному взаимодействию и правилам физических границ.</text>
+  <rect x="90" y="170" width="220" height="310" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="200" cy="170" r="34" fill="#ffab91" stroke="#fff" stroke-width="5"/>
+  <text x="200" y="180" text-anchor="middle" class="label">1</text>
+  <text x="200" y="230" text-anchor="middle" class="label" font-size="17">8 апреля Обычный ответ</text>
+  <text x="118" y="280" class="small"><tspan x="118" dy="0">• Зал на 300 человек</tspan><tspan x="118" dy="30">• Демонстрация и примерка маски</tspan><tspan x="118" dy="30">• 60 публичных участников</tspan></text>
+<path d="M310,320 L360,320" stroke="#90a4ae" stroke-width="4" marker-end="url(#arrow)"/>
+  <rect x="360" y="170" width="220" height="310" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="470" cy="170" r="34" fill="#80cbc4" stroke="#fff" stroke-width="5"/>
+  <text x="470" y="180" text-anchor="middle" class="label">2</text>
+  <text x="470" y="230" text-anchor="middle" class="label" font-size="17">26 августа 3</text>
+  <text x="388" y="280" class="small"><tspan x="388" dy="0">• Повествование, ориентированное на новичков.</tspan><tspan x="388" dy="30">• dealer / Бесплатная одежда.</tspan><tspan x="388" dy="30">• Обновление фоновой ткани.</tspan></text>
+<path d="M580,320 L630,320" stroke="#90a4ae" stroke-width="4" marker-end="url(#arrow)"/>
+  <rect x="630" y="170" width="220" height="310" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="740" cy="170" r="34" fill="#ce93d8" stroke="#fff" stroke-width="5"/>
+  <text x="740" y="180" text-anchor="middle" class="label">3</text>
+  <text x="740" y="230" text-anchor="middle" class="label" font-size="17">Ночь 4 ноября</text>
+  <text x="658" y="280" class="small"><tspan x="658" dy="0">• Полностью по предварительной записи.</tspan><tspan x="658" dy="30">• 21:30–7:30</tspan><tspan x="658" dy="30">• студийная ночная фотосъемка</tspan></text>
+<path d="M850,320 L900,320" stroke="#90a4ae" stroke-width="4" marker-end="url(#arrow)"/>
+  <rect x="900" y="170" width="220" height="310" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="1010" cy="170" r="34" fill="#ffe082" stroke="#fff" stroke-width="5"/>
+  <text x="1010" y="180" text-anchor="middle" class="label">4</text>
+  <text x="1010" y="230" text-anchor="middle" class="label" font-size="17">9 4 декабря</text>
+  <text x="928" y="280" class="small"><tspan x="928" dy="0">• 横撮り запрещен.</tspan><tspan x="928" dy="30">• Примите запрет</tspan><tspan x="928" dy="30">• Учебное пособие по фотографии с dealer</tspan></text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#90a4ae"/></marker></defs>
+  <rect x="80" y="535" width="1040" height="70" rx="22" fill="#e8f5e9"/>
+  <text x="105" y="566" class="small">Ключевые изменения: Правила 2023 года — это не абстрактный лозунг, а прямой ответ на конкретные проблемы «трудно говорить, трудно отказать, легко профилировать, а снятие маски разрушает границы» под маской.</text>
+  <text x="105" y="592" class="tiny">Эта линия является предшественником 5th/6th и Night2nd в 2024 году и не повторяет продолжение 2024 года.</text>
+</svg>

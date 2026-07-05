@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 34 пикселей; вес шрифта: 800; заливка: #263238; }
+      .sub { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; заливка: #52616b; }
+      .label { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; вес шрифта: 700; заливка: #263238; }
+      .small { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 14 пикселей; заливка: #455a64; }
+      .tiny { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 12 пикселей; заливка: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">Матрица управления рисками на 2023 год</text>
+  <text x="56" y="94" class="sub">Самое негативное, что стоит записать в этом году, — это не сплетни, а то, как начать четко писать правила.</text>
+  <rect x="70" y="145" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="145" width="16" height="118" rx="8" fill="#ef9a9a"/>
+  <text x="104" y="180" class="label">Тепловой удар/обезвоживание</text>
+  <text x="104" y="209" class="small">WCS2023 напоминает вам о необходимости пополнить запасы воды и отдохнуть во время сильной жары; В правилах упомянут 着ぐるみ, который может вызвать обезвоживание.</text>
+  <text x="104" y="233" class="small"></text>
+  <text x="510" y="245" class="tiny" text-anchor="end">Масштабные мероприятия на открытом воздухе</text>
+  <rect x="610" y="145" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="145" width="16" height="118" rx="8" fill="#ffcc80"/>
+  <text x="644" y="180" class="label">Снято без согласия</text>
+  <text x="644" y="209" class="small">着ぐFesta прямо определяет «横撮り» как поведение, которого следует избегать, подчеркивая необходимость сначала получить согласие субъекта.</text>
+  <text x="644" y="233" class="small"></text>
+  <text x="1050" y="245" class="tiny" text-anchor="end">фотографические границы</text>
+  <rect x="70" y="300" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="300" width="16" height="118" rx="8" fill="#ffe082"/>
+  <text x="104" y="335" class="label">физический контакт</text>
+  <text x="104" y="364" class="small">着ぐFesta Объятия запрещены на том основании, что под маской трудно говорить и отказываться.</text>
+  <text x="104" y="388" class="small"></text>
+  <text x="510" y="400" class="tiny" text-anchor="end">выражение согласия</text>
+  <rect x="610" y="300" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="300" width="16" height="118" rx="8" fill="#80cbc4"/>
+  <text x="644" y="335" class="label">Удаление лица и границы личности</text>
+  <text x="644" y="364" class="small">Маски нельзя снимать, за исключением раздевалок, cloak и других помещений, чтобы не нарушать конфиденциальность и границы ролей.</text>
+  <text x="644" y="388" class="small"></text>
+  <text x="1050" y="400" class="tiny" text-anchor="end">управление пространством</text>
+  <rect x="70" y="455" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="455" width="16" height="118" rx="8" fill="#90caf9"/>
+  <text x="104" y="490" class="label">Воды и специальные сцены</text>
+  <text x="104" y="519" class="small">Тема бассейна в DW SP2 предполагает, что съемка в воде требует более высокого уровня безопасности; в этой статье не говорится о конкретных несчастных случаях.</text>
+  <text x="104" y="543" class="small"></text>
+  <text x="510" y="555" class="tiny" text-anchor="end">Риски тематической деятельности</text>
+  <rect x="610" y="455" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="455" width="16" height="118" rx="8" fill="#ce93d8"/>
+  <text x="644" y="490" class="label">всю ночь</text>
+  <text x="644" y="519" class="small">Ночная линия позволяет избежать скопления людей в дневное время, но также приводит к усталости, пробкам и снижению концентрации во второй половине ночи.</text>
+  <text x="644" y="543" class="small"></text>
+  <text x="1050" y="555" class="tiny" text-anchor="end">Управление физической силой</text>
+</svg>

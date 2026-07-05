@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 34 пикселей; вес шрифта: 800; заливка: #263238; }
+      .sub { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; заливка: #52616b; }
+      .label { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; вес шрифта: 700; заливка: #263238; }
+      .small { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 14 пикселей; заливка: #455a64; }
+      .tiny { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 12 пикселей; заливка: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">Doll Weekend 2023: От стадии к интернационализации</text>
+  <text x="56" y="94" class="sub">Официальная страница и подсказки в социальных сетях показывают, что в 2023 году круг «китайский круг 娃/Kig» войдет в более чем 400 узлов DW10 с зарубежными участниками.</text>
+  <rect x="72" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="187" y="220" text-anchor="middle" class="title" font-size="32">DW9</text>
+  <text x="187" y="252" text-anchor="middle" class="label" font-size="18">сценический свет</text>
+  <rect x="112" y="275" width="150" height="34" rx="17" fill="#ffe0b2"/>
+  <text x="187" y="297" text-anchor="middle" class="tiny" font-weight="700">Гуандун·Гуанчжоу</text>
+  <text x="102" y="350" class="small"><tspan x="102" dy="0">• Профессиональная сцена и большой экран</tspan><tspan x="102" dy="28">• Около 200 участников</tspan><tspan x="102" dy="28">• Публичные подсказки X указывают на конец марта.</tspan></text>
+  <rect x="350" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="465" y="220" text-anchor="middle" class="title" font-size="32">SP1</text>
+  <text x="465" y="252" text-anchor="middle" class="label" font-size="18">Первая встреча с Хэюань</text>
+  <rect x="390" y="275" width="150" height="34" rx="17" fill="#c5e1a5"/>
+  <text x="465" y="297" text-anchor="middle" class="tiny" font-weight="700">Гуандун · Хэюань</text>
+  <text x="380" y="350" class="small"><tspan x="380" dy="0">• Исследуйте больше мест</tspan><tspan x="380" dy="28">• Отправьтесь в Хэюань, чтобы снять рекламный ролик DW10.</tspan></text>
+  <rect x="628" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="743" y="220" text-anchor="middle" class="title" font-size="32">SP2</text>
+  <text x="743" y="252" text-anchor="middle" class="label" font-size="18">Кукольный бой в бассейне</text>
+  <rect x="668" y="275" width="150" height="34" rx="17" fill="#b3e5fc"/>
+  <text x="743" y="297" text-anchor="middle" class="tiny" font-weight="700">Гуандун·Гуанчжоу</text>
+  <text x="658" y="350" class="small"><tspan x="658" dy="0">• Летняя тема воды/бассейна</tspan><tspan x="658" dy="28">• От студийной фотографии до случайных сцен.</tspan></text>
+  <rect x="906" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="1021" y="220" text-anchor="middle" class="title" font-size="32">DW10</text>
+  <text x="1021" y="252" text-anchor="middle" class="label" font-size="18">международная сцена</text>
+  <rect x="946" y="275" width="150" height="34" rx="17" fill="#d1c4e9"/>
+  <text x="1021" y="297" text-anchor="middle" class="tiny" font-weight="700">Гуандун Фошань</text>
+  <text x="936" y="350" class="small"><tspan x="936" dy="0">• Декабрь 2023 г.</tspan><tspan x="936" dy="28">• Первый зарубежный участник</tspan><tspan x="936" dy="28">• Количество человек превысило 400</tspan></text>
+  <path d="M185,560 C360,620 770,620 985,560" stroke="#b0bec5" stroke-width="5" fill="none" stroke-dasharray="10 10"/>
+  <text x="600" y="638" text-anchor="middle" class="label">Всем 500+ из 2024 DW11 и 1000+ из 2025 DW12 предшествует интернационализация DW10.</text>
+</svg>

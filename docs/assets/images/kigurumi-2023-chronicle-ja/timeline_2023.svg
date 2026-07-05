@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 34px;フォントの太さ: 800;塗りつぶし: #263238; }
+      .sub { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 18px;塗りつぶし: #52616b; }
+      .label { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 18px;フォントの太さ: 700;塗りつぶし: #263238; }
+      .small { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 14px;塗りつぶし: #455a64; }
+      .tiny { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 12px;塗りつぶし: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">2023 Kigurumi 年表</text>
+  <text x="56" y="94" class="sub">2023 年に固有のノードのみが記録されます。 2024/2025 以降のバージョンについては、ここでは繰り返しません。</text>
+  <line x1="80" y1="310" x2="1120" y2="310" stroke="#b0bec5" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="90" cy="310" r="20" fill="#ffccbc" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="90" y1="310" x2="90" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="18" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="90" y="163" text-anchor="middle" class="small" font-weight="700">行進</text>
+  <text x="90" y="188" text-anchor="middle" class="label" font-size="16">FGO AJ 2023</text>
+  <text x="90" y="211" text-anchor="middle" class="tiny">公式ブースの挨拶</text>
+  <circle cx="190" cy="310" r="20" fill="#ffe082" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="190" y1="310" x2="190" y2="430" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="118" y="430" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="190" y="458" text-anchor="middle" class="small" font-weight="700">3月下旬</text>
+  <text x="190" y="483" text-anchor="middle" class="label" font-size="16">DW9</text>
+  <text x="190" y="506" text-anchor="middle" class="tiny">約200名が参加するプロのステージ</text>
+  <circle cx="300" cy="310" r="20" fill="#c8e6c9" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="300" y1="310" x2="300" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="228" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="300" y="163" text-anchor="middle" class="small" font-weight="700">4月8日</text>
+  <text x="300" y="188" text-anchor="middle" class="label" font-size="16">着ぐFesta</text>
+  <text x="300" y="211" text-anchor="middle" class="tiny">試着・コミュニケーション・60名様</text>
+  <circle cx="410" cy="310" r="20" fill="#bbdefb" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="410" y1="310" x2="410" y2="430" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="338" y="430" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="410" y="458" text-anchor="middle" class="small" font-weight="700">6月</text>
+  <text x="410" y="483" text-anchor="middle" class="label" font-size="16">hololive おもちゃフェア</text>
+  <text x="410" y="506" text-anchor="middle" class="tiny">Mikodanye / Subaru Duck</text>
+  <circle cx="525" cy="310" r="20" fill="#d1c4e9" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="525" y1="310" x2="525" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="453" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="525" y="163" text-anchor="middle" class="small" font-weight="700">7月</text>
+  <text x="525" y="188" text-anchor="middle" class="label" font-size="16">AX/FGOフェス</text>
+  <text x="525" y="211" text-anchor="middle" class="tiny">北米・幕張公式 kigurumi</text>
+  <circle cx="650" cy="310" r="20" fill="#b2dfdb" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="650" y1="310" x2="650" y2="430" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="578" y="430" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="650" y="458" text-anchor="middle" class="small" font-weight="700">8月</text>
+  <text x="650" y="483" text-anchor="middle" class="label" font-size="16">WCS 2023</text>
+  <text x="650" y="506" text-anchor="middle" class="tiny">完全復活と熱中症ルール</text>
+  <circle cx="790" cy="310" r="20" fill="#f8bbd0" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="790" y1="310" x2="790" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="718" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="790" y="163" text-anchor="middle" class="small" font-weight="700">8月26日</text>
+  <text x="790" y="188" text-anchor="middle" class="label" font-size="16">着ぐFesta 3位</text>
+  <text x="790" y="211" text-anchor="middle" class="tiny">dealer 新しい人々と交流する</text>
+  <circle cx="925" cy="310" r="20" fill="#dcedc8" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="925" y1="310" x2="925" y2="430" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="853" y="430" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="925" y="458" text-anchor="middle" class="small" font-weight="700">11月4日</text>
+  <text x="925" y="483" text-anchor="middle" class="label" font-size="16">夜</text>
+  <text x="925" y="506" text-anchor="middle" class="tiny">オールナイトスタジオ撮影</text>
+  <circle cx="1060" cy="310" r="20" fill="#ffecb3" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="1060" y1="310" x2="1060" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="988" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="1060" y="163" text-anchor="middle" class="small" font-weight="700">12月</text>
+  <text x="1060" y="188" text-anchor="middle" class="label" font-size="16">4位/DW10</text>
+  <text x="1060" y="211" text-anchor="middle" class="tiny">ルール形成と国際化</text>
+  <rect x="56" y="545" rx="16" width="1088" height="42" fill="#ffffff" opacity="0.82"/>
+  <text x="76" y="572" class="small">読書のヒント: DW9、SP1、およびその他のソーシャル メディアのヒントは、時間の位置を特定するためにのみ使用されます。規模と性質は Doll Weekend 公式ウェブサイト、TwiPla、FGO / WCS / Aniplex 公式情報に基づく必要があります。</text>
+</svg>

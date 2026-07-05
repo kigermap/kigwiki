@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 34px; font-weight: 800; fill: #263238; }
+      .sub { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 18px; fill: #52616b; }
+      .label { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 18px; font-weight: 700; fill: #263238; }
+      .small { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 14px; fill: #455a64; }
+      .tiny { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 12px; fill: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">2023 年风险治理矩阵</text>
+  <text x="56" y="94" class="sub">这一年最值得记录的负面内容不是八卦，而是规则如何开始写清楚。</text>
+  <rect x="70" y="145" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="145" width="16" height="118" rx="8" fill="#ef9a9a"/>
+  <text x="104" y="180" class="label">热中症 / 脱水</text>
+  <text x="104" y="209" class="small">WCS2023 提醒酷暑、补水、休息；规则中已提到可能造成脱水的着ぐるみ。</text>
+  <text x="104" y="233" class="small"></text>
+  <text x="510" y="245" class="tiny" text-anchor="end">户外大型活动</text>
+  <rect x="610" y="145" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="145" width="16" height="118" rx="8" fill="#ffcc80"/>
+  <text x="644" y="180" class="label">未经同意拍摄</text>
+  <text x="644" y="209" class="small">着ぐFesta 将“横撮り”直接定义为应避免的行为，强调先取得被摄者同意。</text>
+  <text x="644" y="233" class="small"></text>
+  <text x="1050" y="245" class="tiny" text-anchor="end">摄影边界</text>
+  <rect x="70" y="300" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="300" width="16" height="118" rx="8" fill="#ffe082"/>
+  <text x="104" y="335" class="label">身体接触</text>
+  <text x="104" y="364" class="small">着ぐFesta 禁止拥抱，理由是面具状态下不易说话、难以拒绝。</text>
+  <text x="104" y="388" class="small"></text>
+  <text x="510" y="400" class="tiny" text-anchor="end">同意表达</text>
+  <rect x="610" y="300" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="300" width="16" height="118" rx="8" fill="#80cbc4"/>
+  <text x="644" y="335" class="label">摘面与身份边界</text>
+  <text x="644" y="364" class="small">除更衣室、cloak 等区域外不得摘面，避免破坏隐私与角色边界。</text>
+  <text x="644" y="388" class="small"></text>
+  <text x="1050" y="400" class="tiny" text-anchor="end">空间管理</text>
+  <rect x="70" y="455" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="455" width="16" height="118" rx="8" fill="#90caf9"/>
+  <text x="104" y="490" class="label">水域与特殊场景</text>
+  <text x="104" y="519" class="small">DW SP2 的泳池主题提示水域拍摄需要更高安全意识；本篇不推断具体事故。</text>
+  <text x="104" y="543" class="small"></text>
+  <text x="510" y="555" class="tiny" text-anchor="end">主题活动风险</text>
+  <rect x="610" y="455" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="455" width="16" height="118" rx="8" fill="#ce93d8"/>
+  <text x="644" y="490" class="label">夜间通宵</text>
+  <text x="644" y="519" class="small">Night 线带来避开白天人流的好处，也带来疲劳、交通和后半夜注意力下降。</text>
+  <text x="644" y="543" class="small"></text>
+  <text x="1050" y="555" class="tiny" text-anchor="end">体力管理</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { font-family: 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; font-size: 34px; font-weight: 800; fill: #263238; }
+      .sub { font-family: 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; font-size: 18px; fill: #52616b; }
+      .label { font-family: 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; font-size: 18px; font-weight: 700; fill: #263238; }
+      .small { font-family: 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; font-size: 14px; fill: #455a64; }
+      .tiny { font-family: 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; font-size: 12px; fill: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">Doll Weekend 2023：從舞臺化到國際化</text>
+  <text x="56" y="94" class="sub">官方頁面與公開社媒線索顯示，2023 年中文娃/Kig 圈進入 DW10 的 400+ 與海外參與者節點。</text>
+  <rect x="72" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="187" y="220" text-anchor="middle" class="title" font-size="32">DW9</text>
+  <text x="187" y="252" text-anchor="middle" class="label" font-size="18">舞臺之光</text>
+  <rect x="112" y="275" width="150" height="34" rx="17" fill="#ffe0b2"/>
+  <text x="187" y="297" text-anchor="middle" class="tiny" font-weight="700">廣東·廣州</text>
+  <text x="102" y="350" class="small"><tspan x="102" dy="0">• 專業舞臺與大螢幕</tspan><tspan x="102" dy="28">• 近 200 名參與者</tspan><tspan x="102" dy="28">• 公開 X 線索指向 3 月下旬</tspan></text>
+  <rect x="350" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="465" y="220" text-anchor="middle" class="title" font-size="32">SP1</text>
+  <text x="465" y="252" text-anchor="middle" class="label" font-size="18">初遇河源</text>
+  <rect x="390" y="275" width="150" height="34" rx="17" fill="#c5e1a5"/>
+  <text x="465" y="297" text-anchor="middle" class="tiny" font-weight="700">廣東·河源</text>
+  <text x="380" y="350" class="small"><tspan x="380" dy="0">• 探索更多舉辦地</tspan><tspan x="380" dy="28">• 前往河源拍攝 DW10 宣傳片</tspan></text>
+  <rect x="628" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="743" y="220" text-anchor="middle" class="title" font-size="32">SP2</text>
+  <text x="743" y="252" text-anchor="middle" class="label" font-size="18">娃娃泳池大戰</text>
+  <rect x="668" y="275" width="150" height="34" rx="17" fill="#b3e5fc"/>
+  <text x="743" y="297" text-anchor="middle" class="tiny" font-weight="700">廣東·廣州</text>
+  <text x="658" y="350" class="small"><tspan x="658" dy="0">• 夏季水域/泳池主題</tspan><tspan x="658" dy="28">• 從棚拍走向休閒場景</tspan></text>
+  <rect x="906" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="1021" y="220" text-anchor="middle" class="title" font-size="32">DW10</text>
+  <text x="1021" y="252" text-anchor="middle" class="label" font-size="18">國際舞臺</text>
+  <rect x="946" y="275" width="150" height="34" rx="17" fill="#d1c4e9"/>
+  <text x="1021" y="297" text-anchor="middle" class="tiny" font-weight="700">廣東·佛山</text>
+  <text x="936" y="350" class="small"><tspan x="936" dy="0">• 2023 年 12 月</tspan><tspan x="936" dy="28">• 首次海外參與者</tspan><tspan x="936" dy="28">• 人數突破 400 人</tspan></text>
+  <path d="M185,560 C360,620 770,620 985,560" stroke="#b0bec5" stroke-width="5" fill="none" stroke-dasharray="10 10"/>
+  <text x="600" y="638" text-anchor="middle" class="label">2024 DW11 的 500+、2025 DW12 的 1000+，都以 DW10 的國際化為前置。</text>
+</svg>
