@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 34 пикселей; вес шрифта: 800; заливка: #263238; }
+      .sub { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; заливка: #52616b; }
+      .label { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; вес шрифта: 700; заливка: #263238; }
+      .small { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 14 пикселей; заливка: #455a64; }
+      .tiny { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 12 пикселей; заливка: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">2023 Kigurumi Хронологический график</text>
+  <text x="56" y="94" class="sub">Записываются только узлы, уникальные для 2023 года; последующие версии 2024/2025 здесь не повторяются.</text>
+  <line x1="80" y1="310" x2="1120" y2="310" stroke="#b0bec5" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="90" cy="310" r="20" fill="#ffccbc" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="90" y1="310" x2="90" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="18" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="90" y="163" text-anchor="middle" class="small" font-weight="700">Маршировать</text>
+  <text x="90" y="188" text-anchor="middle" class="label" font-size="16">FGO А.Дж. 2023 г.</text>
+  <text x="90" y="211" text-anchor="middle" class="tiny">официальное приветствие на стенде</text>
+  <circle cx="190" cy="310" r="20" fill="#ffe082" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="190" y1="310" x2="190" y2="430" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="118" y="430" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="190" y="458" text-anchor="middle" class="small" font-weight="700">конец марта</text>
+  <text x="190" y="483" text-anchor="middle" class="label" font-size="16">DW9</text>
+  <text x="190" y="506" text-anchor="middle" class="tiny">Профессиональная сцена с почти 200 людьми</text>
+  <circle cx="300" cy="310" r="20" fill="#c8e6c9" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="300" y1="310" x2="300" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="228" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="300" y="163" text-anchor="middle" class="small" font-weight="700">8 апреля</text>
+  <text x="300" y="188" text-anchor="middle" class="label" font-size="16">着ぐFesta</text>
+  <text x="300" y="211" text-anchor="middle" class="tiny">Примерить·Общаться·60 человек</text>
+  <circle cx="410" cy="310" r="20" fill="#bbdefb" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="410" y1="310" x2="410" y2="430" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="338" y="430" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="410" y="458" text-anchor="middle" class="small" font-weight="700">Июнь</text>
+  <text x="410" y="483" text-anchor="middle" class="label" font-size="16">hololive Ярмарка игрушек</text>
+  <text x="410" y="506" text-anchor="middle" class="tiny">Mikodanye / Subaru Duck</text>
+  <circle cx="525" cy="310" r="20" fill="#d1c4e9" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="525" y1="310" x2="525" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="453" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="525" y="163" text-anchor="middle" class="small" font-weight="700">Июль</text>
+  <text x="525" y="188" text-anchor="middle" class="label" font-size="16">AX/FGO Фес</text>
+  <text x="525" y="211" text-anchor="middle" class="tiny">Северная Америка и Макухари Официальный kigurumi</text>
+  <circle cx="650" cy="310" r="20" fill="#b2dfdb" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="650" y1="310" x2="650" y2="430" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="578" y="430" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="650" y="458" text-anchor="middle" class="small" font-weight="700">Август</text>
+  <text x="650" y="483" text-anchor="middle" class="label" font-size="16">WCS 2023 г.</text>
+  <text x="650" y="506" text-anchor="middle" class="tiny">Полные правила возрождения и теплового удара</text>
+  <circle cx="790" cy="310" r="20" fill="#f8bbd0" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="790" y1="310" x2="790" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="718" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="790" y="163" text-anchor="middle" class="small" font-weight="700">26 августа</text>
+  <text x="790" y="188" text-anchor="middle" class="label" font-size="16">着ぐFesta 3-й</text>
+  <text x="790" y="211" text-anchor="middle" class="tiny">dealer Общайтесь с новыми людьми</text>
+  <circle cx="925" cy="310" r="20" fill="#dcedc8" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="925" y1="310" x2="925" y2="430" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="853" y="430" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="925" y="458" text-anchor="middle" class="small" font-weight="700">4 ноября</text>
+  <text x="925" y="483" text-anchor="middle" class="label" font-size="16">Ночь</text>
+  <text x="925" y="506" text-anchor="middle" class="tiny">всю ночь студийная фотосъемка</text>
+  <circle cx="1060" cy="310" r="20" fill="#ffecb3" stroke="#ffffff" stroke-width="5" filter="url(#shadow)"/>
+  <line x1="1060" y1="310" x2="1060" y2="190" stroke="#90a4ae" stroke-width="2" stroke-dasharray="5 5"/>
+  <rect x="988" y="135" rx="18" ry="18" width="144" height="92" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="1060" y="163" text-anchor="middle" class="small" font-weight="700">декабрь</text>
+  <text x="1060" y="188" text-anchor="middle" class="label" font-size="16">4-й/DW10</text>
+  <text x="1060" y="211" text-anchor="middle" class="tiny">Формирование правил и интернационализация</text>
+  <rect x="56" y="545" rx="16" width="1088" height="42" fill="#ffffff" opacity="0.82"/>
+  <text x="76" y="572" class="small">Советы по чтению: DW9, SP1 и другие подсказки социальных сетей используются только для позиционирования во времени; масштаб и характер должны быть основаны на официальном сайте Doll Weekend, официальной информации TwiPla, FGO/WCS/Aniplex.</text>
+</svg>

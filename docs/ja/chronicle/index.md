@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">23</span><h3>2023年 Kigurumi 編年史</h3><p>オフライン復帰、着ぐFesta のルール化、Doll Weekend 10、WCS の完全復活、公式 IP greeting、リスク治理の前置テキストを収録する。</p><a href="../years/2023/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>2024年 Kigurumi 編年史</h3><p>専門イベントの形成、公式IP greeting、Doll Weekend 11、夏季安全治理、年末の知識生産、リスク境界を収録する。</p><a href="../years/2024/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>2025年 Kigurumi 編年史</h3><p>2025年の公開ノード、活動制度、地域横断ネットワーク、Doll Weekend 12、WCSルール、公式IP greeting、リスク治理を収録する。</p><a href="../years/2025/">年度ページへ</a></article>
   </div>

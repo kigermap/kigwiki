@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 34 пикселей; вес шрифта: 800; заливка: #263238; }
+      .sub { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; заливка: #52616b; }
+      .label { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 18 пикселей; вес шрифта: 700; заливка: #263238; }
+      .small { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 14 пикселей; заливка: #455a64; }
+      .tiny { семейство шрифтов: 'Noto Sans','Arial',Arial,sans-serif; размер шрифта: 12 пикселей; заливка: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">Экологическая стратификация в 2023 году: восстановление, экспериментирование, интернационализация</text>
+  <text x="56" y="94" class="sub">В отличие от масштабного расширения 2024/2025 года, 2023 год больше похож на год возобновления офлайн-деятельности.</text>
+  <rect x="70" y="150" width="300" height="160" rx="26" fill="#fff3e0" filter="url(#shadow)"/>
+  <text x="94" y="192" class="label">Материальное воплощение официальных IP</text>
+  <text x="94" y="226" class="small"><tspan x="94" dy="0">FGO / hololive / Aniplex</tspan><tspan x="94" dy="24">Приветствие на стенде, mini stage, юбилейное мероприятие</tspan></text>
+  <rect x="94" y="262" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="159" y="282" class="tiny" text-anchor="middle" font-weight="700">видимость роли</text>
+  <rect x="450" y="150" width="300" height="160" rx="26" fill="#e3f2fd" filter="url(#shadow)"/>
+  <text x="474" y="192" class="label">Деятельность японских фанатов</text>
+  <text x="474" y="226" class="small"><tspan x="474" dy="0">着ぐFesta Обычный возврат, 3-го, Ночь, 4-го числа</tspan><tspan x="474" dy="24">Для новичков, правила фотографии, dealer</tspan></text>
+  <rect x="474" y="262" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="539" y="282" class="tiny" text-anchor="middle" font-weight="700">Прототип правил</text>
+  <rect x="830" y="150" width="300" height="160" rx="26" fill="#f1f8e9" filter="url(#shadow)"/>
+  <text x="854" y="192" class="label">Китайский круг 娃/Kig</text>
+  <text x="854" y="226" class="small"><tspan x="854" dy="0">Сцена DW9, исследование площадки SP, DW10 400+</tspan><tspan x="854" dy="24">Появляются зарубежные игроки</tspan></text>
+  <rect x="854" y="262" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="919" y="282" class="tiny" text-anchor="middle" font-weight="700">Накануне интернационализации</text>
+  <rect x="250" y="400" width="300" height="160" rx="26" fill="#f3e5f5" filter="url(#shadow)"/>
+  <text x="274" y="442" class="label">Большая комплексная выставка</text>
+  <text x="274" y="476" class="small"><tspan x="274" dy="0">WCS2023: полное возрождение</tspan><tspan x="274" dy="24">33 страны и региона</tspan></text>
+  <rect x="274" y="512" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="339" y="532" class="tiny" text-anchor="middle" font-weight="700">Управление общественным пространством</text>
+  <rect x="650" y="400" width="300" height="160" rx="26" fill="#e0f7fa" filter="url(#shadow)"/>
+  <text x="674" y="442" class="label">управление рисками</text>
+  <text x="674" y="476" class="small"><tspan x="674" dy="0">Тепловой синдром, съемка без согласия, соблюдение границ, удаление лица</tspan><tspan x="674" dy="24">От опыта к правилам</tspan></text>
+  <rect x="674" y="512" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="739" y="532" class="tiny" text-anchor="middle" font-weight="700">Безопасность и согласие</text>
+<path d="M370,230 C410,230 410,230 450,230" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+<path d="M750,230 C790,230 790,230 830,230" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+<path d="M600,310 C640,310 360,400 400,400" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+<path d="M780,310 C820,310 760,400 800,400" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+<path d="M550,480 C590,480 610,480 650,480" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+</svg>

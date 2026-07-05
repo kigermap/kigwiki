@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 34px;フォントの太さ: 800;塗りつぶし: #263238; }
+      .sub { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 18px;塗りつぶし: #52616b; }
+      .label { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 18px;フォントの太さ: 700;塗りつぶし: #263238; }
+      .small { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 14px;塗りつぶし: #455a64; }
+      .tiny { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 12px;塗りつぶし: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">2023 年のリスク ガバナンス マトリックス</text>
+  <text x="56" y="94" class="sub">今年記録する価値のある最もネガティブなことは、ゴシップではなく、ルールを明確に書き始める方法です。</text>
+  <rect x="70" y="145" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="145" width="16" height="118" rx="8" fill="#ef9a9a"/>
+  <text x="104" y="180" class="label">熱中症・脱水症状</text>
+  <text x="104" y="209" class="small">WCS2023 は、猛暑の間は水分を補給し、休むように促します。脱水症状を引き起こす可能性がある着ぐるみはルールに記載されています。</text>
+  <text x="104" y="233" class="small"></text>
+  <text x="510" y="245" class="tiny" text-anchor="end">大規模な屋外イベント</text>
+  <rect x="610" y="145" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="145" width="16" height="118" rx="8" fill="#ffcc80"/>
+  <text x="644" y="180" class="label">許可なく撮影された</text>
+  <text x="644" y="209" class="small">着ぐFesta は、「横撮り」を避けるべき行為として直接定義し、最初に対象者の同意を得る必要性を強調しています。</text>
+  <text x="644" y="233" class="small"></text>
+  <text x="1050" y="245" class="tiny" text-anchor="end">写真の境界線</text>
+  <rect x="70" y="300" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="300" width="16" height="118" rx="8" fill="#ffe082"/>
+  <text x="104" y="335" class="label">身体的接触</text>
+  <text x="104" y="364" class="small">着ぐFesta ハグはマスクの下で話したり拒否したりするのが難しいという理由で禁止されています。</text>
+  <text x="104" y="388" class="small"></text>
+  <text x="510" y="400" class="tiny" text-anchor="end">同意の表明</text>
+  <rect x="610" y="300" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="300" width="16" height="118" rx="8" fill="#80cbc4"/>
+  <text x="644" y="335" class="label">顔の削除とアイデンティティの境界</text>
+  <text x="644" y="364" class="small">プライバシーや役割の境界を損なうことを避けるため、ロッカールーム、cloak、その他のエリアを除いてマスクを外すことは許可されていません。</text>
+  <text x="644" y="388" class="small"></text>
+  <text x="1050" y="400" class="tiny" text-anchor="end">スペース管理</text>
+  <rect x="70" y="455" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="70" y="455" width="16" height="118" rx="8" fill="#90caf9"/>
+  <text x="104" y="490" class="label">水と特別なシーン</text>
+  <text x="104" y="519" class="small">DW SP2 のスイミング プールのテーマは、水中での撮影にはより高い安全意識が必要であることを示唆しています。この記事は特定の事故を推測するものではありません。</text>
+  <text x="104" y="543" class="small"></text>
+  <text x="510" y="555" class="tiny" text-anchor="end">テーマ活動のリスク</text>
+  <rect x="610" y="455" width="495" height="118" rx="22" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="610" y="455" width="16" height="118" rx="8" fill="#ce93d8"/>
+  <text x="644" y="490" class="label">一晩中</text>
+  <text x="644" y="519" class="small">ナイトラインは日中の混雑を避けるという利点がありますが、夜の後半には疲労、渋滞、集中力の低下ももたらします。</text>
+  <text x="644" y="543" class="small"></text>
+  <text x="1050" y="555" class="tiny" text-anchor="end">体力管理</text>
+</svg>

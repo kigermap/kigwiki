@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 34px;フォントの太さ: 800;塗りつぶし: #263238; }
+      .sub { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 18px;塗りつぶし: #52616b; }
+      .label { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 18px;フォントの太さ: 700;塗りつぶし: #263238; }
+      .small { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 14px;塗りつぶし: #455a64; }
+      .tiny { font-family: 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;フォントサイズ: 12px;塗りつぶし: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">Doll Weekend 2023: 段階から国際化へ</text>
+  <text x="56" y="94" class="sub">公式ページと公開ソーシャルメディアの手掛かりは、2023 年に中国の娃/Kig サークルが海外の参加者とともに DW10 の 400 以上のノードに参入することを示しています。</text>
+  <rect x="72" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="187" y="220" text-anchor="middle" class="title" font-size="32">DW9</text>
+  <text x="187" y="252" text-anchor="middle" class="label" font-size="18">ステージライト</text>
+  <rect x="112" y="275" width="150" height="34" rx="17" fill="#ffe0b2"/>
+  <text x="187" y="297" text-anchor="middle" class="tiny" font-weight="700">広東・広州</text>
+  <text x="102" y="350" class="small"><tspan x="102" dy="0">• プロのステージと大画面</tspan><tspan x="102" dy="28">• 200名近くの参加者</tspan><tspan x="102" dy="28">• 公開された X の手がかりは 3 月下旬を示している</tspan></text>
+  <rect x="350" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="465" y="220" text-anchor="middle" class="title" font-size="32">SP1</text>
+  <text x="465" y="252" text-anchor="middle" class="label" font-size="18">河源との最初の出会い</text>
+  <rect x="390" y="275" width="150" height="34" rx="17" fill="#c5e1a5"/>
+  <text x="465" y="297" text-anchor="middle" class="tiny" font-weight="700">広東・河源</text>
+  <text x="380" y="350" class="small"><tspan x="380" dy="0">• さらに多くの会場を探索する</tspan><tspan x="380" dy="28">• 河源に行ってDW10のプロモーションビデオを撮影</tspan></text>
+  <rect x="628" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="743" y="220" text-anchor="middle" class="title" font-size="32">SP2</text>
+  <text x="743" y="252" text-anchor="middle" class="label" font-size="18">人形のプールファイト</text>
+  <rect x="668" y="275" width="150" height="34" rx="17" fill="#b3e5fc"/>
+  <text x="743" y="297" text-anchor="middle" class="tiny" font-weight="700">広東・広州</text>
+  <text x="658" y="350" class="small"><tspan x="658" dy="0">• 夏の水/プールのテーマ</tspan><tspan x="658" dy="28">• スタジオ撮影からカジュアルなシーンまで</tspan></text>
+  <rect x="906" y="165" width="230" height="360" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="1021" y="220" text-anchor="middle" class="title" font-size="32">DW10</text>
+  <text x="1021" y="252" text-anchor="middle" class="label" font-size="18">国際舞台</text>
+  <rect x="946" y="275" width="150" height="34" rx="17" fill="#d1c4e9"/>
+  <text x="1021" y="297" text-anchor="middle" class="tiny" font-weight="700">広東省仏山市</text>
+  <text x="936" y="350" class="small"><tspan x="936" dy="0">• 2023 年 12 月</tspan><tspan x="936" dy="28">• 初めての海外参加者</tspan><tspan x="936" dy="28">• 人数が400人を超えた</tspan></text>
+  <path d="M185,560 C360,620 770,620 985,560" stroke="#b0bec5" stroke-width="5" fill="none" stroke-dasharray="10 10"/>
+  <text x="600" y="638" text-anchor="middle" class="label">2024 DW11 の 500+ と 2025 DW12 の 1000+ はすべて、DW10 の国際化によって先行されています。</text>
+</svg>

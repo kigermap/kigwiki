@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f9"/>
+      <stop offset="55%" stop-color="#f5fbff"/>
+      <stop offset="100%" stop-color="#f8fff5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 34px; font-weight: 800; fill: #263238; }
+      .sub { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 18px; fill: #52616b; }
+      .label { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 18px; font-weight: 700; fill: #263238; }
+      .small { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 14px; fill: #455a64; }
+      .tiny { font-family: 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; font-size: 12px; fill: #607d8b; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">2023 年生态分层：复苏、试验、国际化</text>
+  <text x="56" y="94" class="sub">与 2024/2025 的大规模化不同，2023 更像把线下活动重新接起来的一年。</text>
+  <rect x="70" y="150" width="300" height="160" rx="26" fill="#fff3e0" filter="url(#shadow)"/>
+  <text x="94" y="192" class="label">官方 IP 实体化</text>
+  <text x="94" y="226" class="small"><tspan x="94" dy="0">FGO / hololive / Aniplex</tspan><tspan x="94" dy="24">展位 greeting、mini stage、周年活动</tspan></text>
+  <rect x="94" y="262" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="159" y="282" class="tiny" text-anchor="middle" font-weight="700">角色可见度</text>
+  <rect x="450" y="150" width="300" height="160" rx="26" fill="#e3f2fd" filter="url(#shadow)"/>
+  <text x="474" y="192" class="label">日本爱好者活动</text>
+  <text x="474" y="226" class="small"><tspan x="474" dy="0">着ぐFesta 常规回、3rd、Night、4th</tspan><tspan x="474" dy="24">新人友好、摄影规则、dealer</tspan></text>
+  <rect x="474" y="262" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="539" y="282" class="tiny" text-anchor="middle" font-weight="700">规则雏形</text>
+  <rect x="830" y="150" width="300" height="160" rx="26" fill="#f1f8e9" filter="url(#shadow)"/>
+  <text x="854" y="192" class="label">中文娃/Kig 圈</text>
+  <text x="854" y="226" class="small"><tspan x="854" dy="0">DW9 舞台化、SP 场地探索、DW10 400+</tspan><tspan x="854" dy="24">海外参与者出现</tspan></text>
+  <rect x="854" y="262" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="919" y="282" class="tiny" text-anchor="middle" font-weight="700">国际化前夜</text>
+  <rect x="250" y="400" width="300" height="160" rx="26" fill="#f3e5f5" filter="url(#shadow)"/>
+  <text x="274" y="442" class="label">大型综合展</text>
+  <text x="274" y="476" class="small"><tspan x="274" dy="0">WCS2023 完全复活</tspan><tspan x="274" dy="24">33 个国家/地区代表队</tspan></text>
+  <rect x="274" y="512" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="339" y="532" class="tiny" text-anchor="middle" font-weight="700">公共场地治理</text>
+  <rect x="650" y="400" width="300" height="160" rx="26" fill="#e0f7fa" filter="url(#shadow)"/>
+  <text x="674" y="442" class="label">风险治理</text>
+  <text x="674" y="476" class="small"><tspan x="674" dy="0">热中症、未经同意拍摄、拥抱边界、摘面范围</tspan><tspan x="674" dy="24">从经验转向规则</tspan></text>
+  <rect x="674" y="512" rx="16" width="130" height="30" fill="#ffffff" opacity="0.82"/>
+  <text x="739" y="532" class="tiny" text-anchor="middle" font-weight="700">安全与同意</text>
+<path d="M370,230 C410,230 410,230 450,230" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+<path d="M750,230 C790,230 790,230 830,230" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+<path d="M600,310 C640,310 360,400 400,400" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+<path d="M780,310 C820,310 760,400 800,400" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+<path d="M550,480 C590,480 610,480 650,480" stroke="#90a4ae" stroke-width="3" fill="none" stroke-dasharray="8 8"/>
+</svg>
