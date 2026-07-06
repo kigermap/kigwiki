@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img">
+
+<style>
+  .bg {fill: #fffaf3; }
+  .title { шрифт: 700 34px «Noto Sans», «Arial», Arial, без засечек; заливка: #2b2118; }
+  .subtitle { шрифт: 400 17 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #64564a; }
+  .label { шрифт: 700 18 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #2b2118; }
+  .small { шрифт: 400 14 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #4c4037; }
+  .tiny { шрифт: 400 12 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #6a5a4c; }
+  .card {fill: #ffffff; штрих: #d8c4aa; ширина штриха: 2; прием: 16; }
+  .soft {fill: #f3e1c8; штрих: #cba982; ширина штриха: 2; прием: 16; }
+  .accent {fill: #c66b43; }
+  .accent2 { fill: #5a8a8a; }
+  .accent3 { fill: #7a5c9b; }
+  .line {stroke: #b48a60; ширина штриха: 4; штрих-линейная крышка: круглая; }
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<text x="50" y="60" class="title">Неповторяющиеся отношения с 2022 → 2025 гг.</text>
+<text x="50" y="92" class="subtitle">В этой статье написано только о предварительном статусе в 2022 году, и не повторяются зрелые версии, подробно написанные в последующие годы.</text>
+<rect x="70" y="145" width="250" height="180" class="soft"/><text x="100" y="190" class="label">2022 год</text><text x="100" y="225" class="small">Офлайн-перезапуск</text><text x="100" y="250" class="small">Правила COVID / теплового удара</text><text x="100" y="275" class="small">DW5 — DW8</text>
+<rect x="345" y="145" width="250" height="180" class="card"/><text x="375" y="190" class="label">2023 год</text><text x="375" y="225" class="small">着ぐFesta несколько раз</text><text x="375" y="250" class="small">ДВ9—ДВ10</text><text x="375" y="275" class="small">Накануне интернационализации</text>
+<rect x="620" y="145" width="250" height="180" class="soft"/><text x="650" y="190" class="label">2024 год</text><text x="650" y="225" class="small">производство знаний</text><text x="650" y="250" class="small">DW11</text><text x="650" y="275" class="small">Правила продолжают дорабатываться</text>
+<rect x="895" y="145" width="250" height="180" class="card"/><text x="925" y="190" class="label">2025 год</text><text x="925" y="225" class="small">Уровень DW12 тысяч человек</text><text x="925" y="250" class="small">WCS вход в маске</text><text x="925" y="275" class="small">Трансграничное промышленное давление</text>
+<line x1="320" y1="235" x2="345" y2="235" class="line"/><line x1="595" y1="235" x2="620" y2="235" class="line"/><line x1="870" y1="235" x2="895" y2="235" class="line"/>
+<text x="105" y="390" class="small">Принципы написания: Если та же серия в последующие годы станет более зрелой, эта статья не будет повторять зрелую версию, а лишь сохранит исходную форму, правила и масштаб 2022 года.</text>
+
+</svg>

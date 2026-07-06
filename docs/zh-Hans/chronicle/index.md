@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">22</span>
+      <h3>2022 年 Kigurumi 编年史</h3>
+      <p>收录 2022 年疫情后线下重启、キグルミwasshoi!、着ぐFesta 首回、FGO 官方 greeting、WCS 风险规则和 Doll Weekend 5-8。</p>
+      <a href="../years/2022/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">23</span>
       <h3>2023 年 Kigurumi 编年史</h3>
       <p>收录 2023 年线下复苏、着ぐFesta 规则化、Doll Weekend 10、WCS 完全复活、官方 IP greeting 和风险治理前置文本。</p>

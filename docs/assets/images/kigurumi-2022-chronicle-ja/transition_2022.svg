@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img">
+
+<style>
+  .bg { 塗りつぶし: #fffaf3; }
+  .title { font: 700 34px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #2b2118; }
+  .subtitle { font: 400 17px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #64564a; }
+  .label { font: 700 18px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #2b2118; }
+  .small { font: 400 14px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #4c4037; }
+  .tiny { font: 400 12px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #6a5a4c; }
+  .card { 塗りつぶし: #ffffff;ストローク: #d8c4aa;ストローク幅: 2; rx: 16; }
+  .soft { 塗りつぶし: #f3e1c8;ストローク: #cba982;ストローク幅: 2; rx: 16; }
+  .accent { 塗りつぶし: #c66b43; }
+  .accent2 { 塗りつぶし: #5a8a8a; }
+  .accent3 { 塗りつぶし: #7a5c9b; }
+  .line { ストローク: #b48a60;ストローク幅: 4;ストロークラインキャップ: 丸; }
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<text x="50" y="60" class="title">2022 → 2025 までの繰り返しのない関係</text>
+<text x="50" y="92" class="subtitle">この記事では 2022 年の暫定的な状況についてのみ説明し、その後の年に詳細に書かれた成熟したバージョンについては繰り返しません。</text>
+<rect x="70" y="145" width="250" height="180" class="soft"/><text x="100" y="190" class="label">2022年</text><text x="100" y="225" class="small">オフライン再起動</text><text x="100" y="250" class="small">COVID / 熱中症ルール</text><text x="100" y="275" class="small">DW5 — DW8</text>
+<rect x="345" y="145" width="250" height="180" class="card"/><text x="375" y="190" class="label">2023年</text><text x="375" y="225" class="small">着ぐFesta を複数回実行</text><text x="375" y="250" class="small">DW9—DW10</text><text x="375" y="275" class="small">国際化前夜</text>
+<rect x="620" y="145" width="250" height="180" class="soft"/><text x="650" y="190" class="label">2024年</text><text x="650" y="225" class="small">知識生産</text><text x="650" y="250" class="small">DW11</text><text x="650" y="275" class="small">ルールは改良され続けている</text>
+<rect x="895" y="145" width="250" height="180" class="card"/><text x="925" y="190" class="label">2025年</text><text x="925" y="225" class="small">DW1.2万人レベル</text><text x="925" y="250" class="small">WCS マスク入場</text><text x="925" y="275" class="small">国境を越えた産業圧力</text>
+<line x1="320" y1="235" x2="345" y2="235" class="line"/><line x1="595" y1="235" x2="620" y2="235" class="line"/><line x1="870" y1="235" x2="895" y2="235" class="line"/>
+<text x="105" y="390" class="small">執筆原則: 同じシリーズが後年さらに成熟した場合、この記事は成熟したバージョンを繰り返さず、2022 年の元の形式、ルール、スケールのみを保持します。</text>
+
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img">
+
+<style>
+  .bg {fill: #fffaf3; }
+  .title { шрифт: 700 34px «Noto Sans», «Arial», Arial, без засечек; заливка: #2b2118; }
+  .subtitle { шрифт: 400 17 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #64564a; }
+  .label { шрифт: 700 18 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #2b2118; }
+  .small { шрифт: 400 14 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #4c4037; }
+  .tiny { шрифт: 400 12 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #6a5a4c; }
+  .card {fill: #ffffff; штрих: #d8c4aa; ширина штриха: 2; прием: 16; }
+  .soft {fill: #f3e1c8; штрих: #cba982; ширина штриха: 2; прием: 16; }
+  .accent {fill: #c66b43; }
+  .accent2 { fill: #5a8a8a; }
+  .accent3 { fill: #7a5c9b; }
+  .line {stroke: #b48a60; ширина штриха: 4; штрих-линейная крышка: круглая; }
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<text x="50" y="60" class="title">Карта экологической стратификации 2022 года</text>
+<text x="50" y="92" class="subtitle">kigurumi в том же году - это не единый маршрут, а официальный, общественный, китайский 娃/Kig круг и параллельное управление правлением.</text>
+<rect x="70" y="135" width="250" height="110" class="soft"/><text x="95" y="175" class="label">Официальное IP greeting</text><text x="95" y="205" class="small">FGO AnimeJapan</text><text x="95" y="227" class="small">FGO Fes. возвращается в офлайн-режим</text>
+<rect x="345" y="135" width="250" height="110" class="card"/><text x="370" y="175" class="label">Специализированная деятельность</text><text x="370" y="205" class="small">キグルミwasshoi! 19</text><text x="370" y="227" class="small">着ぐFesta первый выпуск</text>
+<rect x="620" y="135" width="250" height="110" class="soft"/><text x="645" y="175" class="label">Китайский Doll Weekend</text><text x="645" y="205" class="small">DW5 — DW8</text><text x="645" y="227" class="small">Тематика, Экспоненты, Фейерверки</text>
+<rect x="895" y="135" width="250" height="110" class="card"/><text x="920" y="175" class="label">Основные правила конференции</text><text x="920" y="205" class="small">WCS 2022</text><text x="920" y="227" class="small">Общественное пространство・тепловой удар・COVID</text>
+<line x1="195" y1="245" x2="195" y2="330" class="line"/><line x1="470" y1="245" x2="470" y2="330" class="line"/><line x1="745" y1="245" x2="745" y2="330" class="line"/><line x1="1020" y1="245" x2="1020" y2="330" class="line"/>
+<rect x="125" y="330" width="950" height="150" class="card"/>
+<text x="160" y="372" class="label">Общие основные проблемы</text>
+<text x="160" y="405" class="small">Подтверждение личности после закрытия лица, выражение согласия при невозможности говорить, перегрев и обезвоживание из-за длительного ношения, разрешение на загрузку фотографий, публичная публика в общественных местах,</text>
+<text x="160" y="430" class="small">Семантическое смешение движений при транспортировке и одевании, а также «официального талисмана / animegao / doller / косплея в полный рост».</text>
+
+</svg>

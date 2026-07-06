@@ -26,6 +26,12 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">22</span>
+      <h3>2022 年 Kigurumi 编年史</h3>
+      <p>整理 2022 年公开可检索的 kigurumi 相关线下重启、官方 IP greeting、キグルミwasshoi!、着ぐFesta 首回、WCS 规则和 Doll Weekend 5-8，并纳入原创图表资源。</p>
+      <a href="2022/">阅读 2022 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">23</span>
       <h3>2023 年 Kigurumi 编年史</h3>
       <p>整理 2023 年公开可检索的 kigurumi 相关活动、官方 IP greeting、Doll Weekend 10、WCS 复苏、安全规则和年度前置关系，并纳入原创图表资源。</p>
@@ -53,7 +59,7 @@
     <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010-2013</h3><p>早期线索收集卷，重点补充公开出处、旧相册说明和活动称谓校对。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014-2016</h3><p>活动组织与资料编号逐渐形成，适合建立早期活动谱系。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017-2019</h3><p>线下空间、摄影协作、访谈转写和礼仪记忆需要集中整理。</p></article>
-    <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020-2022</h3><p>线上资料、远程协作、多平台存档和公开边界成为重点。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020-2021</h3><p>线上资料、远程协作、多平台存档和公开边界成为重点。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>
