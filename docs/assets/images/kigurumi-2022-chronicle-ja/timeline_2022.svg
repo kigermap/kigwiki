@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img">
+
+<style>
+  .bg { 塗りつぶし: #fffaf3; }
+  .title { font: 700 34px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #2b2118; }
+  .subtitle { font: 400 17px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #64564a; }
+  .label { font: 700 18px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #2b2118; }
+  .small { font: 400 14px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #4c4037; }
+  .tiny { font: 400 12px 'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Arial,sans-serif;塗りつぶし: #6a5a4c; }
+  .card { 塗りつぶし: #ffffff;ストローク: #d8c4aa;ストローク幅: 2; rx: 16; }
+  .soft { 塗りつぶし: #f3e1c8;ストローク: #cba982;ストローク幅: 2; rx: 16; }
+  .accent { 塗りつぶし: #c66b43; }
+  .accent2 { 塗りつぶし: #5a8a8a; }
+  .accent3 { 塗りつぶし: #7a5c9b; }
+  .line { ストローク: #b48a60;ストローク幅: 4;ストロークラインキャップ: 丸; }
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<text x="50" y="60" class="title">2022 Kigurumi 編年史 タイムライン</text>
+<text x="50" y="92" class="subtitle">流行後のオフライン再開、公式 IP の復帰、中国語圏の娃/Kig 圏の早期拡大と正規化の出発点</text>
+<line x1="80" y1="210" x2="1120" y2="210" class="line"/>
+<circle cx="170" cy="210" r="14" class="accent"/><text x="130" y="250" class="label">3月</text><text x="95" y="276" class="small">FGO × AnimeJapan</text><text x="94" y="296" class="tiny">greeting stage プラン</text>
+<circle cx="320" cy="210" r="14" class="accent2"/><text x="280" y="170" class="label">4月</text><text x="235" y="145" class="small">第19回キグルミwasshoi!</text><text x="252" y="125" class="tiny">ホテル・プール・ステージ・dealer</text>
+<circle cx="470" cy="210" r="14" class="accent3"/><text x="430" y="250" class="label">6月</text><text x="383" y="276" class="small">DW5</text><text x="382" y="296" class="tiny">白黒メイドパーティー・初めてのテーマ</text>
+<circle cx="610" cy="210" r="14" class="accent3"/><text x="570" y="170" class="label">7月</text><text x="530" y="145" class="small">DW6 + FGO Fes.</text><text x="508" y="125" class="tiny">海辺での休暇 / 周年イベントのオフライン復帰</text>
+<circle cx="765" cy="210" r="14" class="accent2"/><text x="725" y="250" class="label">8月</text><text x="660" y="276" class="small">WCS 2022 + 着ぐFesta 最初の回</text><text x="660" y="296" class="tiny">公開ルール / 熱中症 / 敷居の低いコミュニケーション</text>
+<circle cx="935" cy="210" r="14" class="accent3"/><text x="895" y="170" class="label">後半</text><text x="858" y="145" class="small">Doll Weekend 7</text><text x="822" y="125" class="tiny">最初の出展者が参加 / 150 名以上の参加者</text>
+<circle cx="1085" cy="210" r="14" class="accent3"/><text x="1045" y="250" class="label">年末</text><text x="1010" y="276" class="small">Doll Weekend 8</text><text x="1000" y="296" class="tiny">流行後の再会 / ビーチと花火</text>
+<rect x="62" y="350" width="1076" height="150" class="card"/>
+<text x="95" y="392" class="label">年次ポジショニング</text>
+<text x="95" y="425" class="small">2022年は最大規模の年ではなく、「オフラインでのつながり」の年だ。イベント主催者はマスク、体温、水分補給、写真撮影の同意、境界線への接触などの管理方法を再学習する。</text>
+<text x="95" y="450" class="small">変化する流れと公共空間。これは、2023 年から 2025 年の活動拡大、ルールの改良、産業化のための基礎となる経験を提供します。</text>
+
+</svg>

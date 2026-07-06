@@ -105,6 +105,7 @@ plugins:
                 - 编年总览: chronicle/index.md
                 - 年份目录:
                     - 年份总览: years/index.md
+                    - 2022 年 Kigurumi 编年史: years/2022/index.md
                     - 2023 年 Kigurumi 编年史: years/2023/index.md
                     - 2024 年 Kigurumi 编年史: years/2024/index.md
                     - 2025 年 Kigurumi 编年史: years/2025/index.md
@@ -179,6 +180,7 @@ plugins:
                 - 編年總覽: chronicle/index.md
                 - 年份目錄:
                     - 年份總覽: years/index.md
+                    - 2022 年 Kigurumi 編年史: years/2022/index.md
                     - 2023 年 Kigurumi 編年史: years/2023/index.md
                     - 2024 年 Kigurumi 編年史: years/2024/index.md
                     - 2025 年 Kigurumi 編年史: years/2025/index.md
@@ -321,6 +323,7 @@ plugins:
                 - 編年総覧: chronicle/index.md
                 - 年別目録:
                     - 年別総覧: years/index.md
+                    - 2022年 Kigurumi 編年史: years/2022/index.md
                     - 2023年 Kigurumi 編年史: years/2023/index.md
                     - 2024年 Kigurumi 編年史: years/2024/index.md
                     - 2025年 Kigurumi 編年史: years/2025/index.md
@@ -395,6 +398,7 @@ plugins:
                 - Обзор: chronicle/index.md
                 - Годы:
                     - Обзор годов: years/index.md
+                    - Хроника Kigurumi 2022 года: years/2022/index.md
                     - Хроника Kigurumi 2023 года: years/2023/index.md
                     - Хроника Kigurumi 2024 года: years/2024/index.md
                     - Хроника Kigurumi 2025 года: years/2025/index.md
@@ -490,6 +494,7 @@ nav:
       - 编年总览: chronicle/index.md
       - 年份目录:
           - 年份总览: years/index.md
+          - 2022 年 Kigurumi 编年史: years/2022/index.md
           - 2023 年 Kigurumi 编年史: years/2023/index.md
           - 2024 年 Kigurumi 编年史: years/2024/index.md
           - 2025 年 Kigurumi 编年史: years/2025/index.md

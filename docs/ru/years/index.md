@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">22</span><h3>Хроника Kigurumi 2022 года</h3><p>Офлайн-перезапуск 2022 года, official IP greeting, キグルミwasshoi!, первый 着ぐFesta, правила WCS и Doll Weekend 5-8, включая локализованную инфографику.</p><a href="2022/">Читать 2022 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">23</span><h3>Хроника Kigurumi 2023 года</h3><p>Публичные события 2023 года, official IP greeting, Doll Weekend 10, возвращение WCS, правила безопасности и связи с последующими годами, включая локализованную инфографику.</p><a href="2023/">Читать 2023 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>Хроника Kigurumi 2024 года</h3><p>Собраны публичные события 2024 года, official IP greeting, узлы китайской Doll/Kig-сцены, производство знаний, управление рисками и локализованная инфографика.</p><a href="2024/">Читать 2024 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>Хроника Kigurumi 2025 года</h3><p>Собраны публичные события, правила, трансграничные связи, индустриальная цепочка, риски и итоги года, включая локализованную инфографику.</p><a href="2025/">Читать 2025 год</a></article>

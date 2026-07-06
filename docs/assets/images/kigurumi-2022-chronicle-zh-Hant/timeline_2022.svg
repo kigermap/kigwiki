@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img">
+
+<style>
+  .bg { fill: #fffaf3; }
+  .title { font: 700 34px 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; fill: #2b2118; }
+  .subtitle { font: 400 17px 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; fill: #64564a; }
+  .label { font: 700 18px 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; fill: #2b2118; }
+  .small { font: 400 14px 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; fill: #4c4037; }
+  .tiny { font: 400 12px 'Noto Sans CJK TC','Microsoft JhengHei',Arial,sans-serif; fill: #6a5a4c; }
+  .card { fill: #ffffff; stroke: #d8c4aa; stroke-width: 2; rx: 16; }
+  .soft { fill: #f3e1c8; stroke: #cba982; stroke-width: 2; rx: 16; }
+  .accent { fill: #c66b43; }
+  .accent2 { fill: #5a8a8a; }
+  .accent3 { fill: #7a5c9b; }
+  .line { stroke: #b48a60; stroke-width: 4; stroke-linecap: round; }
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<text x="50" y="60" class="title">2022 年 Kigurumi 編年史時間軸</text>
+<text x="50" y="92" class="subtitle">疫情後線下重啟、官方 IP 迴歸、中文娃圈早期擴充套件與規則化起點</text>
+<line x1="80" y1="210" x2="1120" y2="210" class="line"/>
+<circle cx="170" cy="210" r="14" class="accent"/><text x="130" y="250" class="label">3月</text><text x="95" y="276" class="small">FGO × AnimeJapan</text><text x="94" y="296" class="tiny">greeting stage 計劃</text>
+<circle cx="320" cy="210" r="14" class="accent2"/><text x="280" y="170" class="label">4月</text><text x="235" y="145" class="small">第19回キグルミwasshoi!</text><text x="252" y="125" class="tiny">酒店・泳池・舞臺・dealer</text>
+<circle cx="470" cy="210" r="14" class="accent3"/><text x="430" y="250" class="label">6月</text><text x="383" y="276" class="small">Doll Weekend 5</text><text x="382" y="296" class="tiny">黑白女僕派對 / 首次主題</text>
+<circle cx="610" cy="210" r="14" class="accent3"/><text x="570" y="170" class="label">7月</text><text x="530" y="145" class="small">DW6 + FGO Fes.</text><text x="508" y="125" class="tiny">海邊度假 / 線下週年迴歸</text>
+<circle cx="765" cy="210" r="14" class="accent2"/><text x="725" y="250" class="label">8月</text><text x="660" y="276" class="small">WCS2022 + 著ぐFesta 首回</text><text x="660" y="296" class="tiny">公共規則 / 熱中症 / 低門檻交流</text>
+<circle cx="935" cy="210" r="14" class="accent3"/><text x="895" y="170" class="label">下半年</text><text x="858" y="145" class="small">Doll Weekend 7</text><text x="822" y="125" class="tiny">首批展商加入 / 150+ 參與者</text>
+<circle cx="1085" cy="210" r="14" class="accent3"/><text x="1045" y="250" class="label">年末</text><text x="1010" y="276" class="small">Doll Weekend 8</text><text x="1000" y="296" class="tiny">疫後重逢 / 海邊與煙花</text>
+<rect x="62" y="350" width="1076" height="150" class="card"/>
+<text x="95" y="392" class="label">年度定位</text>
+<text x="95" y="425" class="small">2022 不是規模最大的年份，而是“線下重新接上”的年份：活動主辦方重新學習如何管理口罩、體溫、補水、攝影同意、觸碰邊界、</text>
+<text x="95" y="450" class="small">更衣動線與公共空間。它為 2023—2025 的活動擴張、規則細化和產業化提供了底層經驗。</text>
+
+</svg>

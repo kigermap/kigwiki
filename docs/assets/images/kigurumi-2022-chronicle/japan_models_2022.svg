@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img">
+
+<style>
+  .bg { fill: #fffaf3; }
+  .title { font: 700 34px 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; fill: #2b2118; }
+  .subtitle { font: 400 17px 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; fill: #64564a; }
+  .label { font: 700 18px 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; fill: #2b2118; }
+  .small { font: 400 14px 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; fill: #4c4037; }
+  .tiny { font: 400 12px 'Noto Sans CJK SC','Microsoft YaHei',Arial,sans-serif; fill: #6a5a4c; }
+  .card { fill: #ffffff; stroke: #d8c4aa; stroke-width: 2; rx: 16; }
+  .soft { fill: #f3e1c8; stroke: #cba982; stroke-width: 2; rx: 16; }
+  .accent { fill: #c66b43; }
+  .accent2 { fill: #5a8a8a; }
+  .accent3 { fill: #7a5c9b; }
+  .line { stroke: #b48a60; stroke-width: 4; stroke-linecap: round; }
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<text x="50" y="60" class="title">日本线下重启的三种模型</text>
+<text x="50" y="92" class="subtitle">2022 年的日本线既有大型专门酒店活动，也有低门槛交流会，还有主流大会的公共规则治理</text>
+<rect x="70" y="145" width="330" height="280" class="card"/>
+<text x="105" y="190" class="label">キグルミwasshoi! 19</text>
+<text x="105" y="225" class="small">酒店・大厅・泳池・教堂</text>
+<text x="105" y="250" class="small">stage、dealer、摄影服务</text>
+<text x="105" y="275" class="small">接触/摄影可否通行证</text>
+<text x="105" y="300" class="small">住宿楼层与夜间场景</text>
+<text x="105" y="335" class="tiny">关键词：专门活动的综合化</text>
+<rect x="435" y="145" width="330" height="280" class="soft"/>
+<text x="470" y="190" class="label">着ぐFesta 首回</text>
+<text x="470" y="225" class="small">荒川区小ホール</text>
+<text x="470" y="250" class="small">24 名公开参与者</text>
+<text x="470" y="275" class="small">白黑背景 / 自由交流</text>
+<text x="470" y="300" class="small">“先办起来再听反馈”</text>
+<text x="470" y="335" class="tiny">关键词：低门槛和新人入口</text>
+<rect x="800" y="145" width="330" height="280" class="card"/>
+<text x="835" y="190" class="label">WCS2022</text>
+<text x="835" y="225" class="small">20 周年 / 现实舞台回归</text>
+<text x="835" y="250" class="small">公共空间与普通游客共用</text>
+<text x="835" y="275" class="small">热中症、COVID、摄影同意</text>
+<text x="835" y="300" class="small">过热服装可被工作人员制止</text>
+<text x="835" y="335" class="tiny">关键词：主流大会治理</text>
+
+</svg>

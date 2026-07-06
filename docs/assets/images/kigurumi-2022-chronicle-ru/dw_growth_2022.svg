@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img">
+
+<style>
+  .bg {fill: #fffaf3; }
+  .title { шрифт: 700 34px «Noto Sans», «Arial», Arial, без засечек; заливка: #2b2118; }
+  .subtitle { шрифт: 400 17 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #64564a; }
+  .label { шрифт: 700 18 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #2b2118; }
+  .small { шрифт: 400 14 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #4c4037; }
+  .tiny { шрифт: 400 12 пикселей «Noto Sans», «Arial», Arial, без засечек; заливка: #6a5a4c; }
+  .card {fill: #ffffff; штрих: #d8c4aa; ширина штриха: 2; прием: 16; }
+  .soft {fill: #f3e1c8; штрих: #cba982; ширина штриха: 2; прием: 16; }
+  .accent {fill: #c66b43; }
+  .accent2 { fill: #5a8a8a; }
+  .accent3 { fill: #7a5c9b; }
+  .line {stroke: #b48a60; ширина штриха: 4; штрих-линейная крышка: круглая; }
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<text x="50" y="60" class="title">Doll Weekend Лестница роста на 2022 год</text>
+<text x="50" y="92" class="subtitle">В 2022 году китайская линия «Kig» перейдет от тематических мероприятий и сцен отдыха к участию экспонентов и встречам после эпидемии.</text>
+<rect x="90" y="140" width="220" height="260" class="card"/><text x="125" y="182" class="label">DW5</text><text x="125" y="215" class="small">черно-белый концерт</text><text x="125" y="240" class="small">Чжухай</text><text x="125" y="265" class="small">Первое тематическое мероприятие</text><text x="125" y="290" class="small">черно-белая вечеринка горничных</text>
+<rect x="345" y="115" width="220" height="285" class="soft"/><text x="380" y="157" class="label">DW6</text><text x="380" y="190" class="small">прибрежный отдых</text><text x="380" y="215" class="small">Шэньчжэнь</text><text x="380" y="240" class="small">Пляжная вилла после тайфуна</text><text x="380" y="265" class="small">Ролевое погружение на целый день</text><text x="380" y="290" class="small">и социальный опыт</text>
+<rect x="600" y="90" width="220" height="310" class="card"/><text x="635" y="132" class="label">DW7</text><text x="635" y="165" class="small">Подключайте новых студентов</text><text x="635" y="190" class="small">Гуанчжоу</text><text x="635" y="215" class="small">Партнеры-экспоненты присоединяются впервые</text><text x="635" y="240" class="small">Hidolls и др.</text><text x="635" y="265" class="small">Более 150 участников</text>
+<rect x="855" y="65" width="250" height="335" class="soft"/><text x="890" y="107" class="label">DW8</text><text x="890" y="140" class="small">Тепло зимой</text><text x="890" y="165" class="small">Хуэйчжоу</text><text x="890" y="190" class="small">После выхода из дымки эпидемии</text><text x="890" y="215" class="small">первое воссоединение</text><text x="890" y="240" class="small">Море, пляж и фейерверк</text>
+<path d="M310 275 C340 250, 345 240, 345 220" fill="none" stroke="#b48a60" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M565 250 C590 220, 595 205, 600 190" fill="none" stroke="#b48a60" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M820 220 C845 190, 850 170, 855 150" fill="none" stroke="#b48a60" stroke-width="4" marker-end="url(#arrow)"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#b48a60"/></marker></defs>
+
+</svg>
