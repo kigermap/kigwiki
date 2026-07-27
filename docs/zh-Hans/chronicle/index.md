@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">21</span>
+      <h3>2021 年 Kigurumi 编年史</h3>
+      <p>收录 WCS 首次混合形式、第 18 回 キグルミwasshoi! 的酒店型恢复方案，并保留 Doll Weekend 1–4 的无日期待考线索。</p>
+      <a href="../years/2021/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">22</span>
       <h3>2022 年 Kigurumi 编年史</h3>
       <p>收录 2022 年疫情后线下重启、キグルミwasshoi!、着ぐFesta 首回、FGO 官方 greeting、WCS 风险规则和 Doll Weekend 5-8。</p>
@@ -72,7 +78,8 @@
 
 <section class="archive-section" markdown>
   <div class="archive-note">
-    <strong>下一步</strong>
-    <p>真实事件录入后，编年总览应继续拆分为年度页面、专题页面和来源索引。每条纪事都应能回到至少一个来源条目。</p>
+    <strong>近期采集</strong>
+    <p>正在发生或尚未稳定的内容先进入按月维护的近期采集页，经来源复核和去重后再写入年度卷。</p>
+    <a href="../digests/">查看近期采集</a>
   </div>
 </section>

@@ -8,7 +8,7 @@ Kigurumi 编年志是一个面向 kigurumi 社群的静态资料馆项目，用�
 
 - 使用 `MkDocs Material` 构建静态站，适合部署到 Cloudflare Pages、Netlify 或任意静态托管服务。
 - 使用 `mkdocs-static-i18n` 维护文件夹式多语言结构，默认语言为 `zh-Hans`。
-- 当前核心栏目包括首页、关于介绍、参与加入、贡献与支持、编年、年份目录、地点目录、人物目录和来源目录。
+- 当前核心栏目包括首页、关于介绍、参与加入、贡献与支持、编年、年份目录、近期采集、地点目录、人物目录和来源目录。
 - 自定义 `extra.css` 和 `archive-ui.js` 提供资料馆风格、移动端导航、搜索提示和页面交互。
 - 使用 `scripts/site_hooks.py` 在构建后修正 404 页面、语言入口和嵌套 sitemap 等静态站细节。
 - 内容开发遵循“可公开、可追溯、可校勘、可持续维护”的原则。
@@ -34,6 +34,7 @@ Kigurumi 编年志是一个面向 kigurumi 社群的静态资料馆项目，用�
 │   │   ├── support/index.md     # 贡献与支持
 │   │   ├── chronicle/index.md   # 编年总览
 │   │   ├── years/index.md       # 年份目录
+│   │   ├── digests/index.md     # 按月维护的近期采集
 │   │   ├── places/index.md      # 地点目录
 │   │   ├── people/index.md      # 人物目录
 │   │   ├── sources/index.md     # 来源目录
@@ -124,10 +125,11 @@ docs/ru/about/index.md
 
 ## 编年史页面如何开发
 
-编年页面是全站资料主轴，当前由两个入口组成：
+编年页面是全站资料主轴，当前由三个入口组成：
 
 - `docs/zh-Hans/chronicle/index.md`：编年总览，用来说明编年体例、时间线和编辑方向。
 - `docs/zh-Hans/years/index.md`：年份目录，用来按年度分卷管理事件、资料批次和待考事项。
+- `docs/zh-Hans/digests/index.md`：近期采集，用来按月合并正在变化的公开信息，完成状态标注、来源复核和去重。
 
 开发编年内容时建议按以下顺序推进：
 
@@ -163,7 +165,7 @@ docs/ru/about/index.md
 ## 来源与待考
 ```
 
-新增年度页后，需要在 `years/index.md` 添加入口，并在 `mkdocs.yml` 的编年导航中加入页面。
+新增年度页后，需要在 `years/index.md` 添加入口，并在 `mkdocs.yml` 的编年导航中加入页面。月度采集不直接充当年度定稿：同一自然月只维护一个页面，活动预告和活动回顾分开标注，只有稳定且不重复的事实才转入年度卷。
 
 ## 修志页面如何开发
 
@@ -267,7 +269,7 @@ docs/ru/about/index.md
 zh-Hans -> zh-Hant -> en -> ja -> ru
 ```
 
-新增中文页面后，如果其他语言暂时没有翻译，可以先依赖默认语言回退。等栏目稳定后，再补齐对应语言目录，并在各语言导航中加入对应标题。
+自动化发布的年度编年与月度采集必须同时提供 `zh-Hans`、`zh-Hant`、`en`、`ja`、`ru` 五种语言，并同步更新各语言导航。其他栏目若暂时没有翻译，可以依赖默认语言回退；栏目稳定后再补齐对应语言目录。
 
 ## 部署
 

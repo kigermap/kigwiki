@@ -105,10 +105,14 @@ plugins:
                 - 编年总览: chronicle/index.md
                 - 年份目录:
                     - 年份总览: years/index.md
+                    - 2021 年 Kigurumi 编年史: years/2021/index.md
                     - 2022 年 Kigurumi 编年史: years/2022/index.md
                     - 2023 年 Kigurumi 编年史: years/2023/index.md
                     - 2024 年 Kigurumi 编年史: years/2024/index.md
                     - 2025 年 Kigurumi 编年史: years/2025/index.md
+                - 近期采集:
+                    - 采集总览: digests/index.md
+                    - 2026 年 7 月公开资料摘要: digests/2026-07/index.md
             - 志目:
                 - 地点目录: places/index.md
                 - 人物目录: people/index.md
@@ -180,10 +184,14 @@ plugins:
                 - 編年總覽: chronicle/index.md
                 - 年份目錄:
                     - 年份總覽: years/index.md
+                    - 2021 年 Kigurumi 編年史: years/2021/index.md
                     - 2022 年 Kigurumi 編年史: years/2022/index.md
                     - 2023 年 Kigurumi 編年史: years/2023/index.md
                     - 2024 年 Kigurumi 編年史: years/2024/index.md
                     - 2025 年 Kigurumi 編年史: years/2025/index.md
+                - 近期採集:
+                    - 採集總覽: digests/index.md
+                    - 2026 年 7 月公開資料摘要: digests/2026-07/index.md
             - 志目:
                 - 地點目錄: places/index.md
                 - 人物目錄: people/index.md
@@ -253,7 +261,12 @@ plugins:
             - Contribute: support/index.md
             - Chronicle:
                 - Overview: chronicle/index.md
-                - Years: years/index.md
+                - Years:
+                    - Years Overview: years/index.md
+                    - 2021 Kigurumi Chronicle: years/2021/index.md
+                - Recent Collection:
+                    - Collection Overview: digests/index.md
+                    - July 2026 Public-Source Digest: digests/2026-07/index.md
             - Gazetteer:
                 - Places: places/index.md
                 - People: people/index.md
@@ -323,10 +336,14 @@ plugins:
                 - 編年総覧: chronicle/index.md
                 - 年別目録:
                     - 年別総覧: years/index.md
+                    - 2021年 Kigurumi 編年史: years/2021/index.md
                     - 2022年 Kigurumi 編年史: years/2022/index.md
                     - 2023年 Kigurumi 編年史: years/2023/index.md
                     - 2024年 Kigurumi 編年史: years/2024/index.md
                     - 2025年 Kigurumi 編年史: years/2025/index.md
+                - 近期収集:
+                    - 収集総覧: digests/index.md
+                    - 2026年7月 公開資料ダイジェスト: digests/2026-07/index.md
             - 志目:
                 - 場所目録: places/index.md
                 - 人物目録: people/index.md
@@ -398,10 +415,14 @@ plugins:
                 - Обзор: chronicle/index.md
                 - Годы:
                     - Обзор годов: years/index.md
+                    - Хроника Kigurumi 2021 года: years/2021/index.md
                     - Хроника Kigurumi 2022 года: years/2022/index.md
                     - Хроника Kigurumi 2023 года: years/2023/index.md
                     - Хроника Kigurumi 2024 года: years/2024/index.md
                     - Хроника Kigurumi 2025 года: years/2025/index.md
+                - Недавние материалы:
+                    - Обзор подборок: digests/index.md
+                    - Обзор за июль 2026 года: digests/2026-07/index.md
             - Справочник:
                 - Места: places/index.md
                 - Люди: people/index.md
@@ -494,10 +515,14 @@ nav:
       - 编年总览: chronicle/index.md
       - 年份目录:
           - 年份总览: years/index.md
+          - 2021 年 Kigurumi 编年史: years/2021/index.md
           - 2022 年 Kigurumi 编年史: years/2022/index.md
           - 2023 年 Kigurumi 编年史: years/2023/index.md
           - 2024 年 Kigurumi 编年史: years/2024/index.md
           - 2025 年 Kigurumi 编年史: years/2025/index.md
+      - 近期采集:
+          - 采集总览: digests/index.md
+          - 2026 年 7 月公开资料摘要: digests/2026-07/index.md
   - 志目:
       - 地点目录: places/index.md
       - 人物目录: people/index.md
