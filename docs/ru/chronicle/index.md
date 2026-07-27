@@ -19,9 +19,14 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">21</span><h3>Хроника Kigurumi 2021 года</h3><p>Первая гибридная модель WCS, гостиничный формат 18-го キグルミwasshoi! и записи Doll Weekend 1–4 с неподтвержденными датами.</p><a href="../years/2021/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">22</span><h3>Хроника Kigurumi 2022 года</h3><p>Офлайн-перезапуск после эпидемии, キグルミwasshoi!, первый 着ぐFesta, FGO official greeting, правила WCS и Doll Weekend 5-8.</p><a href="../years/2022/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">23</span><h3>Хроника Kigurumi 2023 года</h3><p>Офлайн-восстановление, правила 着ぐFesta, Doll Weekend 10, полное возрождение WCS, official IP greeting и ранние тексты о рисках.</p><a href="../years/2023/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>Хроника Kigurumi 2024 года</h3><p>Профильные события, official IP greeting, Doll Weekend 11, летняя безопасность, производство знаний и границы рисков в 2024 году.</p><a href="../years/2024/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>Хроника Kigurumi 2025 года</h3><p>Публичные узлы 2025 года, правила мероприятий, межрегиональные связи, Doll Weekend 12, WCS, official IP greeting и управление рисками.</p><a href="../years/2025/">Открыть год</a></article>
   </div>
 </section>
+
+## Недавние материалы
+
+Текущие и еще нестабильные сведения сначала попадают в [ежемесячные подборки](../digests/index.md), где проходят проверку источников и удаление повторов, и только затем переносятся в годовые тома.

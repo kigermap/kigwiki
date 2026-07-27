@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">21</span><h3>2021 年 Kigurumi 編年史</h3><p>整理 WCS 混合活動、第 18 回 キグルミwasshoi! 與疫情期活動基礎設施，並把無日期線索與事實時間軸分開。</p><a href="2021/">閱讀 2021 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">22</span><h3>2022 年 Kigurumi 編年史</h3><p>整理 2022 年公開可檢索的 kigurumi 線下重啟、官方 IP greeting、キグルミwasshoi!、着ぐFesta 首回、WCS 規則和 Doll Weekend 5-8，並納入本地化圖表資源。</p><a href="2022/">閱讀 2022 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">23</span><h3>2023 年 Kigurumi 編年史</h3><p>整理 2023 年公開可檢索的 kigurumi 活動、官方 IP greeting、Doll Weekend 10、WCS 復甦、安全規則和年度前置關係，並納入本地化圖表資源。</p><a href="2023/">閱讀 2023 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>2024 年 Kigurumi 編年史</h3><p>整理 2024 年公開可檢索的 kigurumi 活動、官方 greeting、中文娃/Kig 圈節點、知識生產、風險治理和年度結論，並納入本地化圖表資源。</p><a href="2024/">閱讀 2024 年</a></article>

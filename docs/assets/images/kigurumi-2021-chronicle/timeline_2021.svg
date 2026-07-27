@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">2021 kigurumi public-record timeline</title>
+  <desc id="desc">A timeline showing the World Cosplay Summit hybrid event and the eighteenth Kigurumi Wasshoi event.</desc>
+  <rect width="1200" height="480" fill="#f7f8f5"/>
+  <rect x="48" y="44" width="1104" height="392" rx="6" fill="#ffffff" stroke="#18201e" stroke-width="2"/>
+  <text x="88" y="108" fill="#18201e" font-family="Arial, sans-serif" font-size="34" font-weight="700">2021 · VERIFIED PUBLIC RECORDS</text>
+  <text x="88" y="146" fill="#53605c" font-family="Arial, sans-serif" font-size="18">Hybrid infrastructure · specialist event continuity · archive discipline</text>
+  <line x1="134" y1="276" x2="1066" y2="276" stroke="#18201e" stroke-width="4"/>
+  <circle cx="250" cy="276" r="18" fill="#2a7f62"/>
+  <circle cx="560" cy="276" r="18" fill="#2c6eab"/>
+  <circle cx="900" cy="276" r="18" fill="#cf5a3c"/>
+  <rect x="128" y="182" width="244" height="66" rx="6" fill="#e1f2eb"/>
+  <text x="250" y="210" text-anchor="middle" fill="#18201e" font-family="Arial, sans-serif" font-size="17" font-weight="700">MAY 22</text>
+  <text x="250" y="234" text-anchor="middle" fill="#24473b" font-family="Arial, sans-serif" font-size="16">WCS HYBRID NOTICE</text>
+  <rect x="438" y="304" width="244" height="66" rx="6" fill="#e4eff8"/>
+  <text x="560" y="332" text-anchor="middle" fill="#18201e" font-family="Arial, sans-serif" font-size="17" font-weight="700">AUG 7–8</text>
+  <text x="560" y="356" text-anchor="middle" fill="#294c6d" font-family="Arial, sans-serif" font-size="16">REAL + ONLINE WCS</text>
+  <rect x="778" y="182" width="244" height="66" rx="6" fill="#f8e7e1"/>
+  <text x="900" y="210" text-anchor="middle" fill="#18201e" font-family="Arial, sans-serif" font-size="17" font-weight="700">OCT 23–24</text>
+  <text x="900" y="234" text-anchor="middle" fill="#713728" font-family="Arial, sans-serif" font-size="16">KIGURUMI WASSHOI 18</text>
+  <text x="88" y="408" fill="#53605c" font-family="Arial, sans-serif" font-size="16">Undated archive leads are kept outside the verified timeline.</text>
+</svg>
