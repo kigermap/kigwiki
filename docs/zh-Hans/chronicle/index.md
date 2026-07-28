@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">20</span>
+      <h3>2020 年 Kigurumi 编年史</h3>
+      <p>收录 FGO 官方着ぐるみ计划及取消状态、WCS 全面线上化、远程参与和影像传播边界。</p>
+      <a href="../years/2020/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">21</span>
       <h3>2021 年 Kigurumi 编年史</h3>
       <p>收录 WCS 首次混合形式、第 18 回 キグルミwasshoi! 的酒店型恢复方案，并保留 Doll Weekend 1–4 的无日期待考线索。</p>

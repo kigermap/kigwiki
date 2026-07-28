@@ -9,6 +9,7 @@ Annual pages turn verified event records into stable volumes. Each volume keeps 
 
 ## English edition
 
+- [2020 Kigurumi Chronicle](2020/index.md)
 - [2021 Kigurumi Chronicle](2021/index.md)
 
 The 2022–2025 annual volumes predate the full English edition. They remain available through the site's other language versions rather than being presented as complete English translations.

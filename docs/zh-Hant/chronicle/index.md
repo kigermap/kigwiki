@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已錄入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020 年 Kigurumi 編年史</h3><p>收錄 FGO 官方着ぐるみ計畫及取消狀態、WCS 全面線上化、遠程參與和影像傳播邊界。</p><a href="../years/2020/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">21</span><h3>2021 年 Kigurumi 編年史</h3><p>收錄 WCS 首次混合形式、第 18 回 キグルミwasshoi! 的酒店型恢復方案，並保留 Doll Weekend 1–4 的無日期待考線索。</p><a href="../years/2021/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">22</span><h3>2022 年 Kigurumi 編年史</h3><p>收錄 2022 年疫情後線下重啟、キグルミwasshoi!、着ぐFesta 首回、FGO 官方 greeting、WCS 風險規則和 Doll Weekend 5-8。</p><a href="../years/2022/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">23</span><h3>2023 年 Kigurumi 編年史</h3><p>收錄 2023 年線下復甦、着ぐFesta 規則化、Doll Weekend 10、WCS 完全復活、官方 IP greeting 和風險治理前置文本。</p><a href="../years/2023/">進入年度頁</a></article>
