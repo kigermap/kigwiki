@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">2022 Kigurumi Chronicle timeline</title>
+<desc id="desc">A timeline of the principal public-source kigurumi events recorded for 2022.</desc>
+<style>
+  .bg { fill: #fffaf3; }
+  .title { font: 700 34px Arial,sans-serif; fill: #2b2118; }
+  .subtitle { font: 400 17px Arial,sans-serif; fill: #64564a; }
+  .label { font: 700 18px Arial,sans-serif; fill: #2b2118; }
+  .small { font: 400 14px Arial,sans-serif; fill: #4c4037; }
+  .tiny { font: 400 12px Arial,sans-serif; fill: #6a5a4c; }
+  .card { fill: #ffffff; stroke: #d8c4aa; stroke-width: 2; rx: 16; }
+  .accent { fill: #c66b43; }
+  .accent2 { fill: #5a8a8a; }
+  .accent3 { fill: #7a5c9b; }
+  .line { stroke: #b48a60; stroke-width: 4; stroke-linecap: round; }
+</style>
+<rect class="bg" width="100%" height="100%"/>
+<text x="50" y="60" class="title">2022 Kigurumi Chronicle timeline</text>
+<text x="50" y="92" class="subtitle">Offline reconnection, official IP returns, early Doll Weekend growth, and public rules</text>
+<line x1="80" y1="210" x2="1120" y2="210" class="line"/>
+<circle cx="170" cy="210" r="14" class="accent"/><text x="145" y="250" class="label">Mar</text><text x="95" y="276" class="small">FGO at AnimeJapan</text><text x="105" y="296" class="tiny">Greeting stage</text>
+<circle cx="320" cy="210" r="14" class="accent2"/><text x="295" y="170" class="label">Apr</text><text x="228" y="145" class="small">19th KigWasshoi!</text><text x="226" y="125" class="tiny">Hotel, pool, stage, dealers</text>
+<circle cx="470" cy="210" r="14" class="accent3"/><text x="445" y="250" class="label">Jun</text><text x="410" y="276" class="small">Doll Weekend 5</text><text x="395" y="296" class="tiny">First themed edition</text>
+<circle cx="610" cy="210" r="14" class="accent3"/><text x="590" y="170" class="label">Jul</text><text x="548" y="145" class="small">DW6 and FGO Fes.</text><text x="538" y="125" class="tiny">Seaside format; IP return</text>
+<circle cx="765" cy="210" r="14" class="accent2"/><text x="740" y="250" class="label">Aug</text><text x="685" y="276" class="small">WCS and first KiguFesta</text><text x="686" y="296" class="tiny">Rules and newcomer access</text>
+<circle cx="935" cy="210" r="14" class="accent3"/><text x="885" y="170" class="label">Later 2022</text><text x="870" y="145" class="small">Doll Weekend 7</text><text x="856" y="125" class="tiny">Exhibitors; 150+ participants</text>
+<circle cx="1085" cy="210" r="14" class="accent3"/><text x="1045" y="250" class="label">Year end</text><text x="1027" y="276" class="small">Doll Weekend 8</text><text x="1013" y="296" class="tiny">Reunion by the sea</text>
+<rect x="62" y="350" width="1076" height="150" class="card"/>
+<text x="95" y="392" class="label">Position in the archive</text>
+<text x="95" y="425" class="small">2022 was not the largest year. It was the year offline systems reconnected: organizers relearned how to manage</text>
+<text x="95" y="450" class="small">health controls, hydration, photography consent, contact boundaries, changing routes, and shared public space.</text>
+</svg>

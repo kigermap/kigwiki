@@ -267,6 +267,7 @@ plugins:
                     - Years Overview: years/index.md
                     - 2020 Kigurumi Chronicle: years/2020/index.md
                     - 2021 Kigurumi Chronicle: years/2021/index.md
+                    - 2022 Kigurumi Chronicle: years/2022/index.md
                 - Recent Collection:
                     - Collection Overview: digests/index.md
                     - July 2026 Public-Source Digest: digests/2026-07/index.md

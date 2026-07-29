@@ -11,6 +11,14 @@ SITE_URL = "https://kigwiki.com/"
 DEFAULT_LANG = "zh-Hans"
 DEFAULT_SITE_NAME = "Kigurumi 编年志"
 DEFAULT_DESCRIPTION = "面向 kigurumi 社群的编年史、修志与资料馆。"
+DEFAULT_DESCRIPTIONS = {
+    "zh": DEFAULT_DESCRIPTION,
+    "zh-Hans": DEFAULT_DESCRIPTION,
+    "zh-Hant": "面向 kigurumi 社群的編年史、修志與資料館。",
+    "en": "A chronicle, gazetteer, and source archive for the kigurumi community.",
+    "ja": "kigurumi コミュニティのための編年史、地誌、資料アーカイブ。",
+    "ru": "Хроника, справочник и архив источников сообщества kigurumi.",
+}
 DEFAULT_NOT_FOUND_TITLE = "404 - 页面未找到"
 DEFAULT_IMAGE = f"{SITE_URL}assets/images/kigurumi-archive-hero-v2.png"
 DEFAULT_COPYRIGHT = (
@@ -134,18 +142,24 @@ PAGE_DESCRIPTIONS = {
     "/years/2023/": "2023 年 Kigurumi 编年史，整理线下复苏、官方 IP greeting、Doll Weekend 10、WCS 复苏、安全规则和年度图表。",
     "/years/2024/": "2024 年 Kigurumi 编年史，整理公开活动、官方 IP greeting、Doll Weekend 11、风险治理、知识生产和年度图表。",
     "/years/2025/": "2025 年 Kigurumi 编年史，整理公开活动、跨境合作、官方 IP greeting、规则治理、产业链变化和年度图表。",
+    "/digests/2026-07/": "2026 年 7 月 Kigurumi 公开资料摘要，收录三城摄影派对、WCS 2026 规则和 Doll Weekend 14 预告。",
     "/zh-Hant/years/2022/": "2022 年 Kigurumi 編年史繁體中文整理版，收錄線下重啟、官方 IP greeting、キグルミwasshoi!、着ぐFesta、WCS 規則和 Doll Weekend 5-8。",
     "/zh-Hant/years/2023/": "2023 年 Kigurumi 編年史繁體中文整理版，收錄線下復甦、官方 IP greeting、Doll Weekend 10、WCS 復甦、安全規則和年度圖表。",
     "/zh-Hant/years/2024/": "2024 年 Kigurumi 編年史繁體中文整理版，收錄公開活動、官方 IP greeting、Doll Weekend 11、風險治理、知識生產和年度圖表。",
     "/zh-Hant/years/2025/": "2025 年 Kigurumi 編年史繁體中文整理版，收錄公開活動、跨境合作、官方 IP greeting、規則治理、產業鏈變化和年度圖表。",
+    "/zh-Hant/digests/2026-07/": "2026 年 7 月 Kigurumi 公開資料摘要，收錄三城攝影派對、WCS 2026 規則和 Doll Weekend 14 預告。",
+    "/en/years/2022/": "The 2022 Kigurumi Chronicle covers offline reconnection, official IP greetings, specialist events, WCS rules, and Doll Weekend 5-8.",
+    "/en/digests/2026-07/": "The July 2026 Kigurumi public-source digest covers a three-city photo tour, WCS 2026 rules, and the Doll Weekend 14 preview.",
     "/ja/years/2022/": "2022年 Kigurumi 編年史の日本語整理版。オフライン再開、公式 IP greeting、キグルミwasshoi!、着ぐFesta、WCS ルールを扱います。",
     "/ja/years/2023/": "2023年 Kigurumi 編年史の日本語整理版。オフライン復帰、公式 IP greeting、Doll Weekend 10、WCS、安全ルールを扱います。",
     "/ja/years/2024/": "2024年 Kigurumi 編年史の日本語整理版。公開イベント、公式IP greeting、Doll Weekend 11、リスク治理、知識生産を扱います。",
     "/ja/years/2025/": "2025年 Kigurumi 編年史の日本語整理版。公開イベント、越境協力、公式 IP greeting、規則治理、産業変化を扱います。",
+    "/ja/digests/2026-07/": "2026年7月の Kigurumi 公開資料ダイジェスト。三都市撮影会、WCS 2026 規則、Doll Weekend 14 予告を収録します。",
     "/ru/years/2022/": "Русская версия хроники Kigurumi 2022 года: офлайн-перезапуск, official IP greeting, キグルミwasshoi!, 着ぐFesta, WCS и Doll Weekend 5-8.",
     "/ru/years/2023/": "Русская версия хроники Kigurumi 2023 года: офлайн-восстановление, official IP greeting, Doll Weekend 10, WCS, правила и риски.",
     "/ru/years/2024/": "Русская версия хроники Kigurumi 2024 года: публичные события, official IP greeting, Doll Weekend 11, риски и производство знаний.",
     "/ru/years/2025/": "Русская версия хроники Kigurumi 2025 года: публичные события, трансграничные связи, official IP greeting, правила и индустрия.",
+    "/ru/digests/2026-07/": "Обзор открытых материалов о Kigurumi за июль 2026 года: фототур по трем городам, правила WCS 2026 и анонс Doll Weekend 14.",
     "/places/": "Kigurumi 编年志地点目录，记录会馆、工坊、展场、聚会空间、线上据点等公开可写的社群空间。",
     "/people/": "Kigurumi 编年志人物目录，记录公开可写的社群角色、贡献、参与阶段和来源依据。",
     "/sources/": "Kigurumi 编年志来源目录，维护照片、手册、访谈、网页存档和公开说明等证据链。",
@@ -207,10 +221,12 @@ def _content_path(pathname: str) -> str:
     return pathname
 
 
-def _page_description(pathname: str) -> str:
+def _page_description(pathname: str, lang: str) -> str:
     if pathname in PAGE_DESCRIPTIONS:
         return PAGE_DESCRIPTIONS[pathname]
-    return PAGE_DESCRIPTIONS.get(_content_path(pathname), DEFAULT_DESCRIPTION)
+    if lang in {"zh", "zh-Hans"}:
+        return PAGE_DESCRIPTIONS.get(_content_path(pathname), DEFAULT_DESCRIPTION)
+    return DEFAULT_DESCRIPTIONS.get(lang, DEFAULT_DESCRIPTION)
 
 
 def _extract_title(html: str) -> str:
@@ -331,7 +347,7 @@ def _inject_seo(html: str, *, page_url: str, pathname: str) -> str:
     html = _drop_managed_seo(html)
     title = _extract_title(html)
     lang = _extract_lang(html)
-    description = _page_description(pathname)
+    description = _page_description(pathname, lang)
     og_type = "website" if _content_path(pathname) == "/" else "article"
 
     html = _replace(

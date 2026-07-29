@@ -11,7 +11,8 @@ The chronicle is the archive's time axis. A dated entry should identify the even
 
 - [2020 Kigurumi Chronicle](../years/2020/index.md)
 - [2021 Kigurumi Chronicle](../years/2021/index.md)
-- 2022–2025 are available in the default-language archive and in the Japanese, Russian, Traditional Chinese, and Simplified Chinese editions.
+- [2022 Kigurumi Chronicle](../years/2022/index.md)
+- 2023–2025 are available in the default-language archive and in the Japanese, Russian, Traditional Chinese, and Simplified Chinese editions.
 
 ## Current collection
 
