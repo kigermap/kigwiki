@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">2022 Kigurumi risk and governance matrix</title>
+<desc id="desc">Six operational risks made explicit in public event rules during 2022.</desc>
+<style>
+  .bg { fill: #fffaf3; }
+  .title { font: 700 34px Arial,sans-serif; fill: #2b2118; }
+  .subtitle { font: 400 17px Arial,sans-serif; fill: #64564a; }
+  .label { font: 700 18px Arial,sans-serif; fill: #2b2118; }
+  .small { font: 400 13px Arial,sans-serif; fill: #4c4037; }
+  .card { fill: #ffffff; stroke: #d8c4aa; stroke-width: 2; rx: 16; }
+  .soft { fill: #f3e1c8; stroke: #cba982; stroke-width: 2; rx: 16; }
+</style>
+<rect class="bg" width="100%" height="100%"/>
+<text x="50" y="60" class="title">2022 Kigurumi risk and governance matrix</text>
+<text x="50" y="92" class="subtitle">The most important negative record was the public documentation of operational risk</text>
+<rect x="80" y="130" width="320" height="110" class="card"/><text x="110" y="172" class="label">COVID and screening</text><text x="110" y="205" class="small">Masks, temperature, sanitation, quiet changing</text>
+<rect x="440" y="130" width="320" height="110" class="soft"/><text x="470" y="172" class="label">Heat and dehydration</text><text x="470" y="205" class="small">Hydration, rest, cooling; risky clothing restricted</text>
+<rect x="800" y="130" width="320" height="110" class="card"/><text x="830" y="172" class="label">Photography consent</text><text x="830" y="205" class="small">No covert shots; publication needed permission</text>
+<rect x="80" y="275" width="320" height="110" class="soft"/><text x="110" y="317" class="label">Contact boundaries</text><text x="110" y="350" class="small">KigWasshoi! passes signaled touch and photo choice</text>
+<rect x="440" y="275" width="320" height="110" class="card"/><text x="470" y="317" class="label">Water and venues</text><text x="470" y="350" class="small">No pool entry or drones; equipment secured</text>
+<rect x="800" y="275" width="320" height="110" class="soft"/><text x="830" y="317" class="label">Anonymous rumors</text><text x="830" y="350" class="small">No names or claims; governance pressure only</text>
+</svg>

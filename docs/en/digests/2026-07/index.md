@@ -1,13 +1,15 @@
 ---
 title: "July 2026 Kigurumi Public-Source Digest"
-date: "2026-07-27"
+date: "2026-07-28"
 language: "en"
-status: "Rolling update through 2026-07-27; announcements and completed events are separated"
+status: "Rolling update through 2026-07-28; announcements and completed events are separated"
 ---
 
 # July 2026 Kigurumi Public-Source Digest
 
-> This is a monthly collection page, not the final 2026 annual chronicle. Research is current through **July 27, 2026 (Asia/Shanghai)**.
+> This is a monthly collection page, not the final 2026 annual chronicle. Research is current through **July 28, 2026 (Asia/Shanghai)**.
+
+**July 28 review:** All four official sources on this page remain reachable. After de-duplication, no new item warrants a separate record and no announced event has enough evidence to be marked completed.
 
 ![July 2026 public-source overview](../../../assets/images/kigurumi-digests/2026-07-snapshot.svg)
 

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">Doll Weekend development in 2022</title>
+<desc id="desc">The progression from DW5 through DW8 across themes, settings, exhibitors, and reunion.</desc>
+<style>
+  .bg { fill: #fffaf3; }
+  .title { font: 700 34px Arial,sans-serif; fill: #2b2118; }
+  .subtitle { font: 400 17px Arial,sans-serif; fill: #64564a; }
+  .label { font: 700 18px Arial,sans-serif; fill: #2b2118; }
+  .small { font: 400 14px Arial,sans-serif; fill: #4c4037; }
+  .card { fill: #ffffff; stroke: #d8c4aa; stroke-width: 2; rx: 16; }
+  .soft { fill: #f3e1c8; stroke: #cba982; stroke-width: 2; rx: 16; }
+</style>
+<rect class="bg" width="100%" height="100%"/>
+<text x="50" y="60" class="title">Doll Weekend development in 2022</text>
+<text x="50" y="92" class="subtitle">Themes and destination settings developed into exhibitor links and a post-pandemic reunion</text>
+<rect x="90" y="140" width="220" height="260" class="card"/><text x="125" y="182" class="label">DW5</text><text x="125" y="215" class="small">Black and White</text><text x="125" y="240" class="small">Zhuhai</text><text x="125" y="265" class="small">First themed edition</text><text x="125" y="290" class="small">Maid-party format</text>
+<rect x="345" y="115" width="220" height="285" class="soft"/><text x="380" y="157" class="label">DW6</text><text x="380" y="190" class="small">Seaside Vacation</text><text x="380" y="215" class="small">Shenzhen</text><text x="380" y="240" class="small">Villa after a typhoon</text><text x="380" y="265" class="small">Day-long immersion</text><text x="380" y="290" class="small">and social activity</text>
+<rect x="600" y="90" width="220" height="310" class="card"/><text x="635" y="132" class="label">DW7</text><text x="635" y="165" class="small">New Beginnings</text><text x="635" y="190" class="small">Guangzhou</text><text x="635" y="215" class="small">First exhibitors</text><text x="635" y="240" class="small">Maker connections</text><text x="635" y="265" class="small">150+ participants</text>
+<rect x="855" y="65" width="250" height="335" class="soft"/><text x="890" y="107" class="label">DW8</text><text x="890" y="140" class="small">Warm Winter Gathering</text><text x="890" y="165" class="small">Huizhou</text><text x="890" y="190" class="small">First reunion after</text><text x="890" y="215" class="small">pandemic restrictions</text><text x="890" y="240" class="small">Sea, beach, fireworks</text>
+<path d="M310 275 C340 250, 345 240, 345 220" fill="none" stroke="#b48a60" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M565 250 C590 220, 595 205, 600 190" fill="none" stroke="#b48a60" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M820 220 C845 190, 850 170, 855 150" fill="none" stroke="#b48a60" stroke-width="4" marker-end="url(#arrow)"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#b48a60"/></marker></defs>
+</svg>
