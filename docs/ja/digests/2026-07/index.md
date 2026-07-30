@@ -1,15 +1,15 @@
 ---
 title: "2026年7月 Kigurumi 公開資料ダイジェスト"
-date: "2026-07-28"
+date: "2026-07-29"
 language: "ja"
-status: "2026-07-28までの更新。予告と実施済みを分離"
+status: "2026-07-29までの更新。予告と実施済みを分離"
 ---
 
 # 2026年7月 Kigurumi 公開資料ダイジェスト
 
-> 月次収集ページであり、2026年の確定編年ではない。調査基準日は **2026年7月28日（Asia/Shanghai）**。
+> 月次収集ページであり、2026年の確定編年ではない。調査基準日は **2026年7月29日（Asia/Shanghai）**。
 
-**7月28日再確認：** 本ページの公式4資料はいずれも閲覧可能である。重複除去後、新規の独立項目はなく、予告を実施済みに変更できる根拠も確認されなかった。
+**7月29日再確認：** 既存の公式4資料はいずれも閲覧可能で、予告を実施済みに変更できる根拠は確認されなかった。Japan Expo Paris の KAOKIG 10周年公式出展ページを新たに検証し、重複除去後に独立項目として追加した。
 
 ![2026年7月 公開資料概観](../../../assets/images/kigurumi-digests/2026-07-snapshot.svg)
 
@@ -17,9 +17,16 @@ status: "2026-07-28までの更新。予告と実施済みを分離"
 
 | 日付 / 状態 | 地域 | 分野 | 記録 |
 | --- | --- | --- | --- |
+| 7月9–12日 / 実施済み | フランス・パリ | 国際交流、百科、日常 | KAOKIG 10周年ブースが Animegao Kigurumi を紹介し、相談、撮影、マスク試着を提供 |
 | 7–8月 / 実施中 | 深圳・成都・上海 | 日常、撮影、協力 | Doll Weekend × KIGURUMI 夏季撮影パーティー三都市ツアー |
 | 7月31日–8月2日 / 開催予定 | 名古屋 | 啓発、礼儀、安全 | WCS 2026 の参加、撮影、全顔装備、暑熱リスク規則 |
 | 8月21–23日 / 募集中 | 中国・恵州 | 編年、産業、予告 | DW14「夢回嶺南」、カクテルパーティーを主題とするイベント |
+
+### Japan Expo Paris の KAOKIG 10周年
+
+Japan Expo Paris は7月9–12日に開催された。公式出展ページは Hall 5A / S507 の KAOKIG 10周年ブースを掲載し、Animegao Kigurumi を、漫画風のマスクによってキャラクターの外見に近づく cosplay と説明している。[^kaokig] ブースでは展示、cosplayer とのマスク相談、キャラクターとの撮影、マスク試着を提供した。
+
+これは私的な SNS 投稿ではなく、大規模国際イベントにおける公開啓発と交流の節点である。公式ページにはギャラリーがあるが、本サイトは第三者画像を複製せず原資料へリンクする。
 
 ### Doll Weekend × KIGURUMI
 
@@ -42,11 +49,12 @@ WCS は7月31日–8月2日に名古屋で行われ、41の国・地域を掲載
 
 ## 分野の空白と重複排除
 
-7月公開の独立検証可能な制作教程、および animegao kigurumi を直接扱う新規学術論文は確認できなかったため、工房・制作と学術は空欄とする。2022–2025年の確定内容は繰り返さず、同一主催者の予告、ギャラリー、続報は一つの主記録へ統合する。
+7月公開の独立検証可能な制作教程、および animegao kigurumi を直接扱う新規学術論文は確認できなかったため、工房・制作と学術は空欄とする。KAOKIG の一般向け紹介は百科・国際交流に分類し、学術研究とはしない。2022–2025年の確定内容は繰り返さず、同一主催者の予告、ギャラリー、続報は一つの主記録へ統合する。
 
 ## 出典
 
 [^dwkig]: Doll Weekend, “Doll Weekend × KIGURUMI 夏日娃娃摄影派对,” <https://dollweekend.cn/cn/event/dwkigurumi>
+[^kaokig]: Japan Expo Paris, “KAOKIG 10 ème anniversaire,” <https://paris.japan-expo.com/jp/editions/jep26/exposants/kaokig-10-eme-anniversaire>
 [^wcs2026]: World Cosplay Summit, “World Cosplay Summit 2026,” <https://www.worldcosplaysummit.jp/en>
 [^wcs-rules]: World Cosplay Summit, “Participation Rules,” <https://www.worldcosplaysummit.jp/en/cosplay/rules>
 [^dw14]: Doll Weekend, “Doll Weekend 14,” <https://dollweekend.cn/cn/event/dw14>
