@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">18</span>
+      <h3>2018 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 对着ぐるみ视野、陪同与摄影的公共规则，以及庆应 animegao 面具制作匹配服务研究。</p>
+      <a href="../years/2018/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">19</span>
       <h3>2019 年 Kigurumi 编年史</h3>
       <p>收录 AnimeJapan 中 FGO 官方着ぐるみ／官方 cosplayer 登场及其公共 cosplay 场地条件。</p>

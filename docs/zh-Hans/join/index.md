@@ -15,7 +15,7 @@
     </p>
   </div>
   <a class="archive-join-card__qr" href="https://qm.qq.com/q/gpzX280qkw" target="_blank" rel="noopener" aria-label="加入 KigerMap 社区交流群">
-    <img src="../assets/images/kigermap-qq-group-qrcode.png" alt="KigerMap 社区交流群 QQ 群二维码，群号 1067398012">
+    <img src="/assets/images/kigermap-qq-group-qrcode.png" alt="KigerMap 社区交流群 QQ 群二维码，群号 1067398012">
   </a>
 </section>
 

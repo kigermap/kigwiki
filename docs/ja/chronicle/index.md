@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">18</span><h3>2018年 Kigurumi 編年史</h3><p>AnimeJapan の着ぐるみ視界・アテンド・撮影規則と、慶應の animegao マスク制作マッチング研究を収録する。</p><a href="../years/2018/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">19</span><h3>2019年 Kigurumi 編年史</h3><p>AnimeJapan の FGO 公式着ぐるみ／公式コスプレイヤー登場と公共コスプレ会場条件を収録する。</p><a href="../years/2019/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020年 Kigurumi 編年史</h3><p>FGO 公式着ぐるみ企画の告知と中止、WCS の全面オンライン化、遠隔参加と映像利用の境界を収録する。</p><a href="../years/2020/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">21</span><h3>2021年 Kigurumi 編年史</h3><p>WCS 初のハイブリッド形式、第18回 キグルミwasshoi! のホテル型再開、日付未確認の Doll Weekend 1–4 を整理する。</p><a href="../years/2021/">年度ページへ</a></article>
