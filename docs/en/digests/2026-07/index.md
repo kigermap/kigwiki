@@ -1,15 +1,15 @@
 ---
 title: "July 2026 Kigurumi Public-Source Digest"
-date: "2026-07-29"
+date: "2026-07-31"
 language: "en"
-status: "Rolling update through 2026-07-29; announcements and completed events are separated"
+status: "Rolling update through 2026-07-31; announcements and completed events are separated"
 ---
 
 # July 2026 Kigurumi Public-Source Digest
 
 > This is a monthly collection page, not the final 2026 annual chronicle. Research is current through **July 29, 2026 (Asia/Shanghai)**.
 
-**July 29 review:** The four existing official sources remain reachable, and no announced event has enough evidence to be marked completed. The official Japan Expo Paris page for KAOKIG's tenth-anniversary stand was independently verified and added after de-duplication.
+**July 31 review:** The four existing official sources remain reachable. WCS 2026's official schedule shows that it begins today, but no independent completion record is available, so its status is not changed to completed. KAOKIG's tenth-anniversary entry remains a single de-duplicated node.
 
 ![July 2026 public-source overview](../../../assets/images/kigurumi-digests/2026-07-snapshot.svg)
 

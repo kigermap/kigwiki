@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">19</span><h3>2019年 Kigurumi 編年史</h3><p>AnimeJapan における FGO 公式着ぐるみ／公式コスプレイヤーの登場と公共コスプレ基盤を記録し、専門活動の空白を保持する。</p><a href="2019/">2019年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020年 Kigurumi 編年史</h3><p>告知後に中止された FGO 着ぐるみ企画、WCS の全面オンライン化、遠隔参加と映像同意の境界を整理する。</p><a href="2020/">2020年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">21</span><h3>2021年 Kigurumi 編年史</h3><p>WCS のハイブリッド開催、第18回 キグルミwasshoi!、感染症流行期の活動基盤を整理し、日付未確認情報を確定年表から分離する。</p><a href="2021/">2021年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">22</span><h3>2022年 Kigurumi 編年史</h3><p>2022年のオフライン再開、公式 IP greeting、キグルミwasshoi!、着ぐFesta 初回、WCS ルール、Doll Weekend 5-8 を整理し、ローカライズした図表を含める。</p><a href="2022/">2022年を読む</a></article>

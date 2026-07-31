@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">19</span>
+      <h3>2019 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 中 FGO 官方着ぐるみ／官方 cosplayer 登场及其公共 cosplay 场地条件。</p>
+      <a href="../years/2019/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">20</span>
       <h3>2020 年 Kigurumi 编年史</h3>
       <p>收录 FGO 官方着ぐるみ计划及取消状态、WCS 全面线上化、远程参与和影像传播边界。</p>
