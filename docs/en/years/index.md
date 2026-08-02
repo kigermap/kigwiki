@@ -9,6 +9,7 @@ Annual pages turn verified event records into stable volumes. Each volume keeps 
 
 ## English edition
 
+- [2016 Kigurumi Chronicle](2016/index.md)
 - [2017 Kigurumi Chronicle](2017/index.md)
 - [2018 Kigurumi Chronicle](2018/index.md)
 - [2019 Kigurumi Chronicle](2019/index.md)

@@ -8,7 +8,8 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
-    <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 的着ぐるみ公共場地規則與 220 份有效回答的社群調查，並明確標示便利樣本邊界。</p><a href="2017/">閱讀 2017 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>2016 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 明文涉及着ぐるみ的區域、換裝、寄存與攝影規則，並以閉幕後報告確認公共 cosplay 設施實際運行。</p><a href="2016/">閱讀 2016 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 場地與女性專用高級更衣選擇的擴展，以及 220 份有效回答的社群調查，並明確標示便利樣本邊界。</p><a href="2017/">閱讀 2017 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">18</span><h3>2018 年 Kigurumi 編年史</h3><p>整理公共活動中的着ぐるみ視野、陪同、攝影同意與更衣私隱規則，以及 animegao 面具製作配對服務的學位研究。</p><a href="2018/">閱讀 2018 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">19</span><h3>2019 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 中 FGO 官方着ぐるみ／官方 cosplayer 登場與公共 cosplay 基礎設施，並保留專門活動資料空白。</p><a href="2019/">閱讀 2019 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020 年 Kigurumi 編年史</h3><p>整理 FGO 已公布但取消的官方着ぐるみ計畫、WCS 全面線上化、遠程參與和影像授權邊界。</p><a href="2020/">閱讀 2020 年</a></article>

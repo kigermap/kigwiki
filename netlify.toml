@@ -1,5 +1,5 @@
 [build]
-command = "mkdocs build --strict"
+command = "python scripts/build_indexes.py && mkdocs build --strict"
 publish = "site"
 
 [build.environment]

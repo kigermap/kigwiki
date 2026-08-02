@@ -44,9 +44,15 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">16</span>
+      <h3>2016 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 的着ぐるみ区域、换装、寄存、摄影同意与实际设施运行记录。</p>
+      <a href="../years/2016/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">17</span>
       <h3>2017 年 Kigurumi 编年史</h3>
-      <p>收录 AnimeJapan 对着ぐるみ移动与摄影的公共规则，以及 220 份有效回答的社群自发调查。</p>
+      <p>收录 AnimeJapan 场地与女性专用高级更衣选择的扩展，以及 220 份有效回答的社群自发调查。</p>
       <a href="../years/2017/">进入年度页</a>
     </article>
     <article class="archive-feature">

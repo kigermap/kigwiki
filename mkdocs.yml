@@ -105,6 +105,7 @@ plugins:
                 - 编年总览: chronicle/index.md
                 - 年份目录:
                     - 年份总览: years/index.md
+                    - 2016 年 Kigurumi 编年史: years/2016/index.md
                     - 2017 年 Kigurumi 编年史: years/2017/index.md
                     - 2018 年 Kigurumi 编年史: years/2018/index.md
                     - 2019 年 Kigurumi 编年史: years/2019/index.md
@@ -189,6 +190,7 @@ plugins:
                 - 編年總覽: chronicle/index.md
                 - 年份目錄:
                     - 年份總覽: years/index.md
+                    - 2016 年 Kigurumi 編年史: years/2016/index.md
                     - 2017 年 Kigurumi 編年史: years/2017/index.md
                     - 2018 年 Kigurumi 編年史: years/2018/index.md
                     - 2019 年 Kigurumi 編年史: years/2019/index.md
@@ -273,6 +275,7 @@ plugins:
                 - Overview: chronicle/index.md
                 - Years:
                     - Years Overview: years/index.md
+                    - 2016 Kigurumi Chronicle: years/2016/index.md
                     - 2017 Kigurumi Chronicle: years/2017/index.md
                     - 2018 Kigurumi Chronicle: years/2018/index.md
                     - 2019 Kigurumi Chronicle: years/2019/index.md
@@ -352,6 +355,7 @@ plugins:
                 - 編年総覧: chronicle/index.md
                 - 年別目録:
                     - 年別総覧: years/index.md
+                    - 2016年 Kigurumi 編年史: years/2016/index.md
                     - 2017年 Kigurumi 編年史: years/2017/index.md
                     - 2018年 Kigurumi 編年史: years/2018/index.md
                     - 2019年 Kigurumi 編年史: years/2019/index.md
@@ -436,6 +440,7 @@ plugins:
                 - Обзор: chronicle/index.md
                 - Годы:
                     - Обзор годов: years/index.md
+                    - Хроника Kigurumi 2016 года: years/2016/index.md
                     - Хроника Kigurumi 2017 года: years/2017/index.md
                     - Хроника Kigurumi 2018 года: years/2018/index.md
                     - Хроника Kigurumi 2019 года: years/2019/index.md
@@ -541,6 +546,7 @@ nav:
       - 编年总览: chronicle/index.md
       - 年份目录:
           - 年份总览: years/index.md
+          - 2016 年 Kigurumi 编年史: years/2016/index.md
           - 2017 年 Kigurumi 编年史: years/2017/index.md
           - 2018 年 Kigurumi 编年史: years/2018/index.md
           - 2019 年 Kigurumi 编年史: years/2019/index.md

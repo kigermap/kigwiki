@@ -1,13 +1,13 @@
 ---
 title: "2017 Kigurumi Chronicle"
-date: "2026-08-01"
+date: "2026-08-02"
 language: "en"
-status: "Public-source edition; de-duplicated against 2018-2025"
+status: "Public-source edition; de-duplicated against 2016 and 2018-2025"
 ---
 
 # 2017 Kigurumi Chronicle
 
-> The 2018-2025 volumes are complete. Following the one-year-backward rule, this edition covers 2017 only. Verifiable material is concentrated in one community-run survey and the public cosplay rules of a general anime convention. Undated specialist gatherings are not converted into facts.
+> The 2016 and 2018-2025 volumes now have dedicated pages. This de-duplication pass retains only AnimeJapan facilities added in 2017 and one community-run survey; the base kigurumi area, photography, and changing rules already recorded in 2016 are not repeated.
 
 ## 1. Evidence boundary
 
@@ -17,11 +17,11 @@ The annual page does not reproduce the report's 73 pages and 205 figures. It rec
 
 ## 2. Verified nodes
 
-### March 25-26: AnimeJapan 2017 defines public-space boundaries for kigurumi
+### March 25-26: AnimeJapan 2017 expands public cosplay space and changing options
 
-AnimeJapan 2017's public days ran March 25-26 in Tokyo Big Sight East Halls 1-7. Cosplayers World provided paid registration, changing rooms, cloakrooms, and indoor and outdoor photography areas.[^aj-outline][^aj-cosplay]
+AnimeJapan 2017's public days ran March 25-26 in Tokyo Big Sight East Halls 1-7, one more hall than the overall 2016 event used. Cosplayers World moved into East Hall 7 and explicitly promoted its own expanded space. Alongside registration, shared changing rooms, cloakrooms, and photography areas, it introduced its first separately ticketed premium women-only changing room, sold by table for groups of up to three.[^aj-outline][^aj-cosplay]
 
-The rules confined costumes that restricted vision, including face coverings, masks, and eye patches, and hard-to-move forms such as large constructions, kigurumi, or trailing costumes to the cosplay areas. They also required a subject's permission before photography, prohibited forcing poses, and prohibited photography in changing rooms.[^aj-cosplay] This is not evidence of a specialist animegao event. It is a public-governance record that directly names kigurumi and addresses movement risk, privacy, and consent.
+The base rules confining vision- or movement-limiting costumes to cosplay areas, requiring photography consent, and protecting changing-room privacy were already recorded in the 2016 volume; 2017 continued rather than originated them.[^aj-cosplay] The year's distinct node is expanded capacity and a premium women-only option beyond the standard changing room. It remains general-convention infrastructure, not evidence of a specialist animegao event.
 
 ### About one week from October 4: a community census creates a quantitative snapshot
 
@@ -39,22 +39,22 @@ The report covers participation, years active, masks and clothing, production so
 | Daily life / discussion | Participation modes and community self-description | Treat only as a sample snapshot |
 | Workshop / craft | The report covers masks, hadatai, and supply sources | Link the report; do not convert it into a tutorial |
 | Reference / education | 220 valid responses preserve terms and practices | Include as source history |
-| Etiquette | Area, photography-consent, and changing-room rules | Include as public governance |
+| Etiquette | Base rules continued; a separately ticketed premium women-only changing option was added | Record only the 2017 facility change |
 | Academic | No directly relevant 2017 peer-reviewed work verified | Do not mislabel the personal survey as academic research |
 
 The existing survey-report section already gives the source a suitable dedicated home. A second section would duplicate it, and one bounded survey node does not justify a separate academic section.
 
-## 4. De-duplication against 2018-2025
+## 4. De-duplication against 2016 and 2018-2025
 
 | Continuing subject | Kept in 2017 | Later-volume treatment |
 | --- | --- | --- |
-| AnimeJapan rules | Vision- and movement-limiting costumes confined to cosplay areas; photography and changing boundaries | 2018 records the expanded venue and parade-attendant requirement, not the base rules as a first appearance |
+| AnimeJapan | East Hall 7 expansion and the first separately ticketed premium women-only changing room | Base area, photography, and changing rules belong to 2016; 2018 retains its new parade-attendant requirement |
 | Community research | A personal, Twitter-adjacent 2017 survey | 2018 records a Keio graduate thesis; the evidence types are distinct |
 | Official IP / specialist events | No sufficient first-party evidence in this collection | Verified 2019-2025 material is not backfilled |
 
 ## 5. Annual conclusion
 
-The strongest 2017 record is not a dense event list but two kinds of infrastructure. A large public venue had explicit rules for kigurumi visibility, movement, photography, and privacy, while the community produced a comparatively large quantitative self-record. Both require their boundaries: a general-convention rule is not a specialist-event history, and a convenience sample is not the whole community.
+The strongest 2017 record is not a dense event list but two increments: a large public venue expanded cosplay capacity and changing choices, while the community produced a comparatively large quantitative self-record. The base rules belong to the 2016 volume, and the 2017 convenience sample still does not represent the whole community.
 
 ## Sources
 
