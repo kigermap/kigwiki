@@ -1,6 +1,6 @@
 ---
 title: "Kigurumi 近期採集"
-date: "2026-08-01"
+date: "2026-08-02"
 language: "zh-Hant"
 ---
 

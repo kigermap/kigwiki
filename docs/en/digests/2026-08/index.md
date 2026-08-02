@@ -1,13 +1,13 @@
 ---
 title: "August 2026 Kigurumi Public-Source Digest"
-date: "2026-08-01"
+date: "2026-08-02"
 language: "en"
-status: "Rolling update through 2026-08-01; only changes from July are recorded"
+status: "Rolling update through 2026-08-02; only changes from July are recorded"
 ---
 
 # August 2026 Kigurumi Public-Source Digest
 
-> This is a monthly collection page, not the final 2026 chronicle. Research is current through **August 1, 2026 (Asia/Shanghai)**. A continuing event receives a status update, not a copy of rules and announcements already recorded in July.
+> This is a monthly collection page, not the final 2026 chronicle. Research is current through **August 2, 2026 (Asia/Shanghai)**. A continuing event receives a status update, not a copy of rules and announcements already recorded in July.
 
 ## Today's status update
 
@@ -17,7 +17,7 @@ status: "Rolling update through 2026-08-01; only changes from July are recorded"
 
 ### WCS 2026: from announcement to scheduled event window
 
-WCS's official page continues to list its Nagoya program for July 31 through August 2, 2026.[^wcs] August 1 falls within that window, so this page changes the July status from “about to begin” to “inside the scheduled event window.” This is a **status correction**, not a second event entry.
+WCS's official page continues to list its Nagoya program for July 31 through August 2, 2026.[^wcs] August 2 remains within that window, so this page changes the July status from “about to begin” to “inside the scheduled event window.” This is a **status correction**, not a second event entry.
 
 No organizer summary or independent retrospective sufficient to establish completion was found by the research cutoff, so the event is not described as completed. Full-face costume, photography-consent, and heat-risk rules were already documented in the [July 2026 digest](../2026-07/index.md) and are not repeated here.
 
@@ -28,7 +28,7 @@ No organizer summary or independent retrospective sufficient to establish comple
 
 ## Domain and section decisions
 
-| Domain | New assessment on August 1 | Treatment |
+| Domain | New assessment on August 2 | Treatment |
 | --- | --- | --- |
 | Chronicle | WCS enters its official schedule window | Record the status change |
 | Daily life / discussion | No distinct new public record found | Omit |

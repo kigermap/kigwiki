@@ -1,6 +1,6 @@
 ---
 title: "Recent Kigurumi Collection"
-date: "2026-08-01"
+date: "2026-08-02"
 language: "en"
 ---
 
