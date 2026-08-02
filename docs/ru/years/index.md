@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>Хроника Kigurumi 2017 года</h3><p>Публичные правила AnimeJapan для kigurumi и общественный опрос с 220 действительными ответами и явными границами выборки.</p><a href="2017/">Читать 2017 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">18</span><h3>Хроника Kigurumi 2018 года</h3><p>Правила публичного мероприятия об обзоре, сопровождении, согласии на съемку и раздевалках, а также магистерское исследование производства animegao-масок.</p><a href="2018/">Читать 2018 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">19</span><h3>Хроника Kigurumi 2019 года</h3><p>FGO official kigurumi / cosplayer на AnimeJapan и соседняя публичная cosplay-инфраструктура; профильные пробелы сохранены.</p><a href="2019/">Читать 2019 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>Хроника Kigurumi 2020 года</h3><p>Отмененный после анонса план FGO kigurumi, полный переход WCS в онлайн, удаленное участие и границы согласия на использование изображения.</p><a href="2020/">Читать 2020 год</a></article>

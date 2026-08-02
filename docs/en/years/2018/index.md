@@ -16,13 +16,13 @@ This page treats only explicit dates, venues, rules, and thesis metadata as fact
 
 ## Verified chronology
 
-### March 24-25: AnimeJapan 2018 codifies kigurumi safety in public cosplay rules
+### March 24-25: AnimeJapan 2018 extends public-space rules for kigurumi
 
 AnimeJapan 2018's public days ran March 24-25 in Tokyo Big Sight East Halls 1-8. Cosplayers World used East Halls 3 and 8 and provided paid cosplay registration, changing rooms, cloakrooms, indoor and outdoor photography areas, early changing, and a parade.[^aj-outline][^aj-cosplay]
 
-The rules directly addressed full-head practice. Costumes that limited vision, including face coverings and masks, and hard-to-move large constructions, kigurumi, or trailing costumes could be worn only in cosplay areas. A participant in the parade whose kigurumi or headwear obstructed vision had to bring one attendant.[^aj-cosplay]
+The base rules confining vision- and movement-limiting costumes to cosplay areas, requiring photography consent, and protecting changing-room privacy were already present in 2017; see the [2017 volume](../2017/index.md). The distinct 2018 update was an expanded East Hall 3 and 8 footprint and a parade rule requiring one attendant for a participant whose kigurumi or headwear obstructed vision.[^aj-cosplay]
 
-The same page required a subject's permission before photography, prohibited forcing poses and photography in changing rooms, and directed luggage to cloakrooms. This does not establish a specialist kigurumi gathering. It does establish a first-party public record in which visibility, movement, assistance, privacy, and consent were operational rules.
+The page continued the consent, pose, changing-room, and cloakroom provisions. This volume does not count those continuing provisions as new 2018 rules; the year's unique governance node is the larger venue footprint and explicit parade-attendant responsibility.
 
 ### Academic year 2018: animegao mask production enters graduate research
 
@@ -45,7 +45,7 @@ The title itself establishes mask production, maker matching, and Kigurumi-Ya's 
 
 This volume does not repeat FGO's 2019 official-kigurumi appearance, the cancellation and online shift of 2020, the hybrid recovery of 2021, or the specialist events, Doll Weekends, official greetings, and later rules already assigned to 2022-2025. No first-party source was found that established the date, place, and outcome of a specialist 2018 animegao gathering, so that gap remains explicit.
 
-The strongest 2018 conclusion has two layers: public-event governance addressed kigurumi visibility, movement, and photography boundaries in explicit rules; mask-production commissioning and maker matching entered graduate research. One node concerns operating a shared venue, the other organizing knowledge and production. Together they form a useful annual record without enlarging the evidence.
+The strongest 2018 conclusion has two layers: public-event governance added a parade-attendant duty to established visibility, movement, and photography boundaries; mask-production commissioning and maker matching entered graduate research. One node is an incremental change in venue operations, the other organizes knowledge and production. Together they form a useful annual record without enlarging the evidence.
 
 ## Sources
 

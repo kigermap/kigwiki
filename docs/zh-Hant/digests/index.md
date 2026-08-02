@@ -1,6 +1,6 @@
 ---
 title: "Kigurumi 近期採集"
-date: "2026-07-28"
+date: "2026-08-01"
 language: "zh-Hant"
 ---
 
@@ -26,6 +26,7 @@ language: "zh-Hant"
 
 ## 已發布
 
+- [2026 年 8 月公開資料摘要](2026-08/index.md)
 - [2026 年 7 月公開資料摘要](2026-07/index.md)
 
 ## 編輯邊界

@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">17</span>
+      <h3>2017 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 对着ぐるみ移动与摄影的公共规则，以及 220 份有效回答的社群自发调查。</p>
+      <a href="../years/2017/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">18</span>
       <h3>2018 年 Kigurumi 编年史</h3>
       <p>收录 AnimeJapan 对着ぐるみ视野、陪同与摄影的公共规则，以及庆应 animegao 面具制作匹配服务研究。</p>
@@ -98,6 +104,6 @@
   <div class="archive-note">
     <strong>近期采集</strong>
     <p>正在发生或尚未稳定的内容先进入按月维护的近期采集页，经来源复核和去重后再写入年度卷。</p>
-    <a href="../digests/">查看近期采集</a>
+    <a href="../digests/2026-08/">查看 2026 年 8 月采集</a>
   </div>
 </section>
