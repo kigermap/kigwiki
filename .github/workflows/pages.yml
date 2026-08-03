@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Validate archive indexes
+        run: python scripts/build_indexes.py
+
       - name: Build site
         run: mkdocs build --strict
 

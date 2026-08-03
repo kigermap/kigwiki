@@ -44,6 +44,30 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">16</span>
+      <h3>2016 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 的着ぐるみ区域、换装、寄存、摄影同意与实际设施运行记录。</p>
+      <a href="../years/2016/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">17</span>
+      <h3>2017 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 场地与女性专用高级更衣选择的扩展，以及 220 份有效回答的社群自发调查。</p>
+      <a href="../years/2017/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">18</span>
+      <h3>2018 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 对着ぐるみ视野、陪同与摄影的公共规则，以及庆应 animegao 面具制作匹配服务研究。</p>
+      <a href="../years/2018/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">19</span>
+      <h3>2019 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 中 FGO 官方着ぐるみ／官方 cosplayer 登场及其公共 cosplay 场地条件。</p>
+      <a href="../years/2019/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">20</span>
       <h3>2020 年 Kigurumi 编年史</h3>
       <p>收录 FGO 官方着ぐるみ计划及取消状态、WCS 全面线上化、远程参与和影像传播边界。</p>
@@ -86,6 +110,6 @@
   <div class="archive-note">
     <strong>近期采集</strong>
     <p>正在发生或尚未稳定的内容先进入按月维护的近期采集页，经来源复核和去重后再写入年度卷。</p>
-    <a href="../digests/">查看近期采集</a>
+    <a href="../digests/2026-08/">查看 2026 年 8 月采集</a>
   </div>
 </section>

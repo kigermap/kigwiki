@@ -9,6 +9,10 @@ The chronicle is the archive's time axis. A dated entry should identify the even
 
 ## Published annual volumes
 
+- [2016 Kigurumi Chronicle](../years/2016/index.md)
+- [2017 Kigurumi Chronicle](../years/2017/index.md)
+- [2018 Kigurumi Chronicle](../years/2018/index.md)
+- [2019 Kigurumi Chronicle](../years/2019/index.md)
 - [2020 Kigurumi Chronicle](../years/2020/index.md)
 - [2021 Kigurumi Chronicle](../years/2021/index.md)
 - [2022 Kigurumi Chronicle](../years/2022/index.md)
@@ -16,6 +20,7 @@ The chronicle is the archive's time axis. A dated entry should identify the even
 
 ## Current collection
 
+- [August 2026 public-source digest](../digests/2026-08/index.md)
 - [July 2026 public-source digest](../digests/2026-07/index.md)
 
 Unverified allegations, private conversations, unauthorized photographs, sensitive addresses, and claims without traceable dates are not published as facts.

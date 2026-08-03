@@ -26,6 +26,30 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">16</span>
+      <h3>2016 年 Kigurumi 编年史</h3>
+      <p>整理 AnimeJapan 明文涉及着ぐるみ的区域、换装、寄存与摄影规则，并以闭幕后报告确认公共 cosplay 设施实际运行。</p>
+      <a href="2016/">阅读 2016 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">17</span>
+      <h3>2017 年 Kigurumi 编年史</h3>
+      <p>整理 AnimeJapan 场地与女性专用高级更衣选择的扩展，以及 220 份有效回答的社群调查，并明确标注便利样本边界。</p>
+      <a href="2017/">阅读 2017 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">18</span>
+      <h3>2018 年 Kigurumi 编年史</h3>
+      <p>整理公共活动中的着ぐるみ视野、陪同、摄影同意与更衣隐私规则，以及 animegao 面具制作匹配服务的学位研究。</p>
+      <a href="2018/">阅读 2018 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">19</span>
+      <h3>2019 年 Kigurumi 编年史</h3>
+      <p>整理 AnimeJapan 中 FGO 官方着ぐるみ／官方 cosplayer 登场与公共 cosplay 基础设施，并明确保留专门活动资料空白。</p>
+      <a href="2019/">阅读 2019 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">20</span>
       <h3>2020 年 Kigurumi 编年史</h3>
       <p>整理 FGO 已公布但取消的官方着ぐるみ计划、WCS 全面线上化、远程参与与影像授权边界。</p>
@@ -69,8 +93,7 @@
   <h2>预制年份分卷</h2>
   <div class="archive-feature-grid">
     <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010-2013</h3><p>早期线索收集卷，重点补充公开出处、旧相册说明和活动称谓校对。</p></article>
-    <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014-2016</h3><p>活动组织与资料编号逐渐形成，适合建立早期活动谱系。</p></article>
-    <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017-2019</h3><p>线下空间、摄影协作、访谈转写和礼仪记忆需要集中整理。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014-2015</h3><p>活动组织与资料编号逐渐形成，适合建立早期活动谱系。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>

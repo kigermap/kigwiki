@@ -1,15 +1,15 @@
 ---
 title: "July 2026 Kigurumi Public-Source Digest"
-date: "2026-07-29"
+date: "2026-07-31"
 language: "en"
-status: "Rolling update through 2026-07-29; announcements and completed events are separated"
+status: "Rolling update through 2026-07-31; announcements and completed events are separated"
 ---
 
 # July 2026 Kigurumi Public-Source Digest
 
-> This is a monthly collection page, not the final 2026 annual chronicle. Research is current through **July 29, 2026 (Asia/Shanghai)**.
+> This is a monthly collection page, not the final 2026 annual chronicle. Research is current through **July 31, 2026 (Asia/Shanghai)**.
 
-**July 29 review:** The four existing official sources remain reachable, and no announced event has enough evidence to be marked completed. The official Japan Expo Paris page for KAOKIG's tenth-anniversary stand was independently verified and added after de-duplication.
+**July 31 review:** The four existing official sources remain reachable. WCS 2026's official schedule shows that it begins today, but no independent completion record is available, so its status is not changed to completed. KAOKIG's tenth-anniversary entry remains a single de-duplicated node.
 
 ![July 2026 public-source overview](../../../assets/images/kigurumi-digests/2026-07-snapshot.svg)
 
@@ -19,7 +19,7 @@ status: "Rolling update through 2026-07-29; announcements and completed events a
 | --- | --- | --- | --- |
 | July 9–12 / completed | Paris, France | International exchange, reference, daily life | KAOKIG's tenth-anniversary Japan Expo stand introduced Animegao Kigurumi through information, photographs, and mask try-ons |
 | July–August / ongoing | Shenzhen, Chengdu, Shanghai | Daily life, photography | Doll Weekend × KIGURUMI summer photo-party tour |
-| July 31–August 2 / upcoming | Nagoya, Japan | Education, etiquette, safety | WCS 2026 participation, photography, full-face costume, and heat-risk rules |
+| July 31–August 2 / scheduled to begin today; completion pending | Nagoya, Japan | Education, etiquette, safety | WCS 2026 participation, photography, full-face costume, and heat-risk rules |
 | August 21–23 / recruiting | Huizhou, China | Chronicle, industry, preview | Doll Weekend 14, a cocktail-party-themed event with domestic and overseas ticketing |
 
 ### KAOKIG's tenth anniversary at Japan Expo Paris
@@ -34,7 +34,7 @@ The organizer marks the three-city photo party as ongoing in July–August and p
 
 ### WCS 2026 rules
 
-WCS runs July 31–August 2 in Nagoya and lists 41 participating countries and regions.[^wcs2026] Its current rules are directly relevant to full-head costumes:[^wcs-rules]
+WCS's official schedule runs July 31–August 2, beginning on this page's review date; completion remains pending later evidence. The organizer lists 41 participating countries and regions.[^wcs2026] Its current rules are directly relevant to full-head costumes:[^wcs-rules]
 
 - mascot suits that pose a heat-exhaustion risk may be restricted;
 - full-face masks, helmets, and mascot suits may enter a specified venue, but staff may verify identity;

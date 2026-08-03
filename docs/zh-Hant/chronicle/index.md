@@ -19,6 +19,10 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已錄入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>2016 年 Kigurumi 編年史</h3><p>收錄 AnimeJapan 的着ぐるみ區域、換裝、寄存、攝影同意與實際設施運行記錄。</p><a href="../years/2016/">進入年度頁</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017 年 Kigurumi 編年史</h3><p>收錄 AnimeJapan 場地與女性專用高級更衣選擇的擴展，以及 220 份有效回答的社群自發調查。</p><a href="../years/2017/">進入年度頁</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">18</span><h3>2018 年 Kigurumi 編年史</h3><p>收錄 AnimeJapan 對着ぐるみ視野、陪同與攝影的公共規則，以及慶應 animegao 面具製作配對服務研究。</p><a href="../years/2018/">進入年度頁</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">19</span><h3>2019 年 Kigurumi 編年史</h3><p>收錄 AnimeJapan 的 FGO 官方着ぐるみ／官方 cosplayer 登場及公共 cosplay 場地條件。</p><a href="../years/2019/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020 年 Kigurumi 編年史</h3><p>收錄 FGO 官方着ぐるみ計畫及取消狀態、WCS 全面線上化、遠程參與和影像傳播邊界。</p><a href="../years/2020/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">21</span><h3>2021 年 Kigurumi 編年史</h3><p>收錄 WCS 首次混合形式、第 18 回 キグルミwasshoi! 的酒店型恢復方案，並保留 Doll Weekend 1–4 的無日期待考線索。</p><a href="../years/2021/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">22</span><h3>2022 年 Kigurumi 編年史</h3><p>收錄 2022 年疫情後線下重啟、キグルミwasshoi!、着ぐFesta 首回、FGO 官方 greeting、WCS 風險規則和 Doll Weekend 5-8。</p><a href="../years/2022/">進入年度頁</a></article>
@@ -30,4 +34,4 @@
 
 ## 近期採集
 
-正在發生或尚未穩定的內容先進入[按月維護的近期採集頁](../digests/index.md)，經來源複核和去重後再寫入年度卷。
+正在發生或尚未穩定的內容先進入[按月維護的近期採集頁](../digests/index.md)。目前更新為[2026 年 8 月公開資料摘要](../digests/2026-08/index.md)，經來源複核和去重後再寫入年度卷。

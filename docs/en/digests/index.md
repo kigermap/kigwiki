@@ -1,6 +1,6 @@
 ---
 title: "Recent Kigurumi Collection"
-date: "2026-07-28"
+date: "2026-08-02"
 language: "en"
 ---
 
@@ -18,6 +18,7 @@ This section groups verifiable public kigurumi material by month: events, daily 
 
 ## Published
 
+- [August 2026 public-source digest](2026-08/index.md)
 - [July 2026 public-source digest](2026-07/index.md)
 
 Anonymous accusations, private chats, unauthorized images, precise private addresses, and retellings without traceable dates are not published as facts. Third-party images are linked at their original source rather than copied into this archive.
