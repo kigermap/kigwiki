@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">15</span>
+      <h3>2015 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 扩大的着ぐるみ可用空间、移动协助、摄影同意、更衣隐私与实际设施运行记录。</p>
+      <a href="../years/2015/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">16</span>
       <h3>2016 年 Kigurumi 编年史</h3>
       <p>收录 AnimeJapan 的着ぐるみ区域、换装、寄存、摄影同意与实际设施运行记录。</p>
