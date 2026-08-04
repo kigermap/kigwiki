@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>2015年 Kigurumi 編年史</h3><p>AnimeJapan の拡張された公共 cosplay 空間、着ぐるみの移動補助、撮影同意、更衣室のプライバシーと設備の実運用を整理する。</p><a href="2015/">2015年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>2016年 Kigurumi 編年史</h3><p>AnimeJapan が着ぐるみを明記したエリア、更衣、保管、撮影規則と、開催レポートによる公共 cosplay 設備の実運用を整理する。</p><a href="2016/">2016年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017年 Kigurumi 編年史</h3><p>AnimeJapan の会場・女性専用プレミアム更衣選択の拡張と、有効回答220件の自主調査を整理し、便宜標本の境界を明記する。</p><a href="2017/">2017年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">18</span><h3>2018年 Kigurumi 編年史</h3><p>公共イベントにおける着ぐるみの視界、アテンド、撮影同意、更衣室規則と、animegao マスク制作マッチングの学位研究を整理する。</p><a href="2018/">2018年を読む</a></article>

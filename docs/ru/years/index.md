@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>Хроника Kigurumi 2015 года</h3><p>Расширенное публичное cosplay-пространство AnimeJapan, помощь при движении kigurumi, согласие на съемку, приватность раздевалок и подтвержденная работа инфраструктуры.</p><a href="2015/">Читать 2015 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>Хроника Kigurumi 2016 года</h3><p>Правила AnimeJapan о зонах, переодевании, хранении и съемке kigurumi, а также итоговое подтверждение работы публичной cosplay-инфраструктуры.</p><a href="2016/">Читать 2016 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>Хроника Kigurumi 2017 года</h3><p>Расширение площадки AnimeJapan и выбора раздевалок, а также общественный опрос с 220 действительными ответами и явными границами выборки.</p><a href="2017/">Читать 2017 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">18</span><h3>Хроника Kigurumi 2018 года</h3><p>Правила публичного мероприятия об обзоре, сопровождении, согласии на съемку и раздевалках, а также магистерское исследование производства animegao-масок.</p><a href="2018/">Читать 2018 год</a></article>

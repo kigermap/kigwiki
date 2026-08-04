@@ -26,6 +26,12 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">15</span>
+      <h3>2015 年 Kigurumi 编年史</h3>
+      <p>整理 AnimeJapan 扩大的公共 cosplay 空间、着ぐるみ移动协助、摄影同意与更衣隐私，并以闭幕后报告确认设施运行。</p>
+      <a href="2015/">阅读 2015 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">16</span>
       <h3>2016 年 Kigurumi 编年史</h3>
       <p>整理 AnimeJapan 明文涉及着ぐるみ的区域、换装、寄存与摄影规则，并以闭幕后报告确认公共 cosplay 设施实际运行。</p>
@@ -93,7 +99,7 @@
   <h2>预制年份分卷</h2>
   <div class="archive-feature-grid">
     <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010-2013</h3><p>早期线索收集卷，重点补充公开出处、旧相册说明和活动称谓校对。</p></article>
-    <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014-2015</h3><p>活动组织与资料编号逐渐形成，适合建立早期活动谱系。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014</h3><p>下一待整理年份，重点补充公开出处、活动空间、规则文本与待考事项。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>
