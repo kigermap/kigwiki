@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014年 Kigurumi 編年史</h3><p>AnimeJapan の公式キャラクター着ぐるみ交流と、Cosplayers World の屋内外撮影エリア・衣装レンタルの実運用を収録する。</p><a href="../years/2014/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>2015年 Kigurumi 編年史</h3><p>AnimeJapan の拡張された着ぐるみ利用可能空間、移動補助、撮影同意、更衣室のプライバシーと設備運用を収録する。</p><a href="../years/2015/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>2016年 Kigurumi 編年史</h3><p>AnimeJapan の着ぐるみエリア、更衣、保管、撮影同意と設備の実運用を収録する。</p><a href="../years/2016/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017年 Kigurumi 編年史</h3><p>AnimeJapan の会場・女性専用プレミアム更衣選択の拡張と、有効回答220件のコミュニティ自主調査を収録する。</p><a href="../years/2017/">年度ページへ</a></article>

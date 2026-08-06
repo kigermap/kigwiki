@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">14</span>
+      <h3>2014 年 Kigurumi 编年史</h3>
+      <p>收录 AnimeJapan 官方角色着ぐるみ互动，以及 Cosplayers World 室内外摄影区与服装租赁的实际运行记录。</p>
+      <a href="../years/2014/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">15</span>
       <h3>2015 年 Kigurumi 编年史</h3>
       <p>收录 AnimeJapan 扩大的着ぐるみ可用空间、移动协助、摄影同意、更衣隐私与实际设施运行记录。</p>

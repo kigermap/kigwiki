@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 中官方角色着ぐるみ的合照與握手，以及 Cosplayers World 室內外攝影區和服裝租賃的實際運行，並與 animegao 參與證據分開。</p><a href="2014/">閱讀 2014 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>2015 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 擴大的公共 cosplay 空間、着ぐるみ移動協助、攝影同意與更衣私隱，並以閉幕後報告確認設施運行。</p><a href="2015/">閱讀 2015 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>2016 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 明文涉及着ぐるみ的區域、換裝、寄存與攝影規則，並以閉幕後報告確認公共 cosplay 設施實際運行。</p><a href="2016/">閱讀 2016 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 場地與女性專用高級更衣選擇的擴展，以及 220 份有效回答的社群調查，並明確標示便利樣本邊界。</p><a href="2017/">閱讀 2017 年</a></article>
