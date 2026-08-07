@@ -49,7 +49,9 @@ Kigurumi 编年志是一个面向 kigurumi 社群的静态资料馆项目，用�
 │       ├── images/              # 共享图片与二维码等资源
 │       ├── stylesheets/extra.css
 │       └── javascripts/archive-ui.js
-├── scripts/site_hooks.py        # MkDocs 构建后处理
+├── scripts/
+│   ├── build_indexes.py         # 资料索引与资源完整性校验
+│   └── site_hooks.py            # MkDocs 构建后处理
 ├── mkdocs.yml                   # 站点、导航、多语言和主题配置
 ├── LICENSE                      # 代码开源协议，MIT License
 ├── LICENSE-CONTENT.md           # 原创文字、第三方素材和投稿资料的授权边界
@@ -294,7 +296,7 @@ CLOUDFLARE_ACCOUNT_ID
 
 ```toml
 [build]
-command = "mkdocs build --strict"
+command = "python scripts/build_indexes.py && mkdocs build --strict"
 publish = "site"
 ```
 
