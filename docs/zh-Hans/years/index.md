@@ -26,6 +26,12 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">13</span>
+      <h3>2013 年 Kigurumi 编年史</h3>
+      <p>整理东京电玩展对大型着ぐるみ、更衣、指定摄影区、拍摄许可与图片发布同意的公共规则，并保留 animegao 参与证据空白。</p>
+      <a href="2013/">阅读 2013 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">14</span>
       <h3>2014 年 Kigurumi 编年史</h3>
       <p>整理 AnimeJapan 中官方角色着ぐるみ的合影与握手，以及 Cosplayers World 室内外摄影区和服装租赁的实际运行，并与 animegao 参与证据分开。</p>
@@ -104,7 +110,7 @@
   <p class="archive-kicker">Draft Year Blocks</p>
   <h2>预制年份分卷</h2>
   <div class="archive-feature-grid">
-    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010-2013</h3><p>下一阶段的早期线索收集卷；2013 为下一待整理年份，重点补充公开出处、旧相册说明和活动称谓校对。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010-2012</h3><p>下一阶段的早期线索收集卷；2012 为下一待整理年份，重点补充公开出处、旧相册说明和活动称谓校对。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>

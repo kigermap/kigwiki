@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>Хроника Kigurumi 2013 года</h3><p>Публичные правила Tokyo Game Show для крупных kigurumi, раздевалок, зон съемки, разрешения на фото и публикацию изображений с сохранением пробела в доказательствах участия animegao.</p><a href="2013/">Читать 2013 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>Хроника Kigurumi 2014 года</h3><p>Фотографии и рукопожатия с kigurumi официальных персонажей AnimeJapan, а также работа крытой и открытой зон и проката Cosplayers World, отдельно от доказательств участия animegao.</p><a href="2014/">Читать 2014 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>Хроника Kigurumi 2015 года</h3><p>Расширенное публичное cosplay-пространство AnimeJapan, помощь при движении kigurumi, согласие на съемку, приватность раздевалок и подтвержденная работа инфраструктуры.</p><a href="2015/">Читать 2015 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>Хроника Kigurumi 2016 года</h3><p>Правила AnimeJapan о зонах, переодевании, хранении и съемке kigurumi, а также итоговое подтверждение работы публичной cosplay-инфраструктуры.</p><a href="2016/">Читать 2016 год</a></article>

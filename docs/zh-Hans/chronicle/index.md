@@ -33,7 +33,7 @@
   <h2>预制时间线</h2>
   <div class="archive-timeline">
     <div><time>2010s</time><strong>资料萌芽期</strong><span>早期活动、照片批次、制作经验和线下聚会开始形成可整理线索。</span></div>
-    <div><time>2014-2018</time><strong>活动与空间积累</strong><span>社群活动、会馆、工坊、摄影协作和展陈实践逐渐留下稳定资料。</span></div>
+    <div><time>2013-2018</time><strong>活动与空间积累</strong><span>公共规则、社群活动、会馆、工坊、摄影协作和展陈实践逐渐留下稳定资料。</span></div>
     <div><time>2019-2023</time><strong>线上整理期</strong><span>访谈转写、资料表、公开页面和多语言入口成为长期维护需求。</span></div>
     <div><time>2024-至今</time><strong>编年志建设期</strong><span>以静态站方式建立目录、体例、参与流程和公开边界。</span></div>
   </div>
@@ -43,6 +43,12 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature">
+      <span class="archive-feature__icon">13</span>
+      <h3>2013 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展对大型着ぐるみ、更衣、指定摄影区、摄影许可和图片发布同意的公共规则。</p>
+      <a href="../years/2013/">进入年度页</a>
+    </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">14</span>
       <h3>2014 年 Kigurumi 编年史</h3>
