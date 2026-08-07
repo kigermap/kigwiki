@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>2012 年 Kigurumi 編年史</h3><p>整理東京電玩展 7 號館更衣與寄存、早間換裝、指定攝影區、影片和商業使用限制，並與 2013 年空間遷移去重。</p><a href="2012/">閱讀 2012 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>2013 年 Kigurumi 編年史</h3><p>整理東京電玩展對大型着ぐるみ、更衣、指定攝影區、拍攝許可與圖片發布同意的公共規則，並保留 animegao 參與證據空白。</p><a href="2013/">閱讀 2013 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 中官方角色着ぐるみ的合照與握手，以及 Cosplayers World 室內外攝影區和服裝租賃的實際運行，並與 animegao 參與證據分開。</p><a href="2014/">閱讀 2014 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>2015 年 Kigurumi 編年史</h3><p>整理 AnimeJapan 擴大的公共 cosplay 空間、着ぐるみ移動協助、攝影同意與更衣私隱，並以閉幕後報告確認設施運行。</p><a href="2015/">閱讀 2015 年</a></article>
