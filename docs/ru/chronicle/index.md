@@ -19,6 +19,8 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>Хроника Kigurumi 2011 года</h3><p>Раздевалка и гардероб зала 2 Tokyo Game Show, раннее переодевание, стена-фон для съемки и отделение общей cosplay-программы от доказательств animegao.</p><a href="../years/2011/">Открыть год</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>Хроника Kigurumi 2012 года</h3><p>Раздевалка и гардероб зала 7 Tokyo Game Show, раннее переодевание, зоны съемки и границы видео, коммерческой съемки и публикации.</p><a href="../years/2012/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>Хроника Kigurumi 2013 года</h3><p>Публичные правила Tokyo Game Show для крупных kigurumi, раздевалок, зон съемки, разрешения на фото и публикацию изображений.</p><a href="../years/2013/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>Хроника Kigurumi 2014 года</h3><p>Публичное взаимодействие с kigurumi официальных персонажей AnimeJapan и работа крытой, открытой зон и проката Cosplayers World.</p><a href="../years/2014/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>Хроника Kigurumi 2015 года</h3><p>Расширенное пространство AnimeJapan для kigurumi, помощь при движении, согласие на съемку, приватность раздевалок и фактическая работа инфраструктуры.</p><a href="../years/2015/">Открыть год</a></article>

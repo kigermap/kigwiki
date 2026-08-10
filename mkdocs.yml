@@ -105,6 +105,8 @@ plugins:
                 - 编年总览: chronicle/index.md
                 - 年份目录:
                     - 年份总览: years/index.md
+                    - 2011 年 Kigurumi 编年史: years/2011/index.md
+                    - 2012 年 Kigurumi 编年史: years/2012/index.md
                     - 2013 年 Kigurumi 编年史: years/2013/index.md
                     - 2014 年 Kigurumi 编年史: years/2014/index.md
                     - 2015 年 Kigurumi 编年史: years/2015/index.md
@@ -193,6 +195,8 @@ plugins:
                 - 編年總覽: chronicle/index.md
                 - 年份目錄:
                     - 年份總覽: years/index.md
+                    - 2011 年 Kigurumi 編年史: years/2011/index.md
+                    - 2012 年 Kigurumi 編年史: years/2012/index.md
                     - 2013 年 Kigurumi 編年史: years/2013/index.md
                     - 2014 年 Kigurumi 編年史: years/2014/index.md
                     - 2015 年 Kigurumi 編年史: years/2015/index.md
@@ -281,6 +285,8 @@ plugins:
                 - Overview: chronicle/index.md
                 - Years:
                     - Years Overview: years/index.md
+                    - 2011 Kigurumi Chronicle: years/2011/index.md
+                    - 2012 Kigurumi Chronicle: years/2012/index.md
                     - 2013 Kigurumi Chronicle: years/2013/index.md
                     - 2014 Kigurumi Chronicle: years/2014/index.md
                     - 2015 Kigurumi Chronicle: years/2015/index.md
@@ -364,6 +370,8 @@ plugins:
                 - 編年総覧: chronicle/index.md
                 - 年別目録:
                     - 年別総覧: years/index.md
+                    - 2011年 Kigurumi 編年史: years/2011/index.md
+                    - 2012年 Kigurumi 編年史: years/2012/index.md
                     - 2013年 Kigurumi 編年史: years/2013/index.md
                     - 2014年 Kigurumi 編年史: years/2014/index.md
                     - 2015年 Kigurumi 編年史: years/2015/index.md
@@ -452,6 +460,8 @@ plugins:
                 - Обзор: chronicle/index.md
                 - Годы:
                     - Обзор годов: years/index.md
+                    - Хроника Kigurumi 2011 года: years/2011/index.md
+                    - Хроника Kigurumi 2012 года: years/2012/index.md
                     - Хроника Kigurumi 2013 года: years/2013/index.md
                     - Хроника Kigurumi 2014 года: years/2014/index.md
                     - Хроника Kigurumi 2015 года: years/2015/index.md
@@ -561,6 +571,8 @@ nav:
       - 编年总览: chronicle/index.md
       - 年份目录:
           - 年份总览: years/index.md
+          - 2011 年 Kigurumi 编年史: years/2011/index.md
+          - 2012 年 Kigurumi 编年史: years/2012/index.md
           - 2013 年 Kigurumi 编年史: years/2013/index.md
           - 2014 年 Kigurumi 编年史: years/2014/index.md
           - 2015 年 Kigurumi 编年史: years/2015/index.md
