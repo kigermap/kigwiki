@@ -8,7 +8,8 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
-    <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011年 Kigurumi 編年史</h3><p>東京ゲームショウの2ホール更衣・クローク、早朝更衣、壁を背景にする撮影規則を整理し、2012年の会場移動、海沿い区域、動画制限と重複排除する。</p><a href="2011/">2011年を読む</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010年 Kigurumi 編年史</h3><p>東京ゲームショウの新設 cosplay 企画、7ホール更衣・クローク、早朝利用、夜間延長、大型着ぐるみ規定を整理し、2011年の会場移動と重複排除する。</p><a href="2010/">2010年を読む</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011年 Kigurumi 編年史</h3><p>東京ゲームショウの更衣・クロークが2010年の7ホールから2ホールへ移った変化を記録し、共通規定は2010年に残す。</p><a href="2011/">2011年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>2012年 Kigurumi 編年史</h3><p>東京ゲームショウの7ホール更衣・クローク、早朝更衣、指定撮影区域、動画・営利利用制限を整理し、2013年の空間移動と重複排除する。</p><a href="2012/">2012年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>2013年 Kigurumi 編年史</h3><p>東京ゲームショウの大型着ぐるみ、更衣、指定撮影区域、撮影許可、画像公開同意の公共規則を整理し、animegao 参加証拠の空白を残す。</p><a href="2013/">2013年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014年 Kigurumi 編年史</h3><p>AnimeJapan の公式キャラクター着ぐるみ撮影・握手と、Cosplayers World の屋内外撮影エリア・衣装レンタルの実運用を animegao の参加証拠と分けて整理する。</p><a href="2014/">2014年を読む</a></article>

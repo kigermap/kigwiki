@@ -44,9 +44,15 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">10</span>
+      <h3>2010 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展新增 cosplay 企划、7 号馆更衣寄存、舞会延时和大型着ぐるみ公共规则，并保留 animegao 到场证据空白。</p>
+      <a href="../years/2010/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">11</span>
       <h3>2011 年 Kigurumi 编年史</h3>
-      <p>收录东京电玩展 2 号馆更衣与寄存、早间换装、以墙为背景的摄影规则，并将一般 cosplay 晚会与 animegao 到场证据分开。</p>
+      <p>收录东京电玩展更衣与寄存从 2010 年 7 号馆迁至 2 号馆的独特变化，共同规则不重复。</p>
       <a href="../years/2011/">进入年度页</a>
     </article>
     <article class="archive-feature">
