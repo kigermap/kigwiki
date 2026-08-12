@@ -26,9 +26,15 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">10</span>
+      <h3>2010 年 Kigurumi 编年史</h3>
+      <p>整理东京电玩展新增 cosplay 企划、7 号馆更衣寄存、早间换装、舞会延时和大型着ぐるみ规则，并与 2011 年的场地迁移去重。</p>
+      <a href="2010/">阅读 2010 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">11</span>
       <h3>2011 年 Kigurumi 编年史</h3>
-      <p>整理东京电玩展 2 号馆更衣寄存、早间换装和以墙为背景的摄影规则，并与 2012 年的场地迁移、临海区域和视频限制去重。</p>
+      <p>记录东京电玩展更衣与寄存从 2010 年 7 号馆迁至 2 号馆；共同规则留在 2010 年，2012 年保留回迁和新增边界。</p>
       <a href="2011/">阅读 2011 年</a>
     </article>
     <article class="archive-feature">
@@ -122,7 +128,7 @@
   <p class="archive-kicker">Draft Year Blocks</p>
   <h2>预制年份分卷</h2>
   <div class="archive-feature-grid">
-    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010</h3><p>下一待整理年份；重点核验更早的公开规则、旧相册说明和活动称谓，不用 2011 年资料反向补写。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009</h3><p>下一待整理年份；重点核验更早的公开规则、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>

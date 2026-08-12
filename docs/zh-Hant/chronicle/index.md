@@ -19,7 +19,8 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已錄入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
-    <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011 年 Kigurumi 編年史</h3><p>收錄東京電玩展 2 號館更衣與寄存、早間換裝、以牆為背景的攝影規則，並把一般 cosplay 晚會與 animegao 到場證據分開。</p><a href="../years/2011/">進入年度頁</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010 年 Kigurumi 編年史</h3><p>收錄東京電玩展新增 cosplay 企劃、7 號館更衣寄存、晚會延時和大型着ぐるみ公共規則，並保留 animegao 到場證據空白。</p><a href="../years/2010/">進入年度頁</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011 年 Kigurumi 編年史</h3><p>收錄東京電玩展更衣與寄存從 2010 年 7 號館遷至 2 號館的獨特變化，共同規則不重複。</p><a href="../years/2011/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>2012 年 Kigurumi 編年史</h3><p>收錄東京電玩展 7 號館更衣與寄存、早間換裝、指定攝影區，以及影片、商業攝影和圖片發布邊界。</p><a href="../years/2012/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>2013 年 Kigurumi 編年史</h3><p>收錄東京電玩展對大型着ぐるみ、更衣、指定攝影區、攝影許可和圖片發布同意的公共規則。</p><a href="../years/2013/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014 年 Kigurumi 編年史</h3><p>收錄 AnimeJapan 官方角色着ぐるみ互動，以及 Cosplayers World 室內外攝影區與服裝租賃的實際運行記錄。</p><a href="../years/2014/">進入年度頁</a></article>
