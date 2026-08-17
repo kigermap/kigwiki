@@ -1,13 +1,13 @@
 ---
 title: "2010 Kigurumi Chronicle"
-date: "2026-08-12"
+date: "2026-08-17"
 language: "en"
-status: "Public-source verified edition; de-duplicated against 2011-2025"
+status: "Public-source verified edition; de-duplicated against 2009 and 2011-2025"
 ---
 
 # 2010 Kigurumi Chronicle
 
-> The 2011-2025 volumes are complete. Following the rule that a completed year is not rebuilt and only one earlier year is prepared per run, this volume adds 2010 only. The accessible primary record is concentrated in Tokyo Game Show 2010's organizer archive; specialist gatherings without reliable dates, places, and outcomes are not reconstructed from later evidence.
+> The 2009 volume has now been added. This correction moves shared rules to the earlier evidence point and retains only material 2010 changes; specialist gatherings without reliable dates, places, and outcomes are not reconstructed from later evidence.
 
 ## 1. Evidence boundary
 
@@ -25,9 +25,9 @@ The closing report does not provide participant lists for every program and does
 
 ### September 18-19: Hall 7 changing, cloakroom, and early access formed one workflow
 
-The organizer placed the cosplay changing room in Hall 7. Its JPY 500 fee included cloakroom use. The room was scheduled to open early from the first train at Kaihin-Makuhari Station until 8:00; participants who finished before 8:00 had to rejoin the end of the general-admission queue. Changing elsewhere, eating, resting, or photographing inside the room was prohibited; costumes were checked at the exit, arrival or departure in costume was prohibited, and sewing kits were available from staff.[^tgs-cosplay][^tgs-rules]
+The organizer placed the cosplay changing room in Hall 7 and scheduled early opening from the first train at Kaihin-Makuhari Station until 8:00; participants who finished before 8:00 had to rejoin the end of the general-admission queue. The shared JPY 500 fee, designated changing, costume checks, and sewing-kit workflow are recorded in the [2009 volume](../2009/index.md) and are not repeated here.[^tgs-cosplay][^tgs-rules]
 
-The same rules prohibited large kigurumi, papier-mache costumes, and floor-dragging skirts or mantles. Photography was limited to part of Yasuragi Mall and other designated areas, required the subject's permission and a wall background to exclude bystanders, and prohibited commercial work or submitting or selling venue photographs to publications.[^tgs-rules]
+Large-kigurumi, photo-consent, wall-background, and non-commercial-use boundaries were already public in 2009. The 2010 archive shows no material change, so they remain continuity rather than a new node.[^tgs-rules]
 
 ### September 18: Dance Night extended changing-room access to 21:00
 
@@ -48,18 +48,18 @@ This establishes an infrastructure extension for a general evening cosplay progr
 
 The existing chronicle, daily-life/discussion, reference/education, and etiquette/safety structure is sufficient. One general exhibition's rules and programs do not justify a separate event, craft, or academic section.
 
-## 4. De-duplication against 2011-2025
+## 4. De-duplication against 2009 and 2011-2025
 
 | Continuing theme | Retained in 2010 | Treatment in later years |
 | --- | --- | --- |
 | TGS cosplay initiative | The closing report confirms the integrated program as new that year | 2011's general cosplay night is not a new kigurumi node |
 | Changing and cloakroom | Hall 7, JPY 500 including cloakroom, early opening, and access until 21:00 for Dance Night participants | 2011 retains only the move to Hall 2; 2012 retains the return to Hall 7 and new spatial boundaries |
-| Large-kigurumi rule | The earlier verifiable 2010 rule date | 2011 notes continuity and is no longer described as the earliest baseline |
-| Photography and distribution | Yasuragi Mall, consent, wall background, and non-commercial limits | Later years retain only material changes in space or distribution rules |
+| Large-kigurumi rule | Continued the 2009 boundary; not a new node | Shared rules remain in 2009; later years retain only material changes |
+| Photography and distribution | Continued 2009 consent, wall-background, and non-commercial limits | Later years retain only material changes in space or distribution rules |
 
 ## 5. Annual conclusion
 
-The stable 2010 record is Tokyo Game Show's new cosplay initiative and its public-participation infrastructure: Hall 7 provided paid changing, cloakroom use, and early access, while Dance Night participants could use the room until 21:00. Large kigurumi, photo consent, wall backgrounds, and non-commercial distribution were already covered by published rules. The closing report confirms the new cosplay initiative within the completed TGS 2010 event, but it does not prove attendance by animegao or large-kigurumi participants. The 2011 volume retains the move to Hall 2; shared rules are not expanded again.
+The stable 2010 record is Tokyo Game Show's new integrated cosplay initiative, Hall 7 early changing, and the Dance Night extension to 21:00. Shared boundaries for large kigurumi, JPY 500 changing and cloakroom use, photo consent, wall backgrounds, and non-commercial distribution remain in 2009. The closing report confirms the new initiative within the completed TGS 2010 event, but does not prove attendance by animegao or large-kigurumi participants.
 
 ## Sources
 
