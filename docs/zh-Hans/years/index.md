@@ -26,6 +26,12 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">08</span>
+      <h3>2008 年 Kigurumi 编年史</h3>
+      <p>确认东京电玩展 2008 的日期、地点与闭幕结果，并公开标注 animegao、大型着ぐるみ和专门规则的档案证据空白。</p>
+      <a href="2008/">阅读 2008 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">09</span>
       <h3>2009 年 Kigurumi 编年史</h3>
       <p>整理东京电玩展对大型着ぐるみ、行李安全、更衣寄存与摄影同意的公开规则，并把后续年度共同边界前移去重。</p>
@@ -134,7 +140,7 @@
   <p class="archive-kicker">Draft Year Blocks</p>
   <h2>预制年份分卷</h2>
   <div class="archive-feature-grid">
-    <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008</h3><p>下一待整理年份；重点核验更早的公开规则、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007</h3><p>下一待整理年份；继续核验更早的公开规则、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>

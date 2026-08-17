@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>Хроника Kigurumi 2008 года</h3><p>Подтверждены даты, место и завершение Tokyo Game Show 2008; открыто отмечен пробел в доказательствах animegao, крупных kigurumi и специальных правил.</p><a href="2008/">Читать 2008 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>Хроника Kigurumi 2009 года</h3><p>Публичные правила Tokyo Game Show о крупных kigurumi, безопасности багажа, раздевалке, гардеробе и согласии на съемку с устранением повторов поздних лет.</p><a href="2009/">Читать 2009 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>Хроника Kigurumi 2010 года</h3><p>Новая cosplay-программа Tokyo Game Show, раннее переодевание в зале 7 и вечернее продление; общие правила остаются в 2009 году.</p><a href="2010/">Читать 2010 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>Хроника Kigurumi 2011 года</h3><p>Переход раздевалки и гардероба Tokyo Game Show из зала 7 в зал 2; общие правила остаются в 2009 году.</p><a href="2011/">Читать 2011 год</a></article>

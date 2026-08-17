@@ -13,7 +13,14 @@ status: "Reviewed through 2026-08-17; only changes from July are recorded"
 
 | Date / status | Place | Domains | De-duplicated record | Confidence |
 | --- | --- | --- | --- | --- |
+| August 14 / new public release | China online / Bilibili | Workshop, craft, daily life | HaiDolls published a 16-second “kigurumi finished work showcase”; only public metadata is recorded, without inferring materials or process | High |
 | July 31-August 2 / official date window elapsed; actual completion pending | Nagoya, Japan | Chronicle, education, etiquette, safety | WCS 2026's official end date is August 2; no verifiable organizer completion record was available at the August 17 review | High |
+
+### August 14: HaiDolls published a kigurumi finished work showcase
+
+Bilibili's public metadata dates “kigurumi finished work showcase” to August 14, 2026 at 12:00 (Asia/Shanghai), names HaiDolls as the publisher, and gives a duration of 16 seconds.[^bili-finished] No matching BV identifier or title was found in the site, so it is included as a new monthly **finished-work showcase / daily publication**.
+
+The public description is empty, and the metadata does not identify the character, mask materials, workshop process, or commission relationship. The digest therefore does not expand “finished work showcase” into a tutorial, review, or workshop profile. One short video does not justify a separate workshop section; later process or materials documentation can extend the same source chain.
 
 ### WCS 2026: official date window elapsed; actual completion remains pending
 
@@ -32,13 +39,13 @@ No organizer summary or independent retrospective sufficient to establish comple
 | Domain | Assessment at the August 17 review | Treatment |
 | --- | --- | --- |
 | Chronicle | WCS's official date window has elapsed; actual completion remains pending | Retain the existing status; do not duplicate |
-| Daily life / discussion | No distinct new public record found | Omit |
-| Workshop / craft | No verifiable new tutorial or production release found | Omit |
+| Daily life / discussion | A new finished-work video was published on August 14 | Include as a public monthly post |
+| Workshop / craft | One finished-work showcase is verifiable, without process details | Include the result; do not infer technique |
 | Reference / education | No knowledge node beyond July's rules | Do not repeat |
 | Etiquette / safety | No material change found in current WCS rules | Link the July record |
 | Academic | No directly relevant new August publication found | Omit |
 
-This review produced no separately recordable new node and does not justify a new topical section. Later WCS completion material, evidence from DW14, or new craft and research sources will update this monthly page rather than create duplicate daily pages.
+This review produced one separately citable finished-work / daily-life node, but it does not justify a new topical section. Later WCS completion material, evidence from DW14, or process and research sources for the same work will update this monthly page rather than create duplicate daily pages.
 
 ## Source
 
@@ -47,3 +54,4 @@ This review produced no separately recordable new node and does not justify a ne
 [^dwkig]: Doll Weekend, “Doll Weekend × KIGURUMI Summer Doll Photo Party,” <https://dollweekend.cn/cn/event/dwkigurumi>
 [^bili-guide]: Kaze, “Kigurumi Beginner's Guide,” Bilibili, <https://www.bilibili.com/video/BV1iEz7BrEHs/>; public metadata: <https://api.bilibili.com/x/web-interface/view?bvid=BV1iEz7BrEHs>
 [^handbook]: “Kigurumi Handbook,” <https://how.kig.land/>
+[^bili-finished]: HaiDolls, “kigurumi finished work showcase,” Bilibili, August 14, 2026, <https://www.bilibili.com/video/BV1r1uy6XEQo/>; public metadata: <https://api.bilibili.com/x/web-interface/view?bvid=BV1r1uy6XEQo>

@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008年 Kigurumi 編年史</h3><p>東京ゲームショウ2008の日程、会場、閉幕結果を確認し、animegao、大型着ぐるみ、専門規則の公開証拠が欠けることを明記する。</p><a href="2008/">2008年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009年 Kigurumi 編年史</h3><p>東京ゲームショウの大型着ぐるみ、手荷物安全、更衣・クローク、撮影同意の公開規定を整理し、後年の共通境界を前倒しで重複排除する。</p><a href="2009/">2009年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010年 Kigurumi 編年史</h3><p>東京ゲームショウの新設 cosplay 企画、7ホール早朝更衣、夜間延長を整理し、共通規定は2009年に残す。</p><a href="2010/">2010年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011年 Kigurumi 編年史</h3><p>東京ゲームショウの更衣・クロークが2010年の7ホールから2ホールへ移った変化を記録し、共通規定は2009年に残す。</p><a href="2011/">2011年を読む</a></article>

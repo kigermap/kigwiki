@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008 年 Kigurumi 編年史</h3><p>確認東京電玩展 2008 的日期、地點與閉幕結果，並公開標示 animegao、大型着ぐるみ與專門規則的檔案證據空白。</p><a href="2008/">閱讀 2008 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009 年 Kigurumi 編年史</h3><p>整理東京電玩展對大型着ぐるみ、行李安全、更衣寄存與攝影同意的公開規則，並把後續年度共同邊界前移去重。</p><a href="2009/">閱讀 2009 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010 年 Kigurumi 編年史</h3><p>整理東京電玩展新增 cosplay 企劃、7 號館早間換裝和晚會延時；共同規則保留在 2009 年。</p><a href="2010/">閱讀 2010 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011 年 Kigurumi 編年史</h3><p>記錄東京電玩展更衣與寄存從 2010 年 7 號館遷至 2 號館；共同規則留在 2009 年，2012 年保留回遷和新增邊界。</p><a href="2011/">閱讀 2011 年</a></article>
