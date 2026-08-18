@@ -9,6 +9,8 @@ The chronicle is the archive's time axis. A dated entry should identify the even
 
 ## Published annual volumes
 
+- [2007 Kigurumi Chronicle](../years/2007/index.md)
+- [2008 Kigurumi Chronicle](../years/2008/index.md)
 - [2009 Kigurumi Chronicle](../years/2009/index.md)
 - [2010 Kigurumi Chronicle](../years/2010/index.md)
 - [2011 Kigurumi Chronicle](../years/2011/index.md)

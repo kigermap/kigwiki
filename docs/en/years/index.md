@@ -9,6 +9,7 @@ Annual pages turn verified event records into stable volumes. Each volume keeps 
 
 ## English edition
 
+- [2007 Kigurumi Chronicle](2007/index.md)
 - [2008 Kigurumi Chronicle](2008/index.md)
 - [2009 Kigurumi Chronicle](2009/index.md)
 - [2010 Kigurumi Chronicle](2010/index.md)

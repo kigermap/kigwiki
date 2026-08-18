@@ -19,8 +19,10 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
-    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009年 Kigurumi 編年史</h3><p>東京ゲームショウの大型着ぐるみ、手荷物安全、更衣・クローク、撮影同意の公共規定を収録し、実来場証拠の空白を残す。</p><a href="../years/2009/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010年 Kigurumi 編年史</h3><p>東京ゲームショウの新設 cosplay 企画、7ホール早朝更衣、夜間延長を収録し、共通規定は2009年に残す。</p><a href="../years/2010/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007年 Kigurumi 編年史</h3><p>東京ゲームショウの大型着ぐるみ、指定更衣、クローク、衣装確認、撮影同意の公開規定を収録し、実来場証拠の空白を残す。</p><a href="../years/2007/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008年 Kigurumi 編年史</h3><p>東京ゲームショウ2008の日程、会場、閉幕結果と、関連する参加・専門規定の公開証拠空白を収録する。</p><a href="../years/2008/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009年 Kigurumi 編年史</h3><p>東京ゲームショウ2009の手荷物検査計画、裁縫道具、更衣室受付時限を収録し、共同規定は2007年へ移す。</p><a href="../years/2009/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010年 Kigurumi 編年史</h3><p>東京ゲームショウの新設 cosplay 企画、7ホール早朝更衣、夜間延長を収録し、基本規定は2007年に遡る。</p><a href="../years/2010/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011年 Kigurumi 編年史</h3><p>東京ゲームショウの更衣・クロークが2010年の7ホールから2ホールへ移った固有の変化を収録し、共通規定は繰り返さない。</p><a href="../years/2011/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>2012年 Kigurumi 編年史</h3><p>東京ゲームショウの7ホール更衣・クローク、早朝更衣、指定撮影区域、動画・営利撮影・画像公開の境界を収録する。</p><a href="../years/2012/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>2013年 Kigurumi 編年史</h3><p>東京ゲームショウの大型着ぐるみ、更衣、指定撮影区域、撮影許可、画像公開同意の公共規則を収録する。</p><a href="../years/2013/">年度ページへ</a></article>
