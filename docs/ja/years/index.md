@@ -8,10 +8,11 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
-    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007年 Kigurumi 編年史</h3><p>東京ゲームショウ2007の大型着ぐるみ、指定更衣、クローク、衣装確認、撮影同意の公開規定を整理し、実来場証拠の空白を残す。</p><a href="2007/">2007年を読む</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>2006年 Kigurumi 編年史</h3><p>東京ゲームショウ2006の大型着ぐるみ、指定更衣、クローク、衣装確認、撮影同意の公開規定を整理し、実来場証拠の空白を残す。</p><a href="2006/">2006年を読む</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007年 Kigurumi 編年史</h3><p>東京ゲームショウ2007の日程、会場、閉幕を確認し、共同する公開規定は2006年巻へ接続して反復しない。</p><a href="2007/">2007年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008年 Kigurumi 編年史</h3><p>東京ゲームショウ2008の日程、会場、閉幕結果を確認し、animegao、大型着ぐるみ、専門規則の公開証拠が欠けることを明記する。</p><a href="2008/">2008年を読む</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009年 Kigurumi 編年史</h3><p>東京ゲームショウ2009の手荷物検査計画、裁縫道具、更衣室受付時限を整理し、共同規定は2007年へ移す。</p><a href="2009/">2009年を読む</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010年 Kigurumi 編年史</h3><p>東京ゲームショウの新設 cosplay 企画、7ホール早朝更衣、夜間延長を整理し、基本規定は2007年に遡る。</p><a href="2010/">2010年を読む</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009年 Kigurumi 編年史</h3><p>東京ゲームショウ2009の手荷物検査計画、裁縫道具、更衣室受付時限を整理し、共同規定は2006年へ移す。</p><a href="2009/">2009年を読む</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010年 Kigurumi 編年史</h3><p>東京ゲームショウの新設 cosplay 企画、7ホール早朝更衣、夜間延長を整理し、基本規定は2006年に遡る。</p><a href="2010/">2010年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011年 Kigurumi 編年史</h3><p>東京ゲームショウの更衣・クロークが2010年の7ホールから2ホールへ移った変化を記録し、共通規定は繰り返さない。</p><a href="2011/">2011年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>2012年 Kigurumi 編年史</h3><p>東京ゲームショウの7ホール更衣・クローク、早朝更衣、指定撮影区域、動画・営利利用制限を整理し、2013年の空間移動と重複排除する。</p><a href="2012/">2012年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>2013年 Kigurumi 編年史</h3><p>東京ゲームショウの大型着ぐるみ、更衣、指定撮影区域、撮影許可、画像公開同意の公共規則を整理し、animegao 参加証拠の空白を残す。</p><a href="2013/">2013年を読む</a></article>

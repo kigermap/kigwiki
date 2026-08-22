@@ -44,9 +44,15 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">06</span>
+      <h3>2006 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展对大型着ぐるみ、指定更衣、寄存、服装检查和摄影同意的公开规则，并保留实际到场证据空白。</p>
+      <a href="../years/2006/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">07</span>
       <h3>2007 年 Kigurumi 编年史</h3>
-      <p>收录东京电玩展对大型着ぐるみ、指定更衣、寄存、服装检查和摄影同意的公开规则，并保留实际到场证据空白。</p>
+      <p>确认东京电玩展 2007 的日期、地点与闭幕结果；共同公共规则回链 2006 年卷，不重复条文。</p>
       <a href="../years/2007/">进入年度页</a>
     </article>
     <article class="archive-feature">
@@ -58,13 +64,13 @@
     <article class="archive-feature">
       <span class="archive-feature__icon">09</span>
       <h3>2009 年 Kigurumi 编年史</h3>
-      <p>收录东京电玩展 2009 的行李检查安排、现场缝纫工具和更衣室办理时限；共同规则前移至 2007 年。</p>
+      <p>收录东京电玩展 2009 的行李检查安排、现场缝纫工具和更衣室办理时限；共同规则前移至 2006 年。</p>
       <a href="../years/2009/">进入年度页</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">10</span>
       <h3>2010 年 Kigurumi 编年史</h3>
-      <p>收录东京电玩展新增 cosplay 企划、7 号馆早间换装和舞会延时；基础公共规则追溯至 2007 年。</p>
+      <p>收录东京电玩展新增 cosplay 企划、7 号馆早间换装和舞会延时；基础公共规则追溯至 2006 年。</p>
       <a href="../years/2010/">进入年度页</a>
     </article>
     <article class="archive-feature">

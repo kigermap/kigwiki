@@ -1,66 +1,58 @@
 ---
 title: "2007 Kigurumi Chronicle"
-date: "2026-08-18"
+date: "2026-08-22"
 language: "en"
-status: "Public-source verification edition; de-duplicated against 2008-2025"
+status: "Public-source verification edition; de-duplicated against 2006 and 2008-2025"
 ---
 
 # 2007 Kigurumi Chronicle
 
-> The years 2008-2025 are complete. Following the rule to avoid completed years and move backward by only one year per run, this volume adds 2007 only. The verifiable primary record centers on Tokyo Game Show 2007: its rules name “large kigurumi,” but do not prove that animegao or anyone in that costume category attended.
+> The years 2006 and 2008-2025 are complete. Rechecked after adding the 2006 volume, this page keeps only 2007's own schedule, closing confirmation, and rule-continuity conclusion. It no longer repeats the large-kigurumi, changing, storage, inspection, and photography provisions shared with 2006.
 
 ## 1. Evidence boundary
 
 Tokyo Game Show's official overview lists September 20-21 as business days and September 22-23 as public days at Makuhari Messe. The organizer's on-site news page confirms that the show closed on September 23.[^tgs-overview][^tgs-news]
 
-This was a general game exhibition, not a specialist animegao kigurumi event. This volume treats only wording directly concerning large kigurumi, changing, storage, costume inspection, and photography consent as evidence of a public venue policy. It does not convert the people governed by a rule, exhibitor characters, or total attendance into hobbyist-participation records.
+This was a general game exhibition, not a specialist animegao kigurumi event. Rules establish how the organizer managed a public cosplay space, but do not prove that animegao, large kigurumi, or any other specific category attended.
 
 ## 2. Verifiable nodes
 
-### September 22-23: large kigurumi entered the published costume rules
+### September 22-23: the public cosplay workflow continued
 
-The public-day rules list “large kigurumi,” large papier-mache forms, and skirts or capes dragging on the floor as costumes that obstruct other visitors. Complaints could also lead the organizer to stop a cosplay activity. Prop rules set a separate 50-centimeter limit and prohibit dangerous weapons, flammables, strong odors, and equipment or behavior producing noise.[^tgs-rules]
-
-Here, “large kigurumi” is a size, circulation, and public-safety category. It is not synonymous with animegao, bishoujo kigurumi, or every full-head costume, and the existence of the rule does not prove actual attendance.
-
-### September 22-23: changing, storage, inspection, and photo consent formed a complete workflow
-
-The designated changing room cost JPY 500 including cloakroom use. Changing elsewhere, including restrooms, and arriving or leaving in costume were prohibited. Eating, resting, and photography were barred inside; staff checked costumes at the exit and could hold non-compliant props.[^tgs-rules]
-
-Photography was limited to part of the Yasuragi Mall between Halls 3 and 4. Photographers had to obtain the subject's permission and use a wall as background to avoid unrelated people. Photos could not be submitted to publications or traded, and posting to a personal website also required prior explanation and consent.[^tgs-rules]
+The 2007 rules continue to list large kigurumi, a 50-centimeter prop limit, a designated JPY 500 changing room including cloakroom use, exit costume inspection, a limited photography area, subject consent, and permission for personal-site publication.[^tgs-rules] A provision-by-provision comparison with 2006 reveals no material change sufficient for a new policy node. The shared text therefore remains in the [2006 volume](../2006/index.md), while this page records continuity only.
 
 ### September 23: the official news page confirmed closure
 
-The organizer's site states that Tokyo Game Show 2007 closed on September 23.[^tgs-news] This confirms that the exhibition governed by the rules took place, but the notice gives no separate participation or enforcement result for cosplay, large kigurumi, or animegao.
+The organizer's site states that Tokyo Game Show 2007 closed on September 23.[^tgs-news] This confirms that the overall exhibition took place, but gives no separate participation or enforcement result for cosplay, large kigurumi, or animegao.
 
 ## 3. Domain decisions
 
 | Domain | Verifiable in 2007 | Editorial decision |
 | --- | --- | --- |
 | Chronicle | TGS dates, venue, public days, and closing confirmation | Include in the annual axis |
-| Daily life / discussion | Changing, storage, costume inspection, and photography workflow | Record only the organizer's public process |
+| Daily life / discussion | The 2006 public workflow continued in 2007 | Link back; do not repeat the provisions |
 | Workshop / craft | No verifiable making publication | Omit |
-| Reference / education | “Large kigurumi” is a circulation category, not evidence of animegao attendance | Include as an evidence note |
-| Etiquette / safety | Prop limits, designated changing, photo permission, bystander avoidance, and non-commercial publication | Include |
+| Reference / education | People governed by a rule are not evidence of animegao attendance | Include as an evidence note |
+| Etiquette / safety | No material update beyond the 2006 baseline | Link to the 2006 volume |
 | Academic | No directly relevant, verifiable 2007 research found | Omit |
 
 The existing chronicle, daily-life/discussion, reference/education, and etiquette/safety structure is sufficient. The evidence does not justify a new event, workshop, person, or academic section.
 
-## 4. De-duplication against 2008-2025
+## 4. Cross-year de-duplication
 
-| Continuing topic | Kept in the 2007 volume | Treatment in later years |
+| Continuing topic | Kept in the 2007 volume | Adjacent-year treatment |
 | --- | --- | --- |
-| Large-kigurumi rule | Earliest official wording in the completed volumes and its size/circulation context | 2008 records an archive gap; 2009 notes continuation only |
-| Changing, storage, inspection | JPY 500 including cloakroom, designated changing, and exit inspection | 2009 keeps only additions such as sewing tools and the registration cutoff |
-| Photography and publication | Designated area, subject permission, wall background, and personal-site consent | Later years keep only material venue or publication changes |
-| Actual participation | Explicitly preserves the evidence gap for animegao and large-kigurumi attendance | Do not infer participation from rules or total exhibition attendance |
+| Published rules | Confirmation that the 2006 baseline remained visible without a material change | Full provisions remain in the 2006 volume |
+| Annual result | 2007 dates, venue, and September 23 closure | Do not substitute 2006 or 2008 results |
+| Actual participation | Preserve the evidence gap for animegao and large-kigurumi attendance | Do not infer participation from rules or total attendance |
+| Later changes | Do not backfill 2009 additions such as sewing tools and registration cutoff | Leave them to their own year |
 
 ## 5. Annual conclusion
 
-The stable 2007 record is that Tokyo Game Show had already placed large kigurumi, designated changing, storage, costume inspection, and photo consent within a published cosplay workflow. The official closing notice confirms the overall exhibition, but not animegao or large-kigurumi attendance. The 2008 volume preserves the intervening archive gap; the 2009 volume keeps only later additions instead of repeating these common rules.
+The stable 2007 record is that Tokyo Game Show followed its published schedule and closed, while the public cosplay workflow established in 2006 remained visible. The archive shows no material change to large-kigurumi, changing, storage, inspection, or photography policy and does not prove animegao or large-kigurumi attendance. This volume therefore links to the 2006 provisions instead of copying or expanding them.
 
 ## Sources
 
-[^tgs-overview]: Tokyo Game Show, “Tokyo Game Show 2007 Event Outline,” <https://expo.nikkeibp.co.jp/tgs/2007/visitor/index.html>
-[^tgs-rules]: Tokyo Game Show, “Tokyo Game Show 2007: For Cosplayers,” <https://expo.nikkeibp.co.jp/tgs/2007/attention/index.html>
+[^tgs-overview]: Tokyo Game Show, “Tokyo Game Show 2007 Overview,” <https://expo.nikkeibp.co.jp/tgs/2007/visitor/index.html>
+[^tgs-rules]: Tokyo Game Show, “For Cosplayers: Tokyo Game Show 2007,” <https://expo.nikkeibp.co.jp/tgs/2007/attention/index.html>
 [^tgs-news]: Tokyo Game Show, “Tokyo Game Show 2007 Has Closed,” September 23, 2007, <https://expo.nikkeibp.co.jp/tgs/2007/news.html>
