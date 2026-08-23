@@ -1,66 +1,66 @@
 ---
 title: "2006 Kigurumi Chronicle"
-date: "2026-08-22"
+date: "2026-08-23"
 language: "en"
-status: "Public-source verification edition; de-duplicated against 2007-2025"
+status: "Public-source recheck; shared rules linked to 2004"
 ---
 
 # 2006 Kigurumi Chronicle
 
-> The years 2007-2025 are complete. Following the rule to avoid completed years and move backward by only one year per run, this volume adds 2006 only. The verifiable primary record centers on Tokyo Game Show 2006: its rules name “large kigurumi,” but do not prove that animegao or anyone in that costume category attended.
+> This page was rechecked after adding the 2004 volume. Tokyo Game Show 2006's large-kigurumi, changing, cloakroom, costume-inspection, and photography provisions match the organizer's 2004 rules item for item, so they are not expanded again. This volume keeps only 2006's own calendar, venue, closing confirmation, and the conclusion that the rules remained in force.
 
-## 1. Evidence boundary
+## 1. Scope and evidence boundary
 
-Tokyo Game Show's official overview lists September 22 as its business day and September 23-24 as public days at Makuhari Messe. The organizer's homepage retains a September 24 notice that Tokyo Game Show 2006 had closed.[^tgs-overview][^tgs-home]
+The official outline lists September 22 as Business Day, September 23-24 as public days, and Makuhari Messe as the venue. The organizer's home page preserves a September 24 notice that Tokyo Game Show 2006 had closed.[^tgs-overview][^tgs-home]
 
-This was a general game exhibition, not a specialist animegao kigurumi event. This volume treats only wording directly concerning large kigurumi, changing, storage, costume inspection, and photography consent as evidence of a public venue policy. It does not convert the people governed by a rule, exhibitor characters, or total attendance into hobbyist-participation records.
+This was a general game exhibition, not a specialist animegao kigurumi event. `大きな着ぐるみ` was a size, circulation, and public-safety category. Rule continuity, exhibitor characters, and total attendance do not prove that animegao or large kigurumi attended.
 
 ## 2. Verifiable nodes
 
-### September 23-24: large kigurumi entered the published costume rules
+### September 22-24: the year's calendar and Makuhari venue
 
-The public-day rules list “large kigurumi,” large papier-mache forms, and skirts or capes dragging on the floor as costumes that obstruct other visitors. Complaints could also lead the organizer to stop a cosplay activity. Prop rules set a separate 50-centimeter limit and prohibit dangerous weapons, flammables, strong odors, and equipment or behavior producing noise.[^tgs-rules]
+The official outline confirms Business Day on September 22 and public days on September 23-24, all running 10:00-17:00 at Makuhari Messe.[^tgs-overview] These are 2006-specific chronicle facts.
 
-Here, “large kigurumi” is a size, circulation, and public-safety category. It is not synonymous with animegao, bishoujo kigurumi, or every full-head costume, and the existence of the rule does not prove actual attendance.
+### September 23-24: item-for-item continuation of the 2004 public rules
 
-### September 23-24: changing, storage, inspection, and photo consent formed a complete workflow
+The 2006 cosplayer rules continue to cover large kigurumi, prop safety, designated changing, cloakroom storage, exit costume inspection, a limited photography area, subject permission, and consent for personal-homepage publication.[^tgs-rules] Comparison against the 2004 rules reveals no material change sufficient for a new policy node. The full public baseline remains in the [2004 volume](../2004/index.md), while this page records continuity only.[^tgs-2004-rules]
 
-The designated changing room cost JPY 500 including cloakroom use. Changing elsewhere, including restrooms, and arriving or leaving in costume were prohibited. Eating, resting, and photography were barred inside; staff checked costumes at the exit and could hold non-compliant props.[^tgs-rules]
+The text still identifies no animegao participant, participant count, program, or enforcement result.
 
-Photography was limited to part of the Yasuragi Mall between Halls 3 and 4. Photographers had to obtain the subject's permission and use a wall as background to avoid unrelated people. Photos could not be submitted to publications or traded, and posting to a personal website also required prior explanation and consent.[^tgs-rules]
+### September 24: the organizer confirms closure of the overall show
 
-### September 24: the official homepage confirmed closure
+The organizer states that Tokyo Game Show 2006 closed on September 24 and thanks visitors.[^tgs-home] This confirms the overall event occurred but does not by itself prove that a costume class governed by the rules appeared.
 
-The organizer's homepage states that Tokyo Game Show 2006 closed on September 24 and thanks visitors.[^tgs-home] This confirms that the exhibition governed by the rules took place, but the notice gives no separate participation or enforcement result for cosplay, large kigurumi, or animegao.
+## 3. Domain assessment
 
-## 3. Domain decisions
-
-| Domain | Verifiable in 2006 | Editorial decision |
+| Domain | Verifiable 2006 material | Editorial treatment |
 | --- | --- | --- |
-| Chronicle | TGS dates, venue, public days, and closing confirmation | Include in the annual axis |
-| Daily life / discussion | Changing, storage, costume inspection, and photography workflow | Record only the organizer's public process |
-| Workshop / craft | No verifiable making publication | Omit |
-| Reference / education | “Large kigurumi” is a circulation category, not evidence of animegao attendance | Include as an evidence note |
-| Etiquette / safety | Prop limits, designated changing, photo permission, bystander avoidance, and non-commercial publication | Include |
-| Academic | No directly relevant, verifiable 2006 research found | Omit |
+| Chronicle | The year's dates, venue, public days, and closing confirmation | Include in the annual spine |
+| Daily life / discussion | The 2004 public workflow remained visible | Link back without repeating provisions |
+| Workshop / craft | No verifiable making release found | Exclude |
+| Reference / education | Republishing the same text shows continuity, not a new system or attendance | Include as an evidence boundary |
+| Etiquette / safety | No material update beyond the 2004 baseline found | Link to the 2004 volume |
+| Academic | No directly relevant, verifiable 2006 research found | Exclude |
 
-The existing chronicle, daily-life/discussion, reference/education, and etiquette/safety structure is sufficient. The evidence does not justify a new event, workshop, person, or academic section.
+The existing chronicle, daily-life / discussion, reference / education, and etiquette / safety structure is sufficient; no new section is needed.
 
-## 4. De-duplication against 2007-2025
+## 4. Cross-year deduplication
 
-| Continuing topic | Kept in the 2006 volume | Treatment in later years |
+| Continuing theme | Kept in this 2006 volume | Archive location |
 | --- | --- | --- |
-| Large-kigurumi rule | Earliest official wording in the completed volumes and its size/circulation context | 2007 records continuation only and does not repeat the text |
-| Changing, storage, inspection | JPY 500 including cloakroom, designated changing, and exit inspection | 2007 does not repeat it; 2009 keeps only additions such as sewing tools and the registration cutoff |
-| Photography and publication | Designated area, subject permission, wall background, and personal-site consent | Later years keep only material venue or publication changes |
-| Actual participation | Explicitly preserves the evidence gap for animegao and large-kigurumi attendance | Do not infer participation from rules or total exhibition attendance |
+| Event state | 2006-specific dates, venue, and closure | This volume |
+| Large kigurumi and public safety | Confirmation that the same text remained published | Full baseline in the 2004 volume |
+| Changing, cloakroom, inspection, and photography | Continuity without visible material change | Full baseline in the 2004 volume |
+| Later changes | Not pulled forward | 2009 keeps baggage screening, sewing kits, and registration cutoff; 2010 onward records spatial and program changes |
+| Actual participation | Explicit evidence gap | Do not infer it from rules or overall event status |
 
 ## 5. Annual conclusion
 
-The stable 2006 record is that Tokyo Game Show had already placed large kigurumi, designated changing, storage, costume inspection, and photo consent within a published cosplay workflow. The official homepage confirms that the overall exhibition closed, but not animegao or large-kigurumi attendance. The 2007 volume now retains only that year's schedule, closure, and rule continuity rather than copying this public-venue baseline.
+The stable 2006 record is the year's Tokyo Game Show calendar, Makuhari venue, and closing confirmation, together with the continuation of the 2004 public cosplay rules without a visible material change. The shared provisions are not repeated, and the public archive still does not prove that animegao or large kigurumi attended.
 
 ## Sources
 
-[^tgs-overview]: Tokyo Game Show, “Tokyo Game Show 2006 Overview,” <https://expo.nikkeibp.co.jp/tgs/2006/visitor/index.html>
-[^tgs-rules]: Tokyo Game Show, “For Cosplayers: Tokyo Game Show 2006,” <https://expo.nikkeibp.co.jp/tgs/2006/attention/index.html>
-[^tgs-home]: Tokyo Game Show, “Tokyo Game Show 2006 Has Closed,” September 24, 2006, <https://expo.nikkeibp.co.jp/tgs/2006/index.html>
+[^tgs-overview]: Tokyo Game Show, “東京ゲームショウ2006 開催概要,” <https://expo.nikkeibp.co.jp/tgs/2006/visitor/index.html>
+[^tgs-rules]: Tokyo Game Show, “東京ゲームショウ2006 コスプレイヤーの方へ,” <https://expo.nikkeibp.co.jp/tgs/2006/attention/index.html>
+[^tgs-home]: Tokyo Game Show, “東京ゲームショウ2006は閉幕いたしました,” September 24, 2006, <https://expo.nikkeibp.co.jp/tgs/2006/index.html>
+[^tgs-2004-rules]: Tokyo Game Show, “TGS2004 コスプレイヤーの方へ,” <https://expo.nikkeibp.co.jp/tgs/2004/cos.htm>

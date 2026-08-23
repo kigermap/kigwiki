@@ -98,6 +98,8 @@ mkdocs build --clean
 python scripts/build_indexes.py
 ```
 
+该校验同时检查年度与月度档案的五语路径、前置元数据、目录入口和 MkDocs 导航。英文 2023-2025 年卷目前使用 `mkdocs-static-i18n` 的默认语言回退，并作为显式例外记录在校验脚本中；新增档案不得产生未声明的语言缺口。
+
 需要输出辅助 JSON 索引时使用：
 
 ```bash

@@ -8,12 +8,13 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">04</span><h3>2004 年 Kigurumi 編年史</h3><p>整理東京電玩展目前最早可核驗的大型着ぐるみ、更衣、寄存、檢查和攝影同意規則，並以閉幕後報告確認整體展會完成。</p><a href="2004/">閱讀 2004 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>2005 年 Kigurumi 編年史</h3><p>記錄東京電玩展 2005 的計畫日程、公眾開放日與會場，並明確保留 kigurumi 規則、實際參與和完成結果的證據空白。</p><a href="2005/">閱讀 2005 年</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>2006 年 Kigurumi 編年史</h3><p>整理東京電玩展 2006 對大型着ぐるみ、指定更衣、寄存、服裝檢查和攝影同意的公開規則，並保留實際到場證據空白。</p><a href="2006/">閱讀 2006 年</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007 年 Kigurumi 編年史</h3><p>確認東京電玩展 2007 的日期、地點與閉幕結果；共同公共規則回鏈 2006 年卷，不重複條文。</p><a href="2007/">閱讀 2007 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>2006 年 Kigurumi 編年史</h3><p>確認東京電玩展 2006 的日期、地點與閉幕，以及 2004 公共規則逐項延續且無可見實質變化。</p><a href="2006/">閱讀 2006 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007 年 Kigurumi 編年史</h3><p>確認東京電玩展 2007 的日期、地點與閉幕結果；共同公共規則回鏈 2004 年卷，不重複條文。</p><a href="2007/">閱讀 2007 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008 年 Kigurumi 編年史</h3><p>確認東京電玩展 2008 的日期、地點與閉幕結果，並公開標示 animegao、大型着ぐるみ與專門規則的檔案證據空白。</p><a href="2008/">閱讀 2008 年</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009 年 Kigurumi 編年史</h3><p>整理東京電玩展 2009 的行李檢查安排、現場縫紉工具和更衣室辦理時限；共同規則前移至 2006 年。</p><a href="2009/">閱讀 2009 年</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010 年 Kigurumi 編年史</h3><p>整理東京電玩展新增 cosplay 企劃、7 號館早間換裝和晚會延時；基礎規則追溯至 2006 年。</p><a href="2010/">閱讀 2010 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009 年 Kigurumi 編年史</h3><p>整理東京電玩展 2009 的行李檢查安排、現場縫紉工具和更衣室辦理時限；共同規則前移至 2004 年。</p><a href="2009/">閱讀 2009 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010 年 Kigurumi 編年史</h3><p>整理東京電玩展新增 cosplay 企劃、7 號館早間換裝和晚會延時；基礎規則追溯至 2004 年。</p><a href="2010/">閱讀 2010 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011 年 Kigurumi 編年史</h3><p>記錄東京電玩展更衣與寄存從 2010 年 7 號館遷至 2 號館；共同規則不重複，2012 年保留回遷和新增邊界。</p><a href="2011/">閱讀 2011 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>2012 年 Kigurumi 編年史</h3><p>整理東京電玩展 7 號館更衣與寄存、早間換裝、指定攝影區、影片和商業使用限制，並與 2013 年空間遷移去重。</p><a href="2012/">閱讀 2012 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>2013 年 Kigurumi 編年史</h3><p>整理東京電玩展對大型着ぐるみ、更衣、指定攝影區、拍攝許可與圖片發布同意的公共規則，並保留 animegao 參與證據空白。</p><a href="2013/">閱讀 2013 年</a></article>
