@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>Хроника Kigurumi 2005 года</h3><p>Плановые даты, открытые дни и место Tokyo Game Show 2005 с явным пробелом в доказательствах правил kigurumi, участия и завершения.</p><a href="2005/">Читать 2005 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>Хроника Kigurumi 2006 года</h3><p>Правила Tokyo Game Show 2006 о крупных kigurumi, назначенной раздевалке, гардеробе, проверке костюмов и согласии на съемку с сохранением пробела участия.</p><a href="2006/">Читать 2006 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>Хроника Kigurumi 2007 года</h3><p>Подтверждены даты, место и закрытие Tokyo Game Show 2007; общие публичные правила связаны с томом 2006 года без повтора.</p><a href="2007/">Читать 2007 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>Хроника Kigurumi 2008 года</h3><p>Подтверждены даты, место и завершение Tokyo Game Show 2008; открыто отмечен пробел в доказательствах animegao, крупных kigurumi и специальных правил.</p><a href="2008/">Читать 2008 год</a></article>

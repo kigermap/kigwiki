@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>2005年 Kigurumi 編年史</h3><p>東京ゲームショウ2005の予定日程、一般公開日、会場を記録し、kigurumi 規定、実参加、完了結果の証拠空白を明記する。</p><a href="2005/">2005年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>2006年 Kigurumi 編年史</h3><p>東京ゲームショウ2006の大型着ぐるみ、指定更衣、クローク、衣装確認、撮影同意の公開規定を整理し、実来場証拠の空白を残す。</p><a href="2006/">2006年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007年 Kigurumi 編年史</h3><p>東京ゲームショウ2007の日程、会場、閉幕を確認し、共同する公開規定は2006年巻へ接続して反復しない。</p><a href="2007/">2007年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008年 Kigurumi 編年史</h3><p>東京ゲームショウ2008の日程、会場、閉幕結果を確認し、animegao、大型着ぐるみ、専門規則の公開証拠が欠けることを明記する。</p><a href="2008/">2008年を読む</a></article>

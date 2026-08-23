@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">05</span>
+      <h3>2005 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展的计划日程、公众开放日和会场，并明确标注 kigurumi 规则、实际参与与完成结果的档案证据空白。</p>
+      <a href="../years/2005/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">06</span>
       <h3>2006 年 Kigurumi 编年史</h3>
       <p>收录东京电玩展对大型着ぐるみ、指定更衣、寄存、服装检查和摄影同意的公开规则，并保留实际到场证据空白。</p>

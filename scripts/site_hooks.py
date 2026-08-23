@@ -19,6 +19,22 @@ DEFAULT_DESCRIPTIONS = {
     "ja": "kigurumi コミュニティのための編年史、地誌、資料アーカイブ。",
     "ru": "Хроника, справочник и архив источников сообщества kigurumi.",
 }
+SITE_NAMES = {
+    "zh": DEFAULT_SITE_NAME,
+    "zh-Hans": DEFAULT_SITE_NAME,
+    "zh-Hant": "Kigurumi 編年志",
+    "en": "Kigurumi Chronicle",
+    "ja": "Kigurumi 編年誌",
+    "ru": "Хроника Kigurumi",
+}
+HOME_LABELS = {
+    "zh": "首页",
+    "zh-Hans": "首页",
+    "zh-Hant": "首頁",
+    "en": "Home",
+    "ja": "ホーム",
+    "ru": "Главная",
+}
 DEFAULT_NOT_FOUND_TITLE = "404 - 页面未找到"
 DEFAULT_IMAGE = f"{SITE_URL}assets/images/kigurumi-archive-hero-v2.png"
 DEFAULT_COPYRIGHT = (
@@ -138,6 +154,7 @@ PAGE_DESCRIPTIONS = {
     "/support/": "了解如何为 Kigurumi 编年志贡献资料、参与校对、支持维护和协助长期整理。",
     "/chronicle/": "Kigurumi 编年志编年总览，说明社群事件记录体例、预制时间线和年度资料整理方向。",
     "/years/": "Kigurumi 编年志年份目录，按年度浏览和补录事件、地点、人物、来源与待考事项。",
+    "/years/2005/": "2005 年 Kigurumi 编年史，记录东京电玩展计划日程与会场，并标注 kigurumi 规则、实际参与及完成结果的证据空白。",
     "/years/2006/": "2006 年 Kigurumi 编年史，整理东京电玩展对大型着ぐるみ、指定更衣、寄存、服装检查与摄影同意的公开规则。",
     "/years/2007/": "2007 年 Kigurumi 编年史，确认东京电玩展日期、地点、闭幕结果及 2006 年公共规则的延续。",
     "/years/2008/": "2008 年 Kigurumi 编年史，确认东京电玩展日期、地点和闭幕结果，并记录 animegao 与大型着ぐるみ的公开证据空白。",
@@ -157,6 +174,7 @@ PAGE_DESCRIPTIONS = {
     "/years/2025/": "2025 年 Kigurumi 编年史，整理公开活动、跨境合作、官方 IP greeting、规则治理、产业链变化和年度图表。",
     "/digests/2026-07/": "2026 年 7 月 Kigurumi 公开资料摘要，收录三城摄影派对、WCS 2026 规则和 Doll Weekend 14 预告。",
     "/digests/2026-08/": "2026 年 8 月 Kigurumi 公开资料摘要，收录 DW14 首日公开记录、成品展示并跟踪 WCS 2026 状态。",
+    "/zh-Hant/years/2005/": "2005 年 Kigurumi 編年史繁體中文版，記錄東京電玩展計畫日程與會場，並標示 kigurumi 規則、實際參與及完成結果的證據空白。",
     "/zh-Hant/years/2006/": "2006 年 Kigurumi 編年史繁體中文版，整理東京電玩展對大型着ぐるみ、指定更衣、寄存、服裝檢查與攝影同意的公開規則。",
     "/zh-Hant/years/2007/": "2007 年 Kigurumi 編年史繁體中文版，確認東京電玩展日期、地點、閉幕結果及 2006 年公共規則的延續。",
     "/zh-Hant/years/2008/": "2008 年 Kigurumi 編年史繁體中文版，確認東京電玩展日期、地點和閉幕結果，並記錄 animegao 與大型着ぐるみ證據空白。",
@@ -176,6 +194,7 @@ PAGE_DESCRIPTIONS = {
     "/zh-Hant/years/2025/": "2025 年 Kigurumi 編年史繁體中文整理版，收錄公開活動、跨境合作、官方 IP greeting、規則治理、產業鏈變化和年度圖表。",
     "/zh-Hant/digests/2026-07/": "2026 年 7 月 Kigurumi 公開資料摘要，收錄三城攝影派對、WCS 2026 規則和 Doll Weekend 14 預告。",
     "/zh-Hant/digests/2026-08/": "2026 年 8 月 Kigurumi 公開資料摘要，收錄 DW14 首日公開記錄、成品展示並追蹤 WCS 2026 狀態。",
+    "/en/years/2005/": "The 2005 Kigurumi Chronicle records Tokyo Game Show's planned calendar and venue while preserving the evidence gap for kigurumi rules, participation, and completion.",
     "/en/years/2006/": "The 2006 Kigurumi Chronicle covers Tokyo Game Show rules for large kigurumi, designated changing, storage, costume inspection, and photo consent.",
     "/en/years/2007/": "The 2007 Kigurumi Chronicle confirms Tokyo Game Show's dates, venue, closure, and continuation of the 2006 public rules.",
     "/en/years/2008/": "The 2008 Kigurumi Chronicle confirms Tokyo Game Show's dates, venue, and closing result while documenting the public evidence gap for animegao and large kigurumi.",
@@ -192,6 +211,7 @@ PAGE_DESCRIPTIONS = {
     "/en/years/2018/": "The 2018 Kigurumi Chronicle covers AnimeJapan's visibility, attendant, and photography rules and graduate research into animegao mask-production matching.",
     "/en/digests/2026-07/": "The July 2026 Kigurumi public-source digest covers a three-city photo tour, WCS 2026 rules, and the Doll Weekend 14 preview.",
     "/en/digests/2026-08/": "The August 2026 Kigurumi digest records DW14 first-day public posts, a finished-work showcase, and the status of WCS 2026.",
+    "/ja/years/2005/": "2005年 Kigurumi 編年史。東京ゲームショウの予定日程と会場、kigurumi 規定・実参加・完了結果の証拠空白を扱います。",
     "/ja/years/2006/": "2006年 Kigurumi 編年史。東京ゲームショウの大型着ぐるみ、指定更衣、クローク、衣装確認、撮影同意の公開規定を扱います。",
     "/ja/years/2007/": "2007年 Kigurumi 編年史。東京ゲームショウの日程、会場、閉幕と2006年公開規定の継続を扱います。",
     "/ja/years/2008/": "2008年 Kigurumi 編年史。東京ゲームショウの日程・会場・閉幕結果と、animegao・大型着ぐるみの公開証拠空白を扱います。",
@@ -211,6 +231,7 @@ PAGE_DESCRIPTIONS = {
     "/ja/years/2025/": "2025年 Kigurumi 編年史の日本語整理版。公開イベント、越境協力、公式 IP greeting、規則治理、産業変化を扱います。",
     "/ja/digests/2026-07/": "2026年7月の Kigurumi 公開資料ダイジェスト。三都市撮影会、WCS 2026 規則、Doll Weekend 14 予告を収録します。",
     "/ja/digests/2026-08/": "2026年8月の Kigurumi 公開資料ダイジェスト。DW14 初日公開記録、完成品展示、WCS 2026 の状態を収録します。",
+    "/ru/years/2005/": "Хроника Kigurumi 2005 года: плановые даты и место Tokyo Game Show с пробелом в доказательствах правил kigurumi, участия и завершения.",
     "/ru/years/2006/": "Хроника Kigurumi 2006 года: правила Tokyo Game Show о крупных kigurumi, раздевалке, гардеробе, проверке костюмов и согласии на съемку.",
     "/ru/years/2007/": "Хроника Kigurumi 2007 года подтверждает даты, место, закрытие Tokyo Game Show и продолжение публичных правил 2006 года.",
     "/ru/years/2008/": "Хроника Kigurumi 2008 года подтверждает даты, место и завершение Tokyo Game Show и отмечает пробел в доказательствах animegao и крупных kigurumi.",
@@ -334,14 +355,15 @@ def _drop_managed_seo(html: str) -> str:
 
 def _json_ld(page_url: str, title: str, description: str, pathname: str, lang: str) -> list[dict]:
     home_url = _absolute_url("/")
+    site_name = SITE_NAMES.get(lang, DEFAULT_SITE_NAME)
     graph: list[dict] = [
         {
             "@context": "https://schema.org",
             "@type": "WebSite",
             "@id": f"{home_url}#website",
             "url": home_url,
-            "name": DEFAULT_SITE_NAME,
-            "description": DEFAULT_DESCRIPTION,
+            "name": site_name,
+            "description": DEFAULT_DESCRIPTIONS.get(lang, DEFAULT_DESCRIPTION),
             "inLanguage": lang,
             "publisher": {"@id": f"{home_url}#organization"},
             "potentialAction": {
@@ -379,7 +401,14 @@ def _json_ld(page_url: str, title: str, description: str, pathname: str, lang: s
         }
     )
 
-    crumbs = [{"@type": "ListItem", "position": 1, "name": "首页", "item": home_url}]
+    crumbs = [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": HOME_LABELS.get(lang, HOME_LABELS["zh"]),
+            "item": home_url,
+        }
+    ]
     if content_path != "/":
         crumbs.append({"@type": "ListItem", "position": 2, "name": title.split(" - ")[0], "item": page_url})
         graph.append(
@@ -430,7 +459,7 @@ def _inject_seo(html: str, *, page_url: str, pathname: str) -> str:
     tags = [
         f'<link rel="canonical" href="{page_url}">',
         _property_tag("og:type", og_type),
-        _property_tag("og:site_name", DEFAULT_SITE_NAME),
+        _property_tag("og:site_name", SITE_NAMES.get(lang, DEFAULT_SITE_NAME)),
         _property_tag("og:title", title),
         _property_tag("og:description", description),
         _property_tag("og:url", page_url),

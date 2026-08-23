@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已錄入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>2005 年 Kigurumi 編年史</h3><p>收錄東京電玩展的計畫日程、公眾開放日與會場，並明確標示 kigurumi 規則、實際參與和完成結果的檔案證據空白。</p><a href="../years/2005/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>2006 年 Kigurumi 編年史</h3><p>收錄東京電玩展對大型着ぐるみ、指定更衣、寄存、服裝檢查和攝影同意的公開規則，並保留實際到場證據空白。</p><a href="../years/2006/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007 年 Kigurumi 編年史</h3><p>確認東京電玩展 2007 的日期、地點與閉幕結果；共同公共規則回鏈 2006 年卷，不重複條文。</p><a href="../years/2007/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008 年 Kigurumi 編年史</h3><p>確認東京電玩展 2008 的日期、地點與閉幕結果，並公開標示相關裝扮和專門規則的檔案證據空白。</p><a href="../years/2008/">進入年度頁</a></article>

@@ -7,10 +7,10 @@ hide:
   <div class="archive-hero__copy">
     <p class="archive-kicker">Community Chronicle · Kigurumi Archive</p>
     <h1>Kigurumi 編年志</h1>
-    <p class="archive-lede">一個面向 kigurumi 社群的輕量資料館，用清晰、可追溯、可長期維護的方式整理公開介紹、協作說明和貢獻入口。</p>
+    <p class="archive-lede">面向 kigurumi 社群的公開資料館，以可追溯的多語言記錄整理編年、活動、日常、工藝、禮儀、科普與研究。</p>
     <div class="archive-actions">
-      <a class="md-button md-button--primary" href="about/">了解項目</a>
-      <a class="md-button" href="support/">參與貢獻</a>
+      <a class="md-button md-button--primary" href="chronicle/">查看編年</a>
+      <a class="md-button" href="join/">參與加入</a>
     </div>
   </div>
   <div class="archive-hero__meta">
@@ -21,42 +21,42 @@ hide:
 </section>
 
 <section class="archive-section" markdown>
-  <p class="archive-kicker">Site Focus</p>
-  <h2>先把核心資訊講清楚</h2>
-  <p>目前版本保留首頁、關於介紹、貢獻與支持三個頁面，避免開發期資訊架構過早變複雜。後續需要擴展編年、資料索引或專題頁時，可以繼續沿用同一套國際化目錄結構。</p>
+  <p class="archive-kicker">Archive Structure</p>
+  <h2>查閱穩定記錄與近期採集</h2>
+  <p>資料館把已完成的年度卷與仍在變化的近期材料分開。讀者可以沿編年總覽閱讀，也可以直接進入特定年份或當月去重後的公開資料採集。</p>
 
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
-      <span class="archive-feature__icon">首</span>
-      <h3>首頁</h3>
-      <p>展示項目定位、主要入口和目前維護方向。</p>
-      <a href="./">返回首頁</a>
+      <span class="archive-feature__icon">年</span>
+      <h3>編年總覽</h3>
+      <p>串聯可核驗事件、公共規則、來源邊界和跨年度變化。</p>
+      <a href="chronicle/">進入編年</a>
     </article>
     <article class="archive-feature">
-      <span class="archive-feature__icon">介</span>
-      <h3>關於介紹</h3>
-      <p>說明資料館的目標、邊界、內容原則和長期維護方式。</p>
-      <a href="about/">查看介紹</a>
+      <span class="archive-feature__icon">歲</span>
+      <h3>年份目錄</h3>
+      <p>按年整理穩定事實、領域判斷、引用與尚未解決的證據空白。</p>
+      <a href="years/">查看年份</a>
     </article>
     <article class="archive-feature">
-      <span class="archive-feature__icon">助</span>
-      <h3>貢獻支持</h3>
-      <p>提供參與翻譯、校對、頁面維護和資料授權的協作說明。</p>
-      <a href="support/">查看支持方式</a>
+      <span class="archive-feature__icon">今</span>
+      <h3>近期採集</h3>
+      <p>追蹤年度定稿前的當月活動、日常、手工、安全、科普與研究。</p>
+      <a href="digests/">查看近期資料</a>
     </article>
   </div>
 </section>
 
 <section class="archive-section archive-section--split">
   <div markdown>
-    <p class="archive-kicker">Development Principle</p>
-    <h2>輕量，但不臨時</h2>
-    <p>頁面數量減少後，項目仍然保留 MkDocs Material、多語言目錄、統一視覺樣式和自動部署流程。它適合在開發期快速迭代，也能在內容成長後平滑擴展。</p>
+    <p class="archive-kicker">Editorial Method</p>
+    <h2>只發布證據能支持的內容</h2>
+    <p>每條記錄都核對時間、地點、來源品質、公開範圍、再利用授權與既有頁面重複。無法確定的材料會保留待考，不提升為事實。</p>
   </div>
   <ol class="archive-steps">
-    <li><strong>資訊收斂</strong><span>只保留目前必要頁面</span></li>
-    <li><strong>結構穩定</strong><span>多語言頁面保持同一路徑</span></li>
-    <li><strong>樣式一致</strong><span>複用 archive 元件體系</span></li>
-    <li><strong>部署自動化</strong><span>推送後由 GitHub Actions 發布</span></li>
+    <li><strong>採集</strong><span>尋找公開活動、日常、手工、安全與研究來源</span></li>
+    <li><strong>核驗</strong><span>檢查日期、作者、狀態、主張與發布邊界</span></li>
+    <li><strong>分類</strong><span>放入正確領域，避免與既有年份重複</span></li>
+    <li><strong>發布</strong><span>同步所有支援語言並驗證正式構建</span></li>
   </ol>
 </section>
