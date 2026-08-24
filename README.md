@@ -308,7 +308,13 @@ publish = "site"
 
 ```bash
 # 检查 Python hook 语法
-python3 -m py_compile scripts/site_hooks.py
+python3 -m py_compile scripts/build_indexes.py scripts/site_hooks.py
+
+# 校验档案的语言、元数据、索引和导航
+python3 scripts/build_indexes.py
+
+# 检查空白与冲突标记
+git diff --check
 
 # 严格构建
 mkdocs build --strict --clean
@@ -325,3 +331,9 @@ python3 -m http.server 8021 --directory site
 - 入群链接：`https://qm.qq.com/q/gpzX280qkw`
 
 提交资料、修正页面或扩展栏目时，请优先说明资料来源、授权状态和希望公开到什么程度。
+
+仓库协作规范：
+
+- [贡献指南](CONTRIBUTING.md)
+- [社区行为准则](CODE_OF_CONDUCT.md)
+- [安全政策与私密报告](SECURITY.md)

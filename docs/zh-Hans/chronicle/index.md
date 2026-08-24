@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">03</span>
+      <h3>2003 年 Kigurumi 编年史</h3>
+      <p>收录 Inside Doll 在 2003 年 4 月已经公开活跃及其全年编辑更新，并保留两个第一方页面互相冲突的起始日期。</p>
+      <a href="../years/2003/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">04</span>
       <h3>2004 年 Kigurumi 编年史</h3>
       <p>收录东京电玩展最早可核验的大型着ぐるみ、更衣、寄存、服装检查和摄影同意规则，并保留实际到场证据空白。</p>

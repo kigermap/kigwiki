@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">03</span><h3>Хроника Kigurumi 2003 года</h3><p>Публичная активность Inside Doll к апрелю 2003 года и ритм обновлений до конца года с сохранением конфликта двух первичных дат и отделением от доказательств реального исполнения.</p><a href="2003/">Читать 2003 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">04</span><h3>Хроника Kigurumi 2004 года</h3><p>Самые ранние сейчас проверяемые правила Tokyo Game Show о крупных kigurumi, раздевалке, гардеробе, проверке и согласии на съемку с итоговым отчетом выставки.</p><a href="2004/">Читать 2004 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>Хроника Kigurumi 2005 года</h3><p>Плановые даты, открытые дни и место Tokyo Game Show 2005 с явным пробелом в доказательствах правил kigurumi, участия и завершения.</p><a href="2005/">Читать 2005 год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>Хроника Kigurumi 2006 года</h3><p>Подтверждены даты, место и закрытие Tokyo Game Show 2006 и продолжение публичных правил 2004 года без видимых существенных изменений.</p><a href="2006/">Читать 2006 год</a></article>

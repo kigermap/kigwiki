@@ -26,6 +26,12 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">03</span>
+      <h3>2003 年 Kigurumi 编年史</h3>
+      <p>记录 Inside Doll 在 2003 年 4 月已经公开活跃及其全年更新节奏，保留两个第一方页面的起始日期冲突，并与现实装演证据分开。</p>
+      <a href="2003/">阅读 2003 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">04</span>
       <h3>2004 年 Kigurumi 编年史</h3>
       <p>整理东京电玩展最早可核验的大型着ぐるみ、更衣、寄存、检查和摄影同意规则，并以闭幕后报告确认整体展会完成。</p>
@@ -164,7 +170,7 @@
   <p class="archive-kicker">Draft Year Blocks</p>
   <h2>预制年份分卷</h2>
   <div class="archive-feature-grid">
-    <article class="archive-feature"><span class="archive-feature__icon">04</span><h3>2004</h3><p>下一待整理年份；继续核验更早的公开规则、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">02</span><h3>2002</h3><p>下一待整理年份；继续核验更早的专题网站、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>

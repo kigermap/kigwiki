@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">03</span><h3>2003年 Kigurumi 編年史</h3><p>Inside Doll が2003年4月には公開活動中で、その後も年内更新を続けたことを記録し、二つの一次ページにある開始日の矛盾と現実の実演証拠を分ける。</p><a href="2003/">2003年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">04</span><h3>2004年 Kigurumi 編年史</h3><p>東京ゲームショウで現在最初に検証できる大型着ぐるみ、更衣、クローク、衣装確認、撮影同意の規定と、展示会全体の終了報告を整理する。</p><a href="2004/">2004年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>2005年 Kigurumi 編年史</h3><p>東京ゲームショウ2005の予定日程、一般公開日、会場を記録し、kigurumi 規定、実参加、完了結果の証拠空白を明記する。</p><a href="2005/">2005年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>2006年 Kigurumi 編年史</h3><p>東京ゲームショウ2006の日程、会場、閉幕と、2004年公共規定の項目ごとの継続を確認する。</p><a href="2006/">2006年を読む</a></article>
