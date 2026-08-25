@@ -1,8 +1,8 @@
 ---
 title: "2008 Kigurumi Chronicle"
-date: "2026-08-17"
+date: "2026-08-23"
 language: "en"
-status: "Public-archive boundary edition; de-duplicated against 2009-2025"
+status: "Public-archive boundary edition; de-duplicated against 2004-2007 and 2009-2025"
 ---
 
 # 2008 Kigurumi Chronicle
@@ -27,7 +27,7 @@ These figures establish only the scale of the general exhibition. They are not c
 
 The 2008 visitor navigation and floor map document public exhibition space, but they do not provide citable instructions for cosplay, changing rooms, cloakrooms, photo consent, or large kigurumi. [^tgs-overview][^tgs-map]
 
-By contrast, the 2009 organizer guidance explicitly names "large kigurumi" and documents baggage checks, designated changing, cloakroom use, and photography permission. [^tgs-2009-rules] The site therefore retains 2009 as the earliest currently verifiable rules node. The 2008 volume records an archive boundary instead of copying a later policy into an earlier year.
+By contrast, the official 2004 rules already name "large kigurumi," designated changing, cloakroom use, and photography permission; 2007 confirms continuity, and 2009 adds a published baggage-screening plan. [^tgs-2004-rules][^tgs-2009-rules] The 2008 volume is therefore retained as an archive gap between the early rules and later additions, without reconstructing its policy from either side.
 
 ## 3. Domain assessment
 
@@ -42,12 +42,12 @@ By contrast, the 2009 organizer guidance explicitly names "large kigurumi" and d
 
 The existing chronicle and source framework is sufficient. With no direct event or production evidence, this material does not justify a separate event, workshop, or people section.
 
-## 4. De-duplication against 2009-2025
+## 4. De-duplication against 2004-2007 and 2009-2025
 
 | Continuing theme | Retained in 2008 | Treatment from 2009 onward |
 | --- | --- | --- |
 | Public event setting | TGS 2008 dates, venue, public days, and closing result | Do not repeat 2008 total attendance |
-| Large-kigurumi rules | Explicitly record the current first-party evidence gap | Keep the first verifiable wording in 2009 |
+| Large-kigurumi rules | Explicitly record the current first-party evidence gap | Keep earlier wording in 2004, continuity in 2007, and later additions in 2009 |
 | Changing, storage, and photography | Do not reconstruct them from later rules | Record only documented changes from 2009 onward |
 | Participation scale | Do not estimate kigurumi attendance from exhibition totals | Continue to require direct evidence |
 
@@ -60,4 +60,5 @@ The stable 2008 record is that Tokyo Game Show, an adjacent public setting, took
 [^tgs-overview]: Tokyo Game Show, "Tokyo Game Show 2008 Overview," <https://expo.nikkeibp.co.jp/tgs/2008/visitor/index.html>
 [^tgs-map]: Tokyo Game Show, "Tokyo Game Show 2008 Exhibition Areas / Hall Map," <https://expo.nikkeibp.co.jp/tgs/2008/visitor/map.html>
 [^tgs-report]: Tokyo Game Show, "Tokyo Game Show 2008 Preliminary Closing Report," October 12, 2008, <https://expo.nikkeibp.co.jp/tgs/2008/media/1012.html>
+[^tgs-2004-rules]: Tokyo Game Show, "TGS2004 コスプレイヤーの方へ," <https://expo.nikkeibp.co.jp/tgs/2004/cos.htm>
 [^tgs-2009-rules]: Tokyo Game Show, "Tokyo Game Show 2009 Requests and Notices / For Cosplayers," <https://expo.nikkeibp.co.jp/tgs/2009/visitor/attention.html>

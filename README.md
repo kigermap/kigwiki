@@ -98,6 +98,8 @@ mkdocs build --clean
 python scripts/build_indexes.py
 ```
 
+该校验同时检查年度与月度档案的五语路径、前置元数据、目录入口和 MkDocs 导航。英文 2023-2025 年卷目前使用 `mkdocs-static-i18n` 的默认语言回退，并作为显式例外记录在校验脚本中；新增档案不得产生未声明的语言缺口。
+
 需要输出辅助 JSON 索引时使用：
 
 ```bash
@@ -306,7 +308,13 @@ publish = "site"
 
 ```bash
 # 检查 Python hook 语法
-python3 -m py_compile scripts/site_hooks.py
+python3 -m py_compile scripts/build_indexes.py scripts/site_hooks.py
+
+# 校验档案的语言、元数据、索引和导航
+python3 scripts/build_indexes.py
+
+# 检查空白与冲突标记
+git diff --check
 
 # 严格构建
 mkdocs build --strict --clean
@@ -323,3 +331,9 @@ python3 -m http.server 8021 --directory site
 - 入群链接：`https://qm.qq.com/q/gpzX280qkw`
 
 提交资料、修正页面或扩展栏目时，请优先说明资料来源、授权状态和希望公开到什么程度。
+
+仓库协作规范：
+
+- [贡献指南](CONTRIBUTING.md)
+- [社区行为准则](CODE_OF_CONDUCT.md)
+- [安全政策与私密报告](SECURITY.md)

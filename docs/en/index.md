@@ -7,10 +7,10 @@ hide:
   <div class="archive-hero__copy">
     <p class="archive-kicker">Community Chronicle · Kigurumi Archive</p>
     <h1>Kigurumi Chronicle</h1>
-    <p class="archive-lede">A lightweight archive for the kigurumi community, focused on public introduction, collaboration notes, and contribution paths that remain clear, traceable, and easy to maintain.</p>
+    <p class="archive-lede">A public-source archive for kigurumi history, events, daily life, craft, etiquette, education, and research, maintained through traceable multilingual records.</p>
     <div class="archive-actions">
-      <a class="md-button md-button--primary" href="about/">About the project</a>
-      <a class="md-button" href="support/">Contribute</a>
+      <a class="md-button md-button--primary" href="chronicle/">Browse the chronicle</a>
+      <a class="md-button" href="join/">Join the archive</a>
     </div>
   </div>
   <div class="archive-hero__meta">
@@ -21,42 +21,42 @@ hide:
 </section>
 
 <section class="archive-section" markdown>
-  <p class="archive-kicker">Site Focus</p>
-  <h2>Keep the core message clear</h2>
-  <p>This development version keeps only three public pages: Home, About, and Contribute. That keeps the information architecture calm while the project is still taking shape. Future chronicle, index, or feature pages can be added through the same internationalized folder structure.</p>
+  <p class="archive-kicker">Archive Structure</p>
+  <h2>Browse stable records and current collection</h2>
+  <p>The archive separates completed annual volumes from material that is still changing. Readers can follow the long chronology, open a specific year, or review the current month's de-duplicated public-source collection.</p>
 
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
-      <span class="archive-feature__icon">Home</span>
-      <h3>Home</h3>
-      <p>Introduces the project direction, main entry points, and current maintenance focus.</p>
-      <a href="./">Return home</a>
+      <span class="archive-feature__icon">Time</span>
+      <h3>Chronicle</h3>
+      <p>Connects verified events, public rules, source boundaries, and changes across years.</p>
+      <a href="chronicle/">Open the chronicle</a>
     </article>
     <article class="archive-feature">
-      <span class="archive-feature__icon">Info</span>
-      <h3>About</h3>
-      <p>Explains the archive goals, boundaries, content principles, and maintenance model.</p>
-      <a href="about/">Read about it</a>
+      <span class="archive-feature__icon">Year</span>
+      <h3>Annual volumes</h3>
+      <p>Groups stable records by year with domain decisions, citations, and unresolved evidence gaps.</p>
+      <a href="years/">Browse years</a>
     </article>
     <article class="archive-feature">
-      <span class="archive-feature__icon">Help</span>
-      <h3>Contribute</h3>
-      <p>Describes translation, review, page maintenance, permission, and support workflows.</p>
-      <a href="support/">See support options</a>
+      <span class="archive-feature__icon">Now</span>
+      <h3>Recent collection</h3>
+      <p>Tracks current events, daily posts, craft, safety, education, and research before annual closure.</p>
+      <a href="digests/">Review recent material</a>
     </article>
   </div>
 </section>
 
 <section class="archive-section archive-section--split">
   <div markdown>
-    <p class="archive-kicker">Development Principle</p>
-    <h2>Lightweight, not temporary</h2>
-    <p>Even with fewer pages, the project keeps MkDocs Material, multilingual folders, consistent visual components, and automated deployment. It stays fast to iterate now and ready to expand later.</p>
+    <p class="archive-kicker">Editorial Method</p>
+    <h2>Publish only what the evidence supports</h2>
+    <p>Each record is checked for date, place, source quality, public scope, reuse rights, and overlap with existing pages. Uncertain material stays explicitly unresolved instead of being promoted to fact.</p>
   </div>
   <ol class="archive-steps">
-    <li><strong>Focused content</strong><span>Keep only the pages needed now</span></li>
-    <li><strong>Stable structure</strong><span>Use matching paths across languages</span></li>
-    <li><strong>Consistent style</strong><span>Reuse the archive component system</span></li>
-    <li><strong>Automated deploys</strong><span>Publish through GitHub Actions after push</span></li>
+    <li><strong>Collect</strong><span>Find public event, daily-life, craft, safety, and research sources</span></li>
+    <li><strong>Verify</strong><span>Check dates, authors, status, claims, and publication boundaries</span></li>
+    <li><strong>Classify</strong><span>Place new facts in the right domain without duplicating existing years</span></li>
+    <li><strong>Publish</strong><span>Update every supported language and validate the production build</span></li>
   </ol>
 </section>

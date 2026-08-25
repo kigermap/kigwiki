@@ -26,6 +26,36 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">03</span>
+      <h3>2003 年 Kigurumi 编年史</h3>
+      <p>记录 Inside Doll 在 2003 年 4 月已经公开活跃及其全年更新节奏，保留两个第一方页面的起始日期冲突，并与现实装演证据分开。</p>
+      <a href="2003/">阅读 2003 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">04</span>
+      <h3>2004 年 Kigurumi 编年史</h3>
+      <p>整理东京电玩展最早可核验的大型着ぐるみ、更衣、寄存、检查和摄影同意规则，并以闭幕后报告确认整体展会完成。</p>
+      <a href="2004/">阅读 2004 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">05</span>
+      <h3>2005 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展 2005 的计划日程、公众开放日和会场，并明确保留 kigurumi 规则、实际参与与完成结果的证据空白。</p>
+      <a href="2005/">阅读 2005 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">06</span>
+      <h3>2006 年 Kigurumi 编年史</h3>
+      <p>确认东京电玩展 2006 的日期、地点与闭幕，以及 2004 公共规则逐项延续且无可见实质变化。</p>
+      <a href="2006/">阅读 2006 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">07</span>
+      <h3>2007 年 Kigurumi 编年史</h3>
+      <p>确认东京电玩展 2007 的日期、地点与闭幕结果；共同公共规则回链 2004 年卷，不重复条文。</p>
+      <a href="2007/">阅读 2007 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">08</span>
       <h3>2008 年 Kigurumi 编年史</h3>
       <p>确认东京电玩展 2008 的日期、地点与闭幕结果，并公开标注 animegao、大型着ぐるみ和专门规则的档案证据空白。</p>
@@ -34,19 +64,19 @@
     <article class="archive-feature">
       <span class="archive-feature__icon">09</span>
       <h3>2009 年 Kigurumi 编年史</h3>
-      <p>整理东京电玩展对大型着ぐるみ、行李安全、更衣寄存与摄影同意的公开规则，并把后续年度共同边界前移去重。</p>
+      <p>整理东京电玩展 2009 的行李检查安排、现场缝纫工具和更衣室办理时限；共同规则前移至 2004 年。</p>
       <a href="2009/">阅读 2009 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">10</span>
       <h3>2010 年 Kigurumi 编年史</h3>
-      <p>整理东京电玩展新增 cosplay 企划、7 号馆早间换装和舞会延时；共同规则保留在 2009 年，场地变化与 2011 年去重。</p>
+      <p>整理东京电玩展新增 cosplay 企划、7 号馆早间换装和舞会延时；基础规则追溯至 2004 年，场地变化与 2011 年去重。</p>
       <a href="2010/">阅读 2010 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">11</span>
       <h3>2011 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展更衣与寄存从 2010 年 7 号馆迁至 2 号馆；共同规则留在 2009 年，2012 年保留回迁和新增边界。</p>
+      <p>记录东京电玩展更衣与寄存从 2010 年 7 号馆迁至 2 号馆；共同规则不重复，2012 年保留回迁和新增边界。</p>
       <a href="2011/">阅读 2011 年</a>
     </article>
     <article class="archive-feature">
@@ -140,7 +170,7 @@
   <p class="archive-kicker">Draft Year Blocks</p>
   <h2>预制年份分卷</h2>
   <div class="archive-feature-grid">
-    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007</h3><p>下一待整理年份；继续核验更早的公开规则、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">02</span><h3>2002</h3><p>下一待整理年份；继续核验更早的专题网站、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>

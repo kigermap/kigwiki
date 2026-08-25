@@ -19,6 +19,22 @@ DEFAULT_DESCRIPTIONS = {
     "ja": "kigurumi コミュニティのための編年史、地誌、資料アーカイブ。",
     "ru": "Хроника, справочник и архив источников сообщества kigurumi.",
 }
+SITE_NAMES = {
+    "zh": DEFAULT_SITE_NAME,
+    "zh-Hans": DEFAULT_SITE_NAME,
+    "zh-Hant": "Kigurumi 編年志",
+    "en": "Kigurumi Chronicle",
+    "ja": "Kigurumi 編年誌",
+    "ru": "Хроника Kigurumi",
+}
+HOME_LABELS = {
+    "zh": "首页",
+    "zh-Hans": "首页",
+    "zh-Hant": "首頁",
+    "en": "Home",
+    "ja": "ホーム",
+    "ru": "Главная",
+}
 DEFAULT_NOT_FOUND_TITLE = "404 - 页面未找到"
 DEFAULT_IMAGE = f"{SITE_URL}assets/images/kigurumi-archive-hero-v2.png"
 DEFAULT_COPYRIGHT = (
@@ -138,8 +154,13 @@ PAGE_DESCRIPTIONS = {
     "/support/": "了解如何为 Kigurumi 编年志贡献资料、参与校对、支持维护和协助长期整理。",
     "/chronicle/": "Kigurumi 编年志编年总览，说明社群事件记录体例、预制时间线和年度资料整理方向。",
     "/years/": "Kigurumi 编年志年份目录，按年度浏览和补录事件、地点、人物、来源与待考事项。",
+    "/years/2003/": "2003 年 Kigurumi 编年史，记录 Inside Doll 在 4 月已经公开活跃、全年更新节奏及两个第一方起始日期的冲突。",
+    "/years/2004/": "2004 年 Kigurumi 编年史，整理东京电玩展最早可核验的大型着ぐるみ、更衣、寄存、检查与摄影同意规则。",
+    "/years/2005/": "2005 年 Kigurumi 编年史，记录东京电玩展计划日程与会场，并标注 kigurumi 规则、实际参与及完成结果的证据空白。",
+    "/years/2006/": "2006 年 Kigurumi 编年史，确认东京电玩展日期、地点、闭幕及 2004 年公共规则的逐项延续。",
+    "/years/2007/": "2007 年 Kigurumi 编年史，确认东京电玩展日期、地点、闭幕结果及 2004 年公共规则的延续。",
     "/years/2008/": "2008 年 Kigurumi 编年史，确认东京电玩展日期、地点和闭幕结果，并记录 animegao 与大型着ぐるみ的公开证据空白。",
-    "/years/2009/": "2009 年 Kigurumi 编年史，整理东京电玩展对大型着ぐるみ、行李安全、更衣寄存与摄影同意的公开规则。",
+    "/years/2009/": "2009 年 Kigurumi 编年史，整理东京电玩展的行李检查安排、现场缝纫工具和更衣室办理时限。",
     "/years/2010/": "2010 年 Kigurumi 编年史，整理东京电玩展新增 cosplay 企划、7 号馆早间换装与舞会延时。",
     "/years/2011/": "2011 年 Kigurumi 编年史，记录东京电玩展更衣与寄存从 7 号馆迁至 2 号馆的独特变化。",
     "/years/2012/": "2012 年 Kigurumi 编年史，整理东京电玩展 7 号馆更衣寄存、指定摄影区及视频与商业使用边界。",
@@ -154,9 +175,14 @@ PAGE_DESCRIPTIONS = {
     "/years/2024/": "2024 年 Kigurumi 编年史，整理公开活动、官方 IP greeting、Doll Weekend 11、风险治理、知识生产和年度图表。",
     "/years/2025/": "2025 年 Kigurumi 编年史，整理公开活动、跨境合作、官方 IP greeting、规则治理、产业链变化和年度图表。",
     "/digests/2026-07/": "2026 年 7 月 Kigurumi 公开资料摘要，收录三城摄影派对、WCS 2026 规则和 Doll Weekend 14 预告。",
-    "/digests/2026-08/": "2026 年 8 月 Kigurumi 公开资料摘要，收录成品展示，跟踪 WCS 2026 状态并对跨月活动去重。",
+    "/digests/2026-08/": "2026 年 8 月 Kigurumi 公开资料摘要，收录 DW14 三日参与者记录、头壳技术展示并跟踪 WCS 2026 状态。",
+    "/zh-Hant/years/2003/": "2003 年 Kigurumi 編年史繁體中文版，記錄 Inside Doll 在 4 月已公開活躍、全年更新節奏及兩個第一方起始日期的衝突。",
+    "/zh-Hant/years/2004/": "2004 年 Kigurumi 編年史繁體中文版，整理東京電玩展目前最早可核驗的大型着ぐるみ、更衣、寄存、檢查與攝影同意規則。",
+    "/zh-Hant/years/2005/": "2005 年 Kigurumi 編年史繁體中文版，記錄東京電玩展計畫日程與會場，並標示 kigurumi 規則、實際參與及完成結果的證據空白。",
+    "/zh-Hant/years/2006/": "2006 年 Kigurumi 編年史繁體中文版，確認東京電玩展日期、地點、閉幕及 2004 年公共規則的逐項延續。",
+    "/zh-Hant/years/2007/": "2007 年 Kigurumi 編年史繁體中文版，確認東京電玩展日期、地點、閉幕結果及 2004 年公共規則的延續。",
     "/zh-Hant/years/2008/": "2008 年 Kigurumi 編年史繁體中文版，確認東京電玩展日期、地點和閉幕結果，並記錄 animegao 與大型着ぐるみ證據空白。",
-    "/zh-Hant/years/2009/": "2009 年 Kigurumi 編年史繁體中文版，整理東京電玩展對大型着ぐるみ、行李安全、更衣寄存與攝影同意的公開規則。",
+    "/zh-Hant/years/2009/": "2009 年 Kigurumi 編年史繁體中文版，整理東京電玩展的行李檢查安排、現場縫紉工具和更衣室辦理時限。",
     "/zh-Hant/years/2010/": "2010 年 Kigurumi 編年史繁體中文版，整理東京電玩展新增 cosplay 企劃、7 號館早間換裝與晚會延時。",
     "/zh-Hant/years/2011/": "2011 年 Kigurumi 編年史繁體中文版，記錄東京電玩展更衣與寄存從 7 號館遷至 2 號館的獨特變化。",
     "/zh-Hant/years/2012/": "2012 年 Kigurumi 編年史繁體中文版，整理東京電玩展 7 號館更衣寄存、指定攝影區及影片與商業使用邊界。",
@@ -171,9 +197,14 @@ PAGE_DESCRIPTIONS = {
     "/zh-Hant/years/2024/": "2024 年 Kigurumi 編年史繁體中文整理版，收錄公開活動、官方 IP greeting、Doll Weekend 11、風險治理、知識生產和年度圖表。",
     "/zh-Hant/years/2025/": "2025 年 Kigurumi 編年史繁體中文整理版，收錄公開活動、跨境合作、官方 IP greeting、規則治理、產業鏈變化和年度圖表。",
     "/zh-Hant/digests/2026-07/": "2026 年 7 月 Kigurumi 公開資料摘要，收錄三城攝影派對、WCS 2026 規則和 Doll Weekend 14 預告。",
-    "/zh-Hant/digests/2026-08/": "2026 年 8 月 Kigurumi 公開資料摘要，收錄成品展示，追蹤 WCS 2026 狀態並對跨月活動去重。",
+    "/zh-Hant/digests/2026-08/": "2026 年 8 月 Kigurumi 公開資料摘要，收錄 DW14 三日參與者記錄、頭殼技術展示並追蹤 WCS 2026 狀態。",
+    "/en/years/2003/": "The 2003 Kigurumi Chronicle records Inside Doll's public activity by April, its annual update cadence, and conflicting first-party start dates.",
+    "/en/years/2004/": "The 2004 Kigurumi Chronicle covers the earliest currently verifiable Tokyo Game Show rules for large kigurumi, changing, storage, inspection, and photo consent.",
+    "/en/years/2005/": "The 2005 Kigurumi Chronicle records Tokyo Game Show's planned calendar and venue while preserving the evidence gap for kigurumi rules, participation, and completion.",
+    "/en/years/2006/": "The 2006 Kigurumi Chronicle confirms Tokyo Game Show's dates, venue, closure, and item-for-item continuation of the 2004 public rules.",
+    "/en/years/2007/": "The 2007 Kigurumi Chronicle confirms Tokyo Game Show's dates, venue, closure, and continuation of the 2004 public rules.",
     "/en/years/2008/": "The 2008 Kigurumi Chronicle confirms Tokyo Game Show's dates, venue, and closing result while documenting the public evidence gap for animegao and large kigurumi.",
-    "/en/years/2009/": "The 2009 Kigurumi Chronicle covers Tokyo Game Show rules for large kigurumi, baggage safety, changing, cloakroom use, and photo consent.",
+    "/en/years/2009/": "The 2009 Kigurumi Chronicle covers Tokyo Game Show's baggage-screening plan, sewing kits, and changing-room registration cutoff.",
     "/en/years/2010/": "The 2010 Kigurumi Chronicle covers Tokyo Game Show's new cosplay initiative, Hall 7 early changing, and the evening extension.",
     "/en/years/2011/": "The 2011 Kigurumi Chronicle records Tokyo Game Show's changing and cloakroom move from Hall 7 to Hall 2.",
     "/en/years/2012/": "The 2012 Kigurumi Chronicle covers Tokyo Game Show's Hall 7 changing workflow, photo areas, and video and commercial-use boundaries.",
@@ -185,9 +216,14 @@ PAGE_DESCRIPTIONS = {
     "/en/years/2022/": "The 2022 Kigurumi Chronicle covers offline reconnection, official IP greetings, specialist events, WCS rules, and Doll Weekend 5-8.",
     "/en/years/2018/": "The 2018 Kigurumi Chronicle covers AnimeJapan's visibility, attendant, and photography rules and graduate research into animegao mask-production matching.",
     "/en/digests/2026-07/": "The July 2026 Kigurumi public-source digest covers a three-city photo tour, WCS 2026 rules, and the Doll Weekend 14 preview.",
-    "/en/digests/2026-08/": "The August 2026 Kigurumi public-source digest records a finished-work showcase, tracks WCS 2026, and de-duplicates cross-month events.",
+    "/en/digests/2026-08/": "The August 2026 Kigurumi digest records three-day DW14 participant posts, a head-shell technical showcase, and the status of WCS 2026.",
+    "/ja/years/2003/": "2003年 Kigurumi 編年史。Inside Doll が4月には公開活動中だったこと、年内更新、二つの一次ページで食い違う開始日を扱います。",
+    "/ja/years/2004/": "2004年 Kigurumi 編年史。東京ゲームショウで現在最初に検証できる大型着ぐるみ、更衣、クローク、衣装確認、撮影同意の規定を扱います。",
+    "/ja/years/2005/": "2005年 Kigurumi 編年史。東京ゲームショウの予定日程と会場、kigurumi 規定・実参加・完了結果の証拠空白を扱います。",
+    "/ja/years/2006/": "2006年 Kigurumi 編年史。東京ゲームショウの日程・会場・閉幕と2004年公開規定の継続を扱います。",
+    "/ja/years/2007/": "2007年 Kigurumi 編年史。東京ゲームショウの日程、会場、閉幕と2004年公開規定の継続を扱います。",
     "/ja/years/2008/": "2008年 Kigurumi 編年史。東京ゲームショウの日程・会場・閉幕結果と、animegao・大型着ぐるみの公開証拠空白を扱います。",
-    "/ja/years/2009/": "2009年 Kigurumi 編年史。東京ゲームショウの大型着ぐるみ、手荷物安全、更衣・クローク、撮影同意の公開規定を扱います。",
+    "/ja/years/2009/": "2009年 Kigurumi 編年史。東京ゲームショウの手荷物検査計画、裁縫道具、更衣室受付時限を扱います。",
     "/ja/years/2010/": "2010年 Kigurumi 編年史。東京ゲームショウの新設 cosplay 企画、7ホール早朝更衣、夜間延長を扱います。",
     "/ja/years/2011/": "2011年 Kigurumi 編年史。東京ゲームショウの更衣・クロークが7ホールから2ホールへ移った変化を扱います。",
     "/ja/years/2012/": "2012年 Kigurumi 編年史。東京ゲームショウの7ホール更衣・クローク、撮影区域、動画・営利利用の境界を扱います。",
@@ -202,9 +238,14 @@ PAGE_DESCRIPTIONS = {
     "/ja/years/2024/": "2024年 Kigurumi 編年史の日本語整理版。公開イベント、公式IP greeting、Doll Weekend 11、リスク治理、知識生産を扱います。",
     "/ja/years/2025/": "2025年 Kigurumi 編年史の日本語整理版。公開イベント、越境協力、公式 IP greeting、規則治理、産業変化を扱います。",
     "/ja/digests/2026-07/": "2026年7月の Kigurumi 公開資料ダイジェスト。三都市撮影会、WCS 2026 規則、Doll Weekend 14 予告を収録します。",
-    "/ja/digests/2026-08/": "2026年8月の Kigurumi 公開資料ダイジェスト。完成品展示を収録し、WCS 2026 を追跡して月をまたぐ項目を重複整理します。",
+    "/ja/digests/2026-08/": "2026年8月の Kigurumi 公開資料ダイジェスト。DW14 の3日間の参加者記録、頭殻技術展示、WCS 2026 の状態を収録します。",
+    "/ru/years/2003/": "Хроника Kigurumi 2003 года: публичная активность Inside Doll к апрелю, ритм обновлений и конфликт двух первичных дат старта.",
+    "/ru/years/2004/": "Хроника Kigurumi 2004 года: самые ранние сейчас проверяемые правила Tokyo Game Show о крупных kigurumi, раздевалке, гардеробе, проверке и согласии на съемку.",
+    "/ru/years/2005/": "Хроника Kigurumi 2005 года: плановые даты и место Tokyo Game Show с пробелом в доказательствах правил kigurumi, участия и завершения.",
+    "/ru/years/2006/": "Хроника Kigurumi 2006 года подтверждает даты, место, закрытие Tokyo Game Show и продолжение публичных правил 2004 года.",
+    "/ru/years/2007/": "Хроника Kigurumi 2007 года подтверждает даты, место, закрытие Tokyo Game Show и продолжение публичных правил 2004 года.",
     "/ru/years/2008/": "Хроника Kigurumi 2008 года подтверждает даты, место и завершение Tokyo Game Show и отмечает пробел в доказательствах animegao и крупных kigurumi.",
-    "/ru/years/2009/": "Хроника Kigurumi 2009 года: правила Tokyo Game Show о крупных kigurumi, безопасности багажа, раздевалке, гардеробе и согласии на съемку.",
+    "/ru/years/2009/": "Хроника Kigurumi 2009 года: план проверки багажа Tokyo Game Show, швейные принадлежности и срок оформления раздевалки.",
     "/ru/years/2010/": "Хроника Kigurumi 2010 года: новая cosplay-программа Tokyo Game Show, раннее переодевание в зале 7 и вечернее продление.",
     "/ru/years/2011/": "Хроника Kigurumi 2011 года: перенос раздевалки и гардероба Tokyo Game Show из зала 7 в зал 2.",
     "/ru/years/2012/": "Хроника Kigurumi 2012 года: раздевалка и гардероб зала 7 Tokyo Game Show, зоны съемки и границы видео и коммерческого использования.",
@@ -219,7 +260,7 @@ PAGE_DESCRIPTIONS = {
     "/ru/years/2024/": "Русская версия хроники Kigurumi 2024 года: публичные события, official IP greeting, Doll Weekend 11, риски и производство знаний.",
     "/ru/years/2025/": "Русская версия хроники Kigurumi 2025 года: публичные события, трансграничные связи, official IP greeting, правила и индустрия.",
     "/ru/digests/2026-07/": "Обзор открытых материалов о Kigurumi за июль 2026 года: фототур по трем городам, правила WCS 2026 и анонс Doll Weekend 14.",
-    "/ru/digests/2026-08/": "Обзор Kigurumi за август 2026 года: демонстрация готовой работы, статус WCS 2026 и устранение повторов между месяцами.",
+    "/ru/digests/2026-08/": "Обзор Kigurumi за август 2026 года: записи участников за три дня DW14, техническая демонстрация головы и статус WCS 2026.",
     "/places/": "Kigurumi 编年志地点目录，记录会馆、工坊、展场、聚会空间、线上据点等公开可写的社群空间。",
     "/people/": "Kigurumi 编年志人物目录，记录公开可写的社群角色、贡献、参与阶段和来源依据。",
     "/sources/": "Kigurumi 编年志来源目录，维护照片、手册、访谈、网页存档和公开说明等证据链。",
@@ -324,14 +365,15 @@ def _drop_managed_seo(html: str) -> str:
 
 def _json_ld(page_url: str, title: str, description: str, pathname: str, lang: str) -> list[dict]:
     home_url = _absolute_url("/")
+    site_name = SITE_NAMES.get(lang, DEFAULT_SITE_NAME)
     graph: list[dict] = [
         {
             "@context": "https://schema.org",
             "@type": "WebSite",
             "@id": f"{home_url}#website",
             "url": home_url,
-            "name": DEFAULT_SITE_NAME,
-            "description": DEFAULT_DESCRIPTION,
+            "name": site_name,
+            "description": DEFAULT_DESCRIPTIONS.get(lang, DEFAULT_DESCRIPTION),
             "inLanguage": lang,
             "publisher": {"@id": f"{home_url}#organization"},
             "potentialAction": {
@@ -369,7 +411,14 @@ def _json_ld(page_url: str, title: str, description: str, pathname: str, lang: s
         }
     )
 
-    crumbs = [{"@type": "ListItem", "position": 1, "name": "首页", "item": home_url}]
+    crumbs = [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": HOME_LABELS.get(lang, HOME_LABELS["zh"]),
+            "item": home_url,
+        }
+    ]
     if content_path != "/":
         crumbs.append({"@type": "ListItem", "position": 2, "name": title.split(" - ")[0], "item": page_url})
         graph.append(
@@ -420,7 +469,7 @@ def _inject_seo(html: str, *, page_url: str, pathname: str) -> str:
     tags = [
         f'<link rel="canonical" href="{page_url}">',
         _property_tag("og:type", og_type),
-        _property_tag("og:site_name", DEFAULT_SITE_NAME),
+        _property_tag("og:site_name", SITE_NAMES.get(lang, DEFAULT_SITE_NAME)),
         _property_tag("og:title", title),
         _property_tag("og:description", description),
         _property_tag("og:url", page_url),

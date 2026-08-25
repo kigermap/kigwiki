@@ -6,6 +6,7 @@ import json
 import re
 import sys
 from dataclasses import asdict, dataclass
+from datetime import date
 from pathlib import Path
 
 
@@ -16,6 +17,24 @@ CENSUS_MANIFEST = CENSUS_ASSET_DIR / "manifest.tsv"
 CENSUS_REPORT_GLOB = "*/sources/survey-reports/kigurumi-census-2017/index.md"
 FIGURE_PATTERN = re.compile(r"figure-(\d{3})\.png")
 REPORT_PATTERN = re.compile(r"^docs/(?P<locale>[^/]+)/sources/survey-reports/(?P<slug>[^/]+)/index\.md$")
+ARCHIVE_LOCALES = {
+    "zh-Hans": {"zh-CN"},
+    "zh-Hant": {"zh-Hant", "zh-TW"},
+    "en": {"en"},
+    "ja": {"ja"},
+    "ru": {"ru"},
+}
+ARCHIVE_SECTIONS = {
+    "years": re.compile(r"^\d{4}$"),
+    "digests": re.compile(r"^\d{4}-(?:0[1-9]|1[0-2])$"),
+}
+# These English annual pages intentionally use mkdocs-static-i18n's default-language fallback.
+ARCHIVE_LOCALE_FALLBACKS = {
+    ("years", "2023", "en"),
+    ("years", "2024", "en"),
+    ("years", "2025", "en"),
+}
+FRONT_MATTER_FIELDS = {"title", "date", "language", "status"}
 
 
 @dataclass
@@ -115,6 +134,141 @@ def _validate_census_report_indexes() -> list[ReportIndexEntry]:
     return entries
 
 
+def _front_matter(path: Path) -> tuple[dict[str, str], str]:
+    content = path.read_text(encoding="utf-8")
+    lines = content.splitlines()
+    if not lines or lines[0] != "---":
+        raise ValueError(f"{_relative(path)} has no YAML front matter")
+
+    try:
+        closing_index = lines[1:].index("---") + 1
+    except ValueError as exc:
+        raise ValueError(f"{_relative(path)} has unclosed YAML front matter") from exc
+
+    metadata: dict[str, str] = {}
+    for line in lines[1:closing_index]:
+        if not line.strip() or line.lstrip().startswith("#"):
+            continue
+        if ":" not in line:
+            raise ValueError(f"{_relative(path)} has invalid front matter line: {line}")
+        key, value = line.split(":", 1)
+        metadata[key.strip()] = value.strip().strip("'\"")
+    return metadata, "\n".join(lines[closing_index + 1 :])
+
+
+def _validate_archive_page(path: Path, locale: str, section: str, slug: str) -> list[str]:
+    errors: list[str] = []
+    try:
+        metadata, body = _front_matter(path)
+    except ValueError as exc:
+        return [str(exc)]
+
+    missing_fields = sorted(FRONT_MATTER_FIELDS - set(metadata))
+    if missing_fields:
+        errors.append(f"{_relative(path)} missing front matter: {', '.join(missing_fields)}")
+
+    expected_languages = ARCHIVE_LOCALES[locale]
+    if metadata.get("language") not in expected_languages:
+        errors.append(
+            f"{_relative(path)} language is {metadata.get('language')!r}; "
+            f"expected one of {sorted(expected_languages)!r}"
+        )
+
+    try:
+        date.fromisoformat(metadata.get("date", ""))
+    except ValueError:
+        errors.append(f"{_relative(path)} has invalid ISO date: {metadata.get('date')!r}")
+
+    if not metadata.get("title", "").strip():
+        errors.append(f"{_relative(path)} has an empty title")
+    if not metadata.get("status", "").strip():
+        errors.append(f"{_relative(path)} has an empty status")
+    title = metadata.get("title", "")
+    if section == "years" and slug not in title:
+        errors.append(f"{_relative(path)} title does not include archive slug {slug}")
+    if section == "digests" and slug[:4] not in title:
+        errors.append(f"{_relative(path)} title does not include digest year {slug[:4]}")
+
+    headings = re.findall(r"^#\s+\S.*$", body, flags=re.MULTILINE)
+    if len(headings) != 1:
+        errors.append(f"{_relative(path)} must contain exactly one Markdown H1; found {len(headings)}")
+    return errors
+
+
+def _index_contains(index_path: Path, section: str, slug: str) -> bool:
+    content = index_path.read_text(encoding="utf-8")
+    if section == "years" and index_path.parent.name == "chronicle":
+        candidates = (f'href="../years/{slug}/"', f"(../years/{slug}/index.md)")
+    else:
+        candidates = (f'href="{slug}/"', f"({slug}/index.md)")
+    return any(candidate in content for candidate in candidates)
+
+
+def _validate_archive_locales() -> tuple[int, int, int]:
+    errors: list[str] = []
+    fallback_count = 0
+    config = (ROOT / "mkdocs.yml").read_text(encoding="utf-8")
+    totals: dict[str, int] = {}
+
+    for section, slug_pattern in ARCHIVE_SECTIONS.items():
+        default_slugs = {
+            path.parent.name
+            for path in (DOCS_DIR / "zh-Hans" / section).glob("*/index.md")
+            if slug_pattern.fullmatch(path.parent.name)
+        }
+        if not default_slugs:
+            errors.append(f"No default-language {section} pages found")
+            continue
+        totals[section] = len(default_slugs)
+
+        for locale in ARCHIVE_LOCALES:
+            locale_dir = DOCS_DIR / locale / section
+            locale_slugs = {
+                path.parent.name
+                for path in locale_dir.glob("*/index.md")
+                if slug_pattern.fullmatch(path.parent.name)
+            }
+            unexpected = sorted(locale_slugs - default_slugs)
+            if unexpected:
+                errors.append(f"{locale}/{section} has unexpected slugs: {', '.join(unexpected)}")
+
+            for slug in sorted(default_slugs):
+                page_path = locale_dir / slug / "index.md"
+                if not page_path.exists():
+                    fallback = (section, slug, locale)
+                    if fallback in ARCHIVE_LOCALE_FALLBACKS:
+                        fallback_count += 1
+                        continue
+                    errors.append(f"Missing localized archive page: {_relative(page_path)}")
+                    continue
+                errors.extend(_validate_archive_page(page_path, locale, section, slug))
+
+                index_path = locale_dir / "index.md"
+                if not _index_contains(index_path, section, slug):
+                    errors.append(f"{_relative(index_path)} does not link to {slug}")
+                if section == "years":
+                    chronicle_index = DOCS_DIR / locale / "chronicle" / "index.md"
+                    if not _index_contains(chronicle_index, section, slug):
+                        errors.append(f"{_relative(chronicle_index)} does not link to {slug}")
+
+        for slug in sorted(default_slugs):
+            nav_path = f"{section}/{slug}/index.md"
+            nav_count = config.count(nav_path)
+            declared_fallbacks = sum(
+                (section, slug, locale) in ARCHIVE_LOCALE_FALLBACKS for locale in ARCHIVE_LOCALES
+            )
+            expected_nav_count = len(ARCHIVE_LOCALES) + 1 - declared_fallbacks
+            if nav_count != expected_nav_count:
+                errors.append(
+                    f"mkdocs.yml contains {nav_count} entries for {nav_path}; "
+                    f"expected {expected_nav_count}"
+                )
+
+    if errors:
+        raise ValueError("\n".join(errors))
+    return totals.get("years", 0), totals.get("digests", 0), fallback_count
+
+
 def _write_json_index(entries: list[ReportIndexEntry]) -> Path:
     output_path = DOCS_DIR / "assets" / "generated" / "source-report-index.json"
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -138,6 +292,11 @@ def main() -> int:
     try:
         entries = _validate_census_report_indexes()
         print(f"Validated {len(entries)} census report pages and {len(_read_manifest())} figures.")
+        year_count, digest_count, fallback_count = _validate_archive_locales()
+        print(
+            f"Validated {year_count} annual and {digest_count} monthly archive slugs across "
+            f"{len(ARCHIVE_LOCALES)} locales ({fallback_count} declared fallbacks)."
+        )
         if args.write:
             output_path = _write_json_index(entries)
             print(f"Wrote {_relative(output_path)}.")
