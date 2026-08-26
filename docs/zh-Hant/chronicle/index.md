@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已錄入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">02</span><h3>2002 年 Kigurumi 編年史</h3><p>收錄東京電玩展 2002 的計畫日程、公眾開放日和會場，並公開標示 kigurumi / animegao 規則與實際參與的證據空白。</p><a href="../years/2002/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">03</span><h3>2003 年 Kigurumi 編年史</h3><p>收錄 Inside Doll 在 2003 年 4 月已公開活躍及其全年編輯更新，並保留兩個第一方頁面互相衝突的起始日期。</p><a href="../years/2003/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">04</span><h3>2004 年 Kigurumi 編年史</h3><p>收錄東京電玩展目前最早可核驗的大型着ぐるみ、更衣、寄存、服裝檢查和攝影同意規則，並保留實際到場證據空白。</p><a href="../years/2004/">進入年度頁</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>2005 年 Kigurumi 編年史</h3><p>收錄東京電玩展的計畫日程、公眾開放日與會場，並明確標示 kigurumi 規則、實際參與和完成結果的檔案證據空白。</p><a href="../years/2005/">進入年度頁</a></article>

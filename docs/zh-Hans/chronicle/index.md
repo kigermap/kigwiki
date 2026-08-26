@@ -44,6 +44,12 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">02</span>
+      <h3>2002 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展 2002 的计划日程、公众开放日和会场，并公开标示 kigurumi / animegao 规则与实际参与的证据空白。</p>
+      <a href="../years/2002/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">03</span>
       <h3>2003 年 Kigurumi 编年史</h3>
       <p>收录 Inside Doll 在 2003 年 4 月已经公开活跃及其全年编辑更新，并保留两个第一方页面互相冲突的起始日期。</p>
