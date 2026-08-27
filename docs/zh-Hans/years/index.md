@@ -26,6 +26,12 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">01</span>
+      <h3>2001 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展春、秋两届的实际日期和来场人数，并明确保留 kigurumi / animegao 规则、实际参与与图片识别的证据空白。</p>
+      <a href="2001/">阅读 2001 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">02</span>
       <h3>2002 年 Kigurumi 编年史</h3>
       <p>记录东京电玩展 2002 的计划日程、公众开放日与会场，并明确保留 kigurumi / animegao 规则、实际参与和完成结果的证据空白。</p>
