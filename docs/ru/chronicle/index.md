@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">00</span><h3>Хроника Kigurumi 2000 года</h3><p>Фактические даты, посещаемость и рубеж миллиона суммарных посетителей двух Tokyo Game Show с явным пробелом в доказательствах правил, участия и идентификации изображений kigurumi / animegao.</p><a href="../years/2000/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">01</span><h3>Хроника Kigurumi 2001 года</h3><p>Фактические даты и посещаемость весеннего и осеннего Tokyo Game Show с явным пробелом в доказательствах правил, участия и идентификации изображений kigurumi / animegao.</p><a href="../years/2001/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">02</span><h3>Хроника Kigurumi 2002 года</h3><p>Плановые даты, открытые дни и место Tokyo Game Show 2002 с явным пробелом в доказательствах правил и участия kigurumi / animegao.</p><a href="../years/2002/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">03</span><h3>Хроника Kigurumi 2003 года</h3><p>Публичная активность Inside Doll к апрелю 2003 года и редакционные обновления до конца года с сохранением противоречащих друг другу первичных дат старта.</p><a href="../years/2003/">Открыть год</a></article>
