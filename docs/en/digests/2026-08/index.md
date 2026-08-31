@@ -1,25 +1,34 @@
 ---
 title: "August 2026 Kigurumi Public-Source Digest"
-date: "2026-08-28"
+date: "2026-08-31"
 language: "en"
-status: "Reviewed through 2026-08-28; only changes from July are recorded"
+status: "Reviewed through 2026-08-31; only changes from July are recorded"
 ---
 
 # August 2026 Kigurumi Public-Source Digest
 
-> This is a monthly collection page, not the final 2026 chronicle. Research is current through **August 28, 2026 (Asia/Shanghai)**. A continuing event receives a status update, not a copy of rules and announcements already recorded in July.
+> This is a monthly collection page, not the final 2026 chronicle. Research is current through **08:50 on August 31, 2026 (Asia/Shanghai)**. A continuing event receives a status update, not a copy of rules and announcements already recorded in July.
 
 ## Current status
 
 | Date / status | Place | Domains | De-duplicated record | Confidence |
 | --- | --- | --- | --- | --- |
+| August 29-31 / new public releases and post-event documentation | China online / Bilibili | Chronicle, events, daily life, workshop, craft, safety | Added a DW14 organizer-account group-game recording and long documentary, first-experience and birthday posts, a head-shell cooling experiment, and a commissioned head-shell showcase; “100 people” in a title is program wording, not verified attendance | High for publication metadata; medium-high for organizer / participant content |
 | August 27-28 / new public releases | China online / Bilibili | Events, daily life, discussion, clothing | Added a DW14 photo-collection retrospective and runway excerpt, a leg-ring stability topic, and a tenth-anniversary performance-costume try-on; participant-reported counts and a reposted excerpt are not organizer statistics or a complete program record | High for publication metadata; medium for participant account |
 | August 26-27 / new public releases | China online / Bilibili | Events, logistics, workshop, craft, daily life | Added a DW14 staff account of setup / teardown, a logistics clip, a new head-shell unboxing, and a failed making experiment; publisher claims about scale are not treated as organizer statistics | High for publication metadata; medium for participant account |
 | August 25-26 / new public releases | China online / Bilibili | Events, daily life, discussion | Added a DW14 talent-performance record, a public-space kigurumi post, and one discussion signal tagged `kigurumi head shell` / `kig`; treatment stays within what publisher metadata supports | High for publication metadata |
 | August 21-23 / date window elapsed; participant records cover all three public days | Huizhou, Guangdong, China | Chronicle, events, daily life | One publisher added Day1, Day2, and Day3 retrospectives, while another added a post-event farewell; public records now span three days without establishing attendance or full-program completion | Medium-high |
 | August 23 / new public release | China online / Bilibili | Workshop, craft, education | A four-minute “Wearing a blinking head shell + internal-detail showcase” and its `kigurumi` and `head shell` tags are verifiable; the description does not identify materials, drive, or maker | High |
 | August 14 / new public release | China online / Bilibili | Workshop, craft, daily life | HaiDolls published a 16-second “kigurumi finished work showcase”; only public metadata is recorded, without inferring materials or process | High |
-| July 31-August 2 / official date window elapsed; actual completion pending | Nagoya, Japan | Chronicle, education, etiquette, safety | WCS 2026's official end date is August 2; no verifiable organizer completion record was available at the August 28 review | High |
+| July 31-August 2 / championship result verified; overall event status not updated | Nagoya, Japan | Chronicle, education, etiquette, safety | WCS's official championship result page confirms that competition component; the main event's structured status remains `EventScheduled`, so completion of every associated program is not inferred | High |
+
+### August 29-31: post-event DW14 records and new daily-life / workshop material
+
+At 05:09 on August 29, the Doll_Weekend organizer account published the four-hour-plus “Invite 100 dolls to play games; only one can take the prize,” tagged `group game`, `Doll Weekend 14`, and `kigurumi`. At 20:28, Co视 published the 34-minute-19-second “DW14 Kigurumi exhibition extended documentary.”[^bili-aug31-events] These extend the source chain from short clips and participant retrospectives to an organizer-account program record and sustained documentary coverage. “Invite 100” describes the program framing; it does not establish actual attendance, de-duplicated identities, or total event scale. As of August 31, the organizer page still retained stale ticketing status and supplied no closeout statistics.[^dw14]
+
+Within the same window, 咩咩酱Kig published a 25-minute-31-second first-kig-experience vlog tagged `Kigurumi`, `kig`, `head shell`, and `shopping mall`. 甜心ヒドラジン published a 20-second first kigurumi birthday post tagged `life record`, `birthday`, `kig head shell`, and `kigurumi`.[^bili-aug31-events] They are retained respectively as newcomer experience and social daily life. Public metadata establishes release time and publisher framing, not shooting date, a general experience, or private participant identities.
+
+At 19:41 on August 29, 冷芙科技社kigurumi published the 2-minute-44-second “Kig fan: this time it is different,” with tags for head-shell fans and cooling; the description explicitly says the test data are for reference and warns that DIY modification carries safety risk. At 20:04 on August 30, 冉月剧团Umoon published a 57-second commissioned head-shell showcase tagged `original`, `craft`, `head shell`, `kig`, and `kigurumi`.[^bili-aug31-craft] The first is a substantive workshop / safety signal, but is not rewritten as a tutorial without construction, measurement-method, and electrical details. The second supports a finished-work record only; materials, commission terms, and technical priority are not inferred.
 
 ### August 27-28: DW14 interaction retrospective and practical clothing topics
 
@@ -31,7 +40,7 @@ At 00:12, 三哥很danger published a 54-second “Does Specter's leg ring reall
 
 ### August 21-25: DW14 records expand from three dates to a specific talent performance
 
-Doll Weekend's official page continues to list DW14 for August 21-23, 2026 in Huizhou, Guangdong, under the theme “Dreaming Back to Lingnan.” At the August 28 review, it still displayed ticket links and specifically marked DW14 recruitment as active, so the page had not received a post-event status update.[^dw14] The four first-day clips and long-form recording obtained before August 23 continue to establish public participation records for Day1.[^dw14-day1]
+Doll Weekend's official page continues to list DW14 for August 21-23, 2026 in Huizhou, Guangdong, under the theme “Dreaming Back to Lingnan.” At the August 31 review, it still displayed ticket links and specifically marked DW14 recruitment as active, so the page had not received a post-event status update.[^dw14] The four first-day clips and long-form recording obtained before August 23 continue to establish public participation records for Day1.[^dw14-day1]
 
 On August 24, 一蓑烟雨f published “DW14 Day1 retrospective,” “DW14 Day2,” and “DW14 Day3” from one account. All three public metadata records carry `kigurumi` and `Doll Weekend 14` tags, and the Day3 description says DW14 had ended. Yo桜の御離 separately published “Like a dream: until next time, DW14.”[^dw14-three-days] The three-day sequence plus an independent post-event retrospective updates the evidence from “day one only” to “public participant records span all three dates.” These remain participant-generated records: they do not establish the organizer's full program, exact attendance, or formal closeout, and the digest does not infer scale, identities, or unpublished arrangements.
 
@@ -41,7 +50,7 @@ On August 25, 废材na想吃烤鸭肉 published a 5-minute-41-second DW14 doll t
 
 At 16:19 on August 26, 是慎某人 published a 4-minute-41-second DW14 retrospective. The description self-identifies the publisher as a member of the PV staff and says they participated throughout setup and teardown; public tags include `DW14`, `dollweekend`, `kigurumi`, and `head shell`. At 18:00, 整颗纱露朵 published the 26-second “What was in DW14's afternoon tea,” tagged `tips`, `tutorial`, `logistics`, `kig`, and `Doll Weekend 14`, but with an empty description.[^dw14-logistics] The first supports a staff-perspective logistics account. The second establishes only that a logistics topic was published, not an inventory, supply standard, or organizer procedure.
 
-The retrospective title says “one thousand people,” while its description calls this the largest edition to date and mentions a region for the next edition. These are publisher statements. At the August 28 review, Doll Weekend's official page still marked DW14 recruitment as active and supplied no closeout statistics or next-edition announcement.[^dw14] The digest therefore does not convert those statements into official attendance, a record, or a confirmed schedule.
+The retrospective title says “one thousand people,” while its description calls this the largest edition to date and mentions a region for the next edition. These are publisher statements. At the August 31 review, Doll Weekend's official page still marked DW14 recruitment as active and supplied no closeout statistics or next-edition announcement.[^dw14] The digest therefore does not convert those statements into official attendance, a record, or a confirmed schedule.
 
 At 23:08 on August 26, 雲玖久 published a 1-minute-9-second new head-shell unboxing tagged `kigurumi` and `kig`; the description is only a hyphen. At 01:34 on August 27, -SUCE- published a one-minute failed-experiment note tagged `kigurumi` and `head shell`. Its description says the concept is compatible with flatter products such as `mh180`, but that its function conflicts with the original intent, and the series may not continue.[^bili-making-notes] The first is retained only as a new-object / unboxing daily-life signal. The second is a workshop signal about failure and compatibility, but the metadata does not establish the device type, construction, materials, or a general conclusion.
 
@@ -63,11 +72,11 @@ Bilibili's public metadata dates “kigurumi finished work showcase” to August
 
 The public description is empty, and the metadata does not identify the character, mask materials, workshop process, or commission relationship. The digest therefore does not expand “finished work showcase” into a tutorial, review, or workshop profile. One short video does not justify a separate workshop section; later process or materials documentation can extend the same source chain.
 
-### WCS 2026: official date window elapsed; actual completion remains pending
+### WCS 2026: the official championship result is confirmed; the overall event status is not updated
 
-WCS's official page and structured event data continue to list its Nagoya program for July 31 through August 2, 2026, with `endDate` set to August 2 and status still marked `EventScheduled`.[^wcs] The August 28 review found no updated status field or organizer summary, so only the official calendar window can be said to have elapsed. This is a **status correction**, not a second event entry, and the date alone does not prove that every program took place.
+WCS's official championship site now carries a “WORLD COSPLAY CHAMPIONSHIP 2026 — RESULTS” page listing the top three, special awards, and 40 participating countries and regions. Page metadata says it was published on August 21 and modified on August 22.[^wcc-result] This first-party result is sufficient to confirm the championship component, correcting the earlier statement that no organizer completion record had been found. The winners and 40-team figure belong to the general cosplay championship and are not rewritten as kigurumi participation statistics.
 
-No organizer summary or independent retrospective sufficient to establish completion was found by the research cutoff, so the event is not described as completed. Full-face costume, photography-consent, and heat-risk rules were already documented in the [July 2026 digest](../2026-07/index.md) and are not repeated here.
+The main event page and structured data still list July 31 through August 2 in Nagoya, set `endDate` to August 2, and retain `EventScheduled`.[^wcs] The conclusion is therefore precise: the championship result is confirmed, while one component result page does not prove completion of every associated program. Full-face costume, photography-consent, and heat-risk rules were already documented in the [July 2026 digest](../2026-07/index.md) and are not repeated here.
 
 ## Tracked without duplication
 
@@ -76,21 +85,24 @@ No organizer summary or independent retrospective sufficient to establish comple
 
 ## Domain and section decisions
 
-| Domain | Assessment at the August 28 review | Treatment |
+| Domain | Assessment at the August 31 review | Treatment |
 | --- | --- | --- |
-| Chronicle | DW14 adds an interaction retrospective, reposted runway excerpt, and staff logistics account but still lacks organizer closeout statistics; WCS completion remains pending | Update the original event status; do not duplicate |
-| Daily life / discussion | A photo-collection retrospective, costume try-on, leg-ring topic, head-shell unboxing, and failed-experiment reflection are new | Record the public release scope; do not infer identity, shooting date, counts, or broad conclusions |
-| Workshop / craft | An accessory-stability topic, unboxing, and failed compatibility experiment are new; descriptions still lack materials and test conditions | Include outcome and retrospective signals; do not infer construction, materials, repair methods, or priority |
-| Reference / education | DW14 logistics tags and head-shell records are leads, but metadata is insufficient for a checklist or tutorial | Record the evidence boundary |
-| Etiquette / safety | The DW14 logistics clip exposes no verifiable procedure; no material WCS rule update was found | Link existing records; do not generate a new protocol |
+| Chronicle | DW14 adds an organizer-account group-game recording and long documentary but still lacks organizer closeout statistics; WCS's championship result is first-party confirmed | Update the original event status; do not duplicate |
+| Daily life / discussion | A first-experience vlog and birthday post join the earlier collection, try-on, and accessory topics | Record the public release scope; do not infer identity, shooting date, counts, or broad conclusions |
+| Workshop / craft | A head-shell cooling experiment and commissioned finished work are new; the earlier unboxing and failed experiment remain | Include outcome and retrospective signals; do not infer construction, materials, repair methods, or priority |
+| Reference / education | The WCS result corrects completion status; DW14 and head-shell metadata remain insufficient for statistics or a tutorial | Record the evidence boundary |
+| Etiquette / safety | The cooling publisher explicitly warns of DIY risk; no material WCS rule update was found | Preserve the publisher warning and link existing rules; do not generate a new protocol |
 | Academic | No directly relevant new August publication found | Omit |
 
-This review extends the existing DW14 source chain with an interaction retrospective, reposted runway excerpt, and staff logistics account, while adding costume-accessory, try-on, head-shell unboxing, and failed-experiment notes. The material still belongs in the monthly digest and does not justify a new site-wide domain. Later WCS completion material, official DW14 closeout statistics or a program, clothing and head-shell materials / construction documentation, or community research with methods and a sample will update the original source chains rather than create duplicate daily pages.
+This review extends the existing DW14 source chain with an organizer-account long recording, documentary, and newcomer / birthday daily-life posts; adds a head-shell cooling experiment and workshop finished work; and uses a first-party WCS result to correct the championship status. The material still belongs in the monthly digest and does not justify a new site-wide domain. A later WCS whole-event summary, official DW14 closeout statistics or program, clothing and head-shell materials / construction documentation, or community research with methods and a sample will update the original source chains rather than create duplicate daily pages.
 
 ## Source
 
 [^wcs]: World Cosplay Summit, “World Cosplay Summit 2026,” <https://www.worldcosplaysummit.jp/en>
+[^wcc-result]: World Cosplay Championship / WCS, “WORLD COSPLAY CHAMPIONSHIP 2026 — RESULTS,” published August 21 and modified August 22, 2026, <https://wcc.worldcosplaysummit.jp/en/history/2026/>
 [^dw14]: Doll Weekend, “Doll Weekend 14,” <https://dollweekend.cn/cn/event/dw14>
+[^bili-aug31-events]: Doll_Weekend, “Invite 100 dolls to play games; only one can take the prize,” Bilibili, August 29, 2026, <https://www.bilibili.com/video/BV1qXtN6JEHm/>; Co视, “DW14 Kigurumi exhibition extended documentary,” August 29, 2026, <https://www.bilibili.com/video/BV1tz426jEXb/>; 咩咩酱Kig, “First kig experience: a JK girl becomes a cute human doll,” August 29, 2026, <https://www.bilibili.com/video/BV117tK6AEMY/>; 甜心ヒドラジン, “First birthday as a doll: cutting the cake,” August 30, 2026, <https://www.bilibili.com/video/BV1Eg496JEkz/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1qXtN6JEHm>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1qXtN6JEHm>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1tz426jEXb>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1tz426jEXb>, <https://api.bilibili.com/x/web-interface/view?bvid=BV117tK6AEMY>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV117tK6AEMY>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1Eg496JEkz>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Eg496JEkz>
+[^bili-aug31-craft]: 冷芙科技社kigurumi, “Kig fan: this time it is different,” Bilibili, August 29, 2026, <https://www.bilibili.com/video/BV1vs426dE4w/>; 冉月剧团Umoon, “Umoon commissioned kigurumi head-shell finished-work showcase (No.238),” August 30, 2026, <https://www.bilibili.com/video/BV1FitH6KEPD/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1vs426dE4w>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1vs426dE4w>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1FitH6KEPD>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1FitH6KEPD>
 [^dw14-day1]: 五代雄介-初音未来kiger, “DWday1 completed successfully,” Bilibili, August 21, 2026, <https://www.bilibili.com/video/BV1bN8z6MEkQ/>; 望月_kiger, “DW14 Day1 Part1” and “Part2,” August 21-22, 2026, <https://www.bilibili.com/video/BV1558B6GEDs/> and <https://www.bilibili.com/video/BV1EM8B6jEsK/>; 繁星游弋似歌, “DW14 first day: exhausted,” August 21, 2026, <https://www.bilibili.com/video/BV1zb8z6DEJ9/>; 老骚豆豉, “DW14-20260821 Huizhou doll exhibition personal livestream recording D1,” August 22, 2026, <https://www.bilibili.com/video/BV15c8r6UEsx/>. Public metadata: <https://api.bilibili.com/x/web-interface/view?bvid=BV1bN8z6MEkQ>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1558B6GEDs>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1EM8B6jEsK>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1zb8z6DEJ9>, and <https://api.bilibili.com/x/web-interface/view?bvid=BV15c8r6UEsx>
 [^dw14-three-days]: 一蓑烟雨f, “DW14 Day1 retrospective,” “DW14 Day2,” and “DW14 Day3,” Bilibili, August 24, 2026, <https://www.bilibili.com/video/BV1hV8e64EEq/>, <https://www.bilibili.com/video/BV1xr8Y6EEdf/>, and <https://www.bilibili.com/video/BV1Eo8Y6MEv4/>; Yo桜の御離, “Like a dream: until next time, DW14,” August 24, 2026, <https://www.bilibili.com/video/BV1CKhN6aEhJ/>. Public metadata: <https://api.bilibili.com/x/web-interface/view?bvid=BV1hV8e64EEq>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1xr8Y6EEdf>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1Eo8Y6MEv4>, and <https://api.bilibili.com/x/web-interface/view?bvid=BV1CKhN6aEhJ>
 [^dw14-talent]: 废材na想吃烤鸭肉, “DW14 doll talent performance: Aemeath kigurumi, ‘catch me if you can’ / ‘round n round’,” Bilibili, August 25, 2026, <https://www.bilibili.com/video/BV1ZUhg6ME3c/>; public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1ZUhg6ME3c> and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1ZUhg6ME3c>
