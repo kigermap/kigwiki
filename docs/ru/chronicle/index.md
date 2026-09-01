@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>Опубликованные годы</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">98</span><h3>Хроника Kigurumi 1998 года</h3><p>Фактические даты, посещаемость и весенние подарки первой группе в очереди двух Tokyo Game Show с явным пробелом в доказательствах правил, участия и идентификации изображений kigurumi / animegao.</p><a href="../years/1998/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">99</span><h3>Хроника Kigurumi 1999 года</h3><p>Фактические даты, посещаемость и весенняя сценическая программа двух Tokyo Game Show с явным пробелом в доказательствах правил, участия и идентификации изображений kigurumi / animegao.</p><a href="../years/1999/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">00</span><h3>Хроника Kigurumi 2000 года</h3><p>Фактические даты, посещаемость и рубеж миллиона суммарных посетителей двух Tokyo Game Show с явным пробелом в доказательствах правил, участия и идентификации изображений kigurumi / animegao.</p><a href="../years/2000/">Открыть год</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">01</span><h3>Хроника Kigurumi 2001 года</h3><p>Фактические даты и посещаемость весеннего и осеннего Tokyo Game Show с явным пробелом в доказательствах правил, участия и идентификации изображений kigurumi / animegao.</p><a href="../years/2001/">Открыть год</a></article>
@@ -51,4 +52,4 @@
 
 ## Недавние материалы
 
-Текущие и еще нестабильные сведения сначала попадают в [ежемесячные подборки](../digests/index.md). Текущий выпуск - [обзор за август 2026 года](../digests/2026-08/index.md); в годовые тома переносятся только проверенные уникальные факты.
+Текущие и еще нестабильные сведения сначала попадают в [ежемесячные подборки](../digests/index.md). Текущий выпуск - [обзор за сентябрь 2026 года](../digests/2026-09/index.md); в годовые тома переносятся только проверенные уникальные факты.

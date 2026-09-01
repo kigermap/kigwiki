@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">98</span><h3>1998年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、春の待機列記念品を記録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="1998/">1998年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">99</span><h3>1999年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、春のステージ企画を記録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="1999/">1999年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">00</span><h3>2000年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、累計100万人の節目を記録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="2000/">2000年を読む</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">01</span><h3>2001年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日と来場者数を記録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="2001/">2001年を読む</a></article>

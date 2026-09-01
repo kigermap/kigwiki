@@ -19,6 +19,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">98</span><h3>1998年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、春の待機列記念品を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/1998/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">99</span><h3>1999年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、春のステージ企画を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/1999/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">00</span><h3>2000年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、累計100万人の節目を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/2000/">年度ページへ</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">01</span><h3>2001年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日と来場者数を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/2001/">年度ページへ</a></article>
@@ -51,4 +52,4 @@
 
 ## 近期収集
 
-進行中または未確定の情報は、まず[月次の近期収集ページ](../digests/index.md)で出典確認と重複排除を行う。現在の更新は[2026年8月 公開資料ダイジェスト](../digests/2026-08/index.md)であり、安定した内容だけを年次編年へ移す。
+進行中または未確定の情報は、まず[月次の近期収集ページ](../digests/index.md)で出典確認と重複排除を行う。現在の更新は[2026年9月 公開資料ダイジェスト](../digests/2026-09/index.md)であり、安定した内容だけを年次編年へ移す。

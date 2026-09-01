@@ -26,6 +26,12 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">98</span>
+      <h3>1998 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展春、秋两届的实际日期、来场人数与春季排队纪念品，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="1998/">阅读 1998 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">99</span>
       <h3>1999 年 Kigurumi 编年史</h3>
       <p>记录东京电玩展春、秋两届的实际日期、来场人数与春季舞台节目，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
