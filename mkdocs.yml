@@ -105,6 +105,7 @@ plugins:
                 - 编年总览: chronicle/index.md
                 - 年份目录:
                     - 年份总览: years/index.md
+                    - 1997 年 Kigurumi 编年史: years/1997/index.md
                     - 1998 年 Kigurumi 编年史: years/1998/index.md
                     - 1999 年 Kigurumi 编年史: years/1999/index.md
                     - 2000 年 Kigurumi 编年史: years/2000/index.md
@@ -209,6 +210,7 @@ plugins:
                 - 編年總覽: chronicle/index.md
                 - 年份目錄:
                     - 年份總覽: years/index.md
+                    - 1997 年 Kigurumi 編年史: years/1997/index.md
                     - 1998 年 Kigurumi 編年史: years/1998/index.md
                     - 1999 年 Kigurumi 編年史: years/1999/index.md
                     - 2000 年 Kigurumi 編年史: years/2000/index.md
@@ -313,6 +315,7 @@ plugins:
                 - Overview: chronicle/index.md
                 - Years:
                     - Years Overview: years/index.md
+                    - 1997 Kigurumi Chronicle: years/1997/index.md
                     - 1998 Kigurumi Chronicle: years/1998/index.md
                     - 1999 Kigurumi Chronicle: years/1999/index.md
                     - 2000 Kigurumi Chronicle: years/2000/index.md
@@ -412,6 +415,7 @@ plugins:
                 - 編年総覧: chronicle/index.md
                 - 年別目録:
                     - 年別総覧: years/index.md
+                    - 1997年 Kigurumi 編年史: years/1997/index.md
                     - 1998年 Kigurumi 編年史: years/1998/index.md
                     - 1999年 Kigurumi 編年史: years/1999/index.md
                     - 2000年 Kigurumi 編年史: years/2000/index.md
@@ -516,6 +520,7 @@ plugins:
                 - Обзор: chronicle/index.md
                 - Годы:
                     - Обзор годов: years/index.md
+                    - Хроника Kigurumi 1997 года: years/1997/index.md
                     - Хроника Kigurumi 1998 года: years/1998/index.md
                     - Хроника Kigurumi 1999 года: years/1999/index.md
                     - Хроника Kigurumi 2000 года: years/2000/index.md
@@ -641,6 +646,7 @@ nav:
       - 编年总览: chronicle/index.md
       - 年份目录:
           - 年份总览: years/index.md
+          - 1997 年 Kigurumi 编年史: years/1997/index.md
           - 1998 年 Kigurumi 编年史: years/1998/index.md
           - 1999 年 Kigurumi 编年史: years/1999/index.md
           - 2000 年 Kigurumi 编年史: years/2000/index.md

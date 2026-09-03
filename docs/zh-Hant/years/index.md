@@ -8,6 +8,7 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">97</span><h3>1997 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期、來場人數與改為一年兩屆的背景，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="1997/">閱讀 1997 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">98</span><h3>1998 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期、來場人數與春季排隊紀念品，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="1998/">閱讀 1998 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">99</span><h3>1999 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期、來場人數與春季舞台節目，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="1999/">閱讀 1999 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">00</span><h3>2000 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期、來場人數與累計百萬來場里程碑，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="2000/">閱讀 2000 年</a></article>
