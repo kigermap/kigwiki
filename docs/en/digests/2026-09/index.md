@@ -1,13 +1,13 @@
 ---
 title: "September 2026 Kigurumi Public-Source Digest"
-date: "2026-09-03"
+date: "2026-09-05"
 language: "en"
-status: "Rolling review through 2026-09-03 08:30 Asia/Shanghai; only changes from August"
+status: "Rolling review through 2026-09-05 23:22 Asia/Shanghai; only changes from August"
 ---
 
 # September 2026 Kigurumi Public-Source Digest
 
-> This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is **September 3, 2026 at 08:30 Asia/Shanghai**. An existing event or subject is recorded only when its state is new or more informative.
+> This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is **September 5, 2026 at 23:22 Asia/Shanghai**. An existing event or subject is recorded only when its state is new or more informative.
 
 ## Current state
 
@@ -16,6 +16,10 @@ status: "Rolling review through 2026-09-03 08:30 Asia/Shanghai; only changes fro
 | September 2, 00:44 | Chinese web / Bilibili | Workshop, craft, education | A 3D-printing process showcase for a kigurumi head; the description identifies a Creality K1 Max but does not establish materials, model provenance, or the complete process | High for publication metadata; medium for process scope |
 | September 2, 00:55 | Chinese web / Bilibili | Daily life, discussion, safety | A personal account that five layers felt too tight and required a pause; retained as an individual comfort signal, not a general health claim | High for publication metadata; medium for self-report |
 | September 2, 22:50 | Chinese web / Bilibili | Daily life, discussion, reference | A personal retrospective on more than a year of `变娃`; the title and tags establish the retrospective theme but not particular masks, makers, chronology, or a community trend | High for publication metadata; medium for retrospective scope |
+| September 3, 19:00 | Beijing / Bilibili | Small gathering, outdoor photography, daily life | A video titled as a kigurumi camping photoshoot at Beijing's Wenyu River; the public record establishes the place and theme, not the activity date, attendance, or organizer | High for publication metadata; medium for activity scope |
+| September 4, 20:04 | Chinese web / Bilibili | Newcomer experience, daily life | A personal “first kigurumi outing” record tagged `MAIMAI` and `kig`; no venue, complete workflow, or general newcomer conclusion is inferred | High for publication metadata; medium for self-report |
+| September 5, 18:41 | Chinese web / Bilibili | Workshop, craft | A DIY update saying the latex-suit body was complete and foot-cover work would continue; materials, joining method, and durability remain unstated | High for publication metadata; medium for build stage |
+| September 5, 20:28 | Chinese web / Bilibili | Maker attribution, styling | A public description attributes the displayed head to 星尘 kigurumi 工坊; retained as attribution, not a specification or quality review | High for attribution metadata; medium for work scope |
 
 ### September 2: head printing and a layered-wear experience
 
@@ -29,27 +33,41 @@ Bilibili's public metadata dates “How an ugly figurine became a refined doll �
 
 The public description is only a hyphen. The before-and-after framing is the publisher's own characterization; it cannot by itself identify masks, makers, materials, or learning steps, and it does not represent a typical community pathway. This digest records the appearance of a personal public retrospective without rewriting it as a making tutorial, product review, or trend statistic.
 
+### September 3–4: a Beijing camping photoshoot and first-outing record
+
+Bilibili's public metadata dates “Kigurumi gathering moments: Beijing Wenyu River camping photoshoot” to September 3 at 19:00, names 停定の钟 as publisher, and gives a duration of 3 minutes 2 seconds. Tags include `life record`, `cosplay`, `变娃`, `camping`, `kigurumi`, and `kig`.[^bili-sep3-5] This establishes a public video about a camping photoshoot at Beijing's Wenyu River. The blank description cannot establish the actual activity date, attendance, convener, permissions, or route, so the item is not presented as a formal event notice or scale statistic.
+
+“First kigurumi outing” was published on September 4 at 20:04, runs for 2 minutes 38 seconds, and is tagged `MAIMAI` and `kig`; its description is only a hyphen.[^bili-sep3-5] The digest records only one publisher's self-described first outing and the minimum fact that a newcomer account intersected with arcade rhythm-game activity. It does not infer a location, assistant, wearing duration, or universal newcomer pathway.
+
+### September 5: latex-suit progress and a head-maker attribution
+
+“The latex-suit body is complete” was published by Maddie62 on September 5 at 18:41 and runs for 1 minute 30 seconds. Its description says foot-cover work would continue that day, and tags include `DIY`, `kigurumi`, `latex suit`, and `kig`.[^bili-sep3-5] These fields support a staged record of a completed body and continuing foot-cover work. They do not disclose latex formulation, thickness, bonding, sealing, movement allowance, or testing, so the clip is not expanded into a tutorial.
+
+At 20:28 the same day, the description of “Is this a cat?! [kigurumi]” explicitly credits the displayed head to 星尘 kigurumi 工坊, while tags include `kigurumi` and `kig`.[^bili-sep3-5] This supports public attribution of the work, but the short video supplies no model, commission process, price, lead time, or performance data. It is not treated as a product review or full workshop profile.
+
 ## Duplicates and weak signals filtered out
 
 - DW14 lens-signing and mascot-interaction clips published on September 2 remain retrospective material from the same event already documented in August. They add no rule, program, or organizer closeout statistic and do not become duplicate events.
 - A September 3 video titled “First step in `变娃`: put on the skin” has public tags only for clothing, styling, and `zentai`, and is marked exclusive. The available evidence does not establish a complete kigurumi character context or dressing process, so it is not promoted to an entry.
+- Drinking jokes, a birthday record, a fictional wedding, an unexplained “new head,” and styling-only clips published September 4–5 establish personal uploads but not a safety rule, formal event, workshop profile, or industry trend, so they are not separate entries.
 - Styling-only clips, single-image posts, and context-free camera interactions do not automatically enter the digest. A later release with process parameters, event facts, or verifiable discussion can extend its source chain.
 - International public-video and social searches produced no independently verifiable September record within this cutoff. Older or inaccessible results were not used as filler.
 
 ## Domain and section decisions
 
-| Domain | Assessment at September 3 | Treatment |
+| Domain | Assessment at September 5 | Treatment |
 | --- | --- | --- |
-| Chronicle | No new completion state relative to August's existing event chains | Do not repeat DW14 or other events |
-| Daily life / discussion | One layered-wear account and one personal retrospective covering more than a year | Record each self-report without a group conclusion |
-| Workshop / craft | One Creality K1 Max printing-process showcase | Record the process signal without undisclosed parameters |
-| Reference / education | A process showcase and personal retrospective are not a complete tutorial or community trend | Preserve that evidence boundary |
+| Chronicle | One Beijing camping-photoshoot record without a formal activity date or scale | Keep it as a monthly lead rather than a separate chronicle event |
+| Daily life / discussion | Layered wear, a personal retrospective, and a first outing | Record self-reports without a group conclusion |
+| Workshop / craft | 3D printing, latex body and foot-cover progress, and one head-maker attribution | Record process and attribution without undisclosed parameters |
+| Reference / education | Process clips, attribution, and a personal retrospective are not a complete tutorial, review, or community trend | Preserve that evidence boundary |
 | Etiquette / safety | An individual comfort signal has no measurement or protocol | Do not create a new safety standard |
 | Academic | No directly relevant September publication verified | Omit |
 
-The three additions concern a making process, an individual wearing experience, and a personal retrospective. The monthly digest is sufficient; no separate workshop, safety, or daily-life section is warranted. Reproducible parameters, materials and license details, wearing research with a measurement method, or a verifiable community survey can later update the original source chain without duplication.
+The seven additions cover making, maker attribution, individual wearing, a newcomer outing, a personal retrospective, and a small outdoor photoshoot. The monthly digest is sufficient; no separate workshop, safety, person, or event section is warranted. A formal event page, reproducible parameters, materials and license details, wearing research with a measurement method, or a verifiable community survey can later update the source chain without duplication.
 
 ## Source
 
 [^bili-sep2]: 一个人在江边, “一个 kigurumi 大头的打印过程～,” Bilibili, September 2, 2026, <https://www.bilibili.com/video/BV1wHtL6HELU/>; Naganohara_Mio_, “五层也太紧了，必须得缓一缓【kigurumi】,” Bilibili, September 2, 2026, <https://www.bilibili.com/video/BV1cstL6JEyb/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1wHtL6HELU>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1wHtL6HELU>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1cstL6JEyb>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1cstL6JEyb>
 [^bili-retrospective]: 停定の钟, “邪神手办是如何转变为精致娃娃的—变娃1年多历程盘点,” Bilibili, September 2, 2026, <https://www.bilibili.com/video/BV18Ctm64EqR/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV18Ctm64EqR> and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV18Ctm64EqR>
+[^bili-sep3-5]: 停定の钟, “娃聚时刻：北京温榆河露营外拍,” Bilibili, September 3, 2026, <https://www.bilibili.com/video/BV1WXto63E53/>; 陆非鹿_, “第一次变娃出勤喵,” Bilibili, September 4, 2026, <https://www.bilibili.com/video/BV1hPtB6wEuX/>; Maddie62, “胶衣主体做好啦,” Bilibili, September 5, 2026, <https://www.bilibili.com/video/BV1e3t26bEqy/>; 小凌星L, “这是猫啊！？？？【kigurumi】,” Bilibili, September 5, 2026, <https://www.bilibili.com/video/BV1p8bj6ZEM3/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1WXto63E53>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WXto63E53>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1hPtB6wEuX>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1hPtB6wEuX>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1e3t26bEqy>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1e3t26bEqy>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1p8bj6ZEM3>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1p8bj6ZEM3>

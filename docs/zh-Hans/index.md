@@ -26,12 +26,12 @@ hide:
   <p>Kigurumi 编年志不是临时资讯页，而是一座面向普通读者、创作者、活动参与者和研究整理者的公开资料馆。它记录的不只是“发生过什么”，也记录事件如何被见证、照片从何而来、服装与面具如何维护、人物在社群中承担何种角色，以及每一条资料能公开到什么程度。</p>
   <p>本站采用修志式结构：以时间线统摄全局，以志目分门别类，以人物传略补足经验，以地点条目呈现空间记忆，以来源目录说明证据链。读者可以从首页进入，也可以按年份、人物、地点或资料类型逐步查阅。</p>
 
-  <div class="archive-stats">
-    <div><strong>2010s</strong><span>早期活动与资料萌芽</span></div>
-    <div><strong>2020s</strong><span>线上整理与公开协作</span></div>
-    <div><strong>6</strong><span>预制资料目录</span></div>
-    <div><strong>长期</strong><span>滚动修订与校勘</span></div>
-  </div>
+<div class="archive-stats">
+<div><strong>2010s</strong><span>早期活动与资料萌芽</span></div>
+<div><strong>2020s</strong><span>线上整理与公开协作</span></div>
+<div><strong>6</strong><span>预制资料目录</span></div>
+<div><strong>长期</strong><span>滚动修订与校勘</span></div>
+</div>
 </section>
 
 <section class="archive-section" markdown>

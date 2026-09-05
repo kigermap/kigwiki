@@ -577,7 +577,7 @@ hooks:
   - scripts/site_hooks.py
 
 extra_css:
-  - assets/stylesheets/extra.css?v=20260613-join-qq-card
+  - assets/stylesheets/extra.css?v=20260827-editorial-archive
 
 extra_javascript:
   - assets/javascripts/archive-ui.js?v=20260613-mobile-nav
