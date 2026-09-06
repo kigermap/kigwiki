@@ -1,13 +1,13 @@
 ---
 title: "September 2026 Kigurumi Public-Source Digest"
-date: "2026-09-05"
+date: "2026-09-06"
 language: "en"
-status: "Rolling review through 2026-09-05 23:22 Asia/Shanghai; only changes from August"
+status: "Rolling review through 2026-09-06 23:07 Asia/Shanghai; only changes from August"
 ---
 
 # September 2026 Kigurumi Public-Source Digest
 
-> This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is **September 5, 2026 at 23:22 Asia/Shanghai**. An existing event or subject is recorded only when its state is new or more informative.
+> This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is **September 6, 2026 at 23:07 Asia/Shanghai**. An existing event or subject is recorded only when its state is new or more informative.
 
 ## Current state
 
@@ -20,6 +20,8 @@ status: "Rolling review through 2026-09-05 23:22 Asia/Shanghai; only changes fro
 | September 4, 20:04 | Chinese web / Bilibili | Newcomer experience, daily life | A personal “first kigurumi outing” record tagged `MAIMAI` and `kig`; no venue, complete workflow, or general newcomer conclusion is inferred | High for publication metadata; medium for self-report |
 | September 5, 18:41 | Chinese web / Bilibili | Workshop, craft | A DIY update saying the latex-suit body was complete and foot-cover work would continue; materials, joining method, and durability remain unstated | High for publication metadata; medium for build stage |
 | September 5, 20:28 | Chinese web / Bilibili | Maker attribution, styling | A public description attributes the displayed head to 星尘 kigurumi 工坊; retained as attribution, not a specification or quality review | High for attribution metadata; medium for work scope |
+| September 6, 19:39 | Chinese web / Bilibili | Process test, outdoor photography, safety | A short “full-body reflective-coating test”; the publisher says the “body temperature was a little high,” but provides no material, environmental, or temperature-measurement data | High for publication metadata; medium for test and self-report scope |
+| September 6, 22:54 | Nanjing / Bilibili | Urban photography, daily life | A kigurumi record shot on the 62nd floor and 45th-floor terrace of Zifeng Tower; the public description establishes the scenes, not the shoot date, permission, or attendance | High for publication metadata and place statement; medium for shoot scope |
 
 ### September 2: head printing and a layered-wear experience
 
@@ -45,29 +47,38 @@ Bilibili's public metadata dates “Kigurumi gathering moments: Beijing Wenyu Ri
 
 At 20:28 the same day, the description of “Is this a cat?! [kigurumi]” explicitly credits the displayed head to 星尘 kigurumi 工坊, while tags include `kigurumi` and `kig`.[^bili-sep3-5] This supports public attribution of the work, but the short video supplies no model, commission process, price, lead time, or performance data. It is not treated as a product review or full workshop profile.
 
+### September 6: reflective-coating test and a Nanjing high-rise shoot
+
+Bilibili's public metadata dates “[kigurumi] Full-body reflective-coating test” to September 6 at 19:39, names 奇数米饭 as publisher, gives a duration of 19 seconds, and lists tags including `clothing`, `outdoor photography`, `kigurumi`, and `dollmask`. The description says that the “body temperature was a little high” and uses icons to credit photography to `@泡芙芙`, the mask to `@DOLL UP`, and clothing to `@海苔喵呜`.[^bili-sep6] These fields establish a public outdoor test and its collaboration credits while preserving the publisher's heat-related observation. They do not give the coating material, reflectance, lighting, ambient temperature, wear duration, or a temperature reading, so the clip cannot support a material comparison or general safety conclusion.
+
+At 22:54, 出云夏希CHANNEL published “A doll at the summit of Nanjing,” a 2-minute 22-second video whose description explicitly locates the shoot on the 62nd floor and the 45th-floor terrace of Zifeng Tower. Tags include `Nanjing`, `Zifeng Tower`, `cosplay`, and `kigurumi`.[^bili-sep6] This adds a precisely located urban high-rise shoot to September and shows kigurumi imagery entering an observation level and terrace outside a formal event. Publication time does not establish the shoot date, and the public record does not state venue permission, route, wear duration, or attendance; it is therefore not presented as a formal gathering or venue-use guide.
+
 ## Duplicates and weak signals filtered out
 
 - DW14 lens-signing and mascot-interaction clips published on September 2 remain retrospective material from the same event already documented in August. They add no rule, program, or organizer closeout statistic and do not become duplicate events.
 - A September 3 video titled “First step in `变娃`: put on the skin” has public tags only for clothing, styling, and `zentai`, and is marked exclusive. The available evidence does not establish a complete kigurumi character context or dressing process, so it is not promoted to an entry.
 - Drinking jokes, a birthday record, a fictional wedding, an unexplained “new head,” and styling-only clips published September 4–5 establish personal uploads but not a safety rule, formal event, workshop profile, or industry trend, so they are not separate entries.
+- DW14 retrospectives, a runway fragment, and a 360-degree event tour published September 6 still point to the same August event already documented. They add no organizer rule or closeout statistic; question-style claims such as “1,000 dolls” are not treated as attendance data without organizer support.
+- Same-day birthday-gathering, styling-only, maker-showcase, and “what is inside the head after hours” title-only clips lack process parameters or verifiable conclusions, so they are not promoted to event, workshop, or safety entries.
 - Styling-only clips, single-image posts, and context-free camera interactions do not automatically enter the digest. A later release with process parameters, event facts, or verifiable discussion can extend its source chain.
 - International public-video and social searches produced no independently verifiable September record within this cutoff. Older or inaccessible results were not used as filler.
 
 ## Domain and section decisions
 
-| Domain | Assessment at September 5 | Treatment |
+| Domain | Assessment at September 6 | Treatment |
 | --- | --- | --- |
-| Chronicle | One Beijing camping-photoshoot record without a formal activity date or scale | Keep it as a monthly lead rather than a separate chronicle event |
-| Daily life / discussion | Layered wear, a personal retrospective, and a first outing | Record self-reports without a group conclusion |
-| Workshop / craft | 3D printing, latex body and foot-cover progress, and one head-maker attribution | Record process and attribution without undisclosed parameters |
+| Chronicle | Precisely located Beijing camping and Nanjing high-rise shoots, both without a formal activity date or scale | Keep them as monthly leads rather than separate chronicle events |
+| Daily life / discussion | Layered wear, a personal retrospective, a first outing, and urban photography | Record the scope of public self-reports without a group conclusion |
+| Workshop / craft | 3D printing, latex body and foot-cover progress, head-maker attribution, and a reflective-coating test | Record process, attribution, and test boundaries without undisclosed parameters |
 | Reference / education | Process clips, attribution, and a personal retrospective are not a complete tutorial, review, or community trend | Preserve that evidence boundary |
-| Etiquette / safety | An individual comfort signal has no measurement or protocol | Do not create a new safety standard |
+| Etiquette / safety | Layer tightness and reflective-coating heat are two individual signals without measurement or protocol | Do not create a new safety standard |
 | Academic | No directly relevant September publication verified | Omit |
 
-The seven additions cover making, maker attribution, individual wearing, a newcomer outing, a personal retrospective, and a small outdoor photoshoot. The monthly digest is sufficient; no separate workshop, safety, person, or event section is warranted. A formal event page, reproducible parameters, materials and license details, wearing research with a measurement method, or a verifiable community survey can later update the source chain without duplication.
+The nine additions cover making, maker attribution, individual wearing, a newcomer outing, a personal retrospective, a process test, and two types of precisely located outdoor photography. The monthly digest is sufficient; no separate workshop, safety, person, or event section is warranted. A formal event page, reproducible parameters, materials and license details, wearing research with a measurement method, or a verifiable community survey can later update the source chain without duplication.
 
 ## Source
 
 [^bili-sep2]: 一个人在江边, “一个 kigurumi 大头的打印过程～,” Bilibili, September 2, 2026, <https://www.bilibili.com/video/BV1wHtL6HELU/>; Naganohara_Mio_, “五层也太紧了，必须得缓一缓【kigurumi】,” Bilibili, September 2, 2026, <https://www.bilibili.com/video/BV1cstL6JEyb/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1wHtL6HELU>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1wHtL6HELU>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1cstL6JEyb>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1cstL6JEyb>
 [^bili-retrospective]: 停定の钟, “邪神手办是如何转变为精致娃娃的—变娃1年多历程盘点,” Bilibili, September 2, 2026, <https://www.bilibili.com/video/BV18Ctm64EqR/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV18Ctm64EqR> and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV18Ctm64EqR>
 [^bili-sep3-5]: 停定の钟, “娃聚时刻：北京温榆河露营外拍,” Bilibili, September 3, 2026, <https://www.bilibili.com/video/BV1WXto63E53/>; 陆非鹿_, “第一次变娃出勤喵,” Bilibili, September 4, 2026, <https://www.bilibili.com/video/BV1hPtB6wEuX/>; Maddie62, “胶衣主体做好啦,” Bilibili, September 5, 2026, <https://www.bilibili.com/video/BV1e3t26bEqy/>; 小凌星L, “这是猫啊！？？？【kigurumi】,” Bilibili, September 5, 2026, <https://www.bilibili.com/video/BV1p8bj6ZEM3/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1WXto63E53>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WXto63E53>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1hPtB6wEuX>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1hPtB6wEuX>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1e3t26bEqy>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1e3t26bEqy>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1p8bj6ZEM3>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1p8bj6ZEM3>
+[^bili-sep6]: 奇数米饭, “[kigurumi]全身反光涂层测试,” Bilibili, September 6, 2026, <https://www.bilibili.com/video/BV1Pcbs6DE8j/>; 出云夏希CHANNEL, “娃娃在南京之巅,” Bilibili, September 6, 2026, <https://www.bilibili.com/video/BV1WHbW67EKD/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1Pcbs6DE8j>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Pcbs6DE8j>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1WHbW67EKD>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WHbW67EKD>

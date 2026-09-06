@@ -1,13 +1,13 @@
 ---
 title: "2026 年 9 月 Kigurumi 公开资料摘要"
-date: "2026-09-05"
+date: "2026-09-06"
 language: "zh-CN"
-status: "滚动复核至 2026-09-05 23:22（Asia/Shanghai）；只记录相对 8 月的新状态"
+status: "滚动复核至 2026-09-06 23:07（Asia/Shanghai）；只记录相对 8 月的新状态"
 ---
 
 # 2026 年 9 月 Kigurumi 公开资料摘要
 
-> 本页是月度采集，不是 2026 年度编年定稿。检索截止时间为 **2026 年 9 月 5 日 23:22（Asia/Shanghai）**。同一活动或主题只记录新的、信息更完整的状态。
+> 本页是月度采集，不是 2026 年度编年定稿。检索截止时间为 **2026 年 9 月 6 日 23:07（Asia/Shanghai）**。同一活动或主题只记录新的、信息更完整的状态。
 
 ## 当前状态
 
@@ -20,6 +20,8 @@ status: "滚动复核至 2026-09-05 23:22（Asia/Shanghai）；只记录相对 8
 | 9 月 4 日 20:04 | 中国网络 / Bilibili | 新人经验、日常 | 一条“第一次变娃出勤”的个人记录，标签包含 `MAIMAI` 与 `kig`；不据此推断场馆、完整流程或普遍新人体验 | 高（发布元数据）；中（个人自述） |
 | 9 月 5 日 18:41 | 中国网络 / Bilibili | 工坊、手工 | 一段胶衣主体完成、继续制作脚套的 DIY 进度；不补写材料配方、连接工艺或耐用性 | 高（发布元数据）；中（制作阶段） |
 | 9 月 5 日 20:28 | 中国网络 / Bilibili | 工坊归属、造型展示 | 一条公开简介将展示头壳署名为“星尘 kigurumi 工坊”；只记录公开归属，不把展示视为规格或质量评测 | 高（署名元数据）；中（作品范围） |
+| 9 月 6 日 19:39 | 中国网络 / Bilibili | 工艺测试、外景、安全 | 一段“全身反光涂层测试”短片；发布者自述“机体温度有点高”，但没有材料、环境或测温数据 | 高（发布元数据）；中（测试与个人体感范围） |
+| 9 月 6 日 22:54 | 南京 / Bilibili | 城市外拍、日常 | 一段在紫峰大厦 62 层与 45 层露台拍摄的 kigurumi 记录；只确认公开视频说明的场景，不推断拍摄日期、许可或参与规模 | 高（发布元数据与地点说明）；中（拍摄范围） |
 
 ### 9 月 2 日：头壳打印过程与多层穿戴体验
 
@@ -45,29 +47,38 @@ Bilibili 公共元数据把《娃聚时刻：北京温榆河露营外拍》标�
 
 同日 20:28 发布的《这是猫啊！？？？【kigurumi】》在简介中明确写“头壳：星尘 kigurumi 工坊”，标签包含 `kigurumi` 与 `kig`。[^bili-sep3-5] 这可以建立公开视频中的作品归属，但短片不提供型号、委托流程、价格、交期或性能信息，本站不据此生成产品评测或工坊百科。
 
+### 9 月 6 日：反光涂层测试与南京高层外拍
+
+Bilibili 公共元数据把《[kigurumi]全身反光涂层测试》标为 9 月 6 日 19:39 发布，发布者为“奇数米饭”，时长 19 秒，标签包含 `服饰`、`外景`、`kigurumi` 与 `dollmask`。简介写“就是机体温度有点高”，并以图标列出摄影 `@泡芙芙`、面具 `@DOLL UP` 和服装 `@海苔喵呜`。[^bili-sep6] 这些字段足以确认一次公开的全身反光涂层外景测试和协作署名，也保留了发布者的热感反馈；但没有涂层材料、反射率、光照、气温、穿戴时长或测温结果，因此不能比较材料性能，也不能建立一般性的安全结论。
+
+同日 22:54，出云夏希CHANNEL 发布《娃娃在南京之巅》，时长 2 分 22 秒；简介明确写明在紫峰大厦 62 层与 45 层露台拍摄，标签包含 `南京`、`紫峰大厦`、`cosplay` 与 `kigurumi`。[^bili-sep6] 这为 9 月新增了一条地点明确的城市高层外拍记录，并显示正式活动之外的 kigurumi 影像也进入观景层与露台等商业公共场景。发布时间不能代替实际拍摄日期，公开视频也没有说明场地方许可、路线、穿戴时长或参与人数，故本页不把它写成正式聚会或场地使用指南。
+
 ## 已过滤的重复与弱信号
 
 - 9 月 2 日新增的 DW14 镜头签和看板娘互动短片仍属于 8 月已经整理的同一活动回顾，没有新增规则、节目单或主办方闭幕统计，故不建立重复事件条目。
 - 9 月 3 日一条“变娃第一步，穿上皮肤”的视频在公开字段中只有服饰、穿搭与 `zentai` 等标签，且标记为专享内容；当前证据不能确认完整 kigurumi 角色语境或穿戴流程，故不提升为独立条目。
 - 9 月 4—5 日出现的喝水玩笑、生日记录、虚构婚礼、无说明“新头”与纯站姿短片，只能证明个人内容发布，不能支持安全规范、正式活动、工坊档案或行业趋势，故不单列。
+- 9 月 6 日新增的 DW14 回顾、T 台片段和 360 度逛展视频仍指向 8 月已经整理的同一活动，没有新增主办方规则或闭幕统计；其中标题里的“1000 只”等问句没有主办方口径支持，不作为人数数据。
+- 同日的生日聚会、纯造型展示、工坊成品短片和“头壳内部会怎样”等标题型内容缺少过程参数或可核验结论，不单独提升为活动、工坊或安全条目。
 - 只有造型展示、单图或无上下文镜头互动的短片不自动进入月度页；后续出现制作参数、活动事实或可核验讨论时，再沿原来源链更新。
 - 国际公开视频与社交检索未取得可在本截止时间内独立核验的 9 月新增记录，因此本次不以旧内容或不可访问结果填充。
 
 ## 领域覆盖与板块判断
 
-| 领域 | 9 月 5 日复核判断 | 处理 |
+| 领域 | 9 月 6 日复核判断 | 处理 |
 | --- | --- | --- |
-| 编年史 | 一段北京露营外拍主题记录，但没有正式活动日期或规模 | 作为月度线索，不建立独立编年事件 |
-| 日常 / 杂谈 | 多层穿戴、个人历程与首次出勤三类自述 | 收录自述范围，不推导群体结论 |
-| 工坊 / 手工 | 3D 打印、胶衣与脚套制作进度，以及一条头壳工坊署名 | 收录过程与归属，不补写未公开参数 |
+| 编年史 | 北京露营与南京高层两条地点明确的外拍记录，但都没有正式活动日期或规模 | 作为月度线索，不建立独立编年事件 |
+| 日常 / 杂谈 | 多层穿戴、个人历程、首次出勤与城市外拍 | 收录公开自述范围，不推导群体结论 |
+| 工坊 / 手工 | 3D 打印、胶衣与脚套进度、头壳工坊署名及反光涂层测试 | 收录过程、归属与测试边界，不补写未公开参数 |
 | 百科 / 科普 | 过程展示、工坊署名和个人复盘都不等于完整教程、评测或群体趋势 | 记录证据边界 |
-| 礼仪 / 安全 | 只有个体舒适度提醒，没有测量或规范 | 不创建新安全标准 |
+| 礼仪 / 安全 | 有多层紧绷和反光涂层热感两条个体反馈，但没有测量或规范 | 不创建新安全标准 |
 | 学术 | 未发现当月新发表的直接相关研究 | 不收录 |
 
-七条增量覆盖制作过程、工坊归属、个人穿戴、新人出勤、个人复盘与小型外拍。现有月度摘要足以承载，不创建独立工坊、安全、人物或活动板块。后续若出现正式活动页、可复现参数、材料与授权说明、具有测量方法的穿戴研究或可核验的社群调查，将更新原来源链而不是复制条目。
+九条增量覆盖制作过程、工坊归属、个人穿戴、新人出勤、个人复盘、工艺测试与两类地点明确的外拍。现有月度摘要足以承载，不创建独立工坊、安全、人物或活动板块。后续若出现正式活动页、可复现参数、材料与授权说明、具有测量方法的穿戴研究或可核验的社群调查，将更新原来源链而不是复制条目。
 
 ## 来源
 
 [^bili-sep2]: 一个人在江边, “一个 kigurumi 大头的打印过程～,” Bilibili, 2026-09-02, <https://www.bilibili.com/video/BV1wHtL6HELU/>; Naganohara_Mio_, “五层也太紧了，必须得缓一缓【kigurumi】,” Bilibili, 2026-09-02, <https://www.bilibili.com/video/BV1cstL6JEyb/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1wHtL6HELU>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1wHtL6HELU>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1cstL6JEyb>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1cstL6JEyb>
 [^bili-retrospective]: 停定の钟, “邪神手办是如何转变为精致娃娃的—变娃1年多历程盘点,” Bilibili, 2026-09-02, <https://www.bilibili.com/video/BV18Ctm64EqR/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV18Ctm64EqR> and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV18Ctm64EqR>
 [^bili-sep3-5]: 停定の钟, “娃聚时刻：北京温榆河露营外拍,” Bilibili, 2026-09-03, <https://www.bilibili.com/video/BV1WXto63E53/>; 陆非鹿_, “第一次变娃出勤喵,” Bilibili, 2026-09-04, <https://www.bilibili.com/video/BV1hPtB6wEuX/>; Maddie62, “胶衣主体做好啦,” Bilibili, 2026-09-05, <https://www.bilibili.com/video/BV1e3t26bEqy/>; 小凌星L, “这是猫啊！？？？【kigurumi】,” Bilibili, 2026-09-05, <https://www.bilibili.com/video/BV1p8bj6ZEM3/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1WXto63E53>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WXto63E53>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1hPtB6wEuX>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1hPtB6wEuX>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1e3t26bEqy>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1e3t26bEqy>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1p8bj6ZEM3>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1p8bj6ZEM3>
+[^bili-sep6]: 奇数米饭, “[kigurumi]全身反光涂层测试,” Bilibili, 2026-09-06, <https://www.bilibili.com/video/BV1Pcbs6DE8j/>; 出云夏希CHANNEL, “娃娃在南京之巅,” Bilibili, 2026-09-06, <https://www.bilibili.com/video/BV1WHbW67EKD/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1Pcbs6DE8j>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Pcbs6DE8j>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1WHbW67EKD>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WHbW67EKD>
