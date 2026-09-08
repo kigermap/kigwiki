@@ -1,6 +1,6 @@
 ---
 title: "Kigurumi 近期収集"
-date: "2026-09-06"
+date: "2026-09-08"
 language: "ja"
 ---
 

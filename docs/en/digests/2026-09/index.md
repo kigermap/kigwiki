@@ -1,13 +1,13 @@
 ---
 title: "September 2026 Kigurumi Public-Source Digest"
-date: "2026-09-06"
+date: "2026-09-08"
 language: "en"
-status: "Rolling review through 2026-09-06 23:07 Asia/Shanghai; only changes from August"
+status: "Rolling review through 2026-09-08 08:45 Asia/Shanghai; only changes from August"
 ---
 
 # September 2026 Kigurumi Public-Source Digest
 
-> This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is **September 6, 2026 at 23:07 Asia/Shanghai**. An existing event or subject is recorded only when its state is new or more informative.
+> This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is **September 8, 2026 at 08:45 Asia/Shanghai**. An existing event or subject is recorded only when its state is new or more informative.
 
 ## Current state
 
@@ -22,6 +22,10 @@ status: "Rolling review through 2026-09-06 23:07 Asia/Shanghai; only changes fro
 | September 5, 20:28 | Chinese web / Bilibili | Maker attribution, styling | A public description attributes the displayed head to 星尘 kigurumi 工坊; retained as attribution, not a specification or quality review | High for attribution metadata; medium for work scope |
 | September 6, 19:39 | Chinese web / Bilibili | Process test, outdoor photography, safety | A short “full-body reflective-coating test”; the publisher says the “body temperature was a little high,” but provides no material, environmental, or temperature-measurement data | High for publication metadata; medium for test and self-report scope |
 | September 6, 22:54 | Nanjing / Bilibili | Urban photography, daily life | A kigurumi record shot on the 62nd floor and 45th-floor terrace of Zifeng Tower; the public description establishes the scenes, not the shoot date, permission, or attendance | High for publication metadata and place statement; medium for shoot scope |
+| September 7, 02:09 / 22:56 | Chinese web / Bilibili | Daily life, gaming, visibility safety | Two publishers describe visibility difficulty while playing *Taiko no Tatsujin*, `Overwatch`, and *Zenless Zone Zero* in a head; retained as individual experience, not a common result for every head or game | High for publication metadata; medium for self-report |
+| September 7, 11:48 | Shenzhen / Bilibili | Urban photography, collaboration | The description explicitly says “filmed September 6 at Shenzhen Ciyuan Town” and credits another character; only the stated shoot date, place, and collaboration are retained | High for publication metadata and place self-report; medium for shoot scope |
+| September 7, 13:33 | DW14 retrospective / Bilibili | Costume maintenance, safety | A personal retrospective says a battery box inside the skirt was exposed and later broke during night dancing; recorded as one component-failure report, not an event incident or general durability conclusion | High for publication metadata; medium for personal failure report |
+| September 7, 23:53 | Chinese web / Bilibili | Workshop, craft, newcomer experience | A “newcomer's first hard-wig making process” showcase; title and tags establish the subject but not material, attachment method, build time, or durability | High for publication metadata; medium for process scope |
 
 ### September 2: head printing and a layered-wear experience
 
@@ -53,6 +57,16 @@ Bilibili's public metadata dates “[kigurumi] Full-body reflective-coating test
 
 At 22:54, 出云夏希CHANNEL published “A doll at the summit of Nanjing,” a 2-minute 22-second video whose description explicitly locates the shoot on the 62nd floor and the 45th-floor terrace of Zifeng Tower. Tags include `Nanjing`, `Zifeng Tower`, `cosplay`, and `kigurumi`.[^bili-sep6] This adds a precisely located urban high-rise shoot to September and shows kigurumi imagery entering an observation level and terrace outside a formal event. Publication time does not establish the shoot date, and the public record does not state venue permission, route, wear duration, or attendance; it is therefore not presented as a formal gathering or venue-use guide.
 
+### September 7: head visibility, a Shenzhen shoot, component failure, and a hard-wig process
+
+At 02:09, Hidden_is_Fun published a 33-second *Taiko no Tatsujin* record whose description says visibility in the head was effectively absent; tags include `kigurumi`, `rhythm game`, and `Taiko no Tatsujin`. At 22:56, 萌物の心 published the 4-minute 40-second “Trying to play Zenless Zone Zero as a doll.” Its description says limited vision had made `Overwatch` PVP impractical and also made red and yellow attack cues in *Zenless Zone Zero* difficult to read, requiring reliance on experience.[^bili-sep7] These independent self-reports support an individual-experience lead about head visibility affecting screen-information reading. Neither provides visor dimensions, measured field of view, display settings, or a control test, so they do not establish one result for all heads, players, or game types.
+
+A 29-second video published at 11:48 explicitly says in its description that it was “filmed September 6 at Shenzhen Ciyuan Town” and credits the Tian Gong Xin character present; tags include `kigurumi` and `Cosplay`.[^bili-sep7] Because it gives an actual shoot date and named place, the record is more complete than a photoshoot identified only by publication time. It still does not establish venue permission, attendance, route, or organizer, so it remains an urban-photography and collaboration record rather than a formal event.
+
+At 13:33, Neo雪待 published “Latex lamb taking a selfie in the arcade area.” The description says a battery box inside the skirt was already exposed and later broke while dancing at the night program; tags include `DW14`, `latex suit`, `kigurumi`, and `MAIMAI`.[^bili-sep7] This is a specific personal report of a wearable-component failure and preserves a maintenance issue beyond the event imagery. It does not identify the battery's purpose, mounting method, load point, repair, or an organizer report, so it is not presented as a DW14 incident statistic or general product defect.
+
+At 23:53, 是點點__ published the 1-minute 13-second “A kigurumi newcomer's first hard-wig making process,” tagged `handmade`, `making`, `newcomer`, `wig`, and `kigurumi`.[^bili-sep7] The title and tags establish a newcomer-oriented process showcase. The description is only a hyphen, so substrate, adhesive, sections, attachment, build time, and durability remain unknown; the item stays a workshop / craft lead rather than becoming a tutorial.
+
 ## Duplicates and weak signals filtered out
 
 - DW14 lens-signing and mascot-interaction clips published on September 2 remain retrospective material from the same event already documented in August. They add no rule, program, or organizer closeout statistic and do not become duplicate events.
@@ -60,21 +74,23 @@ At 22:54, 出云夏希CHANNEL published “A doll at the summit of Nanjing,” a
 - Drinking jokes, a birthday record, a fictional wedding, an unexplained “new head,” and styling-only clips published September 4–5 establish personal uploads but not a safety rule, formal event, workshop profile, or industry trend, so they are not separate entries.
 - DW14 retrospectives, a runway fragment, and a 360-degree event tour published September 6 still point to the same August event already documented. They add no organizer rule or closeout statistic; question-style claims such as “1,000 dolls” are not treated as attendance data without organizer support.
 - Same-day birthday-gathering, styling-only, maker-showcase, and “what is inside the head after hours” title-only clips lack process parameters or verifiable conclusions, so they are not promoted to event, workshop, or safety entries.
+- September 7–8 brought more DW14 first-attendee reactions, games, rhythm-game footage, and night-program clips, plus follow-up views from the Zifeng Tower shoot. Except for the battery-box maintenance report, they add no organizer statistic, rule, or new scene and do not become duplicate events.
+- Public fields for an “old head transformed into a new head,” a head explainer, a blinking display, and ordinary styling videos provide no material, structure, control method, or test data. A Changsha night-shoot record establishes only a city and collaboration credits, so none supports a workshop profile, technical conclusion, or formal event.
 - Styling-only clips, single-image posts, and context-free camera interactions do not automatically enter the digest. A later release with process parameters, event facts, or verifiable discussion can extend its source chain.
-- International public-video and social searches produced no independently verifiable September record within this cutoff. Older or inaccessible results were not used as filler.
+- Niconico returned no directly relevant addition in the cutoff window. YouTube results were limited to daily styling, a duplicate DW14 lens-signing clip, and scheduled streams that had not begun. Bluesky and Reddit were unreachable in this run, so old material, appointment pages, and inaccessible results were not used to fill an international entry.
 
 ## Domain and section decisions
 
-| Domain | Assessment at September 6 | Treatment |
+| Domain | Assessment at September 8 | Treatment |
 | --- | --- | --- |
-| Chronicle | Precisely located Beijing camping and Nanjing high-rise shoots, both without a formal activity date or scale | Keep them as monthly leads rather than separate chronicle events |
-| Daily life / discussion | Layered wear, a personal retrospective, a first outing, and urban photography | Record the scope of public self-reports without a group conclusion |
-| Workshop / craft | 3D printing, latex body and foot-cover progress, head-maker attribution, and a reflective-coating test | Record process, attribution, and test boundaries without undisclosed parameters |
-| Reference / education | Process clips, attribution, and a personal retrospective are not a complete tutorial, review, or community trend | Preserve that evidence boundary |
-| Etiquette / safety | Layer tightness and reflective-coating heat are two individual signals without measurement or protocol | Do not create a new safety standard |
+| Chronicle | Precisely located Beijing, Nanjing, and Shenzhen shoots; only the Shenzhen record states a shoot date, and none establishes formal-event scale | Keep them as monthly leads rather than separate chronicle events |
+| Daily life / discussion | Layered wear, a personal retrospective, a first outing, urban photography, and gaming visibility | Record the scope of public self-reports without a group conclusion |
+| Workshop / craft | 3D printing, latex body and foot-cover progress, head-maker attribution, reflective-coating testing, a hard-wig process, and a battery-box failure | Record process, attribution, test, and failure boundaries without undisclosed parameters |
+| Reference / education | Process clips, attribution, a personal retrospective, and gaming experience are not a complete tutorial, review, or community trend | Preserve that evidence boundary |
+| Etiquette / safety | Layer tightness, reflective-coating heat, battery-box breakage, and head visibility are individual signals without measurement or protocol | Do not create a new safety standard |
 | Academic | No directly relevant September publication verified | Omit |
 
-The nine additions cover making, maker attribution, individual wearing, a newcomer outing, a personal retrospective, a process test, and two types of precisely located outdoor photography. The monthly digest is sufficient; no separate workshop, safety, person, or event section is warranted. A formal event page, reproducible parameters, materials and license details, wearing research with a measurement method, or a verifiable community survey can later update the source chain without duplication.
+The thirteen deduplicated records cover making, maker attribution, individual wearing, a newcomer outing, a personal retrospective, process testing, three-city photography, component maintenance, and gaming visibility. The monthly digest is sufficient; no separate workshop, safety, person, or event section is warranted. A formal event page, reproducible parameters, materials and license details, wearing research with a measurement method, or a verifiable community survey can later update the source chain without duplication.
 
 ## Source
 
@@ -82,3 +98,4 @@ The nine additions cover making, maker attribution, individual wearing, a newcom
 [^bili-retrospective]: 停定の钟, “邪神手办是如何转变为精致娃娃的—变娃1年多历程盘点,” Bilibili, September 2, 2026, <https://www.bilibili.com/video/BV18Ctm64EqR/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV18Ctm64EqR> and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV18Ctm64EqR>
 [^bili-sep3-5]: 停定の钟, “娃聚时刻：北京温榆河露营外拍,” Bilibili, September 3, 2026, <https://www.bilibili.com/video/BV1WXto63E53/>; 陆非鹿_, “第一次变娃出勤喵,” Bilibili, September 4, 2026, <https://www.bilibili.com/video/BV1hPtB6wEuX/>; Maddie62, “胶衣主体做好啦,” Bilibili, September 5, 2026, <https://www.bilibili.com/video/BV1e3t26bEqy/>; 小凌星L, “这是猫啊！？？？【kigurumi】,” Bilibili, September 5, 2026, <https://www.bilibili.com/video/BV1p8bj6ZEM3/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1WXto63E53>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WXto63E53>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1hPtB6wEuX>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1hPtB6wEuX>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1e3t26bEqy>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1e3t26bEqy>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1p8bj6ZEM3>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1p8bj6ZEM3>
 [^bili-sep6]: 奇数米饭, “[kigurumi]全身反光涂层测试,” Bilibili, September 6, 2026, <https://www.bilibili.com/video/BV1Pcbs6DE8j/>; 出云夏希CHANNEL, “娃娃在南京之巅,” Bilibili, September 6, 2026, <https://www.bilibili.com/video/BV1WHbW67EKD/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1Pcbs6DE8j>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Pcbs6DE8j>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1WHbW67EKD>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WHbW67EKD>
+[^bili-sep7]: Hidden_is_Fun, “能看到不？能看到啊？哪儿看的？,” Bilibili, September 7, 2026, <https://www.bilibili.com/video/BV1Nnbx6dE7r/>; 凉风青叶级看板舰, “[kigurumi]大阿喵喵玩弄小mea,” Bilibili, September 7, 2026, <https://www.bilibili.com/video/BV11Zbc6WEGW/>; Neo雪待, “在电玩区自拍的乳胶小羊,” Bilibili, September 7, 2026, <https://www.bilibili.com/video/BV169bP69Ewq/>; 萌物の心, “尝试变娃打绝区零,” Bilibili, September 7, 2026, <https://www.bilibili.com/video/BV1B6bT6FEZq/>; 是點點__, “kigurumi新人第一次做硬质假发的一些过程,” Bilibili, September 7, 2026, <https://www.bilibili.com/video/BV1iybT64EfF/>. Public metadata and tags: <https://api.bilibili.com/x/web-interface/view?bvid=BV1Nnbx6dE7r>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Nnbx6dE7r>, <https://api.bilibili.com/x/web-interface/view?bvid=BV11Zbc6WEGW>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV11Zbc6WEGW>, <https://api.bilibili.com/x/web-interface/view?bvid=BV169bP69Ewq>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV169bP69Ewq>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1B6bT6FEZq>, <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1B6bT6FEZq>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1iybT64EfF>, and <https://api.bilibili.com/x/tag/archive/tags?bvid=BV1iybT64EfF>
