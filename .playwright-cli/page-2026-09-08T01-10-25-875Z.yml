@@ -1,0 +1,734 @@
+- generic [ref=f1e1]:
+  - link "Skip to content" [ref=f1e2] [cursor=pointer]:
+    - /url: "#september-2026-kigurumi-public-source-digest"
+  - banner [ref=f1e3]:
+    - navigation "Header" [ref=f1e4]:
+      - link "Kigurumi Chronicle" [ref=f1e5] [cursor=pointer]:
+        - /url: ../../
+        - img "logo" [ref=f1e6]
+      - generic [ref=f1e8]:
+        - generic [ref=f1e9]: Kigurumi Chronicle
+        - generic:
+          - generic "September 2026 Kigurumi Public-Source Digest"
+      - generic [ref=f1e11]:
+        - radio "Switch to dark mode"
+        - generic "Switch to dark mode" [ref=f1e12] [cursor=pointer]
+        - radio "Switch to light mode"
+      - generic [ref=f1e16]:
+        - button "Select language" [active] [ref=f1e17] [cursor=pointer]
+        - list [ref=f1e539]:
+          - listitem [ref=f1e20]:
+            - link "简体中文" [ref=f1e21] [cursor=pointer]:
+              - /url: ../../../digests/2026-09/
+          - listitem [ref=f1e22]:
+            - link "繁體中文" [ref=f1e23] [cursor=pointer]:
+              - /url: ../../../zh-Hant/digests/2026-09/
+          - listitem [ref=f1e24]:
+            - link "English" [ref=f1e25] [cursor=pointer]:
+              - /url: ./
+          - listitem [ref=f1e26]:
+            - link "日本語" [ref=f1e27] [cursor=pointer]:
+              - /url: ../../../ja/digests/2026-09/
+          - listitem [ref=f1e28]:
+            - link "Русский" [ref=f1e29] [cursor=pointer]:
+              - /url: ../../../ru/digests/2026-09/
+      - dialog [ref=f1e30]:
+        - search [ref=f1e31]:
+          - generic [ref=f1e32]:
+            - textbox "Search" [ref=f1e33]
+            - navigation "Search":
+              - link "Share":
+                - /url: http://127.0.0.1:8000/en/digests/2026-09/?q=
+              - button "Clear"
+          - generic [ref=f1e35]: Type to start searching
+  - generic [ref=f1e38]:
+    - main [ref=f1e39]:
+      - generic [ref=f1e40]:
+        - navigation "Navigation" [ref=f1e44]:
+          - generic [ref=f1e45]: Kigurumi Chronicle
+          - list [ref=f1e46]:
+            - listitem [ref=f1e47]:
+              - link "Home" [ref=f1e48] [cursor=pointer]:
+                - /url: ../../
+            - listitem [ref=f1e50]:
+              - link "About" [ref=f1e51] [cursor=pointer]:
+                - /url: ../../about/
+            - listitem [ref=f1e53]:
+              - link "Join" [ref=f1e54] [cursor=pointer]:
+                - /url: ../../join/
+            - listitem [ref=f1e56]:
+              - link "Contribute" [ref=f1e57] [cursor=pointer]:
+                - /url: ../../support/
+            - listitem [ref=f1e59]:
+              - link "Chronicle" [ref=f1e61] [cursor=pointer]:
+                - /url: ../../chronicle/
+              - navigation [ref=f1e63]:
+                - list [ref=f1e64]:
+                  - listitem [ref=f1e65]:
+                    - link "Years" [ref=f1e67] [cursor=pointer]:
+                      - /url: ../../years/
+                  - listitem [ref=f1e71]:
+                    - link "Recent Collection" [ref=f1e73] [cursor=pointer]:
+                      - /url: ../
+                    - navigation [ref=f1e77]:
+                      - list [ref=f1e78]:
+                        - listitem [ref=f1e79]:
+                          - link "July 2026 Public-Source Digest" [ref=f1e80] [cursor=pointer]:
+                            - /url: ../2026-07/
+                        - listitem [ref=f1e83]:
+                          - link "August 2026 Public-Source Digest" [ref=f1e84] [cursor=pointer]:
+                            - /url: ../2026-08/
+                        - listitem [ref=f1e87]:
+                          - link "September 2026 Public-Source Digest" [ref=f1e88] [cursor=pointer]:
+                            - /url: ./
+            - listitem [ref=f1e91]:
+              - link "Gazetteer" [ref=f1e93] [cursor=pointer]:
+                - /url: ../../places/
+              - navigation [ref=f1e95]:
+                - list [ref=f1e96]:
+                  - listitem [ref=f1e97]:
+                    - link "People" [ref=f1e98] [cursor=pointer]:
+                      - /url: ../../people/
+                  - listitem [ref=f1e100]:
+                    - link "Sources" [ref=f1e102] [cursor=pointer]:
+                      - /url: ../../sources/
+            - listitem [ref=f1e106]:
+              - link "Citation" [ref=f1e107] [cursor=pointer]:
+                - /url: ../../citation/
+            - listitem [ref=f1e109]:
+              - link "FAQ" [ref=f1e110] [cursor=pointer]:
+                - /url: ../../faq/
+            - listitem [ref=f1e112]:
+              - link "License" [ref=f1e113] [cursor=pointer]:
+                - /url: ../../license/
+        - navigation "Table of contents" [ref=f1e118]:
+          - list [ref=f1e120]:
+            - listitem [ref=f1e121]:
+              - link "Current state" [ref=f1e122] [cursor=pointer]:
+                - /url: "#current-state"
+              - navigation "Current state" [ref=f1e124]:
+                - list [ref=f1e125]:
+                  - listitem [ref=f1e126]:
+                    - 'link "September 2: head printing and a layered-wear experience" [ref=f1e127] [cursor=pointer]':
+                      - /url: "#september-2-head-printing-and-a-layered-wear-experience"
+                  - listitem [ref=f1e129]:
+                    - 'link "September 2, 22:50: a personal retrospective on more than a year of doll transformation" [ref=f1e130] [cursor=pointer]':
+                      - /url: "#september-2-2250-a-personal-retrospective-on-more-than-a-year-of-doll-transformation"
+                  - listitem [ref=f1e132]:
+                    - 'link "September 3–4: a Beijing camping photoshoot and first-outing record" [ref=f1e133] [cursor=pointer]':
+                      - /url: "#september-34-a-beijing-camping-photoshoot-and-first-outing-record"
+                  - listitem [ref=f1e135]:
+                    - 'link "September 5: latex-suit progress and a head-maker attribution" [ref=f1e136] [cursor=pointer]':
+                      - /url: "#september-5-latex-suit-progress-and-a-head-maker-attribution"
+                  - listitem [ref=f1e138]:
+                    - 'link "September 6: reflective-coating test and a Nanjing high-rise shoot" [ref=f1e139] [cursor=pointer]':
+                      - /url: "#september-6-reflective-coating-test-and-a-nanjing-high-rise-shoot"
+                  - listitem [ref=f1e141]:
+                    - 'link "September 7: head visibility, a Shenzhen shoot, component failure, and a hard-wig process" [ref=f1e142] [cursor=pointer]':
+                      - /url: "#september-7-head-visibility-a-shenzhen-shoot-component-failure-and-a-hard-wig-process"
+            - listitem [ref=f1e144]:
+              - link "Duplicates and weak signals filtered out" [ref=f1e145] [cursor=pointer]:
+                - /url: "#duplicates-and-weak-signals-filtered-out"
+            - listitem [ref=f1e147]:
+              - link "Domain and section decisions" [ref=f1e148] [cursor=pointer]:
+                - /url: "#domain-and-section-decisions"
+            - listitem [ref=f1e150]:
+              - link "Source" [ref=f1e151] [cursor=pointer]:
+                - /url: "#source"
+        - generic [ref=f1e153]:
+          - navigation "Navigation" [ref=f1e154]:
+            - list [ref=f1e155]:
+              - listitem [ref=f1e156]:
+                - link "Home" [ref=f1e157] [cursor=pointer]:
+                  - /url: ../../
+              - listitem [ref=f1e159]:
+                - link "Chronicle" [ref=f1e160] [cursor=pointer]:
+                  - /url: ../../chronicle/
+              - listitem [ref=f1e162]:
+                - link "Recent Collection" [ref=f1e163] [cursor=pointer]:
+                  - /url: ../
+          - article [ref=f1e165]:
+            - heading [level=1] [ref=f1e166]:
+              - text: September 2026 Kigurumi Public-Source Digest
+              - link "¶" [ref=f1e167] [cursor=pointer]:
+                - /url: "#september-2026-kigurumi-public-source-digest"
+            - blockquote [ref=f1e168]:
+              - paragraph [ref=f1e169]:
+                - text: This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is
+                - strong [ref=f1e170]: September 8, 2026 at 08:45 Asia/Shanghai
+                - text: . An existing event or subject is recorded only when its state is new or more informative.
+            - heading [level=2] [ref=f1e171]:
+              - text: Current state
+              - link "¶" [ref=f1e172] [cursor=pointer]:
+                - /url: "#current-state"
+            - table [ref=f1e175]:
+              - rowgroup [ref=f1e176]:
+                - row [ref=f1e177]:
+                  - columnheader "Published" [ref=f1e178]
+                  - columnheader "Place" [ref=f1e179]
+                  - columnheader "Domain" [ref=f1e180]
+                  - columnheader "Deduplicated record" [ref=f1e181]
+                  - columnheader "Confidence" [ref=f1e182]
+              - rowgroup [ref=f1e183]:
+                - row [ref=f1e184]:
+                  - cell "September 2, 00:44" [ref=f1e185]
+                  - cell "Chinese web / Bilibili" [ref=f1e186]
+                  - cell "Workshop, craft, education" [ref=f1e187]
+                  - cell "A 3D-printing process showcase for a kigurumi head; the description identifies a Creality K1 Max but does not establish materials, model provenance, or the complete process" [ref=f1e188]
+                  - cell "High for publication metadata; medium for process scope" [ref=f1e189]
+                - row [ref=f1e190]:
+                  - cell "September 2, 00:55" [ref=f1e191]
+                  - cell "Chinese web / Bilibili" [ref=f1e192]
+                  - cell "Daily life, discussion, safety" [ref=f1e193]
+                  - cell "A personal account that five layers felt too tight and required a pause; retained as an individual comfort signal, not a general health claim" [ref=f1e194]
+                  - cell "High for publication metadata; medium for self-report" [ref=f1e195]
+                - row [ref=f1e196]:
+                  - cell "September 2, 22:50" [ref=f1e197]
+                  - cell "Chinese web / Bilibili" [ref=f1e198]
+                  - cell "Daily life, discussion, reference" [ref=f1e199]
+                  - cell [ref=f1e200]:
+                    - text: A personal retrospective on more than a year of
+                    - code [ref=f1e201]: 变娃
+                    - text: ; the title and tags establish the retrospective theme but not particular masks, makers, chronology, or a community trend
+                  - cell "High for publication metadata; medium for retrospective scope" [ref=f1e202]
+                - row [ref=f1e203]:
+                  - cell "September 3, 19:00" [ref=f1e204]
+                  - cell "Beijing / Bilibili" [ref=f1e205]
+                  - cell "Small gathering, outdoor photography, daily life" [ref=f1e206]
+                  - cell "A video titled as a kigurumi camping photoshoot at Beijing's Wenyu River; the public record establishes the place and theme, not the activity date, attendance, or organizer" [ref=f1e207]
+                  - cell "High for publication metadata; medium for activity scope" [ref=f1e208]
+                - row [ref=f1e209]:
+                  - cell "September 4, 20:04" [ref=f1e210]
+                  - cell "Chinese web / Bilibili" [ref=f1e211]
+                  - cell "Newcomer experience, daily life" [ref=f1e212]
+                  - cell [ref=f1e213]:
+                    - text: A personal “first kigurumi outing” record tagged
+                    - code [ref=f1e214]: MAIMAI
+                    - text: and
+                    - code [ref=f1e215]: kig
+                    - text: ; no venue, complete workflow, or general newcomer conclusion is inferred
+                  - cell "High for publication metadata; medium for self-report" [ref=f1e216]
+                - row [ref=f1e217]:
+                  - cell "September 5, 18:41" [ref=f1e218]
+                  - cell "Chinese web / Bilibili" [ref=f1e219]
+                  - cell "Workshop, craft" [ref=f1e220]
+                  - cell "A DIY update saying the latex-suit body was complete and foot-cover work would continue; materials, joining method, and durability remain unstated" [ref=f1e221]
+                  - cell "High for publication metadata; medium for build stage" [ref=f1e222]
+                - row [ref=f1e223]:
+                  - cell "September 5, 20:28" [ref=f1e224]
+                  - cell "Chinese web / Bilibili" [ref=f1e225]
+                  - cell "Maker attribution, styling" [ref=f1e226]
+                  - cell "A public description attributes the displayed head to 星尘 kigurumi 工坊; retained as attribution, not a specification or quality review" [ref=f1e227]
+                  - cell "High for attribution metadata; medium for work scope" [ref=f1e228]
+                - row [ref=f1e229]:
+                  - cell "September 6, 19:39" [ref=f1e230]
+                  - cell "Chinese web / Bilibili" [ref=f1e231]
+                  - cell "Process test, outdoor photography, safety" [ref=f1e232]
+                  - cell "A short “full-body reflective-coating test”; the publisher says the “body temperature was a little high,” but provides no material, environmental, or temperature-measurement data" [ref=f1e233]
+                  - cell "High for publication metadata; medium for test and self-report scope" [ref=f1e234]
+                - row [ref=f1e235]:
+                  - cell "September 6, 22:54" [ref=f1e236]
+                  - cell "Nanjing / Bilibili" [ref=f1e237]
+                  - cell "Urban photography, daily life" [ref=f1e238]
+                  - cell "A kigurumi record shot on the 62nd floor and 45th-floor terrace of Zifeng Tower; the public description establishes the scenes, not the shoot date, permission, or attendance" [ref=f1e239]
+                  - cell "High for publication metadata and place statement; medium for shoot scope" [ref=f1e240]
+                - row [ref=f1e241]:
+                  - cell "September 7, 02:09 / 22:56" [ref=f1e242]
+                  - cell "Chinese web / Bilibili" [ref=f1e243]
+                  - cell "Daily life, gaming, visibility safety" [ref=f1e244]
+                  - cell [ref=f1e245]:
+                    - text: Two publishers describe visibility difficulty while playing
+                    - emphasis [ref=f1e246]: Taiko no Tatsujin
+                    - text: ","
+                    - code [ref=f1e247]: Overwatch
+                    - text: ", and"
+                    - emphasis [ref=f1e248]: Zenless Zone Zero
+                    - text: in a head; retained as individual experience, not a common result for every head or game
+                  - cell "High for publication metadata; medium for self-report" [ref=f1e249]
+                - row [ref=f1e250]:
+                  - cell "September 7, 11:48" [ref=f1e251]
+                  - cell "Shenzhen / Bilibili" [ref=f1e252]
+                  - cell "Urban photography, collaboration" [ref=f1e253]
+                  - cell "The description explicitly says “filmed September 6 at Shenzhen Ciyuan Town” and credits another character; only the stated shoot date, place, and collaboration are retained" [ref=f1e254]
+                  - cell "High for publication metadata and place self-report; medium for shoot scope" [ref=f1e255]
+                - row [ref=f1e256]:
+                  - cell "September 7, 13:33" [ref=f1e257]
+                  - cell "DW14 retrospective / Bilibili" [ref=f1e258]
+                  - cell "Costume maintenance, safety" [ref=f1e259]
+                  - cell "A personal retrospective says a battery box inside the skirt was exposed and later broke during night dancing; recorded as one component-failure report, not an event incident or general durability conclusion" [ref=f1e260]
+                  - cell "High for publication metadata; medium for personal failure report" [ref=f1e261]
+                - row [ref=f1e262]:
+                  - cell "September 7, 23:53" [ref=f1e263]
+                  - cell "Chinese web / Bilibili" [ref=f1e264]
+                  - cell "Workshop, craft, newcomer experience" [ref=f1e265]
+                  - cell "A “newcomer's first hard-wig making process” showcase; title and tags establish the subject but not material, attachment method, build time, or durability" [ref=f1e266]
+                  - cell "High for publication metadata; medium for process scope" [ref=f1e267]
+            - heading [level=3] [ref=f1e268]:
+              - text: "September 2: head printing and a layered-wear experience"
+              - link "¶" [ref=f1e269] [cursor=pointer]:
+                - /url: "#september-2-head-printing-and-a-layered-wear-experience"
+            - paragraph [ref=f1e270]:
+              - text: Bilibili's public metadata dates “A kigurumi big-head printing process” to September 2 at 00:44, names 一个人在江边 as publisher, and gives a duration of 52 seconds. The description says it was made with a Creality K1 Max, while tags include
+              - code [ref=f1e271]: handmade
+              - text: ","
+              - code [ref=f1e272]: DIY
+              - text: ","
+              - code [ref=f1e273]: kigurumi
+              - text: ", and"
+              - code [ref=f1e274]: kig
+              - text: .
+              - superscript [ref=f1e275]:
+                - link "1" [ref=f1e276] [cursor=pointer]:
+                  - /url: "#fn:bili-sep2"
+              - text: These fields support classification as a workshop / craft lead and establish that the public video shows printing. They do not identify filament, wall thickness, part layout, post-processing, model permission, or the complete production chain, so this archive does not turn the clip into a tutorial, parameter recommendation, or workshop profile.
+            - paragraph [ref=f1e277]:
+              - text: The same public interface dates “Five layers were too tight; I had to slow down [kigurumi]” to September 2 at 00:55, names Naganohara_Mio_ as publisher, and gives a duration of 44 seconds. Tags include
+              - code [ref=f1e278]: life record
+              - text: ","
+              - code [ref=f1e279]: Cosplay
+              - text: ", and"
+              - code [ref=f1e280]: kigurumi
+              - text: ; the description is only a hyphen.
+              - superscript [ref=f1e281]:
+                - link "1" [ref=f1e282] [cursor=pointer]:
+                  - /url: "#fn:bili-sep2"
+              - text: It is retained as a monthly daily-life and comfort signal. The title cannot establish what the five layers were, degree of compression, ambient temperature, or physiological effect, so no medical conclusion or universal layer limit is inferred.
+            - heading [level=3] [ref=f1e283]:
+              - text: "September 2, 22:50: a personal retrospective on more than a year of doll transformation"
+              - link "¶" [ref=f1e284] [cursor=pointer]:
+                - /url: "#september-2-2250-a-personal-retrospective-on-more-than-a-year-of-doll-transformation"
+            - paragraph [ref=f1e285]:
+              - text: Bilibili's public metadata dates “How an ugly figurine became a refined doll — a retrospective on more than one year of
+              - code [ref=f1e286]: 变娃
+              - text: ” to September 2 at 22:50, names 停定の钟 as publisher, and gives a duration of 4 minutes 47 seconds. Tags include
+              - code [ref=f1e287]: retrospective
+              - text: ","
+              - code [ref=f1e288]: 变娃
+              - text: ","
+              - code [ref=f1e289]: experience summary
+              - text: ","
+              - code [ref=f1e290]: kigurumi
+              - text: ", and"
+              - code [ref=f1e291]: My Kigurumi Story
+              - text: .
+              - superscript [ref=f1e292]:
+                - link "2" [ref=f1e293] [cursor=pointer]:
+                  - /url: "#fn:bili-retrospective"
+              - text: These fields establish a year-scale retrospective bounded to one participant and support classification under daily life, discussion, and participation experience.
+            - paragraph [ref=f1e294]: The public description is only a hyphen. The before-and-after framing is the publisher's own characterization; it cannot by itself identify masks, makers, materials, or learning steps, and it does not represent a typical community pathway. This digest records the appearance of a personal public retrospective without rewriting it as a making tutorial, product review, or trend statistic.
+            - heading [level=3] [ref=f1e295]:
+              - text: "September 3–4: a Beijing camping photoshoot and first-outing record"
+              - link "¶" [ref=f1e296] [cursor=pointer]:
+                - /url: "#september-34-a-beijing-camping-photoshoot-and-first-outing-record"
+            - paragraph [ref=f1e297]:
+              - text: "Bilibili's public metadata dates “Kigurumi gathering moments: Beijing Wenyu River camping photoshoot” to September 3 at 19:00, names 停定の钟 as publisher, and gives a duration of 3 minutes 2 seconds. Tags include"
+              - code [ref=f1e298]: life record
+              - text: ","
+              - code [ref=f1e299]: cosplay
+              - text: ","
+              - code [ref=f1e300]: 变娃
+              - text: ","
+              - code [ref=f1e301]: camping
+              - text: ","
+              - code [ref=f1e302]: kigurumi
+              - text: ", and"
+              - code [ref=f1e303]: kig
+              - text: .
+              - superscript [ref=f1e304]:
+                - link "3" [ref=f1e305] [cursor=pointer]:
+                  - /url: "#fn:bili-sep3-5"
+              - text: This establishes a public video about a camping photoshoot at Beijing's Wenyu River. The blank description cannot establish the actual activity date, attendance, convener, permissions, or route, so the item is not presented as a formal event notice or scale statistic.
+            - paragraph [ref=f1e306]:
+              - text: “First kigurumi outing” was published on September 4 at 20:04, runs for 2 minutes 38 seconds, and is tagged
+              - code [ref=f1e307]: MAIMAI
+              - text: and
+              - code [ref=f1e308]: kig
+              - text: ; its description is only a hyphen.
+              - superscript [ref=f1e309]:
+                - link "3" [ref=f1e310] [cursor=pointer]:
+                  - /url: "#fn:bili-sep3-5"
+              - text: The digest records only one publisher's self-described first outing and the minimum fact that a newcomer account intersected with arcade rhythm-game activity. It does not infer a location, assistant, wearing duration, or universal newcomer pathway.
+            - heading [level=3] [ref=f1e311]:
+              - text: "September 5: latex-suit progress and a head-maker attribution"
+              - link "¶" [ref=f1e312] [cursor=pointer]:
+                - /url: "#september-5-latex-suit-progress-and-a-head-maker-attribution"
+            - paragraph [ref=f1e313]:
+              - text: “The latex-suit body is complete” was published by Maddie62 on September 5 at 18:41 and runs for 1 minute 30 seconds. Its description says foot-cover work would continue that day, and tags include
+              - code [ref=f1e314]: DIY
+              - text: ","
+              - code [ref=f1e315]: kigurumi
+              - text: ","
+              - code [ref=f1e316]: latex suit
+              - text: ", and"
+              - code [ref=f1e317]: kig
+              - text: .
+              - superscript [ref=f1e318]:
+                - link "3" [ref=f1e319] [cursor=pointer]:
+                  - /url: "#fn:bili-sep3-5"
+              - text: These fields support a staged record of a completed body and continuing foot-cover work. They do not disclose latex formulation, thickness, bonding, sealing, movement allowance, or testing, so the clip is not expanded into a tutorial.
+            - paragraph [ref=f1e320]:
+              - text: At 20:28 the same day, the description of “Is this a cat?! [kigurumi]” explicitly credits the displayed head to 星尘 kigurumi 工坊, while tags include
+              - code [ref=f1e321]: kigurumi
+              - text: and
+              - code [ref=f1e322]: kig
+              - text: .
+              - superscript [ref=f1e323]:
+                - link "3" [ref=f1e324] [cursor=pointer]:
+                  - /url: "#fn:bili-sep3-5"
+              - text: This supports public attribution of the work, but the short video supplies no model, commission process, price, lead time, or performance data. It is not treated as a product review or full workshop profile.
+            - heading [level=3] [ref=f1e325]:
+              - text: "September 6: reflective-coating test and a Nanjing high-rise shoot"
+              - link "¶" [ref=f1e326] [cursor=pointer]:
+                - /url: "#september-6-reflective-coating-test-and-a-nanjing-high-rise-shoot"
+            - paragraph [ref=f1e327]:
+              - text: Bilibili's public metadata dates “[kigurumi] Full-body reflective-coating test” to September 6 at 19:39, names 奇数米饭 as publisher, gives a duration of 19 seconds, and lists tags including
+              - code [ref=f1e328]: clothing
+              - text: ","
+              - code [ref=f1e329]: outdoor photography
+              - text: ","
+              - code [ref=f1e330]: kigurumi
+              - text: ", and"
+              - code [ref=f1e331]: dollmask
+              - text: . The description says that the “body temperature was a little high” and uses icons to credit photography to
+              - code [ref=f1e332]: "@泡芙芙"
+              - text: ", the mask to"
+              - code [ref=f1e333]: "@DOLL UP"
+              - text: ", and clothing to"
+              - code [ref=f1e334]: "@海苔喵呜"
+              - text: .
+              - superscript [ref=f1e335]:
+                - link "4" [ref=f1e336] [cursor=pointer]:
+                  - /url: "#fn:bili-sep6"
+              - text: These fields establish a public outdoor test and its collaboration credits while preserving the publisher's heat-related observation. They do not give the coating material, reflectance, lighting, ambient temperature, wear duration, or a temperature reading, so the clip cannot support a material comparison or general safety conclusion.
+            - paragraph [ref=f1e337]:
+              - text: At 22:54, 出云夏希CHANNEL published “A doll at the summit of Nanjing,” a 2-minute 22-second video whose description explicitly locates the shoot on the 62nd floor and the 45th-floor terrace of Zifeng Tower. Tags include
+              - code [ref=f1e338]: Nanjing
+              - text: ","
+              - code [ref=f1e339]: Zifeng Tower
+              - text: ","
+              - code [ref=f1e340]: cosplay
+              - text: ", and"
+              - code [ref=f1e341]: kigurumi
+              - text: .
+              - superscript [ref=f1e342]:
+                - link "4" [ref=f1e343] [cursor=pointer]:
+                  - /url: "#fn:bili-sep6"
+              - text: This adds a precisely located urban high-rise shoot to September and shows kigurumi imagery entering an observation level and terrace outside a formal event. Publication time does not establish the shoot date, and the public record does not state venue permission, route, wear duration, or attendance; it is therefore not presented as a formal gathering or venue-use guide.
+            - heading [level=3] [ref=f1e344]:
+              - text: "September 7: head visibility, a Shenzhen shoot, component failure, and a hard-wig process"
+              - link "¶" [ref=f1e345] [cursor=pointer]:
+                - /url: "#september-7-head-visibility-a-shenzhen-shoot-component-failure-and-a-hard-wig-process"
+            - paragraph [ref=f1e346]:
+              - text: At 02:09, Hidden_is_Fun published a 33-second
+              - emphasis [ref=f1e347]: Taiko no Tatsujin
+              - text: record whose description says visibility in the head was effectively absent; tags include
+              - code [ref=f1e348]: kigurumi
+              - text: ","
+              - code [ref=f1e349]: rhythm game
+              - text: ", and"
+              - code [ref=f1e350]: Taiko no Tatsujin
+              - text: . At 22:56, 萌物の心 published the 4-minute 40-second “Trying to play Zenless Zone Zero as a doll.” Its description says limited vision had made
+              - code [ref=f1e351]: Overwatch
+              - text: PVP impractical and also made red and yellow attack cues in
+              - emphasis [ref=f1e352]: Zenless Zone Zero
+              - text: difficult to read, requiring reliance on experience.
+              - superscript [ref=f1e353]:
+                - link "5" [ref=f1e354] [cursor=pointer]:
+                  - /url: "#fn:bili-sep7"
+              - text: These independent self-reports support an individual-experience lead about head visibility affecting screen-information reading. Neither provides visor dimensions, measured field of view, display settings, or a control test, so they do not establish one result for all heads, players, or game types.
+            - paragraph [ref=f1e355]:
+              - text: A 29-second video published at 11:48 explicitly says in its description that it was “filmed September 6 at Shenzhen Ciyuan Town” and credits the Tian Gong Xin character present; tags include
+              - code [ref=f1e356]: kigurumi
+              - text: and
+              - code [ref=f1e357]: Cosplay
+              - text: .
+              - superscript [ref=f1e358]:
+                - link "5" [ref=f1e359] [cursor=pointer]:
+                  - /url: "#fn:bili-sep7"
+              - text: Because it gives an actual shoot date and named place, the record is more complete than a photoshoot identified only by publication time. It still does not establish venue permission, attendance, route, or organizer, so it remains an urban-photography and collaboration record rather than a formal event.
+            - paragraph [ref=f1e360]:
+              - text: At 13:33, Neo雪待 published “Latex lamb taking a selfie in the arcade area.” The description says a battery box inside the skirt was already exposed and later broke while dancing at the night program; tags include
+              - code [ref=f1e361]: DW14
+              - text: ","
+              - code [ref=f1e362]: latex suit
+              - text: ","
+              - code [ref=f1e363]: kigurumi
+              - text: ", and"
+              - code [ref=f1e364]: MAIMAI
+              - text: .
+              - superscript [ref=f1e365]:
+                - link "5" [ref=f1e366] [cursor=pointer]:
+                  - /url: "#fn:bili-sep7"
+              - text: This is a specific personal report of a wearable-component failure and preserves a maintenance issue beyond the event imagery. It does not identify the battery's purpose, mounting method, load point, repair, or an organizer report, so it is not presented as a DW14 incident statistic or general product defect.
+            - paragraph [ref=f1e367]:
+              - text: At 23:53, 是點點__ published the 1-minute 13-second “A kigurumi newcomer's first hard-wig making process,” tagged
+              - code [ref=f1e368]: handmade
+              - text: ","
+              - code [ref=f1e369]: making
+              - text: ","
+              - code [ref=f1e370]: newcomer
+              - text: ","
+              - code [ref=f1e371]: wig
+              - text: ", and"
+              - code [ref=f1e372]: kigurumi
+              - text: .
+              - superscript [ref=f1e373]:
+                - link "5" [ref=f1e374] [cursor=pointer]:
+                  - /url: "#fn:bili-sep7"
+              - text: The title and tags establish a newcomer-oriented process showcase. The description is only a hyphen, so substrate, adhesive, sections, attachment, build time, and durability remain unknown; the item stays a workshop / craft lead rather than becoming a tutorial.
+            - heading [level=2] [ref=f1e375]:
+              - text: Duplicates and weak signals filtered out
+              - link "¶" [ref=f1e376] [cursor=pointer]:
+                - /url: "#duplicates-and-weak-signals-filtered-out"
+            - list [ref=f1e377]:
+              - listitem [ref=f1e378]: DW14 lens-signing and mascot-interaction clips published on September 2 remain retrospective material from the same event already documented in August. They add no rule, program, or organizer closeout statistic and do not become duplicate events.
+              - listitem [ref=f1e379]:
+                - text: A September 3 video titled “First step in
+                - code [ref=f1e380]: 变娃
+                - text: ": put on the skin” has public tags only for clothing, styling, and"
+                - code [ref=f1e381]: zentai
+                - text: ", and is marked exclusive. The available evidence does not establish a complete kigurumi character context or dressing process, so it is not promoted to an entry."
+              - listitem [ref=f1e382]: Drinking jokes, a birthday record, a fictional wedding, an unexplained “new head,” and styling-only clips published September 4–5 establish personal uploads but not a safety rule, formal event, workshop profile, or industry trend, so they are not separate entries.
+              - listitem [ref=f1e383]: DW14 retrospectives, a runway fragment, and a 360-degree event tour published September 6 still point to the same August event already documented. They add no organizer rule or closeout statistic; question-style claims such as “1,000 dolls” are not treated as attendance data without organizer support.
+              - listitem [ref=f1e384]: Same-day birthday-gathering, styling-only, maker-showcase, and “what is inside the head after hours” title-only clips lack process parameters or verifiable conclusions, so they are not promoted to event, workshop, or safety entries.
+              - listitem [ref=f1e385]: September 7–8 brought more DW14 first-attendee reactions, games, rhythm-game footage, and night-program clips, plus follow-up views from the Zifeng Tower shoot. Except for the battery-box maintenance report, they add no organizer statistic, rule, or new scene and do not become duplicate events.
+              - listitem [ref=f1e386]: Public fields for an “old head transformed into a new head,” a head explainer, a blinking display, and ordinary styling videos provide no material, structure, control method, or test data. A Changsha night-shoot record establishes only a city and collaboration credits, so none supports a workshop profile, technical conclusion, or formal event.
+              - listitem [ref=f1e387]: Styling-only clips, single-image posts, and context-free camera interactions do not automatically enter the digest. A later release with process parameters, event facts, or verifiable discussion can extend its source chain.
+              - listitem [ref=f1e388]: Niconico returned no directly relevant addition in the cutoff window. YouTube results were limited to daily styling, a duplicate DW14 lens-signing clip, and scheduled streams that had not begun. Bluesky and Reddit were unreachable in this run, so old material, appointment pages, and inaccessible results were not used to fill an international entry.
+            - heading [level=2] [ref=f1e389]:
+              - text: Domain and section decisions
+              - link "¶" [ref=f1e390] [cursor=pointer]:
+                - /url: "#domain-and-section-decisions"
+            - table [ref=f1e393]:
+              - rowgroup [ref=f1e394]:
+                - row [ref=f1e395]:
+                  - columnheader "Domain" [ref=f1e396]
+                  - columnheader "Assessment at September 8" [ref=f1e397]
+                  - columnheader "Treatment" [ref=f1e398]
+              - rowgroup [ref=f1e399]:
+                - row [ref=f1e400]:
+                  - cell "Chronicle" [ref=f1e401]
+                  - cell "Precisely located Beijing, Nanjing, and Shenzhen shoots; only the Shenzhen record states a shoot date, and none establishes formal-event scale" [ref=f1e402]
+                  - cell "Keep them as monthly leads rather than separate chronicle events" [ref=f1e403]
+                - row [ref=f1e404]:
+                  - cell "Daily life / discussion" [ref=f1e405]
+                  - cell "Layered wear, a personal retrospective, a first outing, urban photography, and gaming visibility" [ref=f1e406]
+                  - cell "Record the scope of public self-reports without a group conclusion" [ref=f1e407]
+                - row [ref=f1e408]:
+                  - cell "Workshop / craft" [ref=f1e409]
+                  - cell "3D printing, latex body and foot-cover progress, head-maker attribution, reflective-coating testing, a hard-wig process, and a battery-box failure" [ref=f1e410]
+                  - cell "Record process, attribution, test, and failure boundaries without undisclosed parameters" [ref=f1e411]
+                - row [ref=f1e412]:
+                  - cell "Reference / education" [ref=f1e413]
+                  - cell "Process clips, attribution, a personal retrospective, and gaming experience are not a complete tutorial, review, or community trend" [ref=f1e414]
+                  - cell "Preserve that evidence boundary" [ref=f1e415]
+                - row [ref=f1e416]:
+                  - cell "Etiquette / safety" [ref=f1e417]
+                  - cell "Layer tightness, reflective-coating heat, battery-box breakage, and head visibility are individual signals without measurement or protocol" [ref=f1e418]
+                  - cell "Do not create a new safety standard" [ref=f1e419]
+                - row [ref=f1e420]:
+                  - cell "Academic" [ref=f1e421]
+                  - cell "No directly relevant September publication verified" [ref=f1e422]
+                  - cell "Omit" [ref=f1e423]
+            - paragraph [ref=f1e424]: The thirteen deduplicated records cover making, maker attribution, individual wearing, a newcomer outing, a personal retrospective, process testing, three-city photography, component maintenance, and gaming visibility. The monthly digest is sufficient; no separate workshop, safety, person, or event section is warranted. A formal event page, reproducible parameters, materials and license details, wearing research with a measurement method, or a verifiable community survey can later update the source chain without duplication.
+            - heading [level=2] [ref=f1e425]:
+              - text: Source
+              - link "¶" [ref=f1e426] [cursor=pointer]:
+                - /url: "#source"
+            - generic [ref=f1e427]:
+              - separator [ref=f1e428]
+              - list [ref=f1e429]:
+                - listitem [ref=f1e430]:
+                  - paragraph [ref=f1e431]:
+                    - text: 一个人在江边, “一个 kigurumi 大头的打印过程～,” Bilibili, September 2, 2026,
+                    - link "https://www.bilibili.com/video/BV1wHtL6HELU/" [ref=f1e432] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1wHtL6HELU/
+                    - text: ; Naganohara_Mio_, “五层也太紧了，必须得缓一缓【kigurumi】,” Bilibili, September 2, 2026,
+                    - link "https://www.bilibili.com/video/BV1cstL6JEyb/" [ref=f1e433] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1cstL6JEyb/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1wHtL6HELU" [ref=f1e434] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1wHtL6HELU
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1wHtL6HELU" [ref=f1e435] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1wHtL6HELU
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1cstL6JEyb" [ref=f1e436] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1cstL6JEyb
+                    - text: ", and"
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1cstL6JEyb" [ref=f1e437] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1cstL6JEyb
+                    - link "↩" [ref=f1e438] [cursor=pointer]:
+                      - /url: "#fnref:bili-sep2"
+                    - link "↩" [ref=f1e439] [cursor=pointer]:
+                      - /url: "#fnref2:bili-sep2"
+                - listitem [ref=f1e440]:
+                  - paragraph [ref=f1e441]:
+                    - text: 停定の钟, “邪神手办是如何转变为精致娃娃的—变娃1年多历程盘点,” Bilibili, September 2, 2026,
+                    - link "https://www.bilibili.com/video/BV18Ctm64EqR/" [ref=f1e442] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV18Ctm64EqR/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV18Ctm64EqR" [ref=f1e443] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV18Ctm64EqR
+                    - text: and
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV18Ctm64EqR" [ref=f1e444] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV18Ctm64EqR
+                    - link "↩" [ref=f1e445] [cursor=pointer]:
+                      - /url: "#fnref:bili-retrospective"
+                - listitem [ref=f1e446]:
+                  - paragraph [ref=f1e447]:
+                    - text: 停定の钟, “娃聚时刻：北京温榆河露营外拍,” Bilibili, September 3, 2026,
+                    - link "https://www.bilibili.com/video/BV1WXto63E53/" [ref=f1e448] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1WXto63E53/
+                    - text: ; 陆非鹿_, “第一次变娃出勤喵,” Bilibili, September 4, 2026,
+                    - link "https://www.bilibili.com/video/BV1hPtB6wEuX/" [ref=f1e449] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1hPtB6wEuX/
+                    - text: ; Maddie62, “胶衣主体做好啦,” Bilibili, September 5, 2026,
+                    - link "https://www.bilibili.com/video/BV1e3t26bEqy/" [ref=f1e450] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1e3t26bEqy/
+                    - text: ; 小凌星L, “这是猫啊！？？？【kigurumi】,” Bilibili, September 5, 2026,
+                    - link "https://www.bilibili.com/video/BV1p8bj6ZEM3/" [ref=f1e451] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1p8bj6ZEM3/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1WXto63E53" [ref=f1e452] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1WXto63E53
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WXto63E53" [ref=f1e453] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WXto63E53
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1hPtB6wEuX" [ref=f1e454] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1hPtB6wEuX
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1hPtB6wEuX" [ref=f1e455] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1hPtB6wEuX
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1e3t26bEqy" [ref=f1e456] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1e3t26bEqy
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1e3t26bEqy" [ref=f1e457] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1e3t26bEqy
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1p8bj6ZEM3" [ref=f1e458] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1p8bj6ZEM3
+                    - text: ", and"
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1p8bj6ZEM3" [ref=f1e459] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1p8bj6ZEM3
+                    - link "↩" [ref=f1e460] [cursor=pointer]:
+                      - /url: "#fnref:bili-sep3-5"
+                    - link "↩" [ref=f1e461] [cursor=pointer]:
+                      - /url: "#fnref2:bili-sep3-5"
+                    - link "↩" [ref=f1e462] [cursor=pointer]:
+                      - /url: "#fnref3:bili-sep3-5"
+                    - link "↩" [ref=f1e463] [cursor=pointer]:
+                      - /url: "#fnref4:bili-sep3-5"
+                - listitem [ref=f1e464]:
+                  - paragraph [ref=f1e465]:
+                    - text: 奇数米饭, “[kigurumi]全身反光涂层测试,” Bilibili, September 6, 2026,
+                    - link "https://www.bilibili.com/video/BV1Pcbs6DE8j/" [ref=f1e466] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1Pcbs6DE8j/
+                    - text: ; 出云夏希CHANNEL, “娃娃在南京之巅,” Bilibili, September 6, 2026,
+                    - link "https://www.bilibili.com/video/BV1WHbW67EKD/" [ref=f1e467] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1WHbW67EKD/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pcbs6DE8j" [ref=f1e468] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1Pcbs6DE8j
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Pcbs6DE8j" [ref=f1e469] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Pcbs6DE8j
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1WHbW67EKD" [ref=f1e470] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1WHbW67EKD
+                    - text: ", and"
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WHbW67EKD" [ref=f1e471] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WHbW67EKD
+                    - link "↩" [ref=f1e472] [cursor=pointer]:
+                      - /url: "#fnref:bili-sep6"
+                    - link "↩" [ref=f1e473] [cursor=pointer]:
+                      - /url: "#fnref2:bili-sep6"
+                - listitem [ref=f1e474]:
+                  - paragraph [ref=f1e475]:
+                    - text: Hidden_is_Fun, “能看到不？能看到啊？哪儿看的？,” Bilibili, September 7, 2026,
+                    - link "https://www.bilibili.com/video/BV1Nnbx6dE7r/" [ref=f1e476] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1Nnbx6dE7r/
+                    - text: ; 凉风青叶级看板舰, “[kigurumi]大阿喵喵玩弄小mea,” Bilibili, September 7, 2026,
+                    - link "https://www.bilibili.com/video/BV11Zbc6WEGW/" [ref=f1e477] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV11Zbc6WEGW/
+                    - text: ; Neo雪待, “在电玩区自拍的乳胶小羊,” Bilibili, September 7, 2026,
+                    - link "https://www.bilibili.com/video/BV169bP69Ewq/" [ref=f1e478] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV169bP69Ewq/
+                    - text: ; 萌物の心, “尝试变娃打绝区零,” Bilibili, September 7, 2026,
+                    - link "https://www.bilibili.com/video/BV1B6bT6FEZq/" [ref=f1e479] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1B6bT6FEZq/
+                    - text: ; 是點點__, “kigurumi新人第一次做硬质假发的一些过程,” Bilibili, September 7, 2026,
+                    - link "https://www.bilibili.com/video/BV1iybT64EfF/" [ref=f1e480] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1iybT64EfF/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1Nnbx6dE7r" [ref=f1e481] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1Nnbx6dE7r
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Nnbx6dE7r" [ref=f1e482] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Nnbx6dE7r
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV11Zbc6WEGW" [ref=f1e483] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV11Zbc6WEGW
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV11Zbc6WEGW" [ref=f1e484] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV11Zbc6WEGW
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV169bP69Ewq" [ref=f1e485] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV169bP69Ewq
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV169bP69Ewq" [ref=f1e486] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV169bP69Ewq
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1B6bT6FEZq" [ref=f1e487] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1B6bT6FEZq
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1B6bT6FEZq" [ref=f1e488] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1B6bT6FEZq
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1iybT64EfF" [ref=f1e489] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1iybT64EfF
+                    - text: ", and"
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1iybT64EfF" [ref=f1e490] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1iybT64EfF
+                    - link "↩" [ref=f1e491] [cursor=pointer]:
+                      - /url: "#fnref:bili-sep7"
+                    - link "↩" [ref=f1e492] [cursor=pointer]:
+                      - /url: "#fnref2:bili-sep7"
+                    - link "↩" [ref=f1e493] [cursor=pointer]:
+                      - /url: "#fnref3:bili-sep7"
+                    - link "↩" [ref=f1e494] [cursor=pointer]:
+                      - /url: "#fnref4:bili-sep7"
+      - button "Back to top"
+    - contentinfo [ref=f1e495]:
+      - navigation "Footer" [ref=f1e496]:
+        - 'link "Previous: August 2026 Public-Source Digest" [ref=f1e497] [cursor=pointer]':
+          - /url: ../2026-08/
+          - generic [ref=f1e501]:
+            - text: Previous
+            - generic [ref=f1e502]: August 2026 Public-Source Digest
+        - 'link "Next: Places" [ref=f1e503] [cursor=pointer]':
+          - /url: ../../places/
+          - generic [ref=f1e504]:
+            - text: Next
+            - generic [ref=f1e505]: Places
+      - generic [ref=f1e510]:
+        - generic [ref=f1e511]: Copyright © 2026 Kigurumi Chronicle Archive. Content is provided for archival and educational reference; please preserve attribution and source context when citing.
+        - generic [ref=f1e513]:
+          - link "Home" [ref=f1e514] [cursor=pointer]:
+            - /url: /en/
+          - link "Join" [ref=f1e517] [cursor=pointer]:
+            - /url: /en/join/
+          - link "Chronicle" [ref=f1e520] [cursor=pointer]:
+            - /url: /en/chronicle/
+          - link "Places" [ref=f1e523] [cursor=pointer]:
+            - /url: /en/places/
+          - link "About" [ref=f1e526] [cursor=pointer]:
+            - /url: /en/about/
+          - link "Citation" [ref=f1e529] [cursor=pointer]:
+            - /url: /en/citation/
+          - link "FAQ" [ref=f1e532] [cursor=pointer]:
+            - /url: /en/faq/
+          - link "License" [ref=f1e535] [cursor=pointer]:
+            - /url: /en/license/

@@ -1,0 +1,720 @@
+- generic [active] [ref=f4e1]:
+  - link "跳轉至" [ref=f4e2] [cursor=pointer]:
+    - /url: "#2026-9-kigurumi"
+  - banner [ref=f4e3]:
+    - navigation "頁首" [ref=f4e4]:
+      - link "Kigurumi 編年志" [ref=f4e5] [cursor=pointer]:
+        - /url: ../../
+        - img "logo" [ref=f4e6]
+      - generic [ref=f4e8]:
+        - generic [ref=f4e9]: Kigurumi 編年志
+        - generic:
+          - generic "2026 年 9 月 Kigurumi 公開資料摘要"
+      - generic [ref=f4e11]:
+        - radio "切換到深色模式"
+        - generic "切換到深色模式" [ref=f4e12] [cursor=pointer]
+        - radio "切換到淺色模式"
+      - generic [ref=f4e16]:
+        - button "選擇語言" [ref=f4e17] [cursor=pointer]
+        - generic:
+          - list:
+            - listitem [ref=f4e20]:
+              - link "简体中文" [ref=f4e21] [cursor=pointer]:
+                - /url: ../../../digests/2026-09/
+            - listitem [ref=f4e22]:
+              - link "繁體中文" [ref=f4e23] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=f4e24]:
+              - link "English" [ref=f4e25] [cursor=pointer]:
+                - /url: ../../../en/digests/2026-09/
+            - listitem [ref=f4e26]:
+              - link "日本語" [ref=f4e27] [cursor=pointer]:
+                - /url: ../../../ja/digests/2026-09/
+            - listitem [ref=f4e28]:
+              - link "Русский" [ref=f4e29] [cursor=pointer]:
+                - /url: ../../../ru/digests/2026-09/
+      - dialog [ref=f4e30]:
+        - search [ref=f4e31]:
+          - generic [ref=f4e32]:
+            - textbox "搜尋" [ref=f4e33]
+            - navigation "搜尋":
+              - link "分享":
+                - /url: http://127.0.0.1:8000/zh-Hant/digests/2026-09/?q=
+              - button "清空"
+          - generic [ref=f4e35]: 正在初始化搜尋引擎
+  - generic [ref=f4e38]:
+    - main [ref=f4e39]:
+      - generic [ref=f4e40]:
+        - navigation "導航" [ref=f4e44]:
+          - generic [ref=f4e45]: Kigurumi 編年志
+          - list [ref=f4e46]:
+            - listitem [ref=f4e47]:
+              - link "首頁" [ref=f4e48] [cursor=pointer]:
+                - /url: ../../
+            - listitem [ref=f4e50]:
+              - link "關於介紹" [ref=f4e51] [cursor=pointer]:
+                - /url: ../../about/
+            - listitem [ref=f4e53]:
+              - link "參與加入" [ref=f4e54] [cursor=pointer]:
+                - /url: ../../join/
+            - listitem [ref=f4e56]:
+              - link "貢獻與支持" [ref=f4e57] [cursor=pointer]:
+                - /url: ../../support/
+            - listitem [ref=f4e59]:
+              - link "編年" [ref=f4e61] [cursor=pointer]:
+                - /url: ../../chronicle/
+              - navigation [ref=f4e63]:
+                - list [ref=f4e64]:
+                  - listitem [ref=f4e65]:
+                    - link "年份目錄" [ref=f4e67] [cursor=pointer]:
+                      - /url: ../../years/
+                  - listitem [ref=f4e71]:
+                    - link "近期採集" [ref=f4e73] [cursor=pointer]:
+                      - /url: ../
+                    - navigation [ref=f4e77]:
+                      - list [ref=f4e78]:
+                        - listitem [ref=f4e79]:
+                          - link "2026 年 7 月公開資料摘要" [ref=f4e80] [cursor=pointer]:
+                            - /url: ../2026-07/
+                        - listitem [ref=f4e83]:
+                          - link "2026 年 8 月公開資料摘要" [ref=f4e84] [cursor=pointer]:
+                            - /url: ../2026-08/
+                        - listitem [ref=f4e87]:
+                          - link "2026 年 9 月公開資料摘要" [ref=f4e88] [cursor=pointer]:
+                            - /url: ./
+            - listitem [ref=f4e91]:
+              - link "志目" [ref=f4e93] [cursor=pointer]:
+                - /url: ../../places/
+              - navigation [ref=f4e95]:
+                - list [ref=f4e96]:
+                  - listitem [ref=f4e97]:
+                    - link "人物目錄" [ref=f4e98] [cursor=pointer]:
+                      - /url: ../../people/
+                  - listitem [ref=f4e100]:
+                    - link "來源目錄" [ref=f4e102] [cursor=pointer]:
+                      - /url: ../../sources/
+            - listitem [ref=f4e106]:
+              - link "引用規範" [ref=f4e107] [cursor=pointer]:
+                - /url: ../../citation/
+            - listitem [ref=f4e109]:
+              - link "常見問題" [ref=f4e110] [cursor=pointer]:
+                - /url: ../../faq/
+            - listitem [ref=f4e112]:
+              - link "開源協議" [ref=f4e113] [cursor=pointer]:
+                - /url: ../../license/
+        - navigation "目錄" [ref=f4e118]:
+          - list [ref=f4e120]:
+            - listitem [ref=f4e121]:
+              - link "當前狀態" [ref=f4e122] [cursor=pointer]:
+                - /url: "#_1"
+              - navigation "當前狀態" [ref=f4e124]:
+                - list [ref=f4e125]:
+                  - listitem [ref=f4e126]:
+                    - link "9 月 2 日：頭殼列印過程與多層穿戴體驗" [ref=f4e127] [cursor=pointer]:
+                      - /url: "#9-2"
+                  - listitem [ref=f4e129]:
+                    - link "9 月 2 日 22:50：一年多變娃歷程的個人複盤" [ref=f4e130] [cursor=pointer]:
+                      - /url: "#9-2-2250"
+                  - listitem [ref=f4e132]:
+                    - link "9 月 3—4 日：北京露營外拍與首次出勤紀錄" [ref=f4e133] [cursor=pointer]:
+                      - /url: "#9-34"
+                  - listitem [ref=f4e135]:
+                    - link "9 月 5 日：膠衣製作進度與頭殼工坊署名" [ref=f4e136] [cursor=pointer]:
+                      - /url: "#9-5"
+                  - listitem [ref=f4e138]:
+                    - link "9 月 6 日：反光塗層測試與南京高層外拍" [ref=f4e139] [cursor=pointer]:
+                      - /url: "#9-6"
+                  - listitem [ref=f4e141]:
+                    - link "9 月 7 日：頭殼視野、深圳外拍、部件故障與硬質假髮過程" [ref=f4e142] [cursor=pointer]:
+                      - /url: "#9-7"
+            - listitem [ref=f4e144]:
+              - link "已過濾的重複與弱訊號" [ref=f4e145] [cursor=pointer]:
+                - /url: "#_2"
+            - listitem [ref=f4e147]:
+              - link "領域覆蓋與板塊判斷" [ref=f4e148] [cursor=pointer]:
+                - /url: "#_3"
+            - listitem [ref=f4e150]:
+              - link "來源" [ref=f4e151] [cursor=pointer]:
+                - /url: "#_4"
+        - generic [ref=f4e153]:
+          - navigation "導航" [ref=f4e154]:
+            - list [ref=f4e155]:
+              - listitem [ref=f4e156]:
+                - link "首頁" [ref=f4e157] [cursor=pointer]:
+                  - /url: ../../
+              - listitem [ref=f4e159]:
+                - link "編年" [ref=f4e160] [cursor=pointer]:
+                  - /url: ../../chronicle/
+              - listitem [ref=f4e162]:
+                - link "近期採集" [ref=f4e163] [cursor=pointer]:
+                  - /url: ../
+          - article [ref=f4e165]:
+            - heading [level=1] [ref=f4e166]:
+              - text: 2026 年 9 月 Kigurumi 公開資料摘要
+              - link "¶" [ref=f4e167] [cursor=pointer]:
+                - /url: "#2026-9-kigurumi"
+            - blockquote [ref=f4e168]:
+              - paragraph [ref=f4e169]:
+                - text: 本頁是月度採集，不是 2026 年度編年定稿。檢索截止時間為
+                - strong [ref=f4e170]: 2026 年 9 月 8 日 08:45（Asia/Shanghai）
+                - text: 。同一活動或主題只記錄新的、資訊更完整的狀態。
+            - heading [level=2] [ref=f4e171]:
+              - text: 當前狀態
+              - link "¶" [ref=f4e172] [cursor=pointer]:
+                - /url: "#_1"
+            - table [ref=f4e175]:
+              - rowgroup [ref=f4e176]:
+                - row [ref=f4e177]:
+                  - columnheader "發布時間" [ref=f4e178]
+                  - columnheader "地點" [ref=f4e179]
+                  - columnheader "領域" [ref=f4e180]
+                  - columnheader "去重後的紀錄" [ref=f4e181]
+                  - columnheader "可信度" [ref=f4e182]
+              - rowgroup [ref=f4e183]:
+                - row [ref=f4e184]:
+                  - cell "9 月 2 日 00:44" [ref=f4e185]
+                  - cell "中國網路 / Bilibili" [ref=f4e186]
+                  - cell "工坊、手工、科普" [ref=f4e187]
+                  - cell "新增一段 kigurumi 大頭的 3D 列印過程展示；簡介只說明使用創想 K1 Max，不擴寫材料、模型來源或完整工藝" [ref=f4e188]
+                  - cell "高（發布中繼資料）；中（製作過程範圍）" [ref=f4e189]
+                - row [ref=f4e190]:
+                  - cell "9 月 2 日 00:55" [ref=f4e191]
+                  - cell "中國網路 / Bilibili" [ref=f4e192]
+                  - cell "日常、雜談、安全" [ref=f4e193]
+                  - cell "新增一條「五層太緊、需要緩一緩」的穿戴體驗；只作個人舒適度提示，不改寫為通用健康結論" [ref=f4e194]
+                  - cell "高（發布中繼資料）；中（個人自述）" [ref=f4e195]
+                - row [ref=f4e196]:
+                  - cell "9 月 2 日 22:50" [ref=f4e197]
+                  - cell "中國網路 / Bilibili" [ref=f4e198]
+                  - cell "日常、雜談、百科" [ref=f4e199]
+                  - cell "新增一段「一年多變娃歷程」的個人複盤；標題與標籤確認複盤主題，不據此補寫具體頭殼、工坊、時間線或群體趨勢" [ref=f4e200]
+                  - cell "高（發布中繼資料）；中（個人複盤範圍）" [ref=f4e201]
+                - row [ref=f4e202]:
+                  - cell "9 月 3 日 19:00" [ref=f4e203]
+                  - cell "北京 / Bilibili" [ref=f4e204]
+                  - cell "小型聚會、外拍、日常" [ref=f4e205]
+                  - cell "一段以「北京溫榆河露營外拍」為題的娃聚紀錄；只確認公開影片的地點與主題，不推斷活動日期、人數或主辦者" [ref=f4e206]
+                  - cell "高（發布中繼資料）；中（活動範圍）" [ref=f4e207]
+                - row [ref=f4e208]:
+                  - cell "9 月 4 日 20:04" [ref=f4e209]
+                  - cell "中國網路 / Bilibili" [ref=f4e210]
+                  - cell "新人經驗、日常" [ref=f4e211]
+                  - cell [ref=f4e212]:
+                    - text: 一條「第一次變娃出勤」的個人紀錄，標籤包含
+                    - code [ref=f4e213]: MAIMAI
+                    - text: 與
+                    - code [ref=f4e214]: kig
+                    - text: ；不據此推斷場館、完整流程或普遍新人經驗
+                  - cell "高（發布中繼資料）；中（個人自述）" [ref=f4e215]
+                - row [ref=f4e216]:
+                  - cell "9 月 5 日 18:41" [ref=f4e217]
+                  - cell "中國網路 / Bilibili" [ref=f4e218]
+                  - cell "工坊、手工" [ref=f4e219]
+                  - cell "一段膠衣主體完成、繼續製作腳套的 DIY 進度；不補寫材料配方、連接工藝或耐用性" [ref=f4e220]
+                  - cell "高（發布中繼資料）；中（製作階段）" [ref=f4e221]
+                - row [ref=f4e222]:
+                  - cell "9 月 5 日 20:28" [ref=f4e223]
+                  - cell "中國網路 / Bilibili" [ref=f4e224]
+                  - cell "工坊歸屬、造型展示" [ref=f4e225]
+                  - cell "一條公開簡介將展示頭殼署名為「星塵 kigurumi 工坊」；只記錄公開歸屬，不把展示視為規格或品質評測" [ref=f4e226]
+                  - cell "高（署名中繼資料）；中（作品範圍）" [ref=f4e227]
+                - row [ref=f4e228]:
+                  - cell "9 月 6 日 19:39" [ref=f4e229]
+                  - cell "中國網路 / Bilibili" [ref=f4e230]
+                  - cell "工藝測試、外景、安全" [ref=f4e231]
+                  - cell "一段「全身反光塗層測試」短片；發布者自述「機體溫度有點高」，但沒有材料、環境或測溫資料" [ref=f4e232]
+                  - cell "高（發布中繼資料）；中（測試與個人體感範圍）" [ref=f4e233]
+                - row [ref=f4e234]:
+                  - cell "9 月 6 日 22:54" [ref=f4e235]
+                  - cell "南京 / Bilibili" [ref=f4e236]
+                  - cell "城市外拍、日常" [ref=f4e237]
+                  - cell "一段在紫峰大廈 62 層與 45 層露台拍攝的 kigurumi 紀錄；只確認公開影片說明的場景，不推斷拍攝日期、許可或參與規模" [ref=f4e238]
+                  - cell "高（發布中繼資料與地點說明）；中（拍攝範圍）" [ref=f4e239]
+                - row [ref=f4e240]:
+                  - cell "9 月 7 日 02:09 / 22:56" [ref=f4e241]
+                  - cell "中國網路 / Bilibili" [ref=f4e242]
+                  - cell "日常、遊戲、視野安全" [ref=f4e243]
+                  - cell [ref=f4e244]:
+                    - text: 兩名發布者分別記錄戴頭殼玩《太鼓達人》、
+                    - code [ref=f4e245]: Overwatch
+                    - text: 與《絕區零》時的視野困難；只保留個人經驗，不推導所有頭殼或遊戲的共同結論
+                  - cell "高（發布中繼資料）；中（個人自述）" [ref=f4e246]
+                - row [ref=f4e247]:
+                  - cell "9 月 7 日 11:48" [ref=f4e248]
+                  - cell "深圳 / Bilibili" [ref=f4e249]
+                  - cell "城市外拍、協作" [ref=f4e250]
+                  - cell "簡介明確寫「9 月 6 日拍攝於深圳次元小鎮」並署名同場角色；只確認發布者給出的拍攝日期、地點與協作" [ref=f4e251]
+                  - cell "高（發布中繼資料與地點自述）；中（拍攝範圍）" [ref=f4e252]
+                - row [ref=f4e253]:
+                  - cell "9 月 7 日 13:33" [ref=f4e254]
+                  - cell "DW14 回顧 / Bilibili" [ref=f4e255]
+                  - cell "服裝維護、安全" [ref=f4e256]
+                  - cell "一段個人回顧稱裙內電池盒已經外露，後來在夜場跳舞時斷裂；作為一次部件故障自述，不擴寫成活動事故或通用耐用性結論" [ref=f4e257]
+                  - cell "高（發布中繼資料）；中（個人故障自述）" [ref=f4e258]
+                - row [ref=f4e259]:
+                  - cell "9 月 7 日 23:53" [ref=f4e260]
+                  - cell "中國網路 / Bilibili" [ref=f4e261]
+                  - cell "工坊、手工、新人經驗" [ref=f4e262]
+                  - cell "一段「新人第一次做硬質假髮」的過程展示；標題與標籤能確認主題，但未說明材料、固定方式、耗時或耐用性" [ref=f4e263]
+                  - cell "高（發布中繼資料）；中（過程範圍）" [ref=f4e264]
+            - heading [level=3] [ref=f4e265]:
+              - text: 9 月 2 日：頭殼列印過程與多層穿戴體驗
+              - link "¶" [ref=f4e266] [cursor=pointer]:
+                - /url: "#9-2"
+            - paragraph [ref=f4e267]:
+              - text: Bilibili 公開中繼資料把《一個 kigurumi 大頭的列印過程～》標為 9 月 2 日 00:44 發布，發布者為「一個人在江邊」，時長 52 秒；簡介寫明「創想 K1 Max 製作」，標籤包含
+              - code [ref=f4e268]: 手工
+              - text: 、
+              - code [ref=f4e269]: DIY
+              - text: 、
+              - code [ref=f4e270]: kigurumi
+              - text: 與
+              - code [ref=f4e271]: kig
+              - text: 。
+              - superscript [ref=f4e272]:
+                - link "1" [ref=f4e273] [cursor=pointer]:
+                  - /url: "#fn:bili-sep2"
+              - text: 這些欄位足以把它歸入工坊 / 手工線索，並確認影片展示列印過程。公開欄位未說明耗材、壁厚、分件、後處理、模型授權或完整製作鏈，因此本站不把短片擴寫為教學、參數建議或工坊檔案。
+            - paragraph [ref=f4e274]:
+              - text: 同一接口把《五層也太緊了，必須得緩一緩【kigurumi】》標為 9 月 2 日 00:55 發布，發布者為 Naganohara_Mio_，時長 44 秒，標籤包含
+              - code [ref=f4e275]: 生活記錄
+              - text: 、
+              - code [ref=f4e276]: Cosplay
+              - text: 與
+              - code [ref=f4e277]: kigurumi
+              - text: ；簡介只有連字號。
+              - superscript [ref=f4e278]:
+                - link "1" [ref=f4e279] [cursor=pointer]:
+                  - /url: "#fn:bili-sep2"
+              - text: 這可作當月穿戴日常與舒適度提醒，但標題不足以確定五層分別是什麼、緊繃程度、環境溫度或生理影響。本頁只保留發布者個人體驗，不產生醫學結論或統一穿戴上限。
+            - heading [level=3] [ref=f4e280]:
+              - text: 9 月 2 日 22:50：一年多變娃歷程的個人複盤
+              - link "¶" [ref=f4e281] [cursor=pointer]:
+                - /url: "#9-2-2250"
+            - paragraph [ref=f4e282]:
+              - text: Bilibili 公開中繼資料把《邪神手辦是如何轉變為精緻娃娃的—變娃1年多歷程盤點》標為 9 月 2 日 22:50 發布，發布者為「停定の钟」，時長 4 分 47 秒；標籤包含
+              - code [ref=f4e283]: 总结盘点
+              - text: 、
+              - code [ref=f4e284]: 变娃
+              - text: 、
+              - code [ref=f4e285]: 经验总结
+              - text: 、
+              - code [ref=f4e286]: kigurumi
+              - text: 與
+              - code [ref=f4e287]: 我与Kigurumi的故事
+              - text: 。
+              - superscript [ref=f4e288]:
+                - link "2" [ref=f4e289] [cursor=pointer]:
+                  - /url: "#fn:bili-retrospective"
+              - text: 這些欄位足以確認一條以個人經歷為範圍的年度式複盤，可歸入日常、雜談與參與經驗線索。
+            - paragraph [ref=f4e290]: 公開影片簡介只有連字號。標題中的前後對比是發布者的自我描述，不能單獨證明使用了哪些頭殼、工坊、材料或學習步驟，也不能代表社群普遍成長路徑。本頁因此只記錄「個人公開複盤出現」，不把它改寫成製作教學、產品評價或趨勢統計。
+            - heading [level=3] [ref=f4e291]:
+              - text: 9 月 3—4 日：北京露營外拍與首次出勤紀錄
+              - link "¶" [ref=f4e292] [cursor=pointer]:
+                - /url: "#9-34"
+            - paragraph [ref=f4e293]:
+              - text: Bilibili 公開中繼資料把《娃聚時刻：北京溫榆河露營外拍》標為 9 月 3 日 19:00 發布，發布者為「停定の钟」，時長 3 分 2 秒，標籤包含
+              - code [ref=f4e294]: 生活記錄
+              - text: 、
+              - code [ref=f4e295]: cosplay
+              - text: 、
+              - code [ref=f4e296]: 变娃
+              - text: 、
+              - code [ref=f4e297]: 露營
+              - text: 、
+              - code [ref=f4e298]: kigurumi
+              - text: 與
+              - code [ref=f4e299]: kig
+              - text: 。
+              - superscript [ref=f4e300]:
+                - link "3" [ref=f4e301] [cursor=pointer]:
+                  - /url: "#fn:bili-sep3-5"
+              - text: 這足以確認一段以北京溫榆河露營外拍為主題的公開影片。影片簡介為空，無法確認外拍實際日期、參與人數、召集方、許可或路線，因此不寫成正式活動通告或規模統計。
+            - paragraph [ref=f4e302]:
+              - text: 《第一次變娃出勤喵》於 9 月 4 日 20:04 發布，時長 2 分 38 秒，標籤包含
+              - code [ref=f4e303]: MAIMAI
+              - text: 與
+              - code [ref=f4e304]: kig
+              - text: ，簡介為連字號。
+              - superscript [ref=f4e305]:
+                - link "3" [ref=f4e306] [cursor=pointer]:
+                  - /url: "#fn:bili-sep3-5"
+              - text: 本頁僅把它作為一名發布者自述的首次出勤紀錄，保留「新人經驗與街機娛樂相遇」這一最低限度資訊，不推斷地點、協助者、穿戴時長或所有新人的共同路徑。
+            - heading [level=3] [ref=f4e307]:
+              - text: 9 月 5 日：膠衣製作進度與頭殼工坊署名
+              - link "¶" [ref=f4e308] [cursor=pointer]:
+                - /url: "#9-5"
+            - paragraph [ref=f4e309]:
+              - text: 《膠衣主體做好啦》於 9 月 5 日 18:41 發布，發布者為 Maddie62，時長 1 分 30 秒；簡介寫「今天繼續做個腳套」，標籤包含
+              - code [ref=f4e310]: DIY
+              - text: 、
+              - code [ref=f4e311]: kigurumi
+              - text: 、
+              - code [ref=f4e312]: 膠衣
+              - text: 與
+              - code [ref=f4e313]: kig
+              - text: 。
+              - superscript [ref=f4e314]:
+                - link "3" [ref=f4e315] [cursor=pointer]:
+                  - /url: "#fn:bili-sep3-5"
+              - text: 這些欄位支持「主體完成、腳套繼續製作」的階段性紀錄，但未提供膠料、厚度、黏接、密封、活動餘量或測試結果，故不擴寫成製作教學。
+            - paragraph [ref=f4e316]:
+              - text: 同日 20:28 發布的《這是貓啊！？？？【kigurumi】》在簡介中明確寫「頭殼：星塵 kigurumi 工坊」，標籤包含
+              - code [ref=f4e317]: kigurumi
+              - text: 與
+              - code [ref=f4e318]: kig
+              - text: 。
+              - superscript [ref=f4e319]:
+                - link "3" [ref=f4e320] [cursor=pointer]:
+                  - /url: "#fn:bili-sep3-5"
+              - text: 這可以建立公開影片中的作品歸屬，但短片不提供型號、委託流程、價格、交期或性能資訊，本站不據此產生產品評測或工坊百科。
+            - heading [level=3] [ref=f4e321]:
+              - text: 9 月 6 日：反光塗層測試與南京高層外拍
+              - link "¶" [ref=f4e322] [cursor=pointer]:
+                - /url: "#9-6"
+            - paragraph [ref=f4e323]:
+              - text: Bilibili 公開中繼資料把《[kigurumi]全身反光塗層測試》標為 9 月 6 日 19:39 發布，發布者為「奇數米飯」，時長 19 秒，標籤包含
+              - code [ref=f4e324]: 服飾
+              - text: 、
+              - code [ref=f4e325]: 外景
+              - text: 、
+              - code [ref=f4e326]: kigurumi
+              - text: 與
+              - code [ref=f4e327]: dollmask
+              - text: 。簡介寫「就是機體溫度有點高」，並以圖示列出攝影
+              - code [ref=f4e328]: "@泡芙芙"
+              - text: 、面具
+              - code [ref=f4e329]: "@DOLL UP"
+              - text: 和服裝
+              - code [ref=f4e330]: "@海苔喵嗚"
+              - text: 。
+              - superscript [ref=f4e331]:
+                - link "4" [ref=f4e332] [cursor=pointer]:
+                  - /url: "#fn:bili-sep6"
+              - text: 這些欄位足以確認一次公開的全身反光塗層外景測試與協作署名，也保留發布者的熱感回饋；但沒有塗層材料、反射率、光照、氣溫、穿戴時長或測溫結果，因此不能比較材料性能，也不能建立一般安全結論。
+            - paragraph [ref=f4e333]:
+              - text: 同日 22:54，出雲夏希CHANNEL 發布《娃娃在南京之巔》，時長 2 分 22 秒；簡介明確寫明在紫峰大廈 62 層與 45 層露台拍攝，標籤包含
+              - code [ref=f4e334]: 南京
+              - text: 、
+              - code [ref=f4e335]: 紫峰大廈
+              - text: 、
+              - code [ref=f4e336]: cosplay
+              - text: 與
+              - code [ref=f4e337]: kigurumi
+              - text: 。
+              - superscript [ref=f4e338]:
+                - link "4" [ref=f4e339] [cursor=pointer]:
+                  - /url: "#fn:bili-sep6"
+              - text: 這為 9 月新增一條地點明確的城市高層外拍紀錄，並顯示正式活動之外的 kigurumi 影像也進入觀景層與露台等商業公共場景。發布時間不能代替實際拍攝日期，公開影片也沒有說明場地方許可、路線、穿戴時長或參與人數，故不寫成正式聚會或場地使用指南。
+            - heading [level=3] [ref=f4e340]:
+              - text: 9 月 7 日：頭殼視野、深圳外拍、部件故障與硬質假髮過程
+              - link "¶" [ref=f4e341] [cursor=pointer]:
+                - /url: "#9-7"
+            - paragraph [ref=f4e342]:
+              - text: Hidden_is_Fun 於 02:09 發布一段 33 秒《太鼓達人》紀錄，簡介以「根本看不見一點」描述頭殼下的視野，標籤包含
+              - code [ref=f4e343]: kigurumi
+              - text: 、
+              - code [ref=f4e344]: 音樂遊戲
+              - text: 與
+              - code [ref=f4e345]: 太鼓達人
+              - text: 。同日 22:56，萌物の心發布 4 分 40 秒的《嘗試變娃打絕區零》，簡介稱此前玩
+              - code [ref=f4e346]: Overwatch
+              - text: 時因視野太差無法進行 PVP，在《絕區零》中也不易看清紅黃出招提示，需要依靠經驗應對。
+              - superscript [ref=f4e347]:
+                - link "5" [ref=f4e348] [cursor=pointer]:
+                  - /url: "#fn:bili-sep7"
+              - text: 兩段紀錄來自不同發布者和遊戲，可作為「頭殼視野會影響螢幕資訊讀取」的個人經驗線索；但沒有頭殼視窗尺寸、視野角量測、顯示設定或對照測試，因此不能得出所有頭殼、玩家或遊戲類型的共同結論。
+            - paragraph [ref=f4e349]:
+              - text: 11:48 發布的 29 秒影片在簡介中明確寫「9 月 6 日拍攝於深圳次元小鎮」，並署名同場的天宮心角色；標籤包含
+              - code [ref=f4e350]: kigurumi
+              - text: 與
+              - code [ref=f4e351]: Cosplay
+              - text: 。
+              - superscript [ref=f4e352]:
+                - link "5" [ref=f4e353] [cursor=pointer]:
+                  - /url: "#fn:bili-sep7"
+              - text: 這段資料同時提供實際拍攝日和地點，比只有發布時間的外拍紀錄更完整，但仍未說明場地方許可、參與人數、路線或活動組織者，故只作為城市外拍與協作紀錄，不建立正式活動條目。
+            - paragraph [ref=f4e354]:
+              - text: 13:33，Neo雪待發布《在電玩區自拍的乳膠小羊》，簡介稱裙內電池盒已經外露，後來在夜場跳舞時斷裂，標籤包含
+              - code [ref=f4e355]: DW14
+              - text: 、
+              - code [ref=f4e356]: 膠衣
+              - text: 、
+              - code [ref=f4e357]: kigurumi
+              - text: 與
+              - code [ref=f4e358]: 舞萌
+              - text: 。
+              - superscript [ref=f4e359]:
+                - link "5" [ref=f4e360] [cursor=pointer]:
+                  - /url: "#fn:bili-sep7"
+              - text: 這是一次具體的穿戴部件故障自述，可提醒活動影像之外還有固定、拉扯與維護問題；但沒有電池用途、安裝方式、受力位置、維修結果或主辦方報告，不能寫成 DW14 事故統計或普遍產品缺陷。
+            - paragraph [ref=f4e361]:
+              - text: 23:53，是點點__發布 1 分 13 秒的《kigurumi新人第一次做硬質假髮的一些過程》，標籤包含
+              - code [ref=f4e362]: 手工
+              - text: 、
+              - code [ref=f4e363]: 製作
+              - text: 、
+              - code [ref=f4e364]: 新人
+              - text: 、
+              - code [ref=f4e365]: 假髮
+              - text: 與
+              - code [ref=f4e366]: kigurumi
+              - text: 。
+              - superscript [ref=f4e367]:
+                - link "5" [ref=f4e368] [cursor=pointer]:
+                  - /url: "#fn:bili-sep7"
+              - text: 標題和標籤足以確認這是新人視角的硬質假髮過程展示，簡介僅為連字號，不能據此補寫基材、膠黏劑、分片、固定方式、耗時或耐用性；因此保留為工坊 / 手工線索，不改寫成教學。
+            - heading [level=2] [ref=f4e369]:
+              - text: 已過濾的重複與弱訊號
+              - link "¶" [ref=f4e370] [cursor=pointer]:
+                - /url: "#_2"
+            - list [ref=f4e371]:
+              - listitem [ref=f4e372]: 9 月 2 日新增的 DW14 鏡頭簽與看板娘互動短片仍屬 8 月已整理的同一活動回顧，沒有新增規則、節目單或主辦方閉幕統計，故不建立重複事件。
+              - listitem [ref=f4e373]:
+                - text: 9 月 3 日一段「變娃第一步，穿上皮膚」影片的公開欄位只有服飾、穿搭與
+                - code [ref=f4e374]: zentai
+                - text: 等標籤，且標記為專享內容；目前證據不能確認完整 kigurumi 角色語境或穿戴流程，故不提升為獨立條目。
+              - listitem [ref=f4e375]: 9 月 4—5 日出現的喝水玩笑、生日紀錄、虛構婚禮、無說明「新頭」與純站姿短片，只能證明個人內容發布，不能支持安全規範、正式活動、工坊檔案或產業趨勢，故不單列。
+              - listitem [ref=f4e376]: 9 月 6 日新增的 DW14 回顧、T 台片段與 360 度逛展影片仍指向 8 月已整理的同一活動，沒有新增主辦方規則或閉幕統計；其中標題裡的「1000 隻」等問句沒有主辦方口徑支持，不作為人數資料。
+              - listitem [ref=f4e377]: 同日的生日聚會、純造型展示、工坊成品短片和「頭殼內部會怎樣」等標題型內容缺少過程參數或可核驗結論，不單獨提升為活動、工坊或安全條目。
+              - listitem [ref=f4e378]: 9 月 7—8 日出現的 DW14 首次參與感想、小遊戲、舞萌與夜場片段，以及紫峰大廈的後續視角，仍屬已記錄活動或拍攝的回顧。除電池盒故障自述外，它們沒有新增主辦方統計、規則或場景，因此不重複建立事件。
+              - listitem [ref=f4e379]: 「老頭殼爆改新頭殼」、頭殼介紹、眨眼展示與一般造型影片的公開欄位沒有材料、結構、控制方式或測試資料；長沙夜間同行紀錄只到城市與協作署名，均不足以建立工坊檔案、技術結論或正式活動。
+              - listitem [ref=f4e380]: 只有造型展示、單圖或無上下文鏡頭互動的短片不自動進入月度頁；出現製作參數、活動事實或可核驗討論時再更新。
+              - listitem [ref=f4e381]: Niconico 在截止窗內沒有直接相關新增；YouTube 結果只有日常造型、DW14 鏡頭簽重複內容和尚未開播的預約直播。Bluesky 與 Reddit 本次網路不可達，因此不以舊內容、預約頁或不可存取結果填充國際條目。
+            - heading [level=2] [ref=f4e382]:
+              - text: 領域覆蓋與板塊判斷
+              - link "¶" [ref=f4e383] [cursor=pointer]:
+                - /url: "#_3"
+            - table [ref=f4e386]:
+              - rowgroup [ref=f4e387]:
+                - row [ref=f4e388]:
+                  - columnheader "領域" [ref=f4e389]
+                  - columnheader "9 月 8 日複核判斷" [ref=f4e390]
+                  - columnheader "處理" [ref=f4e391]
+              - rowgroup [ref=f4e392]:
+                - row [ref=f4e393]:
+                  - cell "編年史" [ref=f4e394]
+                  - cell "北京、南京與深圳三條地點明確的外拍紀錄；只有深圳條目提供拍攝日，均沒有正式活動規模" [ref=f4e395]
+                  - cell "作為月度線索，不建立獨立編年事件" [ref=f4e396]
+                - row [ref=f4e397]:
+                  - cell "日常 / 雜談" [ref=f4e398]
+                  - cell "多層穿戴、個人歷程、首次出勤、城市外拍與遊戲視野經驗" [ref=f4e399]
+                  - cell "收錄公開自述範圍，不推導群體結論" [ref=f4e400]
+                - row [ref=f4e401]:
+                  - cell "工坊 / 手工" [ref=f4e402]
+                  - cell "3D 列印、膠衣與腳套進度、頭殼工坊署名、反光塗層測試、硬質假髮過程與電池盒故障" [ref=f4e403]
+                  - cell "收錄過程、歸屬、測試與故障邊界，不補寫未公開參數" [ref=f4e404]
+                - row [ref=f4e405]:
+                  - cell "百科 / 科普" [ref=f4e406]
+                  - cell "過程展示、工坊署名、個人複盤與遊戲經驗都不等於完整教學、評測或群體趨勢" [ref=f4e407]
+                  - cell "記錄證據邊界" [ref=f4e408]
+                - row [ref=f4e409]:
+                  - cell "禮儀 / 安全" [ref=f4e410]
+                  - cell "多層緊繃、反光塗層熱感、電池盒斷裂與頭殼視野均為個人訊號，沒有量測或規範" [ref=f4e411]
+                  - cell "不建立新安全標準" [ref=f4e412]
+                - row [ref=f4e413]:
+                  - cell "學術" [ref=f4e414]
+                  - cell "未發現當月新發表的直接相關研究" [ref=f4e415]
+                  - cell "不收錄" [ref=f4e416]
+            - paragraph [ref=f4e417]: 十三條去重紀錄涵蓋製作過程、工坊歸屬、個人穿戴、新人出勤、個人複盤、工藝測試、三地外拍、部件維護與遊戲視野經驗。現有月度摘要足以承載，不建立獨立工坊、安全、人物或活動板塊。若後續出現正式活動頁、可重現參數、材料與授權說明、具有量測方法的穿戴研究或可核驗的社群調查，將更新原來源鏈而非複製條目。
+            - heading [level=2] [ref=f4e418]:
+              - text: 來源
+              - link "¶" [ref=f4e419] [cursor=pointer]:
+                - /url: "#_4"
+            - generic [ref=f4e420]:
+              - separator [ref=f4e421]
+              - list [ref=f4e422]:
+                - listitem [ref=f4e423]:
+                  - paragraph [ref=f4e424]:
+                    - text: 一个人在江边, “一个 kigurumi 大头的打印过程～,” Bilibili, 2026-09-02,
+                    - link "https://www.bilibili.com/video/BV1wHtL6HELU/" [ref=f4e425] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1wHtL6HELU/
+                    - text: ; Naganohara_Mio_, “五层也太紧了，必须得缓一缓【kigurumi】,” Bilibili, 2026-09-02,
+                    - link "https://www.bilibili.com/video/BV1cstL6JEyb/" [ref=f4e426] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1cstL6JEyb/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1wHtL6HELU" [ref=f4e427] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1wHtL6HELU
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1wHtL6HELU" [ref=f4e428] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1wHtL6HELU
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1cstL6JEyb" [ref=f4e429] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1cstL6JEyb
+                    - text: ", and"
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1cstL6JEyb" [ref=f4e430] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1cstL6JEyb
+                    - link "↩" [ref=f4e431] [cursor=pointer]:
+                      - /url: "#fnref:bili-sep2"
+                    - link "↩" [ref=f4e432] [cursor=pointer]:
+                      - /url: "#fnref2:bili-sep2"
+                - listitem [ref=f4e433]:
+                  - paragraph [ref=f4e434]:
+                    - text: 停定の钟, “邪神手办是如何转变为精致娃娃的—变娃1年多历程盘点,” Bilibili, 2026-09-02,
+                    - link "https://www.bilibili.com/video/BV18Ctm64EqR/" [ref=f4e435] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV18Ctm64EqR/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV18Ctm64EqR" [ref=f4e436] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV18Ctm64EqR
+                    - text: and
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV18Ctm64EqR" [ref=f4e437] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV18Ctm64EqR
+                    - link "↩" [ref=f4e438] [cursor=pointer]:
+                      - /url: "#fnref:bili-retrospective"
+                - listitem [ref=f4e439]:
+                  - paragraph [ref=f4e440]:
+                    - text: 停定の钟, “娃聚时刻：北京温榆河露营外拍,” Bilibili, 2026-09-03,
+                    - link "https://www.bilibili.com/video/BV1WXto63E53/" [ref=f4e441] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1WXto63E53/
+                    - text: ; 陆非鹿_, “第一次变娃出勤喵,” Bilibili, 2026-09-04,
+                    - link "https://www.bilibili.com/video/BV1hPtB6wEuX/" [ref=f4e442] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1hPtB6wEuX/
+                    - text: ; Maddie62, “胶衣主体做好啦,” Bilibili, 2026-09-05,
+                    - link "https://www.bilibili.com/video/BV1e3t26bEqy/" [ref=f4e443] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1e3t26bEqy/
+                    - text: ; 小凌星L, “这是猫啊！？？？【kigurumi】,” Bilibili, 2026-09-05,
+                    - link "https://www.bilibili.com/video/BV1p8bj6ZEM3/" [ref=f4e444] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1p8bj6ZEM3/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1WXto63E53" [ref=f4e445] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1WXto63E53
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WXto63E53" [ref=f4e446] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WXto63E53
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1hPtB6wEuX" [ref=f4e447] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1hPtB6wEuX
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1hPtB6wEuX" [ref=f4e448] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1hPtB6wEuX
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1e3t26bEqy" [ref=f4e449] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1e3t26bEqy
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1e3t26bEqy" [ref=f4e450] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1e3t26bEqy
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1p8bj6ZEM3" [ref=f4e451] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1p8bj6ZEM3
+                    - text: ", and"
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1p8bj6ZEM3" [ref=f4e452] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1p8bj6ZEM3
+                    - link "↩" [ref=f4e453] [cursor=pointer]:
+                      - /url: "#fnref:bili-sep3-5"
+                    - link "↩" [ref=f4e454] [cursor=pointer]:
+                      - /url: "#fnref2:bili-sep3-5"
+                    - link "↩" [ref=f4e455] [cursor=pointer]:
+                      - /url: "#fnref3:bili-sep3-5"
+                    - link "↩" [ref=f4e456] [cursor=pointer]:
+                      - /url: "#fnref4:bili-sep3-5"
+                - listitem [ref=f4e457]:
+                  - paragraph [ref=f4e458]:
+                    - text: 奇数米饭, “[kigurumi]全身反光涂层测试,” Bilibili, 2026-09-06,
+                    - link "https://www.bilibili.com/video/BV1Pcbs6DE8j/" [ref=f4e459] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1Pcbs6DE8j/
+                    - text: ; 出云夏希CHANNEL, “娃娃在南京之巅,” Bilibili, 2026-09-06,
+                    - link "https://www.bilibili.com/video/BV1WHbW67EKD/" [ref=f4e460] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1WHbW67EKD/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pcbs6DE8j" [ref=f4e461] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1Pcbs6DE8j
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Pcbs6DE8j" [ref=f4e462] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Pcbs6DE8j
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1WHbW67EKD" [ref=f4e463] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1WHbW67EKD
+                    - text: ", and"
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WHbW67EKD" [ref=f4e464] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WHbW67EKD
+                    - link "↩" [ref=f4e465] [cursor=pointer]:
+                      - /url: "#fnref:bili-sep6"
+                    - link "↩" [ref=f4e466] [cursor=pointer]:
+                      - /url: "#fnref2:bili-sep6"
+                - listitem [ref=f4e467]:
+                  - paragraph [ref=f4e468]:
+                    - text: Hidden_is_Fun, “能看到不？能看到啊？哪儿看的？,” Bilibili, 2026-09-07,
+                    - link "https://www.bilibili.com/video/BV1Nnbx6dE7r/" [ref=f4e469] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1Nnbx6dE7r/
+                    - text: ; 凉风青叶级看板舰, “[kigurumi]大阿喵喵玩弄小mea,” Bilibili, 2026-09-07,
+                    - link "https://www.bilibili.com/video/BV11Zbc6WEGW/" [ref=f4e470] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV11Zbc6WEGW/
+                    - text: ; Neo雪待, “在电玩区自拍的乳胶小羊,” Bilibili, 2026-09-07,
+                    - link "https://www.bilibili.com/video/BV169bP69Ewq/" [ref=f4e471] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV169bP69Ewq/
+                    - text: ; 萌物の心, “尝试变娃打绝区零,” Bilibili, 2026-09-07,
+                    - link "https://www.bilibili.com/video/BV1B6bT6FEZq/" [ref=f4e472] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1B6bT6FEZq/
+                    - text: ; 是點點__, “kigurumi新人第一次做硬质假发的一些过程,” Bilibili, 2026-09-07,
+                    - link "https://www.bilibili.com/video/BV1iybT64EfF/" [ref=f4e473] [cursor=pointer]:
+                      - /url: https://www.bilibili.com/video/BV1iybT64EfF/
+                    - text: ". Public metadata and tags:"
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1Nnbx6dE7r" [ref=f4e474] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1Nnbx6dE7r
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Nnbx6dE7r" [ref=f4e475] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Nnbx6dE7r
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV11Zbc6WEGW" [ref=f4e476] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV11Zbc6WEGW
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV11Zbc6WEGW" [ref=f4e477] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV11Zbc6WEGW
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV169bP69Ewq" [ref=f4e478] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV169bP69Ewq
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV169bP69Ewq" [ref=f4e479] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV169bP69Ewq
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1B6bT6FEZq" [ref=f4e480] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1B6bT6FEZq
+                    - text: ","
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1B6bT6FEZq" [ref=f4e481] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1B6bT6FEZq
+                    - text: ","
+                    - link "https://api.bilibili.com/x/web-interface/view?bvid=BV1iybT64EfF" [ref=f4e482] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/web-interface/view?bvid=BV1iybT64EfF
+                    - text: ", and"
+                    - link "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1iybT64EfF" [ref=f4e483] [cursor=pointer]:
+                      - /url: https://api.bilibili.com/x/tag/archive/tags?bvid=BV1iybT64EfF
+                    - link "↩" [ref=f4e484] [cursor=pointer]:
+                      - /url: "#fnref:bili-sep7"
+                    - link "↩" [ref=f4e485] [cursor=pointer]:
+                      - /url: "#fnref2:bili-sep7"
+                    - link "↩" [ref=f4e486] [cursor=pointer]:
+                      - /url: "#fnref3:bili-sep7"
+                    - link "↩" [ref=f4e487] [cursor=pointer]:
+                      - /url: "#fnref4:bili-sep7"
+      - button "回到頂部"
+    - contentinfo [ref=f4e488]:
+      - navigation "頁脚" [ref=f4e489]:
+        - 'link "上一頁: 2026 年 8 月公開資料摘要" [ref=f4e490] [cursor=pointer]':
+          - /url: ../2026-08/
+          - generic [ref=f4e494]:
+            - text: 上一頁
+            - generic [ref=f4e495]: 2026 年 8 月公開資料摘要
+        - 'link "下一頁: 地點目錄" [ref=f4e496] [cursor=pointer]':
+          - /url: ../../places/
+          - generic [ref=f4e497]:
+            - text: 下一頁
+            - generic [ref=f4e498]: 地點目錄
+      - generic [ref=f4e503]:
+        - generic [ref=f4e504]: Copyright © 2026 Kigurumi 編年志資料館。本站內容用於資料整理、研究與教育參考；引用時請保留署名、出處與語境。
+        - generic [ref=f4e506]:
+          - link "首頁" [ref=f4e507] [cursor=pointer]:
+            - /url: /zh-Hant/
+          - link "參與加入" [ref=f4e510] [cursor=pointer]:
+            - /url: /zh-Hant/join/
+          - link "編年目錄" [ref=f4e513] [cursor=pointer]:
+            - /url: /zh-Hant/chronicle/
+          - link "地點目錄" [ref=f4e516] [cursor=pointer]:
+            - /url: /zh-Hant/places/
+          - link "關於介紹" [ref=f4e519] [cursor=pointer]:
+            - /url: /zh-Hant/about/
+          - link "引用規範" [ref=f4e522] [cursor=pointer]:
+            - /url: /zh-Hant/citation/
+          - link "常見問題" [ref=f4e525] [cursor=pointer]:
+            - /url: /zh-Hant/faq/
+          - link "開源協議" [ref=f4e528] [cursor=pointer]:
+            - /url: /zh-Hant/license/

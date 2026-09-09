@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+  {{ super() }}
+  <template id="archive-theme-icons">
+    {% for name in ['arrow-right', 'magnify', 'close', 'format-list-bulleted'] %}
+    <span data-icon="{{ name }}" class="md-icon" aria-hidden="true">{% include ".icons/material/" ~ name ~ ".svg" %}</span>
+    {% endfor %}
+  </template>
+{% endblock %}
