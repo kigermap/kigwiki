@@ -4,6 +4,8 @@
   <p>地点目录记录社群记忆发生的空间。这里的“地点”不只是地址，也包括会馆、工坊、展场、聚会空间、摄影棚、线上资料馆和长期承担功能的社群节点。</p>
 </section>
 
+[头壳店铺目录](../makers/index.md)：按制作店铺浏览国内外 animegao kigurumi 头壳业务、公开报价、联系方式与跨平台归属。
+
 <section class="archive-section" markdown>
   <p class="archive-kicker">Place & Status</p>
   <h2>地点与地位</h2>

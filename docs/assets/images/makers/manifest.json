@@ -1,0 +1,382 @@
+[
+  {
+    "file": "hidolls-logo.jpg",
+    "maker": "HiDolls / Dreammask Studio",
+    "kind": "logo",
+    "source": "https://static.wixstatic.com/media/358f94_d1c3ca89c2fe4171a770989d37c3c62c~mv2.jpg/v1/fill/w_976,h_193,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/bannerHD.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "3c77f0db3000f6c97455b980ec07d48e35c4a033c0f23a99c3ca7196a49b5a43",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "meis-logo.svg",
+    "maker": "MEIS 莓萌 / 拼好头",
+    "kind": "logo",
+    "source": "https://www.kigis.me/images/meimoe.svg",
+    "checked": "2026-09-09",
+    "mime": "image/svg+xml",
+    "sha256": "d39851cdc6c9a816809cc906472a62ee25d9cdde0937e69cee4f9bc38ab9b2af",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "meis-photo.webp",
+    "maker": "MEIS 莓萌 / 拼好头",
+    "kind": "photo",
+    "source": "https://www.kigis.me/images/pinhaotou/pht-01/251126-01593.webp",
+    "checked": "2026-09-09",
+    "mime": "image/webp",
+    "sha256": "a4133d3e7275e77727e5765c8bbde3290357651e76919a9a867e35eff55d3a05",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "heyao-logo.png",
+    "maker": "河妖工房 HEYAOHEYAO",
+    "kind": "logo",
+    "source": "https://heyaoheyao.com/cdn/shop/files/5ac9bff3551ae86ed35eefbf297aeb0d_8c58f3a1-bc9c-451d-9d0f-4a70a4f9aed3_x25.png?v=1632373822",
+    "checked": "2026-09-09",
+    "mime": "image/png",
+    "sha256": "ea0fa7278da0d305838908a55b10c44cf663f4bcce47acfe25714d96b4391156",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "bhy-logo.png",
+    "maker": "不还原人形 BHY",
+    "kind": "logo",
+    "source": "https://bhyrenxing.com/cdn/shop/files/0e44a1e857d737112dc14a2239bda79c.png?v=1755173320&width=600",
+    "checked": "2026-09-09",
+    "mime": "image/png",
+    "sha256": "f58ab8ab14812b3953b3d45b6ce9707a0a4ab399065853003a23d3be284b64e8",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "blackcat-logo.png",
+    "maker": "玄猫物語 BlackCatKig",
+    "kind": "logo",
+    "source": "https://blackcatkig.com/cdn/shop/files/loading-icon_b8133d25-74d0-4e79-9175-c2bcea30bd25.png?v=1774431585&width=600",
+    "checked": "2026-09-09",
+    "mime": "image/png",
+    "sha256": "0bfc73ee473fbe54366c598a0f0fb5e67a4ca219b6950ba7525a73d990631e8a",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "gko-logo.png",
+    "maker": "豪華王 GKO",
+    "kind": "logo",
+    "source": "https://static.wixstatic.com/media/648814_f85eae0caa5e4d808c9088204f0db58c~mv2_d_3840_2160_s_2.png/v1/crop/x_231,y_450,w_3609,h_1180/fill/w_360,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/648814_f85eae0caa5e4d808c9088204f0db58c~mv2_d_3840_2160_s_2.png",
+    "checked": "2026-09-09",
+    "mime": "image/png",
+    "sha256": "751438dd5045f0ccc989e005f8cc124d6d26ea522d3a23cd608159905721c413",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "munimuni-logo.jpg",
+    "maker": "むにむに製作所 MuniMuni",
+    "kind": "logo",
+    "source": "https://baseec-img-mng.akamaized.net/images/user/logo/f4daa4cdc044bd87758d69c588d5f079.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "c804a51c54c1409b58e43147d5471a3f7f1b2a664bc2b72a3d5d35df1c30dd0b",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "dame-logo.png",
+    "maker": "DAME Kigurumi",
+    "kind": "logo",
+    "source": "https://damekigurumi.com/image/cache/catalog/DAME_Full_Text_02-700x91.png?v=1657034485",
+    "checked": "2026-09-09",
+    "mime": "image/png",
+    "sha256": "1f10facebd170efb0a69549e92447abe13aab058e3e97116d5f33dde4cc607cf",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "kigcos-logo.png",
+    "maker": "KigCos / Wyu",
+    "kind": "logo",
+    "source": "https://www.kigcos.com/wp-content/uploads/2019/01/cropped-logo0-4.png",
+    "checked": "2026-09-09",
+    "mime": "image/png",
+    "sha256": "070745d0f8bd19a0d63c9d6e07001654ad5eed2cf24a9018bddbb877159429da",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "teitoku-logo.webp",
+    "maker": "提督工房 Teitoku Workshop",
+    "kind": "logo",
+    "source": "https://images.squarespace-cdn.com/content/v1/65edf860d665cb6f6063ab78/8780a7ef-20e0-487a-9a91-ebf585bfa245/logo.png?format=500w",
+    "checked": "2026-09-09",
+    "mime": "image/webp",
+    "sha256": "7395ea89424bc52c2f82748b96b0c0170f56aa973bf6d2ad8da0f37c60487251",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "middream-logo.png",
+    "maker": "MidDreamKigu（原 KigLover）",
+    "kind": "logo",
+    "source": "https://kiglover.com/cdn/shop/files/logo.webp?v=1782361670&width=600",
+    "checked": "2026-09-09",
+    "mime": "image/png",
+    "sha256": "010f3dd00b2278ad879e4292b3ae75f8dc7347205de6d8843c10f5744ffeb8e9",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "sensei-logo.png",
+    "maker": "Kigurumi Sensei",
+    "kind": "logo",
+    "source": "https://kigurumisensei.com/wp-content/uploads/2021/09/cropped-kigurumi-sensei-logo-opt.png",
+    "checked": "2026-09-09",
+    "mime": "image/png",
+    "sha256": "5955fc7f68b4b65db648315919872f1b479c9ee7cf7c5aa29bdea2c5e001b4df",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "umoon-logo.jpg",
+    "maker": "冉月剧团 Umoon",
+    "kind": "logo",
+    "source": "https://i0.hdslb.com/bfs/face/23869e924720afec10ec20bae1812e15ab510492.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "d8b1f44fcbdfa1510e02d45ba12a819f9254d09fef6985d9810af7816d7cd46f",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "raigeki-logo.jpg",
+    "maker": "雷击工坊 Raigeki",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1137947049985421312/CtYkE1xj_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "3c9348b245490af794e7fe3f970713189b95dc59e35c9a88e406de9b3cb77194",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "nekotofu-logo.jpg",
+    "maker": "猫豆腐 NekoToufu",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1819332827819003905/UPi0rl_c_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "98a98077fd0bc86b148dd0a3ffca8de7693fa20288ec942a2c2b35d90ca999ac",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "haagaau-logo.jpg",
+    "maker": "虾饺工房 Haagaau",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1774873972611670016/7hf0p60d_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "faea8d0c96983920d575d8f63f5e4f962dac98cd7963b960d2249210a7cfac1e",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "4uuone-logo.jpg",
+    "maker": "底层人员 4uuone",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1859081014423023616/BM3qCH_E_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "cc95bfda65100e7a914814816bbde2c9a8a9eaac48c7dc63eb2faf6b3090976f",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "power-logo.jpg",
+    "maker": "速趴抛瓦 Power Kigurumi",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1958744506704306176/bp4TahnQ_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "89f1d30ae6467ce39729e7adb2e9d57092e130dd8c5e1298dfe9d2f4a4c2c94b",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "akg-logo.jpg",
+    "maker": "AKG / Alice Kig Garden",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1993269989923864577/vAYeMJ_o_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "66b8a3377b46764700d20044e8a6a6568bbd69acc14bbb6bbba196d4b9f97c19",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "beadoll-logo.jpg",
+    "maker": "偶形记 BEADOLL",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1909475396980293632/rH9pyudu_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "dc778129a9707fe4aa6e81c4b9952be8ce120a63fdbbc4c99a646aa76f426721",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "dora-logo.jpg",
+    "maker": "哆啦工坊 Dora Studio",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/2007801570843664384/V84Rw3vg_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "a3e060700cb346fc8c41837d665a9743673036d0aaf31cfeb6b05e8fb4b0ab15",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "fantasymasks-logo.jpg",
+    "maker": "绮幻坊 FantasyMasks",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1774847393512706049/7lBsElVW_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "2bf7140cefccd1e55897f58fa583bf7e15a506f35be0f63591216b9bbca9ca92",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "newfacedoll-logo.jpg",
+    "maker": "新颜玩偶 New Face Doll",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1460482417370624003/gR2e3QKo_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "3181a2ac9434b8aa253b4e4d223f9fd717a0797f394a7fd4f75b5c25cb993260",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "shinkai-logo.jpg",
+    "maker": "深海工坊 Shinkai Workshop",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1295728942775582720/7TSNBcoE_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "667b6c5acf816eef8278560898a37a110a051ce12b31cd3e8e2b1d66bd9d24b9",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "samon-logo.jpg",
+    "maker": "厚切三文鱼工坊 Samon",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1883774127552819200/EhWHJDu__400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "94d091a3319e63a2ac4af9a500cf5bced32ca78070f5ec50606d1f254dd52b73",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "aniplus-logo.jpg",
+    "maker": "壳反应 Aniplus",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1425296352133611524/PovMbZ36_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "6473db53949f006358522c3f3cdf0787dec2d40abd530183c36c3732b7032ddc",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "nm-logo.jpg",
+    "maker": "NM工坊 Nonhumanmasque",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1610322913307009025/pjdLveG__400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "b69d123c47f388a74816fc511df35289093288b98a0c53f270921d2eaea9a1ed",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "xingyueqi-logo.jpg",
+    "maker": "星玥琦工坊",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1924345218112823296/C2Fqy4qz_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "0e3c4eb31c6b0c6a90822b52b2e0e2cbf31987cbb9020edc3960d677352d18b3",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "sakurano-logo.jpg",
+    "maker": "乃粉罐头 Sakurano",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1876968959284842496/zkXakdvt_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "eb5c886ea2b757bfdeced9ace476704d9cf4342a49f4e3e986104dd07fe276e4",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "rabbit-logo.jpg",
+    "maker": "兔子 Kigurumi 工坊",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/2096870625143091200/BBQge_10_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "6a27ce7b9e3d0b5c3fbe7abb1311095831046790e66d7ff8dbd867f6e3e76885",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "beartech-logo.jpg",
+    "maker": "熊熊工业技研中心",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1689671422237679616/kTlPCGVs_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "b93f457d10342074447f55d6e8f5161c4f5a3d2b3f96128dc0f74667624ae944",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "magicdoll-logo.jpg",
+    "maker": "魔界工坊 MagicDoll",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1876567869980606464/8z1dkLgH_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "5762e4b234218693238cdad5ede480aa2a06b49cb844d24d746be9fd1de7c545",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "haka-logo.jpg",
+    "maker": "哈卡人形 Kigurumi",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1899100118558900224/u7Y_3QGJ_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "12f38e385fad089874cd87c3dd199200f19a10a3c82cab65f567b74091850c1a",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "2dfantasy-logo.jpg",
+    "maker": "二维幻想 2D Fantasy",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1839835950048006144/vbMBjTRI_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "d4af18e3c9a2425120bbeabcf634f12f36415e4bcedc3d2d4953a0c4c01a72d0",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "aria-logo.jpg",
+    "maker": "Haruka 的道具屋 ARIA",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1209770627587928065/V2rvDXuW_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "ac31bb09af1a020fd90515d47a01c0e98e17f10d73f40487b84b1f60508e089b",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "hideyoshi-logo.jpg",
+    "maker": "秀吉姬 Kigurumi 工坊",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1857825022238404608/5fGT1J6F_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "4640739c050c0f6bb0324d32164b67b3016d413197c485b638e2c6f341775639",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  },
+  {
+    "file": "huyao-logo.jpg",
+    "maker": "狐妖手作 Kigurumi",
+    "kind": "logo",
+    "source": "https://pbs.twimg.com/profile_images/1959151122079424512/c9rdVmDo_400x400.jpg",
+    "checked": "2026-09-09",
+    "mime": "image/jpeg",
+    "sha256": "cd466fc6e038bc451268ab1ae8bfaf8a9a0b3df3dfedb09bc1f8a6e58b0e5d6b",
+    "rights": "Third-party brand identification / product reference; no open license asserted."
+  }
+]
