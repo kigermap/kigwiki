@@ -142,6 +142,9 @@ plugins:
                     - 2026 年 7 月公开资料摘要: digests/2026-07/index.md
                     - 2026 年 8 月公开资料摘要: digests/2026-08/index.md
                     - 2026 年 9 月公开资料摘要: digests/2026-09/index.md
+            - 头壳店铺:
+                - 店铺目录: makers/index.md
+                - 收录与复核: makers/methodology.md
             - 志目:
                 - 地点目录: places/index.md
                 - 人物目录: people/index.md
@@ -247,6 +250,9 @@ plugins:
                     - 2026 年 7 月公開資料摘要: digests/2026-07/index.md
                     - 2026 年 8 月公開資料摘要: digests/2026-08/index.md
                     - 2026 年 9 月公開資料摘要: digests/2026-09/index.md
+            - 頭殼店鋪:
+                - 店鋪目錄: makers/index.md
+                - 收錄與複核: makers/methodology.md
             - 志目:
                 - 地點目錄: places/index.md
                 - 人物目錄: people/index.md
@@ -349,6 +355,9 @@ plugins:
                     - July 2026 Public-Source Digest: digests/2026-07/index.md
                     - August 2026 Public-Source Digest: digests/2026-08/index.md
                     - September 2026 Public-Source Digest: digests/2026-09/index.md
+            - Mask Makers:
+                - Maker Directory: makers/index.md
+                - Sources and Verification: makers/methodology.md
             - Gazetteer:
                 - Places: places/index.md
                 - People: people/index.md
@@ -452,6 +461,9 @@ plugins:
                     - 2026年7月 公開資料ダイジェスト: digests/2026-07/index.md
                     - 2026年8月 公開資料ダイジェスト: digests/2026-08/index.md
                     - 2026年9月 公開資料ダイジェスト: digests/2026-09/index.md
+            - マスク工房:
+                - 工房一覧: makers/index.md
+                - 出典と確認: makers/methodology.md
             - 志目:
                 - 場所目録: places/index.md
                 - 人物目録: people/index.md
@@ -557,6 +569,9 @@ plugins:
                     - Обзор за июль 2026 года: digests/2026-07/index.md
                     - Обзор за август 2026 года: digests/2026-08/index.md
                     - Обзор за сентябрь 2026 года: digests/2026-09/index.md
+            - Мастерские масок:
+                - Каталог мастерских: makers/index.md
+                - Источники и проверка: makers/methodology.md
             - Справочник:
                 - Места: places/index.md
                 - Люди: people/index.md
@@ -581,9 +596,11 @@ hooks:
 
 extra_css:
   - assets/stylesheets/extra.css?v=20260909-museum
+  - assets/stylesheets/makers.css?v=20260909-makers
 
 extra_javascript:
-  - assets/javascripts/archive-ui.js?v=20260909-museum
+  - assets/javascripts/archive-ui.js?v=20260909-makers
+  - assets/javascripts/makers.js?v=20260909-makers
 
 extra:
   generator: false
@@ -683,6 +700,9 @@ nav:
           - 2026 年 7 月公开资料摘要: digests/2026-07/index.md
           - 2026 年 8 月公开资料摘要: digests/2026-08/index.md
           - 2026 年 9 月公开资料摘要: digests/2026-09/index.md
+  - 头壳店铺:
+      - 店铺目录: makers/index.md
+      - 收录与复核: makers/methodology.md
   - 志目:
       - 地点目录: places/index.md
       - 人物目录: people/index.md

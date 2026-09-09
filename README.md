@@ -108,6 +108,18 @@ python scripts/build_indexes.py --write
 
 ## 页面开发约定
 
+### 头壳店铺目录
+
+独立栏目为 `/makers/`，可筛选并进入每个主体的档案。其他语言沿用既有简体中文回退机制，不将回退内容冒充已完成翻译。
+
+- 数据母本：`docs/assets/data/makers.yml`，保留字段来源、币种、订金和营业状态。
+- 重新生成：`.venv/bin/python scripts/build_makers.py`。
+- 一致性校验：`.venv/bin/python scripts/build_makers.py --check`。
+- 来源、去重及平台覆盖：`docs/zh-Hans/makers/methodology.md`。
+- 第三方图像出处：`docs/assets/images/makers/manifest.json`。不使用生成图伪造商标。
+
+列表、详情与下载 JSON 由同一母本生成。构建不联网，使用已生成的 Markdown 和本地图片；修改母本后须先运行生成器。只记录 animegao 人脸／动漫角色头壳，furry 兽头、代理和二手转卖不得未经复核混入制作店铺。
+
 每个页面优先在 `docs/zh-Hans/` 下维护，再根据需要补齐其他语言。同一路径页面会对应不同语言版本，例如：
 
 ```text

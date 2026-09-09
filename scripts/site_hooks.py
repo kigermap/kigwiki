@@ -79,6 +79,11 @@ DEFAULT_NAV = """
       </a>
     </li>
     <li class="md-nav__item">
+      <a href="/makers/" class="md-nav__link">
+        <span class="md-ellipsis">头壳店铺</span>
+      </a>
+    </li>
+    <li class="md-nav__item">
       <a href="/people/" class="md-nav__link">
         <span class="md-ellipsis">人物目录</span>
       </a>
@@ -148,6 +153,7 @@ DEFAULT_SEARCH_TRANSLATIONS = {
     "select.version": "选择版本",
 }
 PAGE_DESCRIPTIONS = {
+    "/makers/": "国内外 animegao kigurumi 头壳制作店铺目录，整理公开价格、联系方式、营业证据与跨平台归属。",
     "/years/1997/": "1997 年 Kigurumi 编年史，记录东京电玩展春秋两届、改为一年两届及 kigurumi / animegao 参与的证据边界。",
     "/years/1998/": "1998 年 Kigurumi 编年史，记录东京电玩展春秋两届、春季排队纪念品及 kigurumi / animegao 参与的证据边界。",
     "/": "Kigurumi 编年志是面向 kigurumi 社群的公开资料馆，整理编年史、志目、人物、地点、来源和参与流程。",

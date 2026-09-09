@@ -1,0 +1,2020 @@
+checked: '2026-09-09'
+scope: Animegao kigurumi 人脸／动漫角色头壳；不收录 furry 兽头、兽装、连体睡衣或一般乳胶面具。
+makers:
+  - id: hidolls
+    name: HiDolls / Dreammask Studio
+    aliases: [HaiDolls, Dreammask, 海朵]
+    region: 中国大陆
+    location: 中国广东云浮（官方客服页）；未确认线下接待地址
+    status: sales
+    status_note: 官方人脸头壳商品页有价格、配置及购买入口；同店 Animal 系列明确排除。
+    summary: Dreammask 旗下的头壳产品线，提供 YumeFace 人脸模块化头壳与动漫角色定制。
+    description: Dreammask 综合店内的 HiDolls / HaiDolls 产品线包含人脸与动物造型。本目录仅收录明确的动漫人脸 HD-T1 和动漫角色定制服务。HD-T1 为硬质树脂全头，公开可换眼口组件与磁吸铰链；不收录 HD09 Animal、一般硅胶面具或其他无关用品。
+    categories: [量产成品, 全定制]
+    logo: https://static.wixstatic.com/media/358f94_d1c3ca89c2fe4171a770989d37c3c62c~mv2.jpg/v1/fill/w_976,h_193,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/bannerHD.jpg
+    logo_source: catalog
+    price_summary: USD 1045.80（HD-T1 活动价）
+    contacts:
+      - [客服邮箱, support@dreammask.net, 'mailto:support@dreammask.net', contact]
+      - [定制邮箱, dreammask2020@gmail.com, 'mailto:dreammask2020@gmail.com', custom]
+      - [公开业务邮箱, 2605406750@qq.com, 'mailto:2605406750@qq.com', contact]
+      - [公开业务电话, '+86 0766 8459836', 'tel:+867668459836', contact]
+      - [公开业务电话, '+86 18207664570', 'tel:+8618207664570', contact]
+    channels:
+      - [官网, Dreammask / HiDolls, 'https://www.dreammask.net/shop-1', 官方商品分类, catalog]
+      - [淘宝, Dreammask 历史入口, 'https://shop262915540.world.taobao.com/', 第三方目录线索，待复核, directory]
+    merge_note: HiDolls、HaiDolls 的拼写均出现于 Dreammask 官网，为同站产品线；不因此把该站全部非人脸面具归入本目录。旧淘宝入口未获本次官方跨链复核。
+    terms: 定制价包含头壳与耐热假发；页面写明含运费、预计 60 个工作日。附加设计需补差价，进入建模与生产后不可任意退换。客服页写周一至周五 10:00–18:00 PST，时区按原文保留。活动期限未公开，实际金额需在结账前确认。
+    products:
+      - [HD-T1 YumeFace Kigurumi Mask, 量产人脸头壳, USD, '1045.80', 活动价, 原价 1162；T1-1 至 T1-4 表情模块，配置可能影响价格, yumeface]
+      - [HiDolls Custom Kigurumi Mask, 动漫角色全定制, USD, '1350', 活动基础价, 原价 1500；全头或 3/4 壳及假发，额外设计另计, custom]
+    sources:
+      catalog: [HiDolls 官方分类及品牌标识, 'https://www.dreammask.net/shop-1']
+      yumeface: [HD-T1 人脸头壳规格与售价, 'https://www.dreammask.net/product-page/hd-t1-yumeface-kigurumi-mask']
+      custom: [动漫角色定制、交期与含运费说明, 'https://www.dreammask.net/product-page/hidolls-customization-kigurumi-mask']
+      contact: [第一方公开业务联络与城市, 'https://www.dreammask.net/contact']
+      directory: [历史淘宝关联线索（非实时）, 'https://makers.kig-o.com/']
+  - id: meis
+    name: MEIS 莓萌 / 拼好头
+    aliases: [莓萌, 拼好头, Pinhaotou, 虹野物联, 绘面]
+    region: 中国大陆
+    location: 中国河南郑州航空港区（官网公布的总部）
+    status: sales
+    status_note: 官网有 PHT 系列价格、淘宝购买入口及客服时间；定制需求页本次返回 HTTP 500，定制请从官方客服确认。
+    summary: 同一经营主体下的角色定制与量产头壳品牌，提供 PHT 系列和一对一角色定制。
+    description: 郑州虹野物联科技有限公司旗下，莓萌侧重角色定制，拼好头侧重模具化量产；官网介绍了建模、打印、化妆、假发造型及包装流程。PHT-01 为人脸动漫头壳，官网列明磁吸眼片、可拆后壳和造型假发。绘面为同主体旗下品牌，本次未取得其独立在售商品。
+    categories: [量产成品, 全定制, 配件]
+    logo: https://www.kigis.me/images/meimoe.svg
+    logo_source: home
+    photo: https://www.kigis.me/images/pinhaotou/pht-01/251126-01593.webp
+    photo_caption: PHT-01 电子歌姬，店铺官方产品图。
+    photo_source: pht01
+    price_summary: CNY 998 起（量产）
+    contacts:
+      - [QQ 官方群, '1036511798', 'https://qm.qq.com/q/ujodzxwQbm', contact]
+      - [淘宝旺旺, MEIS莓萌KIGURUMI, 'https://meis.taobao.com/', contact]
+      - [X, '@KigMEIS', 'https://x.com/KigMEIS', home]
+      - [Bilibili, MEIS莓萌, 'https://space.bilibili.com/3546864949398208', home]
+      - [X, '@pinhaotou', 'https://x.com/pinhaotou', home]
+      - [Bilibili, kigurumi拼好头, 'https://space.bilibili.com/3546800566831253', home]
+    channels:
+      - [官网, 莓萌与拼好头, 'https://www.kigis.me/', 官方直链, home]
+      - [淘宝, MEIS莓萌KIGURUMI, 'https://meis.taobao.com/', 官方直链, home]
+    merge_note: 官网关于页明确莓萌、拼好头、绘面属于虹野物联，按一个经营主体合并，保留子品牌。PHT-01 FAQ 明确与偶域 Kig.Land 不是同一家；友情链接不构成同店证据。尚未确认其拼多多、闲鱼、京东或亚马逊店铺。
+    terms: 工作日 10:00–19:00，GMT+8。PHT-01 不接受改妆改型；官网说明全款含头壳、造型假发与发饰。运费、当前档期和活动以对应商品及客服确认为准。
+    products:
+      - [PHT-01 电子歌姬, 量产成品, CNY, '998', 起价, 系列总览标价；首发与通贩档位不同, catalog]
+      - [PHT-02 星核猎手, 量产成品, CNY, '1145.14', 起价, 系列总览公开起价, catalog]
+      - [PHT-03 金色那菈, 量产成品, CNY, '998', 起价, 系列总览公开起价, catalog]
+      - [PHT-04 安辨雌雄, 量产成品, CNY, '1145.14', 起价, 系列总览公开起价, catalog]
+      - [PHT-05 洛水伊人, 量产成品, CNY, '998', 起价, 系列总览公开起价, catalog]
+      - [莓萌全头定制, 全定制, CNY, '3699', 起价, PHT-01 FAQ 公开；需按角色报价, pht01]
+      - [PHT-01 全网孔纸眼片, 配件, CNY, '29', 选配差价, 不属于整头售价, pht01]
+    sources:
+      home: [官方首页及平台链接, 'https://www.kigis.me/']
+      about: [经营主体与品牌矩阵, 'https://www.kigis.me/about']
+      contact: [联系方式及服务时间, 'https://www.kigis.me/contact']
+      catalog: [PHT 系列与公开价格, 'https://www.kigis.me/pinhaotou']
+      pht01: [PHT-01 规格与定制价格 FAQ, 'https://www.kigis.me/pht-01']
+  - id: heyao
+    name: 河妖工房 HEYAOHEYAO
+    aliases: [河妖工坊, KIGURU, heyaoheyao]
+    region: 中国大陆
+    location: 中国广东（官方 X 业务简介）；具体城市及制作地址未公开
+    status: sales
+    status_note: 官网存在可售现货与售罄商品，明确通过官方 X 咨询角色定制；不将售罄型号计为现货。
+    summary: 提供角色头壳定制及命名型号现货，官网自述从 2013 年开始制作头壳。
+    description: 河妖团队公开介绍其头壳生产流程和多种风格型号，接受参考图定制。店铺同时销售紧身衣、制服等配套商品，本档案重点记录人脸动漫头壳。
+    categories: [现货成品, 全定制, 肤色衣, 配件]
+    logo: https://heyaoheyao.com/cdn/shop/files/5ac9bff3551ae86ed35eefbf297aeb0d_8c58f3a1-bc9c-451d-9d0f-4a70a4f9aed3_x25.png?v=1632373822
+    logo_source: home
+    price_summary: USD 1180 起（所录现货）
+    contacts:
+      - [X, '@heyaoheyao', 'https://twitter.com/heyaoheyao', home]
+    channels:
+      - [官网, HEYAOHEYAO, 'https://heyaoheyao.com/', 官方销售站, home]
+      - [淘宝, 河妖工房历史入口, 'https://shop339252004.taobao.com/', 第三方目录线索，待复核, directory]
+    merge_note: 官网品牌与河妖工房中文名称相互对应。淘宝 shop339252004 同时见于两份社群目录，归属仅作候选关联；本次没有取得官方跨链，不能把该店当前商品和价格并入官网数据。
+    terms: 定制需通过 X 提交参考资料；独立原创作品或人设需取得原作者许可。官网美元价格不含结账时计算的运费与税费，商品库存逐项确认。
+    products:
+      - [Kigurumi Mask X-01, 现货成品, USD, '1480', 页面标价, 首页未标售罄, home]
+      - [Kigurumi Mask J-01, 现货成品, USD, '1280', 页面标价, 首页未标售罄, home]
+      - [Kigurumi Mask L-03, 现货成品, USD, '1180', 页面标价, 首页未标售罄, home]
+      - [Kigurumi Mask 花卷-02, 现货成品, USD, '1480', 页面标价, 首页未标售罄, home]
+      - [L-05 / L-04 / 春卷-01 / H-01 / E, 历史成品, '', '', 售罄, 首页明确 Sold Out，未抄录不可见价格, home]
+      - [角色定制头壳, 全定制, '', '', 询价, 按参考图联系官方 X, home]
+    sources:
+      home: [官方产品与品牌介绍, 'https://heyaoheyao.com/']
+      profile: [官方 X 定制接单与广东所在地声明, 'https://x.com/heyaoheyao']
+      directory: [社群制作者目录（2025-12-10，非实时）, 'https://makers.kig-o.com/']
+  - id: bhy
+    name: 不还原人形 BHY
+    aliases: [BHYrenxing, Kigurumi不还原人形]
+    region: 中国大陆
+    location: 中国；具体城市未核实（国家信息来自制作者目录）
+    status: inquiry
+    status_note: 官网提供全定制流程、报价表单与订金入口；尾款部分页面标售罄，不代表整家工坊停止营业。
+    summary: 提供动漫角色全定制，官网公开约 150 个自然日工期及分阶段付款流程。
+    description: 官网自述制作 kigurumi 头壳，定制流程包括问卷报价、订金、模型与成品确认、尾款及运费。固定造型目录也有动物风格型号，本档案不将其作为 animegao 人脸头壳商品收录。
+    categories: [全定制]
+    logo: https://bhyrenxing.com/cdn/shop/files/0e44a1e857d737112dc14a2239bda79c.png?v=1755173320&width=600
+    logo_source: custom
+    price_summary: 整头询价；USD 400 起订金
+    contacts:
+      - [电子邮箱, bhyrenxing@gmail.com, 'mailto:bhyrenxing@gmail.com', custom]
+      - [X, '@bhyrenxing', 'https://x.com/bhyrenxing', custom]
+    channels:
+      - [官网, BHY, 'https://bhyrenxing.com/', 官方销售站, custom]
+      - [淘宝, 不还原人形历史入口, 'https://shop251067380.world.taobao.com/', 第三方目录线索，待复核, directory]
+    merge_note: BHY 与不还原人形为同品牌名称；淘宝入口来自旧目录，当前归属待复核。Lucky Larus 的历史代理关系不等于同一店铺或经营主体，独立记录。
+    terms: 官网写明约 150 个自然日；问卷提交超过三个工作日未回复可通过官方 X 联系。订金、尾款、运费及加急费是不同项目，不直接相加为统一全款。
+    products:
+      - [动漫角色头壳全定制, 全定制, '', '', 询价, 以问卷与工坊最终报价为准, custom]
+      - [Deposit For BHY Customized Products, 订金, USD, '400', 起价／订金, 不是整头全款, cost]
+      - [Final Payment For BHY Customized Products, 尾款, USD, '850', 起价／售罄, 独立付款项目，不视为固定整头售价, cost]
+      - [Shipping Fee For BHY Customized Products, 运费, USD, '50', 起价, 按目的地确认, cost]
+      - [Expedite fee for BHY Customized Products, 加急费, USD, '150', 附加费, 能否加急需先与工坊确认, cost]
+    sources:
+      custom: [官方全定制流程与联络方式, 'https://bhyrenxing.com/pages/customize']
+      cost: [官方定制付款项目, 'https://bhyrenxing.com/collections/bhys-custom']
+      directory: [社群制作者目录（非实时）, 'https://makers.kig-o.com/']
+  - id: blackcat
+    name: 玄猫物語 BlackCatKig
+    aliases: [玄貓物語, BKC, BlackCat, Molis]
+    region: 中国大陆
+    location: 中国上海浦东工作室；官网关于页另列香港注册主体，两者分别记录
+    address: 官网公开接待地址：3F Building 3 No.558 Hangsan Road, Pudong, Shanghai, 200000, China。须预约；关于页列 MOLIS CORPORATION(HONG KONG) LIMITED，页脚另述上海关联公司，未将注册地当作制作地。
+    status: sales
+    status_note: 官网有现货、角色商品、定制购买入口与可预约工作室信息；部分商品为预购。
+    summary: 上海的动漫人脸头壳工作室，提供 SLA 树脂打印、角色定制、现货与订单查询。
+    description: BKC 官网将品牌解释为 BlackCat，并说明其与 Molis 的关联。其人脸头壳业务使用 SLA 打印与手工假发造型，目录包含游戏和动画角色。母品牌的其他面具及用品不自动归入本栏目。
+    categories: [现货成品, 全定制, 肤色衣, 配件]
+    logo: https://blackcatkig.com/cdn/shop/files/loading-icon_b8133d25-74d0-4e79-9175-c2bcea30bd25.png?v=1774431585&width=600
+    logo_source: home
+    price_summary: USD 835（定制入口标价）
+    contacts:
+      - [电子邮箱, contact@blackcatkig.com, 'mailto:contact@blackcatkig.com', contact]
+      - [电子邮箱, molis@inthemask.com, 'mailto:molis@inthemask.com', contact]
+      - [公开业务短信, '+86 1550 2187 002', 'tel:+8615502187002', contact]
+      - [在线客服, 官网表单及聊天, 'https://blackcatkig.com/pages/contact', contact]
+    channels:
+      - [官网, BlackCatKig, 'https://blackcatkig.com/', 官方销售站, home]
+    merge_note: BlackCatKig、BKC、玄猫物語为同品牌；官网确认与 Molis 的组织关系，但其全部硅胶面具业务不并为 kigurumi 头壳商品。尚未确认国内电商官方店铺。
+    terms: 官网公布周一至周六 09:00–22:00、周日 10:00–18:00；工作室访问需要预约。支持多数国家配送，运费按目的地与体积在结账时计算。定制入口价格不保证覆盖所有复杂角色选项。
+    products:
+      - [Customize A Kig Mask!, 全定制, USD, '835', 入口标价, 全壳／3/4 壳可选；完整配置需核价, home]
+      - [In-stock Lacrimosa / NTE, 现货成品, USD, '1035', 页面标价, 首页标为现货, home]
+      - [Evernight / Honkai Star Rail / 2 Face Plates, 角色头壳, USD, '1375', 页面标价, 双面板；库存以产品页为准, home]
+      - [Nico Robin / ONE PIECE, 角色头壳, USD, '975', 页面标价, 库存以产品页为准, home]
+      - [Akiyama Mizuki, 角色头壳, USD, '900', 页面标价, 库存以产品页为准, home]
+      - [Cerydra / Honkai Star Rail, 角色头壳, USD, '1075', 页面标价, 库存以产品页为准, home]
+      - [Roon / Azur Lane, 角色头壳, USD, '1545', 页面标价, 库存以产品页为准, home]
+      - [Roxy Migurdia, 角色头壳, USD, '875', 页面标价, 库存以产品页为准, home]
+    sources:
+      home: [官方商品与标价, 'https://blackcatkig.com/']
+      about: [品牌及经营主体介绍, 'https://blackcatkig.com/pages/about-us']
+      contact: [公开业务联络与工作室地址, 'https://blackcatkig.com/pages/contact']
+  - id: kigland
+    name: 偶域 Kig.Land
+    aliases: [KIGLAND, Kigland 偶域 Kigurumi]
+    region: 中国大陆
+    location: 中国；官网未公布具体工作室位置
+    status: inquiry
+    status_note: 官网公开现货、角色定制说明及淘宝购买入口，未核实平台内实时库存。
+    summary: 提供角色定制、现货、半成品、假发与道具，主站公开 M.A.G.I.C 头壳产品线。
+    description: 偶域官网面向中文用户介绍 kigurumi 人脸头壳与配套服务。页面提供询价、订单进度查询及淘宝店入口；产品价格仅以千元到几千元概述，没有可核对的具体型号成交价。
+    categories: [现货成品, 全定制, 素体, 配件]
+    logo_note: 官网以文字品牌展示；未取得可独立确认的 logo 文件。
+    price_summary: 官网未公开具体型号价格
+    contacts:
+      - [电子邮箱, service@kig.land, 'mailto:service@kig.land', home]
+      - [QQ 官方群, '903520753', 'https://kig.land/zh-CN', home]
+      - [Telegram, '@XiamiKo', 'https://t.me/XiamiKo', home]
+      - [Discord, 'xiamiko#4693（官网原文，旧格式需复核）', 'https://kig.land/zh-CN', home]
+    channels:
+      - [官网, 偶域 KIGLAND, 'https://kig.land/zh-CN', 官方销售说明, home]
+      - [淘宝, Kigland 偶域 Kigurumi, 'https://kigland.taobao.com/', 官方直链, home]
+    merge_note: 官网与 kigland.taobao.com 有明确直链。莓萌官网明确两者不是同一家，不能因友链或相近入门产品而合并。
+    terms: 仅承接定制委托，官网提示未经授权的角色请勿商用。具体价格、工期、配送范围与配置需向官方客服确认。
+    products:
+      - [M.A.G.I.C, 头壳产品线, '', '', 未公开型号报价, 官网只给出千元至几千元的概述，不作精确价格, home]
+      - [角色定制 / 半成品 / 假发 / 道具, 全定制及配件, '', '', 询价, 官网公开服务类别, home]
+    sources:
+      home: [官方商品说明及联络入口, 'https://kig.land/zh-CN']
+      separate: [莓萌 PHT-01 FAQ 中的品牌区分, 'https://www.kigis.me/pht-01']
+  - id: gko
+    name: 豪華王 GKO
+    aliases: [Goukaou Kigurumi Studio, GOUKAOU, 豪华王]
+    region: 中国台湾
+    location: 中国台湾（社群目录标注）；具体制作地址未公开核实
+    status: sales
+    status_note: 官网逐型号列出 ON SALE / OFF SALE，提供中英日三语订购流程与报价。
+    summary: 提供 GPM 系列半定制头壳、FRP DIY 素体与成品，公开分项价格。
+    description: GKO 提供以既有面型为基础的定制服务，并单独销售 GPM-23 DIY 素体。官网将面具本体、假发、后壳及运费分列；普通 GPM 定制与 GPM-23 DIY / 成品套装属于不同报价体系。
+    categories: [半定制, 素体, 配件, 肤色衣]
+    logo: https://static.wixstatic.com/media/648814_f85eae0caa5e4d808c9088204f0db58c~mv2_d_3840_2160_s_2.png/v1/crop/x_231,y_450,w_3609,h_1180/fill/w_360,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/648814_f85eae0caa5e4d808c9088204f0db58c~mv2_d_3840_2160_s_2.png
+    logo_source: contact
+    price_summary: USD 300 素体 / USD 960 本体
+    contacts:
+      - [电子邮箱, service@gko-kig.com, 'mailto:service@gko-kig.com', contact]
+      - [表单, 官网联络表单, 'https://www.gko-kig.com/contact', contact]
+    channels:
+      - [官网, GKO, 'https://www.gko-kig.com/', 官方销售站, sale]
+    merge_note: GKO、Goukaou、豪華王为同一工房。旧 FC2 博客为历史渠道，未据旧目录的 QQ 号推断当前联系方式。未确认淘宝等平台上的同名商家。
+    terms: 普通定制基本本体 USD 960，假发另计 USD 150–250，PayPal 手续费为总额 4%。GPM-23 DIY 页面另有含亚洲运费的套装说明，不能套用到全部商品。材料性能为店铺自述。
+    products:
+      - [GPM-08 / 09 / 11 / 13 / 14 / 15 / 16 / 17 / 18 / 19 / 21 / 23 / 28 / 29, 半定制本体, USD, '960', 基本制作价, 不含假发；复杂度可加价；各款页面标 ON SALE, sale]
+      - [GPM 系列假发, 配件, USD, '150–250', 选配价格, 长度 14–24 英寸, sale]
+      - [GPM-23 DIY Mask Mold, 素体, USD, '300', 页面标价, 同页列 TWD 9000；未开眼口的 FRP 素体, diy]
+      - [DIY L size full head cover, 配件, USD, '100', 页面标价, 同页列 TWD 3000；后壳而非完整面具, diy]
+      - [Mesugaki Mask without wig, 半成品, USD, '600', 页面标价, 同页列 TWD 18000；不含假发, diy]
+      - [Complete Mesugaki Mask, 成品, USD, '800', 页面标价, 同页列 TWD 24000, diy]
+      - [Add full head cover process, 配件安装, USD, '200', 附加费, 同页列 TWD 6000；全头后壳安装, diy]
+      - [GPM-12, 历史型号, '', '', 停售, 现有销售页明确 OFF SALE, sale]
+    sources:
+      sale: [官方在售型号与基本报价, 'https://www.gko-kig.com/mask-onsale']
+      diy: [GPM-23 DIY 规格与价格表, 'https://www.gko-kig.com/diymask-en']
+      contact: [官方联系方式, 'https://www.gko-kig.com/contact']
+      directory: [地区辅助来源（非实时）, 'https://makers.kig-o.com/']
+  - id: sigma
+    name: 造型工房 SIGMA
+    aliases: [Build Up Studio Sigma, 造型工房Σ]
+    region: 日本
+    location: 日本；本次官方简介未取得可核实的城市与地址
+    status: inquiry
+    status_note: 官网保留产品报价和半定制／全定制询价入口；最新实际排期需回信确认，不以历史新闻判断当前交期。
+    summary: 1999 年成立的人型着ぐるみ造型团队，提供 ENA 等原创面型和角色定制。
+    description: 官网自述以人型着ぐるみ为主要业务，公开 ENA、TIO、TRIA、TRIS、YURUFUWA 和 AMIKOMI 系列，并列有商业角色制作与操演案例。ENA 规格页列 FRP 本体、尼龙合成头发和固定式眼睛。
+    categories: [半定制, 全定制, 配件]
+    logo_note: 已找到官方 logo，但官网明确禁止未经许可转载图片；本地不复制，品牌标识见官方简介页。
+    price_summary: JPY 104500 起（ENA）
+    contacts:
+      - [电子邮箱, sigma@buildupstudiosigma.com, 'mailto:sigma@buildupstudiosigma.com', home]
+      - [询价表单, 半定制与全定制, 'https://www.buildupstudiosigma.com/order/', order]
+      - [X, '@SIGMA93996951', 'https://twitter.com/SIGMA93996951', home]
+    channels:
+      - [官网, 造型工房 SIGMA, 'https://www.buildupstudiosigma.com/', 官方直销与询价, home]
+    merge_note: 英文 Build Up Studio Sigma 与日文造型工房 SIGMA 共用官方域名。未确认第三方平台的同名店，不将销售其二手面具的卖家当作制作工房。
+    terms: ENA 规格页价格为含税日元价，发长决定档位；写有约两个月交期，但页面未注明近期修订日期，需再次询价确认。其他型号不能直接套用 ENA 价格。
+    products:
+      - [ENA 短发 30cm, 半定制, JPY, '104500', 含税标价, 页面报价，实际排期另询, ena]
+      - [ENA 长发 40–70cm, 半定制, JPY, '107800', 含税标价, 头发颜色与眼色可选, ena]
+      - [ENA 超长发 80–90cm, 半定制, JPY, '113300', 含税标价, 部分发型依较长部位计价, ena]
+      - [头发混色, 配件选项, JPY, '11000', 附加费, 非整头售价, ena]
+      - [TIO / TRIA / TRIS / YURUFUWA / AMIKOMI, 半定制, '', '', 另询, 本次仅核实型号，未逐款核价, home]
+      - [角色全定制, 全定制, '', '', 询价, 从官方全定制表单开始, order]
+    sources:
+      home: [官网型号与联系邮箱, 'https://www.buildupstudiosigma.com/']
+      about: [官方简介与图片转载声明, 'https://www.buildupstudiosigma.com/about/']
+      ena: [ENA 产品规格与含税价, 'https://www.buildupstudiosigma.com/product/ena/?t=spec']
+      order: [订购与制作询价入口, 'https://www.buildupstudiosigma.com/order/']
+  - id: munimuni
+    name: むにむに製作所 MuniMuni
+    aliases: [Muni Muni, munimuniseisaku, 株式会社リィザス]
+    region: 日本
+    location: 日本东京都台东区（法定公开营业地址）
+    address: 〒111-0052 東京都台東区柳橋2-7-9 河村ビル1F。经营者为株式会社リィザス；该地址为法定披露，不代表可直接到店试戴。
+    status: sales
+    status_note: 官方 BASE 商店公开产品、含税价及配送条款；不同套装需要自行安装假发或后壳。
+    summary: 提供 PVC 与 FRP 人脸面具、化妆套装和 DIY 零件，产品线覆盖 KAWAII、IDOL 等系列。
+    description: むにむに製作所官网明确将其产品称为美少女面具／Animegao，提供软质 PVC 素体与较硬的 FRP 素体，以及眼片、眉毛贴、假发、后壳等组件。品牌名表达制作独一无二面具的愿望。
+    categories: [量产成品, 素体, 配件, 肤色衣]
+    logo: https://baseec-img-mng.akamaized.net/images/user/logo/f4daa4cdc044bd87758d69c588d5f079.jpg
+    logo_source: home
+    price_summary: JPY 19800（所录套装）
+    contacts:
+      - [客服表单, 官方 BASE 咨询, 'https://thebase.com/inquiry/munimuni-kawaiishop-jp', law]
+    channels:
+      - [官网 / BASE, むにむに製作所, 'https://www.munimuni.jp/', 官方销售站, home]
+    merge_note: 自有域名与 munimuni-kawaiishop-jp 的 BASE 咨询入口由官网相互关联。使用其素体改妆的其他工坊属于独立制作者，不并入 MuniMuni。
+    terms: 法定说明列价格含税，运费可能另计；支付后一般三个工作日内发货，后付订单为五日内。客服平日 10:00–17:00，周末与日本节假日休息。定制或缺货商品需另核实。
+    products:
+      - [KAWAII EX-110, 量产套装, JPY, '19800', 含税标价, MASK12 LOLITA EX、棕色长假发及后壳组件，需要组装, home]
+      - [KAWAII Little-06, 量产套装, JPY, '19800', 含税标价, MASK14 MINT、假发及水晶眼，需要组装, home]
+      - [KAWAII-139, 量产套装, JPY, '19800', 含税标价, MASK04 LOLITA 与黑色长假发套装, home]
+      - [KAWAII PREMIUM-09 FRP, 量产套装, JPY, '39600', 含税标价, Premium Mask A、假发、眼片及 ABS 后壳组件, premium]
+    sources:
+      home: [官方分类与套装价格, 'https://www.munimuni.jp/']
+      about: [材质与使用方式, 'https://www.munimuni.jp/p/00015']
+      law: [经营者、公开地址与销售条款, 'https://www.munimuni.jp/law']
+      premium: [KAWAII PREMIUM-09 商品页, 'https://www.munimuni.jp/items/146225684']
+  - id: dame
+    name: DAME Kigurumi
+    aliases: [Dollers and Anime Mask Emporium]
+    region: 英国
+    location: 英国；官网未在本次联络页披露具体接待地址
+    status: sales
+    status_note: 官网有 Gen 3 头壳配置与购物车入口；部分 Gen 2 商品标明停产，未作为持续生产型号。
+    summary: 英国制作的可配置 animegao 头壳，Gen 3 支持可拆假发、可换眼片和全头后壳选配。
+    description: DAME 官网明确为英国团队，服务国际用户。Ami Gen 3 为默认四分之三壳，包含面壳、假发、眼片和衬垫，可在配置中选择肤色、妆面、耳型、嘴型和发型。
+    categories: [半定制, 素体, 配件, 肤色衣]
+    logo: https://damekigurumi.com/image/cache/catalog/DAME_Full_Text_02-700x91.png?v=1657034485
+    logo_source: home
+    price_summary: GBP 605 起（Ami Gen 3）
+    contacts:
+      - [联络表单, 官网 Contact Us, 'https://damekigurumi.com/Contact-Us', contact]
+      - [X, '@damekigurumi', 'https://x.com/damekigurumi', home]
+      - [Facebook, DAMEkigurumi, 'https://www.facebook.com/DAMEkigurumi/', home]
+    channels:
+      - [官网, DAME Kigurumi, 'https://damekigurumi.com/', 官方销售站, home]
+    merge_note: DAME 为 Dollers and Anime Mask Emporium 的缩写。官网与社交账号相互关联，未确认其他电商官方店。二手转卖不新增制作店铺条目。
+    terms: Ami Gen 3 页面标明英国制作、工期 10–16 周、全球配送；加价选项与运费另算。联系页要求用表单，一般两个工作日回复。适配头围与产品尺寸参见原产品页。
+    products:
+      - [Ami Gen 3 Mask, 半定制, GBP, '605', 基础价, 含面壳、假发、眼片及衬垫；选项另计, home]
+      - [Alice Gen 3 Mask, 半定制, GBP, '675', 基础价, 具体配置与排期需在产品页确认, home]
+      - [Gen 3 Backplate, 配件, GBP, '65', 附加费, 将 3/4 壳扩展为全头，非整头售价, home]
+      - [Ami 自定义虹膜, 配件选项, GBP, '45', 附加费, 需要参考图, ami]
+      - [Ami 自定义发型, 配件选项, GBP, '25', 附加费, 需要参考图, ami]
+      - [Anna Gen 2 Mask, 停产型号, GBP, '550', 停产余货标价, 官网明确售完不再补货, home]
+    sources:
+      home: [官方商店与地区说明, 'https://damekigurumi.com/']
+      ami: [Ami Gen 3 规格、选项及工期, 'https://damekigurumi.com/M011-Ami-Gen-3-Mask']
+      contact: [官方联系方式, 'https://damekigurumi.com/Contact-Us']
+  - id: kigcos
+    name: KigCos / Wyu
+    aliases: [Live Wear, Wyu Kigurumi]
+    region: 澳大利亚 / 新加坡
+    location: 澳大利亚与新加坡（社群目录标注，官网本次未确认具体制作地点）
+    status: inquiry
+    status_note: 官网展示报价与 Order / Quote 入口；页面提示最新款式应查看首页目录，现有网页价格未注明修订时间。
+    summary: 提供多款可配置人脸头壳，部分型号可增加机械眨眼和可替换假发。
+    description: KigCos 的公开型号有 STF、Lenne、2B、Yiho 和 Saya，覆盖动漫脸与较写实的人偶脸。官网用 Live Wear 描述其产品服务，允许部分面型细节组合；本档案不把带 Fox 名称的人脸型号仅按名称判断为 furry。
+    categories: [半定制, 配件, 肤色衣]
+    logo: https://www.kigcos.com/wp-content/uploads/2019/01/cropped-logo0-4.png
+    logo_source: home
+    price_summary: USD 860 起（所录整头）
+    contacts:
+      - [电子邮箱, wyukig@gmail.com, 'mailto:wyukig@gmail.com', contact]
+      - [Facebook, mywyu, 'https://www.facebook.com/mywyu/', home]
+      - [X, '@wyukig', 'https://twitter.com/wyukig', home]
+      - [Instagram, '@wyurikig', 'https://www.instagram.com/wyurikig', home]
+    channels:
+      - [官网, KigCos, 'https://www.kigcos.com/', 官方询价站, home]
+    merge_note: KigCos、Wyu 与 Live Wear 在官网共同出现，归为同一条目。国家信息保留为第三方目录证据，不据此推断办公地址。
+    terms: 官网标价不含运费和页面所称 3.6% PayPal 费用，非基础定制可能加价；款式与价目页可能滞后于首页产品目录，购买前需书面确认。
+    products:
+      - [STF Zen / Agape with soft hair, 半定制, USD, '1110', 网页参考价, 含涂装及软发；实际报价另核, masks]
+      - [Kawaii Lenne, 半定制, USD, '890', 网页参考价, 全头、涂装与假发, masks]
+      - [2B MkII with movable eyelids, 半定制, USD, '1110', 网页参考价, 可动眼睑与软发, masks]
+      - [2B MkII without movable eyelids, 半定制, USD, '900', 网页参考价, 无可动眼睑款, masks]
+      - [Yiho MkII, 半定制, USD, '860', 网页参考价, 开放后部面壳、涂装及假发, masks]
+      - [Saya MkII, 半定制, USD, '880', 网页参考价, 开放后部面壳、涂装及假发, masks]
+      - [UIO / MUI 眨眼升级, 配件升级, USD, '300 / 550', 附加费, 仅兼容部分型号，不是整头售价, masks]
+      - [Additional Custom Wigs, 配件, USD, '90', 起价, 依面壳型号与造型另核, masks]
+    sources:
+      home: [官网品牌与订购入口, 'https://www.kigcos.com/']
+      masks: [面具及升级价目表, 'https://www.kigcos.com/masks/']
+      contact: [官方联系方式, 'https://www.kigcos.com/contact/']
+      directory: [地区辅助来源（非实时）, 'https://makers.kig-o.com/']
+  - id: teitoku
+    name: 提督工房 Teitoku Workshop
+    aliases: [Teitoku, 提督工坊]
+    region: 中国香港
+    location: 中国香港（官方简介）；未公开可预约到访地址
+    status: lottery
+    status_note: 官方委托页写明每两个月受理申请、偶数月末截止并抽选；本次未提交申请，名额是否开放需以当前表单为准。
+    summary: 2015 年成立于香港的全定制工房，以周期申请方式承接头壳制作。
+    description: 官方介绍使用玻璃纤维、树脂与 EVA，提供半头和全头结构。包含假发与配件后的重量按设计约 1–3 千克；较复杂发型可能需全头并加价。过往作品不等于可直接购买的量产商品。
+    categories: [全定制, 修复, 肤色衣, 配件]
+    logo: https://images.squarespace-cdn.com/content/v1/65edf860d665cb6f6063ab78/8780a7ef-20e0-487a-9a91-ebf585bfa245/logo.png?format=500w
+    logo_source: home
+    price_summary: HKD 10000 起
+    contacts:
+      - [电子邮箱, teitokukigurumi@gmail.com, 'mailto:teitokukigurumi@gmail.com', order]
+      - [X, '@teitoku_shop', 'https://x.com/teitoku_shop', home]
+    channels:
+      - [官网, Teitoku Workshop, 'https://www.teitokuworkshop.com/', 官方委托站, home]
+    merge_note: 英文与日文官网为同一工房。官网页脚的邮箱文字误链到 Squarespace，本目录依正文公布的邮箱生成邮件链接，不将误链作为业务入口。
+    terms: 偶数月最后一天截止，官网说截止后两周内邮件通知；未入选需下周期重填。不要重复申请。老客户修复、换发与修改通过邮箱联系。
+    products:
+      - [Fully customized kigurumi mask, 全定制, HKD, '10000', 起价, 官方约合 USD1290 仅作原文参考，本目录不做汇率换算, order]
+      - [旧头壳修复 / 换发 / 修改, 修复, '', '', 询价, 面向既有客户，邮件确认, order]
+    sources:
+      home: [官网品牌与社交入口, 'https://www.teitokuworkshop.com/']
+      about: [成立地与产品结构, 'https://www.teitokuworkshop.com/en/about-us']
+      order: [接单周期与起价, 'https://www.teitokuworkshop.com/en/comission']
+  - id: kaga
+    name: THE KAGA
+    aliases: [Kaga Kigurumi, kagakii]
+    region: 中国香港
+    location: 中国香港（社群目录标注）；本次官网没有确认具体工作室地址
+    status: inquiry
+    status_note: 官网保留日英报价申请和联系方式，展示 2026 年作品图片；未以图片年份代替接单确认。
+    summary: 提供 FRP 角色头壳定制，官网 FAQ 公开起价、工期与配送费用。
+    description: KAGA 同时以装演者和面具制作者身份公开作品，提供角色全定制、嘴型选项和带锁全头设计。官网 FAQ 说明生产过程默认不持续发图，完成后提供成品照片。
+    categories: [全定制]
+    logo_note: 官网使用 THE KAGA 文字标识；未取得可明确辨认为独立 logo 的图像。
+    price_summary: USD 800 起
+    contacts:
+      - [电子邮箱, kagakii@hotmail.com, 'mailto:kagakii@hotmail.com', contact]
+      - [X, '@kagakii', 'https://twitter.com/kagakii', contact]
+      - [Facebook, Kaga.gkk, 'https://www.facebook.com/Kaga.gkk', contact]
+    channels:
+      - [官网, THE KAGA, 'https://kagakii.com/', 官方询价站, home]
+    merge_note: THE KAGA 与 kagakii 的业务联系方式在官网明确对应。地区信息未获得本次第一方复核，不以 PayPal 或 Zelle 支付方式推断所在地。
+    terms: FAQ 公开一般制作期 2–6 个月、全球 EMS 运费 USD 100（另有通知除外），价格会受角色、发型和配饰影响。实际档期需先联系确认。
+    products:
+      - [FRP character mask commission, 全定制, USD, '800', 起价, 复杂面型、发型和配件可能加价, faq]
+      - [EMS worldwide shipping, 运费, USD, '100', 参考运费, 特殊通知优先，非整头售价, faq]
+    sources:
+      home: [官方委托入口与作品, 'https://kagakii.com/']
+      faq: [价格、材料、工期与运费, 'https://kagakii.com/q-a/']
+      contact: [公开业务联系方式, 'https://kagakii.com/contactme/']
+      directory: [地区辅助来源（非实时）, 'https://makers.kig-o.com/']
+  - id: middream
+    name: MidDreamKigu（原 KigLover）
+    aliases: [KigLover, MidDreamKigu, Kiglover 3.0]
+    region: 地区待核实
+    location: 制作地点待核实；旧目录写中国，并明确其判断存在不确定性，不把注册或结算地区视为制作地
+    status: inquiry
+    status_note: 官网明确更名并要求先联系 X / Discord 获取报价；多个展示款标 Sold out，订金页可见状态文字相互混杂，需先确认可接单。
+    summary: 官网已从 KigLover 更名为 MidDreamKigu，提供 animegao 角色头壳定制咨询。
+    description: 现官网仍使用 kiglover.com 域名，商品标题明确标注 formerly KigLover。3.0 委托通过客服沟通后支付订金；作品展示商品并非都能直接购买，也不能据展示价推导当前全定制报价。
+    categories: [全定制]
+    logo: https://kiglover.com/cdn/shop/files/logo.webp?v=1782361670&width=600
+    logo_source: home
+    price_summary: 整头询价；订金单列
+    contacts:
+      - [X, '@kiglover_site', 'https://x.com/kiglover_site', home]
+      - [Discord, 官方咨询服务器, 'https://discord.gg/rHek37XTyV', deposit]
+    channels:
+      - [官网, MidDreamKigu / KigLover, 'https://kiglover.com/', 官方更名后销售站, home]
+      - [Etsy, LuckyKigJP 历史关联, 'https://www.etsy.com/shop/LuckyKigJP', 第三方目录线索，待复核, directory]
+    merge_note: 更名关系由现官网商品文字直接证实，合为一个主体。旧目录列 Etsy LuckyKigJP，但官网本次未确认该店当前归属，因此不将其商品和订单数据合并。
+    terms: 订金页要求购买前联系 X / Discord，未经联系付款可能扣除费用后取消。抓取时币种为 EUR，不将变体名 Deposit:100 当作 USD100，也不把展示款售罄推断为工坊停业。
+    products:
+      - [MidDreamKigu 3.0 Kigu Mask Commission, 全定制, '', '', 询价, 先联系官方客服, deposit]
+      - [MidDreamKigu 3.0 Commission Deposit, 订金, EUR, '118.95', 抓取页面显示价, 地区币种为 EUR；页面状态混杂，金额和可付款性需确认, deposit]
+    sources:
+      home: [当前品牌名与作品目录, 'https://kiglover.com/']
+      deposit: [3.0 订金说明与联络方式, 'https://kiglover.com/products/kiglover-animegao-kigu-mask-quote-request']
+      directory: [旧名及 Etsy 关联线索（非实时）, 'https://makers.kig-o.com/']
+  - id: sensei
+    name: Kigurumi Sensei
+    aliases: [J sensei, jsensei3, KigurumiSenseiStore]
+    region: 美国
+    location: 美国（官网介绍）；制作者来自日本，未公开具体工作室地址
+    status: paused
+    status_note: '官方定制页明确 Current commission status: Closed；写有十月计划重开但未注明年份，不推定已经恢复。Etsy 现货库存未核实。'
+    summary: 居住美国的日本制作者，提供原创素体与 MuniMuni 素体改妆；当前暂停定制。
+    description: 官方站点链接 KigurumiSenseiStore Etsy 店，并发布面具制作与维护内容。定制规格仅提供半面或 3/4 壳，不提供带锁或铰链全头。此条目保留公开报价供对照，但不纳入默认营业目录。
+    categories: [全定制, 半定制, 改妆]
+    logo: https://kigurumisensei.com/wp-content/uploads/2021/09/cropped-kigurumi-sensei-logo-opt.png
+    logo_source: home
+    price_summary: USD 580 起（暂停定制）
+    contacts:
+      - [Etsy 站内信, KigurumiSenseiStore, 'https://www.etsy.com/jp/shop/KigurumiSenseiStore', custom]
+      - [X, '@jsensei3', 'https://twitter.com/jsensei3', home]
+      - [Instagram, '@masuku_tsukuru', 'https://www.instagram.com/masuku_tsukuru/', home]
+    channels:
+      - [官网, Kigurumi Sensei, 'https://kigurumisensei.com/', 官方说明站, home]
+      - [Etsy, KigurumiSenseiStore, 'https://www.etsy.com/jp/shop/KigurumiSenseiStore', 官方直链，库存未核实, home]
+    merge_note: 官网直接链接 Etsy 店，确认为同一业务入口。MuniMuni 是素体供应方，不是同一制作店铺；双方分开建档。
+    terms: 当前暂停定制。官网报价咨询费 USD15，实际订购可抵扣；一角色一份报价，报价有效一个月。整头起价不含运费，官网写美国约 USD50、境外约 USD100，税费可能另计。
+    products:
+      - [Munimuni base commission, 素体改妆, USD, '580', 起价／暂停, 不含运费, custom]
+      - [Munimuni base cyclops, 素体改妆, USD, '680', 起价／暂停, 特殊单眼人偶设计，不是 furry 兽头, custom]
+      - [Original base commission, 原创素体定制, USD, '850', 起价／暂停, 不含运费, custom]
+      - [Quotation consultation, 报价咨询费, USD, '15', 可抵扣费用, 并非订金或完整面具价格, custom]
+    sources:
+      home: [官方简介、所在地与 Etsy 归属, 'https://kigurumisensei.com/']
+      custom: [暂停接单声明与价格, 'https://kigurumisensei.com/custom-orders/']
+  - id: umoon
+    name: 冉月剧团 Umoon
+    aliases: [Umoon Kigurumi, 冉月剧团Umoon]
+    region: 中国大陆
+    location: 中国；本次公开资料未确认具体制作地址
+    status: inquiry
+    status_note: 已核实 2026-08-30 官方账号 No.238 成品；新增 X 第一方店铺开业、进店咨询、淘宝与业务群声明，改为接受询价，具体新单名额仍需确认。
+    summary: 提供角色头壳制作，公开淘宝入口、业务群与可拆卸硬质刘海升级咨询。
+    description: 工程八月采集已收录冉月剧团 No.238 头壳展示。补充读取的 X 官方账号公开淘宝开业说明、同名平台关系和 QQ 群，另有可拆卸硬质前刘海升级业务；因此不再仅凭作品判断营业。材料性能、完整报价与排期仍无足够公开资料。
+    categories: [全定制]
+    logo: https://i0.hdslb.com/bfs/face/23869e924720afec10ec20bae1812e15ab510492.jpg
+    logo_source: video
+    logo_note: 使用官方发布账号的公开头像作为识别图，不宣称是注册商标 logo。
+    price_summary: 未公开可核实报价
+    contacts:
+      - [Bilibili, 冉月剧团Umoon, 'https://space.bilibili.com/3546880164236016', video]
+      - [X 业务联系, '@Umoon_kigurumi', 'https://x.com/Umoon_kigurumi', profile]
+      - [QQ 群（官方出处）, '756365668', 'https://x.com/Umoon_kigurumi', profile]
+    channels:
+      - [Bilibili, 制作成品公开记录, 'https://www.bilibili.com/video/BV1FitH6KEPD/', 第一方作品发布，非销售页, video]
+      - [淘宝, 冉月剧团官方公开店铺短链, 'https://t.co/mnS6EdbuEg', 官方账号链接；未核实平台库存和排期, profile]
+      - [淘宝, Umoon 历史店铺入口, 'https://shop587285951.world.taobao.com/', 第三方目录线索，待复核, directory]
+    merge_note: X 简介将冉月剧团、Umoon、淘宝、B站和业务群作为同品牌公开声明，归入现有档案。官方短链已取得，但与旧目录长地址的 UID 对应未实测，长地址仍作历史线索。
+    terms: 可向官方账号或公开业务群询问升级、报价和排期；未将费用便宜等宣传语改写为具体金额。支付、售后及配送需进一步确认。
+    products:
+      - [定制头壳 No.238, 成品展示, '', '', 未公布价格, 2026-08-30 作品记录，不代表现货或当前接单, video]
+      - [硬质可拆卸前刘海升级, 配件升级, '', '', 询价, 官方公开欢迎进店咨询；未列具体费用, profile]
+    sources:
+      video: [Bilibili 第一方视频公共元数据, 'https://api.bilibili.com/x/web-interface/view?bvid=BV1FitH6KEPD']
+      watch: [No.238 成品展示, 'https://www.bilibili.com/video/BV1FitH6KEPD/']
+      directory: [Umoon 历史店铺线索（非实时）, 'https://makers.kig-o.com/']
+      profile: [官方 X 平台归属、业务群与进店咨询说明, 'https://x.com/Umoon_kigurumi']
+
+  # 2026-09-09: reviewed public business profiles; marketplace inventory not accessed.
+  - id: raigeki
+    name: 雷击工坊 Raigeki
+    aliases:
+    - 雷撃工房
+    - Raigeki
+    - KIGURUMI雷击工坊
+    region: 中国大陆
+    location: 中国广东清远英德（官方业务账号自述）；具体工作室地址未公开
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 提供着ぐるみ头壳制作，官方简介公开淘宝入口及广东英德所在地。
+    description: 官方账号自称雷击工坊，说明制作着ぐるみ面具并接受需求与订单咨询。网页直接标示 raigeki.taobao.com；本次没有取得淘宝商品价格，不沿用早期手册与新颜玩偶重复的 QQ 号。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@RAIGEKI_Li'
+      - https://x.com/RAIGEKI_Li
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/RAIGEKI_Li
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 雷击工坊
+      - https://raigeki.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    merge_note: 雷击、雷撃工房与 Raigeki 在同一官方简介对应。与新颜玩偶分开建档；邮箱在此次文本中被遮蔽，不补写。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - Kigurumi 人脸头壳制作
+      - 定制服务
+      - ''
+      - ''
+      - 询价
+      - 仅记录公开制作业务；规格及新单受理需确认
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/RAIGEKI_Li
+    logo: https://pbs.twimg.com/profile_images/1137947049985421312/CtYkE1xj_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: nekotofu
+    name: 猫豆腐 NekoToufu
+    aliases:
+    - 猫豆腐NekoToufu
+    - Nekotofu
+    - NEKOTOUFU
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 提供 kigurumi 全流程定制，官方声明淘宝、闲鱼同名，并设国际业务账号。
+    description: 中文官方账号明确写明全流程定制和淘宝／闲鱼店铺同名，并直接关联国际账号。公开作品包括洛天依、明日方舟终末地管理员及鸣潮达妮娅；肤色衣业务与整头分开记录。
+    categories:
+    - 全定制
+    - 肤色衣
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@nekotoufufu'
+      - https://x.com/nekotoufufu
+      - profile
+    - - 官方 QQ 群（出处）
+      - '915979496'
+      - https://x.com/nekotoufufu
+      - profile
+    - - X 国际业务
+      - '@NEKOTOUFU_shop'
+      - https://x.com/NEKOTOUFU_shop
+      - international
+    - - Discord（肤色衣订购，出处）
+      - '@VANGDE3293'
+      - https://x.com/NEKOTOUFU_shop
+      - international
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/nekotoufufu
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：猫豆腐NekoToufu
+      - https://x.com/nekotoufufu
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 闲鱼
+      - 店名声明：猫豆腐NekoToufu
+      - https://x.com/nekotoufufu
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop282541162.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 中文号直接关联 @NEKOTOUFU_shop，归为同一店铺的国际渠道；淘宝与闲鱼名称有第一方声明，但具体平台 UID 未核实。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 洛天依头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 明日方舟：终末地 女管理员头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 鸣潮 达妮娅头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - [全身肤色衣现货, 肤色衣, '', '$90 / ¥14,300', 国际账号置顶报价, 薄粉与小麦两种肤色；货币符号按原文保留，非头壳售价，当前库存待确认, international]
+    - [量身定制全身肤色衣, 肤色衣定制, '', '$120 / ¥19,000', 国际账号置顶报价, 原帖支持 VISA 与 Wise，通过所列 Discord 订购；非头壳售价, international]
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/nekotoufufu
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+      international:
+      - 官方关联的国际业务号
+      - https://x.com/NEKOTOUFU_shop
+    logo: https://pbs.twimg.com/profile_images/1819332827819003905/UPi0rl_c_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: haagaau
+    name: 虾饺工房 Haagaau
+    aliases:
+    - Kigurumi虾饺工房
+    - Haagaau Kigurumi Workshop
+    - 虾饺糖水铺
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 制作 kigurumi 头壳，公开淘宝与闲鱼店名，并区分国内和国际业务入口。
+    description: 官方中文账号标示 kigurumi 虾饺工房、淘宝及闲鱼同名和 QQ 联系方式，关联国际业务号及分店虾饺糖水铺。国际账号展示丹瑾、阿妮斯、桔梗和风华委托成果；本次订单表需要登录，不能验证是否仍接受提交。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@haagaau_GF'
+      - https://x.com/haagaau_GF
+      - profile
+    - - 业务 QQ（出处）
+      - '3792059014'
+      - https://x.com/haagaau_GF
+      - profile
+    - - QQ 群（出处）
+      - '195721304'
+      - https://x.com/haagaau_GF
+      - profile
+    - - X 国际业务
+      - '@haagaau_GF_EN'
+      - https://x.com/haagaau_GF_EN
+      - international
+    - - 官方提及分店（未独立复核）
+      - '@haagaau_TSP'
+      - https://x.com/haagaau_TSP
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/haagaau_GF
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：kigurumi虾饺工房
+      - https://x.com/haagaau_GF
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 闲鱼
+      - 店名声明：kigurumi虾饺工房
+      - https://x.com/haagaau_GF
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    merge_note: 中文号直接关联 @Haagaau_GF_EN 和新分店 @haagaau_TSP，按主品牌保留关系；糖水铺商品、价格和经营主体未独立核实，不重复建店。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 国际账号有下单表和海外业务说明；此次表单需登录、shop.haagaau-kig.com 连接失败，暂不推定可下单。邮箱文本被遮蔽，未抄作有效联系方式。
+    products:
+    - - Kigurumi 人脸头壳制作
+      - 定制服务
+      - ''
+      - ''
+      - 询价
+      - 仅记录公开制作业务；规格及新单受理需确认
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/haagaau_GF
+      directory:
+      - 2025-12-10 制作者目录；所在地历史线索
+      - https://makers.kig-o.com/
+      international:
+      - 官方关联的国际业务号
+      - https://x.com/haagaau_GF_EN
+      form:
+      - 旧下单表本次需登录，未验证可提交
+      - https://docs.google.com/forms/d/e/1FAIpQLScgAfIOdUWjB1GRJr7OK_x6feWYJTZTnm6Arf4Y1GgMlMpL3g/viewform
+    logo: https://pbs.twimg.com/profile_images/1774873972611670016/7hf0p60d_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: 4uuone
+    name: 底层人员 4uuone
+    aliases:
+    - kigurumi底层人员
+    - 4u
+    - 4uuone
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 公开业务账号写明淘宝、闲鱼均为 kigurumi底层人员，亦使用 4u 名称。
+    description: 账号公开店名为 kigurumi底层人员，简介包含 4u 及淘宝／闲鱼同名声明。没有公开可核实的统一价目表、城市或当前排期，需从业务账号进一步询问。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@4uuone'
+      - https://x.com/4uuone
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/4uuone
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：kigurumi底层人员
+      - https://x.com/4uuone
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 闲鱼
+      - 店名声明：kigurumi底层人员
+      - https://x.com/4uuone
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop482789955.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 2025 制作者目录明确纠正此前将 4uuone 与 Power_9567 合并的错误；二者当前简介也给出不同店名，分别建档。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - Kigurumi 人脸头壳制作
+      - 定制服务
+      - ''
+      - ''
+      - 询价
+      - 仅记录公开制作业务；规格及新单受理需确认
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/4uuone
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1859081014423023616/BM3qCH_E_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: power
+    name: 速趴抛瓦 Power Kigurumi
+    aliases:
+    - 抛瓦
+    - Power_9567
+    - 速趴抛瓦kigurumi
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 淘宝与闲鱼公开店名为速趴抛瓦kigurumi，提供业务 QQ 联系。
+    description: 官方公开账号使用 power kigurumi抛瓦，明确列出淘宝／闲鱼名称与 QQ。两平台归属于同一品牌的声明已取得；商品规格、平台店铺 UID 与当前整头价仍待核实。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@Power_9567'
+      - https://x.com/Power_9567
+      - profile
+    - - 业务 QQ（出处）
+      - '1113132445'
+      - https://x.com/Power_9567
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/Power_9567
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：速趴抛瓦kigurumi
+      - https://x.com/Power_9567
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 闲鱼
+      - 店名声明：速趴抛瓦kigurumi
+      - https://x.com/Power_9567
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop279722876.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 与 4uuone 是不同制作者，互相提及或合影不构成合并依据。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - Kigurumi 人脸头壳制作
+      - 定制服务
+      - ''
+      - ''
+      - 询价
+      - 仅记录公开制作业务；规格及新单受理需确认
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/Power_9567
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1958744506704306176/bp4TahnQ_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: akg
+    name: AKG / Alice Kig Garden
+    aliases:
+    - AKG工坊
+    - Alice Kig Garden
+    - AKG-Alice Kig Garden
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 设计制作 kigurumi 头壳，公开淘宝名 AKG工坊及亚马逊店铺链接。
+    description: 官方英文简介明确制作 kigurumi 面具、淘宝店名与 PayPal 支付，并公开亚马逊商店入口。作品包含芙宁娜、可替换脸部及可拆刘海展示，也提供不同颜色肤色衣。
+    categories:
+    - 全定制
+    - 肤色衣
+    - 配件
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@Alicekigsale'
+      - https://x.com/Alicekigsale
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/Alicekigsale
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：AKG工坊
+      - https://x.com/Alicekigsale
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - Amazon
+      - 官方简介中的亚马逊店铺短链
+      - https://t.co/WieT44t4AG
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop404031574.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: AKG、Alice Kig Garden 与淘宝名 AKG工坊由同一账号声明；不与兔子工坊的历史 Etsy 名 AliceKigWorkshop 合并。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 官方简介声明接受 PayPal。未取得亚马逊商品清单与售价；不把账号中的质量宣传视为本站验证结果。
+    products:
+    - - 芙宁娜头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 可替换脸部头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 可拆刘海头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/Alicekigsale
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1993269989923864577/vAYeMJ_o_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: beadoll
+    name: 偶形记 BEADOLL
+    aliases:
+    - 偶形记BEADOLL
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 官方公开淘宝编号 247990779，支持 PayPal 与海外发货。
+    description: 公开业务简介写明淘宝同名，直接标示 shop247990779.m.taobao.com。账号发布月城、DOLL 等造型以及肤色衣内容；无面产品等未能确认属于人脸头壳的商品不纳入价目表。
+    categories:
+    - 半定制
+    - 肤色衣
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@BEADOLL_OS'
+      - https://x.com/BEADOLL_OS
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/BEADOLL_OS
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 偶形记BEADOLL
+      - https://shop247990779.m.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    merge_note: 官网外的官方业务账号直接展示淘宝店铺编号，与历史目录相同编号对应为同一渠道。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 官方简介支持 PayPal 支付和海外发货；半壳、全壳配置仅有历史目录描述，实际规格与当前报价需确认。
+    products:
+    - - 月城头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/BEADOLL_OS
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1909475396980293632/rH9pyudu_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: dora
+    name: 哆啦工坊 Dora Studio
+    aliases:
+    - Kigurumi哆啦工坊
+    - Dora Studio
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: unverified
+    status_note: 官方账号身份与淘宝店名已确认，但可读取作品主要为 2024-09，缺少当前接单证据。
+    summary: 营业账号公开淘宝店名及 QQ 群，能读取的作品记录主要停留在 2024 年。
+    description: 账号自称哆啦工坊营业号，要求在淘宝搜索 Kigurumi哆啦工坊。公开作品包括布丽姬、雷电将军、流萤和春日野穹；此次没有取得近期接单或商品页面，因此先保留待核实。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@DoraKigStudio'
+      - https://x.com/DoraKigStudio
+      - profile
+    - - QQ 交流群（出处）
+      - '539704355'
+      - https://x.com/DoraKigStudio
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/DoraKigStudio
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：Kigurumi哆啦工坊
+      - https://x.com/DoraKigStudio
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop468147511.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: Dora Studio 与哆啦工坊为同一业务账号名称；淘宝店名已声明，历史 URL 的当前归属仍需验证。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 布丽姬头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 2024-09 客户返图／内测单，不代表在售
+      - profile
+    - - 雷电将军／流萤／春日野穹头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 2024-09 作品展示，当前业务待复核
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/DoraKigStudio
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/2007801570843664384/V84Rw3vg_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: fantasymasks
+    name: 绮幻坊 FantasyMasks
+    aliases:
+    - FantasyMasks绮幻坊
+    - 绮幻坊
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前公开简介与置顶明确提供定制询价；可见作品主要为 2025 年，最新排期必须再确认。
+    summary: 官方简介明确接受头壳定制，公开 QQ、交流群和淘宝同名店铺。
+    description: 工坊自述为 kigurumi 头壳店，提供 QQ 与淘宝咨询方式。公开视频展示鹿目圆、藿藿、和实由依等人脸动漫角色；没有公开统一售价和交期。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@FantasyMasks_'
+      - https://x.com/FantasyMasks_
+      - profile
+    - - 定制 QQ（出处）
+      - '1487499638'
+      - https://x.com/FantasyMasks_
+      - profile
+    - - QQ 群（出处）
+      - '936351202'
+      - https://x.com/FantasyMasks_
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/FantasyMasks_
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：FantasyMasks绮幻坊
+      - https://x.com/FantasyMasks_
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop280285115.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 简介称全平台同名，但只明确点名淘宝；不据此自动确认闲鱼、拼多多或其他平台。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 鹿目圆头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 藿藿头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 和实由依头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/FantasyMasks_
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1774847393512706049/7lBsElVW_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: newfacedoll
+    name: 新颜玩偶 New Face Doll
+    aliases:
+    - NFD
+    - NFD新颜玩偶
+    - New Face Doll
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: unverified
+    status_note: 制作方公开身份已确认；可见 X 更新停留于 2023-12，当前淘宝归属和接单状况待复核。
+    summary: 公开账号确认 NFD 制作者名称；本次可见 X 作品主要为 2023 年，接单待核实。
+    description: 账号以 Kigurumi Maker NFD - New Face Doll 自我介绍，展示刑部姬、妮娅、摩根等头壳。旧目录关联淘宝及 Bilibili，但本次未取得有效的当前接单条款，不使用多年以前的
+      QQ 作为有效客服。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@NewfacedolL'
+      - https://x.com/NewfacedolL
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/NewfacedolL
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop116616022.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 不与雷击工坊合并，早期手册的重复 QQ 不能作为身份依据。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 刑部姬／妮娅／摩根头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 2023 年制作展示，不代表现货或当前委托入口
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/NewfacedolL
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1460482417370624003/gR2e3QKo_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: shinkai
+    name: 深海工坊 Shinkai Workshop
+    aliases:
+    - 深海工房
+    - ShinkaiWorkshop
+    region: 中国大陆
+    location: 中国山东青岛（官方业务账号自述）；详细地址未公开
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 青岛头壳手作工坊，公开接受国内外私信委托；2026 夏季促销已结束。
+    description: 官方简介写明位于 Qingdao,CN，承接 kigurumi 面具制作和海外订单。2026-06-29 至 07-31 的促销区分全头、3/4 壳及半定制，按已结束活动记录，不作为当前最低价。
+    categories:
+    - 全定制
+    - 半定制
+    price_summary: 现价询问；USD 450–700 为已结束活动价
+    contacts:
+    - - X 业务联系
+      - '@ShinkaiWorkshop'
+      - https://x.com/ShinkaiWorkshop
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/ShinkaiWorkshop
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop154932055.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 英文与中文工坊名称由同一官方简介对应；淘宝历史地址尚未取得第一方直链。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 通过 X 私信询价，接受海外订单。2026 夏季促销已经结束，活动价不含 PayPal 手续费和运费。
+    products:
+    - - Full-head Mask
+      - 全头
+      - USD
+      - '700'
+      - 历史促销／已结束
+      - 2026-06-29 至 07-31；不含 PayPal 手续费与运费
+      - promotion
+    - - 3/4 Mask
+      - 3/4 壳
+      - USD
+      - '525'
+      - 历史促销／已结束
+      - 同一活动期限；非当前报价
+      - promotion
+    - - Semi-customized Mask
+      - 半定制
+      - USD
+      - '450'
+      - 历史促销／已结束
+      - 同一活动期限；非当前报价
+      - promotion
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/ShinkaiWorkshop
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+      promotion:
+      - 2026 夏季促销，已于 7 月 31 日结束
+      - https://x.com/ShinkaiWorkshop/status/2071152314824736837
+    logo: https://pbs.twimg.com/profile_images/1295728942775582720/7TSNBcoE_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: samon
+    name: 厚切三文鱼工坊 Samon
+    aliases:
+    - KIGURUMI厚切三文鱼工坊
+    - Samon
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 官方简介提供淘宝头壳定制入口及 QQ 群，并展示角色定制成果。
+    description: 工坊明确自述为 kigurumi 头壳制作者，要求定制需求从淘宝店咨询。作品包括祐天寺若麦、可可萝等；不将历史代理渠道的美元报价作为制作方本店报价。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@samon_ii'
+      - https://x.com/samon_ii
+      - profile
+    - - QQ 群（出处）
+      - '1025833372'
+      - https://x.com/samon_ii
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/samon_ii
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 厚切三文鱼工坊
+      - https://shop116489042.m.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    merge_note: 官方账号中的淘宝编号与历史目录一致；Lucky Larus 仅有历史代理关系，不能与 Samon 或 BHY 合为一家。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 祐天寺若麦头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 可可萝头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/samon_ii
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1883774127552819200/EhWHJDu__400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: aniplus
+    name: 壳反应 Aniplus
+    aliases:
+    - 壳反应Aniplus
+    - KFY Aniplus
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 制作 kigurumi 头壳，官方公开淘宝编号及海外业务账号。
+    description: 官方账号写明头壳、面具制作与合作私信，链接淘宝，并把海外业务指向日语账号。公开作品包含火花 lite、爱弥斯及洛天依客户定制；lite 名称不直接等同于统一量产规格。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@KFY_Aniplus'
+      - https://x.com/KFY_Aniplus
+      - profile
+    - - 官方指定海外业务
+      - '@KFY_aniplus_JP'
+      - https://x.com/KFY_aniplus_JP
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/KFY_Aniplus
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 壳反应Aniplus
+      - https://shop567949612.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    merge_note: '@KFY_aniplus_JP 由主账号直接指定为海外订单入口，归为同品牌渠道。全平台同名声明不自动确认未点名的平台。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。'
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 火花 lite 版头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 爱弥斯头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 洛天依客户定制头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/KFY_Aniplus
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1425296352133611524/PovMbZ36_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: nm
+    name: NM工坊 Nonhumanmasque
+    aliases:
+    - nonhumanmasque
+    - NM工坊
+    region: 中国大陆
+    location: 中国（官方业务简介）；具体城市未公开
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 中国头壳工作室，公开淘宝名称 nonhumanmasque 与店铺编号。
+    description: 官方中英简介直接说明中国头壳工作室身份及淘宝入口。页面能见到伊芙琳作品和此前定制名额活动。2025 年尾款减免、样品出售与抽奖都不是当前常规价格。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@nonhumanmasque'
+      - https://x.com/nonhumanmasque
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/nonhumanmasque
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - nonhumanmasque / NM工坊
+      - https://shop413645462.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    merge_note: 英文名、NM 工坊与淘宝编号在官方简介直接对应。旧目录 QQ 群未在本次页面明文出现，不复制为当前号码。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 伊芙琳头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 2025 年公开作品；当前规格与报价待询
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/nonhumanmasque
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1610322913307009025/pjdLveG__400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: xingyueqi
+    name: 星玥琦工坊
+    aliases:
+    - XYQ
+    - xingyueqi
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 公开淘宝同名店、角色定制及全球配送；过往单日促销与当前询价分开。
+    description: 公开业务简介写明 kigurumi mask maker、淘宝店名和全球配送。页面有多次单日现货促销，但未给出可核实的型号名称，也未在文本中明确美元币种；保留原文金额，不作为当前价目表。
+    categories:
+    - 全定制
+    - 现货成品
+    price_summary: 现价询问；原文 $459 为过往单日促销
+    contacts:
+    - - X 业务联系
+      - '@xyq_kig'
+      - https://x.com/xyq_kig
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/xyq_kig
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：星玥琦工坊
+      - https://x.com/xyq_kig
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop315021678.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 2025 目录重复两次列出星玥琦，合并为一份档案。此次邮箱显示被遮蔽，不将旧目录邮箱写成新核实联系方式。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 单日促销头壳（型号未标）
+      - 历史现货
+      - ''
+      - '459'
+      - 原文 $459；单日促销已过
+      - 6 月 24 日帖子；称全球包邮，币种与当前库存未核实
+      - sale
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/xyq_kig
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+      sale:
+      - 单日促销原帖；金额币种与现库存待核
+      - https://x.com/xyq_kig/status/2069772351802364309
+    logo: https://pbs.twimg.com/profile_images/1924345218112823296/C2Fqy4qz_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: sakurano
+    name: 乃粉罐头 Sakurano
+    aliases:
+    - 乃粉罐头
+    - Sakurano
+    region: 中国大陆
+    location: 中国湖北武汉（公开业务简介）；不收录私人地址
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 武汉头壳店，店主公开接受头壳定制和摄影委托，并提供业务群。
+    description: 店主公开业务简介明确店铺名乃粉罐头、坐标武汉、头壳定制及正片拍摄。账号兼有个人出勤内容，不能把每一张角色照片都当作该店商品；因此不据照片猜测型号和价格。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@sakura_ingnai'
+      - https://x.com/sakura_ingnai
+      - profile
+    - - 公开业务群（出处）
+      - '549065952'
+      - https://x.com/sakura_ingnai
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/sakura_ingnai
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop129877201.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 店主账号明确声明乃粉罐头业务身份；淘宝 URL 仍仅为第三方历史关联。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - Kigurumi 人脸头壳制作
+      - 定制服务
+      - ''
+      - ''
+      - 询价
+      - 仅记录公开制作业务；规格及新单受理需确认
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/sakura_ingnai
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1876968959284842496/zkXakdvt_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: rabbit
+    name: 兔子 Kigurumi 工坊
+    aliases:
+    - 兔子kigurumi工坊
+    - 幻胧挽歌
+    - AliceKigWorkshop（历史渠道名）
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 公开接受国内外头壳定制，第一方提供淘宝编号与当前客户 QQ 群。
+    description: 店主公开介绍承接 kigurumi 定制及海外订单，近期作品帖重复链接国内淘宝店。此次简介客户群为 123280522，与旧目录不同，保留本轮第一方号码。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@Scarlet0rabbit'
+      - https://x.com/Scarlet0rabbit
+      - profile
+    - - 客户 QQ 群（出处）
+      - '123280522'
+      - https://x.com/Scarlet0rabbit
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/Scarlet0rabbit
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 兔子kigurumi工坊
+      - https://shop236878671.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    merge_note: 历史 Etsy 名 AliceKigWorkshop 不等于 AKG / Alice Kig Garden。旧目录 Etsy 暂停的结论不推及当前淘宝；当前群号优先于旧目录。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - Kigurumi 人脸头壳制作
+      - 定制服务
+      - ''
+      - ''
+      - 询价
+      - 仅记录公开制作业务；规格及新单受理需确认
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/Scarlet0rabbit
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/2096870625143091200/BBQge_10_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: beartech
+    name: 熊熊工业技研中心
+    aliases:
+    - 熊熊家kigurumi
+    - 熊熊技研
+    - BearTechCenter
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 以熊熊家kigurumi发布制作业务，接受成品与角色定制，公开淘宝名称。
+    description: 公开简介明确头壳成品可售、接受角色定制并指向淘宝熊熊技研，置顶另写完整名称熊熊工业技研中心。作品中有原神优菈人脸头壳；店名含熊不代表制作 furry 兽头，其他肤色衣业务单列。
+    categories:
+    - 全定制
+    - 现货成品
+    - 肤色衣
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@BearTechCenter'
+      - https://x.com/BearTechCenter
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/BearTechCenter
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：熊熊工业技研中心 / 熊熊技研
+      - https://x.com/BearTechCenter
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 官方简介中的店铺短链
+      - https://t.co/1z4JuoEySr
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop288725622.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 简介与置顶将熊熊家、熊熊技研及完整淘宝名称对应；旧目录的长地址与短链尚未核实为同一 UID，分别标注证据。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 浪花骑士优菈头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/BearTechCenter
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1689671422237679616/kTlPCGVs_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: magicdoll
+    name: 魔界工坊 MagicDoll
+    aliases:
+    - 魔界工坊MagicDoll
+    - MagicDoll
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 官方账号提供角色定制、淘宝短链和 QQ 群；2026 暑期优惠已结束。
+    description: 工坊中英简介明确接受 kigurumi 角色委托。2026 年暑期活动为 7 月 20 日至 8 月 30 日，帖子中的四百元是优惠金额，不是头壳售价。公开角色作品包括耀嘉音和卡芙卡。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@MagicDoll1208'
+      - https://x.com/MagicDoll1208
+      - profile
+    - - QQ 群（出处）
+      - '793242071'
+      - https://x.com/MagicDoll1208
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/MagicDoll1208
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 魔界工坊官方公开短链
+      - https://m.tb.cn/h.73BDiObX12auhmW
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop452482185.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 原目录重复的魔界工坊记录合并。官方短链与第三方长地址的 UID 对应未实测，不借此伪造平台商品价格。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 耀嘉音头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 卡芙卡头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/MagicDoll1208
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1876567869980606464/8z1dkLgH_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: haka
+    name: 哈卡人形 Kigurumi
+    aliases:
+    - 哈卡人形kigurumi
+    - Haka
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: unverified
+    status_note: 制作与店名声明来自 2025-05-20 置顶；当前报价、库存和新单受理缺少新证据。
+    summary: 公开自制与定制建模说明，保留 2025 年历史均价；当前接单状态待核实。
+    description: 2025-05-20 置顶明确称头壳自制、定制建模，支持全球配送及 PayPal，并写出淘宝店名、QQ 群和平均价格范围。此次可读取帖子仍集中于 2025 年，历史报价不作为当前可下单价格。
+    categories:
+    - 全定制
+    price_summary: 历史均价 CNY 2500–3500；现价待核
+    contacts:
+    - - X 业务联系
+      - '@hakarenxin99'
+      - https://x.com/hakarenxin99
+      - profile
+    - - QQ 群（出处）
+      - '1041285347'
+      - https://x.com/hakarenxin99
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/hakarenxin99
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：哈卡人形kigurumi
+      - https://x.com/hakarenxin99
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop412385723.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 淘宝名称由制作方置顶明确公开；历史店铺编号尚未获本次第一方直链验证。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 2025 年置顶称支持全球配送和 PayPal；当前付款方式、税费、工期及售后均待确认。
+    products:
+    - - 自制头壳／定制建模
+      - 定制服务
+      - CNY
+      - 2500–3500
+      - 2025 年店主自述均价
+      - 非统一商品价；原帖另作约 USD350–500 的估算，不自行按汇率换算
+      - announcement
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/hakarenxin99
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+      announcement:
+      - 2025-05-20 自制、店名与历史均价声明
+      - https://x.com/hakarenxin99/status/1924636490900111534
+    logo: https://pbs.twimg.com/profile_images/1899100118558900224/u7Y_3QGJ_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: 2dfantasy
+    name: 二维幻想 2D Fantasy
+    aliases:
+    - 二维幻想
+    - 2D Fantasy
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 公开角色头壳定制、业务 QQ 与 2dfantasy 淘宝域名。
+    description: 业务简介明确 Kigurumi 头壳定制，要求带角色图通过 QQ 询价，直接标示淘宝域名。公开作品包括重音、可琳、明日香和休比；未公开统一整头售价。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@2DFantasy111'
+      - https://x.com/2DFantasy111
+      - profile
+    - - 定制 QQ（出处）
+      - '3983453230'
+      - https://x.com/2DFantasy111
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/2DFantasy111
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 二维幻想
+      - https://2dfantasy.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://2dfantasy.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 官方简介确认域名及名称。QQ 用途为带图定制联系，不把它误写为 QQ 群。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 重音／可琳／明日香／休比头壳
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/2DFantasy111
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1839835950048006144/vbMBjTRI_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: aria
+    name: Haruka 的道具屋 ARIA
+    aliases:
+    - haruka的道具屋ARIA
+    - ARIA
+    - Haruka
+    region: 中国大陆
+    location: 中国（业务简介）；具体城市未公开
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 店主公开声明经营 ARIA、制作头壳，并直接提供淘宝链接。
+    description: 公开业务简介说明经营 haruka的道具屋ARIA，从事头壳制作；店铺相关内容通过私信联系。2025 年商品展示帖也重复指向同一淘宝编号，不将个人摄影、绘画或 AI 图片混入商品。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@mitsukiriya'
+      - https://x.com/mitsukiriya
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/mitsukiriya
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - haruka的道具屋ARIA
+      - https://shop280538250.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    merge_note: 官方简介与商品帖的淘宝编号一致；店主账号仅记录公开业务身份，不收录其他私人信息。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - Kigurumi 人脸头壳制作
+      - 定制服务
+      - ''
+      - ''
+      - 询价
+      - 仅记录公开制作业务；规格及新单受理需确认
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/mitsukiriya
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1209770627587928065/V2rvDXuW_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: hideyoshi
+    name: 秀吉姬 Kigurumi 工坊
+    aliases:
+    - 秀吉姬kigurumi
+    - 秀吉姬工坊
+    region: 中国大陆
+    location: 中国（公开业务账号地区）；具体城市未公开
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 手工头壳制作者，公开淘宝店名和私信定制入口。
+    description: 公开简介说明做头壳、私聊定制和淘宝名秀吉姬kigurumi，作品帖子提到妆容与模型改进及硬质造型。缺少具体型号、材料参数和售价时不补写。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@lightning520'
+      - https://x.com/lightning520
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/lightning520
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - 店名声明：秀吉姬kigurumi
+      - https://x.com/lightning520
+      - 官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop149798535.world.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 同一业务简介对应工坊名与淘宝名；历史店铺编号仍待第一方核实。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - Kigurumi 人脸头壳制作
+      - 定制服务
+      - ''
+      - ''
+      - 询价
+      - 仅记录公开制作业务；规格及新单受理需确认
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/lightning520
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1857825022238404608/5fGT1J6F_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+  - id: huyao
+    name: 狐妖手作 Kigurumi
+    aliases:
+    - Kigurumi狐妖手作
+    - Huyaoshouzuo
+    region: 中国大陆
+    location: 中国；具体城市与制作地址未核实（国家线索来自社群目录）
+    status: inquiry
+    status_note: 当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+    summary: 官方账号仍公开头壳来图定制与淘宝域名，独立官网处于维护状态。
+    description: 虽然 huyaoshouzuo.com 只显示维护和测量工具，官方 X 简介明确写头壳来图定做及淘宝 huyaoshouzuo.taobao.com。公开头壳作品包括古明地觉与赛马娘角色；同店服装和乳胶用品不计入头壳价格。
+    categories:
+    - 全定制
+    price_summary: 头壳按需求询价；无已核实当前价目表
+    contacts:
+    - - X 业务联系
+      - '@Huyaoshouzuo'
+      - https://x.com/Huyaoshouzuo
+      - profile
+    channels:
+    - - X
+      - 制作方公开业务账号
+      - https://x.com/Huyaoshouzuo
+      - 第一方业务说明
+      - profile
+    - - 淘宝
+      - kigurumi狐妖手作
+      - https://huyaoshouzuo.taobao.com/
+      - 官方账号公开链接；未核实平台库存和排期
+      - profile
+    - - 官网
+      - 狐妖手作（维护中）
+      - https://huyaoshouzuo.com/
+      - 官方简介关联；当前主要为测量工具
+      - profile
+    - - 淘宝
+      - 历史店铺 URL（归属待复核）
+      - https://shop129018674.taobao.com/
+      - 第三方历史 URL；不是本次核实的店铺直链
+      - directory
+    merge_note: 官方账号直接关联品牌官网和淘宝域名；官网维护不等于整家业务停业。服装现货价不能冒充头壳售价。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+    terms: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+    products:
+    - - 古明地觉全头软支撑反重力造型
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    - - 赛马娘角色全头可拆卸反重力造型
+      - 成品展示
+      - ''
+      - ''
+      - 未公开价格
+      - 公开作品展示，不代表现货；当前报价需询问制作方
+      - profile
+    sources:
+      profile:
+      - 制作方 X 公开简介、渠道与作品；访问于 2026-09-09
+      - https://x.com/Huyaoshouzuo
+      directory:
+      - 2025-12-10 制作者目录；仅用于历史渠道线索
+      - https://makers.kig-o.com/
+    logo: https://pbs.twimg.com/profile_images/1959151122079424512/c9rdVmDo_400x400.jpg
+    logo_source: profile
+    logo_note: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
