@@ -1,6 +1,6 @@
 ---
 title: "Kigurumi 近期采集"
-date: "2026-09-08"
+date: "2026-09-09"
 language: "zh-CN"
 ---
 

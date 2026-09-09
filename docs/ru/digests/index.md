@@ -1,6 +1,6 @@
 ---
 title: "Недавние материалы о Kigurumi"
-date: "2026-09-08"
+date: "2026-09-09"
 language: "ru"
 ---
 

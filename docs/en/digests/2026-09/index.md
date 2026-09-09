@@ -1,13 +1,13 @@
 ---
 title: "September 2026 Kigurumi Public-Source Digest"
-date: "2026-09-08"
+date: "2026-09-09"
 language: "en"
-status: "Rolling review through 2026-09-08 08:45 Asia/Shanghai; only changes from August"
+status: "Rolling review through 2026-09-09 09:10 Asia/Shanghai; only changes from August"
 ---
 
 # September 2026 Kigurumi Public-Source Digest
 
-> This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is **September 8, 2026 at 08:45 Asia/Shanghai**. An existing event or subject is recorded only when its state is new or more informative.
+> This is a rolling monthly collection, not the final 2026 chronicle. The search cutoff is **September 9, 2026 at 09:10 Asia/Shanghai**. An existing event or subject is recorded only when its state is new or more informative.
 
 ## Current state
 
@@ -76,12 +76,13 @@ At 23:53, 是點點__ published the 1-minute 13-second “A kigurumi newcomer's 
 - Same-day birthday-gathering, styling-only, maker-showcase, and “what is inside the head after hours” title-only clips lack process parameters or verifiable conclusions, so they are not promoted to event, workshop, or safety entries.
 - September 7–8 brought more DW14 first-attendee reactions, games, rhythm-game footage, and night-program clips, plus follow-up views from the Zifeng Tower shoot. Except for the battery-box maintenance report, they add no organizer statistic, rule, or new scene and do not become duplicate events.
 - Public fields for an “old head transformed into a new head,” a head explainer, a blinking display, and ordinary styling videos provide no material, structure, control method, or test data. A Changsha night-shoot record establishes only a city and collaboration credits, so none supports a workshop profile, technical conclusion, or formal event.
+- Bilibili matches published after the previous September 8 08:45 cutoff were mainly comedy or dressing clips, a dorm-room stream, and another DW14 visit retrospective. Their public metadata adds no organizer statistic, rule, making parameter, or verifiable discussion, so none is promoted to a new entry.[^bili-sep8-review]
 - Styling-only clips, single-image posts, and context-free camera interactions do not automatically enter the digest. A later release with process parameters, event facts, or verifiable discussion can extend its source chain.
-- Niconico returned no directly relevant addition in the cutoff window. YouTube results were limited to daily styling, a duplicate DW14 lens-signing clip, and scheduled streams that had not begun. Bluesky and Reddit were unreachable in this run, so old material, appointment pages, and inaccessible results were not used to fill an international entry.
+- Niconico's public search endpoint returned zero directly relevant results in the new window. Recent YouTube results remained styling, dance, and stream fragments without new event facts or making parameters. Bluesky and Reddit were unreachable in this run, so old or inaccessible material was not used to fill an international entry.
 
 ## Domain and section decisions
 
-| Domain | Assessment at September 8 | Treatment |
+| Domain | Assessment at September 9 | Treatment |
 | --- | --- | --- |
 | Chronicle | Precisely located Beijing, Nanjing, and Shenzhen shoots; only the Shenzhen record states a shoot date, and none establishes formal-event scale | Keep them as monthly leads rather than separate chronicle events |
 | Daily life / discussion | Layered wear, a personal retrospective, a first outing, urban photography, and gaming visibility | Record the scope of public self-reports without a group conclusion |
@@ -91,6 +92,8 @@ At 23:53, 是點點__ published the 1-minute 13-second “A kigurumi newcomer's 
 | Academic | No directly relevant September publication verified | Omit |
 
 The thirteen deduplicated records cover making, maker attribution, individual wearing, a newcomer outing, a personal retrospective, process testing, three-city photography, component maintenance, and gaming visibility. The monthly digest is sufficient; no separate workshop, safety, person, or event section is warranted. A formal event page, reproducible parameters, materials and license details, wearing research with a measurement method, or a verifiable community survey can later update the source chain without duplication.
+
+[^bili-sep8-review]: Bilibili videos reviewed on September 8, 2026 but not promoted to separate entries: “我被冷暴力了...,” <https://www.bilibili.com/video/BV1ANbV6EE1r/>; “老登kiger为啥变娃时不爱说话（夕阳红版）,” <https://www.bilibili.com/video/BV18Gb56aEyR/>; “【kig】你变不过我你信吗（原声）,” <https://www.bilibili.com/video/BV15zbg6tEFD/>; “在宿舍穿kig直播（尝试自萌）,” <https://www.bilibili.com/video/BV1CmYJ6mEFR/>; and “【DW14】纪念一下游玩记录~【vlog】,” <https://www.bilibili.com/video/BV1qfbV63EuC/>. Public metadata: <https://api.bilibili.com/x/web-interface/view?bvid=BV1ANbV6EE1r>, <https://api.bilibili.com/x/web-interface/view?bvid=BV18Gb56aEyR>, <https://api.bilibili.com/x/web-interface/view?bvid=BV15zbg6tEFD>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1CmYJ6mEFR>, and <https://api.bilibili.com/x/web-interface/view?bvid=BV1qfbV63EuC>
 
 ## Source
 
