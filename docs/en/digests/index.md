@@ -1,6 +1,6 @@
 ---
 title: "Recent Kigurumi Collection"
-date: "2026-08-02"
+date: "2026-09-09"
 language: "en"
 ---
 
@@ -18,6 +18,7 @@ This section groups verifiable public kigurumi material by month: events, daily 
 
 ## Published
 
+- [September 2026 public-source digest](2026-09/index.md)
 - [August 2026 public-source digest](2026-08/index.md)
 - [July 2026 public-source digest](2026-07/index.md)
 

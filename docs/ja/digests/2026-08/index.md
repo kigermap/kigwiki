@@ -1,28 +1,64 @@
 ---
 title: "2026年8月 Kigurumi 公開資料ダイジェスト"
-date: "2026-08-24"
+date: "2026-08-31"
 language: "ja"
-status: "2026-08-24まで再確認・7月からの状態変化のみ記録"
+status: "2026-08-31まで再確認・7月からの状態変化のみ記録"
 ---
 
 # 2026年8月 Kigurumi 公開資料ダイジェスト
 
-> 本ページは月次収集であり、2026年の確定編年ではない。検索期限は **2026年8月24日（Asia/Shanghai）**。継続イベントは状態だけを更新し、7月に整理した規則と予告を複製しない。
+> 本ページは月次収集であり、2026年の確定編年ではない。検索期限は **2026年8月31日08:50（Asia/Shanghai）**。継続イベントは状態だけを更新し、7月に整理した規則と予告を複製しない。
 
 ## 現在の状態
 
 | 日付 / 状態 | 場所 | 分野 | 重複排除後の記録 | 信頼度 |
 | --- | --- | --- | --- | --- |
+| 8月29-31日 / 新規公開と閉幕後整理 | 中国オンライン / Bilibili | 編年、イベント、日常、工房、手工、安全 | DW14 主催アカウントの団体ゲーム長編と長編ドキュメント、初体験と誕生日の日常、頭殻冷却実験、受注頭殻の完成展示を追加。題名の「100名」は演目表現であり実来場統計ではない | 公開メタデータは高、主催 / 参加者内容は中-高 |
+| 8月27-28日 / 新規公開 | 中国オンライン / Bilibili | イベント、日常、雑談、衣装 | DW14 集合写真の振り返りとランウェイ抜粋、脚輪が外れやすいという話題、10周年ステージ衣装の試着を追加。参加者自己申告の数と転載抜粋は主催統計・完全な演目記録として扱わない | 公開メタデータは高、参加者自己記録は中 |
+| 8月26-27日 / 新規公開 | 中国オンライン / Bilibili | イベント、後方支援、工房、手工、日常 | DW14 スタッフによる設営 / 撤収の自己記録、後方支援短編、新しい頭殻の開封、失敗した制作実験を追加。投稿者の規模表現は主催者統計として扱わない | 公開メタデータは高、参加者自己記録は中 |
+| 8月25-26日 / 新規公開 | 中国オンライン / Bilibili | イベント、日常、雑談 | DW14 の演目記録、公共空間での kigurumi 投稿、`kigurumi頭殻` / `kig` タグを持つ雑談の手掛かりを追加。投稿者メタデータが支える範囲だけを記録する | 公開メタデータは高 |
 | 8月21-23日 / 日付期間が過ぎ、公開された3日間すべてに参加者記録あり | 中国・広東省恵州 | 編年、イベント、日常 | 同じ投稿者が Day1 の振り返り、Day2、Day3を揃え、別の投稿者も24日にイベント後の振り返りを公開。3日間の公開記録を確認できるが、人数や全プログラム完了は推定しない | 中-高 |
 | 8月23日 / 新規公開 | 中国オンライン / Bilibili | 工房、制作、啓発 | 4分の「瞬きする頭殻の装着＋内部詳細展示」と `kigurumi`、`頭殻` タグを確認。説明欄は素材、駆動、制作者を示さない | 高 |
 | 8月14日 / 新規公開 | 中国オンライン / Bilibili | 工房、制作、日常 | HaiDolls が16秒の「kigurumi 成品展示」を公開。公開メタデータのみを記録し、未説明の素材・工程は推定しない | 高 |
-| 7月31日-8月2日 / 公式日付期間は経過、実施完了は未確認 | 日本・名古屋 | 編年、啓発、礼儀、安全 | WCS 2026 の公式終了日は8月2日。8月24日の再確認時点でも、主催者による検証可能な完了記録はない | 高 |
+| 7月31日-8月2日 / 選手権結果は確認、全体状態は未更新 | 日本・名古屋 | 編年、啓発、礼儀、安全 | WCS 公式選手権の結果ページは競技部門の完了を確認できる。主イベントの構造化状態は `EventScheduled` のままで、付随企画すべての完了は推定しない | 高 |
 
-### 8月21-24日：DW14 の公開記録が初日から3日間とイベント後の振り返りへ拡張
+### 8月29-31日：DW14 閉幕後記録と日常 / 工房の増分
 
-Doll Weekend 公式ページは、DW14 を2026年8月21-23日に中国・広東省恵州で開催し、テーマを「夢回嶺南」とする情報を引き続き掲載している。8月24日の再確認時点でも購入リンクと「火爆征集中」表示が残り、閉幕後の状態更新はまだ行われていない。[^dw14] 23日までに確認した4投稿者の初日短編・長時間記録は、Day1 の公開参加記録として引き続き有効である。[^dw14-day1]
+8月29日05:09、Doll_Weekend 主催アカウントは4時間を超える「邀请100名娃娃玩游戏 最后只有一个娃能拿走奖品」を公開し、`団体ゲーム`、`Doll Weekend 14`、`kigurumi` のタグを付けた。20:28には Co视 が34分19秒の「DW14 Kigurumi展纪实加长版」を公開した。[^bili-aug31-events] 短編と参加者振り返り中心だった出典の流れに、主催アカウントの演目記録と長編現場記録が加わる。「100名を招待」は演目の表現であり、実来場者数、重複を除いた人物数、全体規模を証明しない。8月31日時点でも主催ページは期限切れの購入状態を残し、閉幕統計を掲載していない。[^dw14]
+
+同じ期間に、咩咩酱Kig は25分31秒の初 kig 体験 Vlog を `Kigurumi`、`kig`、`頭殻`、`商場` のタグ付きで公開し、甜心ヒドラジンは20秒の初めての着ぐるみ誕生日記録を `生活記録`、`誕生日`、`kig頭殻`、`kigurumi` のタグ付きで公開した。[^bili-aug31-events] それぞれ初心者経験と社会的日常として収録する。公開メタデータが確認するのは公開時刻と投稿者の表現であり、撮影日、一般的経験、非公開人物の身元ではない。
+
+8月29日19:41、冷芙科技社kigurumi は2分44秒の「Kig风扇,这次不一样！」を頭殻ファン・冷却タグ付きで公開し、説明欄は試験値を参考情報とし DIY 改造の安全リスクを明記した。8月30日20:04、冉月剧团Umoon は57秒の受注頭殻完成品を `原创`、`手工`、`头壳`、`kig`、`kigurumi` のタグ付きで公開した。[^bili-aug31-craft] 前者は工房 / 安全上の具体的な手掛かりだが、構造、測定法、電気資料がない状態で教程にはしない。後者は制作成果だけを支え、素材、受注条件、技術的先行性を推定しない。
+
+### 8月27-28日：DW14 の交流振り返りと衣装の実用話題
+
+8月27日22:17、夜雪千沫Channel は4分50秒の DW14 集合写真振り返りを公開し、題名、説明、タグが Doll Weekend 14 と `kigurumi` を直接示す。説明欄は DW13 と DW14 で投稿者自身が撮った人数を比較し、社交不安を弱めたいという感想も述べる。この数値は参加者本人の写真記録に関する自己申告であり、イベント来場者数、重複を除いた人物数、主催統計ではない。[^bili-aug28] 本ページは公開された交流振り返りと個人の社会経験だけを記録し、写真の相手を列挙・識別しない。
+
+8月28日00:02、晴风雾雨 は33秒の「dw14千年组走秀部分」を公開した。説明欄は Doll Weekend アカウントから切り出したとし、Bilibili メタデータも転載として扱い、タグは `kigurumi` と `kig` を含む。[^bili-aug28] ランウェイ抜粋が公開流通したことは補えるが、完全な演目順、参加者一覧、元映像の利用許諾は証明しない。本站は映像を埋め込まず、複製もしない。
+
+同日00:12、三哥很danger は54秒の「【kig】幽灵鲨の脚輪は本当に外れやすいのか？」を `kigurumi` タグ付きで公開し、01:23には Al1cks が15秒の「【kigurumi】10周年ステージ衣装を試す」を衣装、コーディネート、`kigurumi` のタグ付きで公開した。[^bili-aug28] 前者は衣装付属品の安定性話題、後者は新衣装試着の日常として記録する。説明欄は固定方法、素材、寸法、試験条件を示さないため、修理教程や一般的結論にはしない。
+
+### 8月21-25日：DW14 の公開記録が3日間から具体的な演目へ拡張
+
+Doll Weekend 公式ページは、DW14 を2026年8月21-23日に中国・広東省恵州で開催し、テーマを「夢回嶺南」とする情報を引き続き掲載している。8月31日の再確認時点でも購入リンクと DW14 の「火爆征集中」表示が残り、閉幕後の状態更新はまだ行われていない。[^dw14] 23日までに確認した4投稿者の初日短編・長時間記録は、Day1 の公開参加記録として引き続き有効である。[^dw14-day1]
 
 8月24日、一蓑烟雨f は同一アカウントから「DW14 Day1回顧」「DW14 Day2」「DW14 Day3」を公開した。3件の公開メタデータには `kigurumi` と `Doll Weekend 14` のタグがあり、Day3 の説明欄は「DW14終了」と記す。Yo桜の御離も同日に「如夢一場 再會DW14」を別途公開した。[^dw14-three-days] 同じ投稿者による3日間の連続記録と、別の投稿者によるイベント後の振り返りにより、根拠は「初日のみ」から「公開された3日間をカバーする参加記録」へ更新される。いずれも参加者による記録であり、主催者の全プログラム、正確な人数、主催者による正式な終了確認は証明しない。規模、個人の身元、非公開部分の進行は推定しない。
+
+8月25日、废材na想吃烤鸭肉は5分41秒の DW14 娃娃演目記録を公開した。題名は `kigurumi` と Doll Weekend を直接含み、タグは `dw14` と `kigurumi`、説明欄は投稿者が2曲を振り付けて DW で披露したと記す。[^dw14-talent] これにより出典の流れは、日ごとの参加記録だけでなく具体的な公開演目に初めて接続する。ただし参加者投稿であり、全演目表、公式映像の権利、すべての演目の完了は証明しない。
+
+### 8月26-27日：DW14 の後方支援と頭殻制作経験に増分記録
+
+8月26日16:19、是慎某人は4分41秒の DW14 振り返りを公開した。説明では投稿者自身を PV 組スタッフとし、設営と撤収の全工程に参加したと述べる。公開タグは `DW14`、`dollweekend`、`kigurumi`、`頭殻` を含む。同日18:00、整颗纱露朵は26秒の「DW14のアフタヌーンティーには何があったか」を公開し、`小技巧`、`教程`、`後勤`、`kig`、`Doll Weekend 14` のタグを付けたが、説明は空である。[^dw14-logistics] 前者はスタッフ視点の後方支援自己記録を支える。後者が支えるのは後方支援の話題が公開されたことだけで、品目一覧、補給基準、主催手順は復元できない。
+
+振り返りのタイトルには「千人」、説明には「過去最大」と次回地域への言及があるが、いずれも投稿者の表現である。8月31日の再確認でも Doll Weekend 公式ページは DW14 を「募集中」と表示し、閉幕統計や次回告知を出していない。[^dw14] したがって公式参加者数、記録、確定日程として扱わない。
+
+8月26日23:08、雲玖久は1分9秒の新しい頭殻開封を公開した。タグは `kigurumi` と `kig` を含み、説明はハイフンだけである。8月27日01:34、-SUCE- は1分の失敗実験記録を公開した。タグは `kigurumi` と `頭殻`、説明は構想が `mh180` のような平たい製品と互換する一方、機能が当初の意図と矛盾し、シリーズ更新を止める可能性があるとする。[^bili-making-notes] 前者は新規物品 / 開封の日常としてのみ収録する。後者は失敗と互換性を扱う工房上の手掛かりだが、装置種別、構造、素材、一般化された結論までは示さない。
+
+### 8月25-26日：公共空間の日常と雑談の手掛かり
+
+Bilibili 公開メタデータは「【kigurumi】在东郊记忆，遇到另一个自己」を8月25日16:07公開、投稿者を Adriano枫斓、長さを1分34秒とし、`kigurumi` タグを付ける。[^bili-daily] 題名から公共空間の日常に分類できるが、メタデータが証明するのは公開日時であり撮影日ではない。演者の身元や、より詳細な位置も推定しない。
+
+8月26日02:17、光猫-爱丽丝と協力アカウント海南KIG次元联合社は25秒の「娃娃群体皮质醇」を公開し、`生活`、`kigurumi头壳`、`kig`、`皮质醇` のタグを付けた。[^bili-talk] これは当月の公開された雑談の手掛かりとなる。説明欄はハイフンだけであり、題名から集団心理、ストレス量、医学的結論、調査結果を導けない。本ページは話題の公開だけを記録し、短編の題名を啓発上の事実へ書き換えない。
 
 ### 8月23日：瞬きする頭殻の装着・内部展示
 
@@ -36,11 +72,11 @@ Bilibili の公開メタデータは「kigurumi 成品展示」の公開日時�
 
 公開説明欄は空で、キャラクター、マスク素材、工房での工程、委託関係も説明されていない。そのため「完成品展示」をチュートリアル、評価、工房プロフィールへ拡張しない。短い動画一件だけでは独立した工房区分を設けず、工程や素材の説明が後日公開された場合に同じ出典の流れを更新する。
 
-### WCS 2026：公式日付期間は経過、実施完了は引き続き未確認
+### WCS 2026：公式選手権結果を確認、イベント全体状態は未更新
 
-WCS 公式ページと構造化イベントデータは、2026年7月31日から8月2日までの名古屋日程を引き続き掲載し、`endDate` は8月2日、状態は `EventScheduled` のままである。[^wcs] 8月24日の再確認でも状態欄または主催者総括の更新を確認できなかったため、確定できるのは公式日付期間が過ぎたことまでである。これは**状態の訂正**であり、二件目のイベント記録ではなく、日付だけで全プログラムの実施を証明できない。
+WCS 公式選手権サイトは「WORLD COSPLAY CHAMPIONSHIP 2026 — RESULTS」ページを公開し、上位3組、特別賞、40の参加国・地域を掲載している。ページメタデータは8月21日公開、22日更新とする。[^wcc-result] この一次結果ページにより選手権部門の完了を確認でき、従来の「主催者完了記録なし」という判断を訂正する。受賞者と40チームは総合 cosplay 選手権の情報であり、kigurumi 参加統計には変換しない。
 
-検索期限までに全日程の終了を確認できる主催者総括または独立した振り返りは見つからなかったため、「終了」とは書かない。フルフェイス衣装、撮影同意、暑熱リスクの規則は[2026年7月ダイジェスト](../2026-07/index.md)で整理済みであり、本ページでは繰り返さない。
+主イベントページと構造化データは7月31日-8月2日の名古屋日程、`endDate` 8月2日、`EventScheduled` をなお保持する。[^wcs] したがって結論は「選手権結果を確認」に限定し、一部門の結果ページから全付随企画の完了を推定しない。フルフェイス衣装、撮影同意、暑熱リスクの規則は[2026年7月ダイジェスト](../2026-07/index.md)で整理済みであり、本ページでは繰り返さない。
 
 ## 追跡するが重複しない項目
 
@@ -49,23 +85,32 @@ WCS 公式ページと構造化イベントデータは、2026年7月31日から
 
 ## 分野と区分の判断
 
-| 分野 | 8月24日の再確認判断 | 処理 |
+| 分野 | 8月31日の再確認判断 | 処理 |
 | --- | --- | --- |
-| 編年史 | DW14 公開記録は3日間をカバーする。WCS の実施完了は引き続き未確認 | 元イベントの状態を更新し、重複追加しない |
-| 日常 / 雑談 | DW14 の3日間の振り返り、イベント後の投稿、8月14日の完成品展示を確認 | 当月の公開投稿として収録 |
-| 工房 / 手作業 | 瞬き頭殻の装着・内部展示を追加。既存完成品短編には工程説明なし | 展示を収録し、素材・初出は推定しない |
-| 百科 / 啓発 | 頭殻の投稿は内部の視点を追加するが、チュートリアルに必要なメタデータはない | 根拠の範囲を記録 |
-| 礼儀 / 安全 | 現行 WCS 規則に実質更新なし | 7月記録へ接続 |
+| 編年史 | DW14 に主催アカウントの団体ゲーム長編と長編記録が加わったが、主催閉幕統計はない。WCS 選手権結果は一次資料で確認 | 元イベントの状態を更新し、重複追加しない |
+| 日常 / 雑談 | 初体験 Vlog と誕生日記録を、既存の集合写真、試着、付属品話題に追加 | 身元、撮影日、人数、一般的結論を推定せず公開範囲を収録 |
+| 工房 / 手作業 | 頭殻冷却実験と受注完成品を追加。既存の開封と失敗実験も保持 | 構造、素材、修理方法、先行性を推定せず成果・振り返り信号として収録 |
+| 百科 / 啓発 | WCS 結果ページで完了状態を訂正。DW14 と頭殻メタデータだけでは統計や教程にならない | 根拠の範囲を記録 |
+| 礼儀 / 安全 | 冷却実験の投稿者が DIY リスクを明記。WCS 規則には実質更新なし | 投稿者警告を保持して既存規則へ接続し、新規規範を作らない |
 | 学術 | 8月の直接関連新研究を確認できず | 収録しない |
 
-今回の再確認では DW14 を「初日記録のみ」から「3日間をカバーする公開記録」へ更新し、独立して引用できる頭殻技術展示を追加した。いずれも月次ダイジェスト内で扱う規模であり、サイト全体の新分野を設ける根拠にはならない。WCS の終了記録、DW14 の公式な振り返り、頭殻の素材・工程資料が確認できた場合は、重複する日次ページではなく同じ出典の流れを更新する。
+今回の再確認では既存の DW14 出典の流れに主催アカウント長編、長編記録、初心者 / 誕生日の日常を加え、頭殻冷却実験と工房完成品を追加し、WCS 一次結果ページで選手権状態を訂正した。いずれも月次ダイジェスト内で扱う規模であり、サイト全体の新分野を設ける根拠にはならない。WCS 全体総括、DW14 の公式閉幕統計または演目表、衣装・頭殻の素材 / 構造資料、方法と標本を持つ社群研究が確認できた場合は、重複する日次ページではなく元の出典の流れを更新する。
 
 ## 出典
 
 [^wcs]: World Cosplay Summit, “World Cosplay Summit 2026,” <https://www.worldcosplaysummit.jp/en>
+[^wcc-result]: World Cosplay Championship / WCS「WORLD COSPLAY CHAMPIONSHIP 2026 — RESULTS」2026年8月21日公開、22日更新、<https://wcc.worldcosplaysummit.jp/en/history/2026/>
 [^dw14]: Doll Weekend「Doll Weekend 14」<https://dollweekend.cn/cn/event/dw14>
+[^bili-aug31-events]: Doll_Weekend「邀请100名娃娃玩游戏 最后只有一个娃能拿走奖品」Bilibili, 2026年8月29日、<https://www.bilibili.com/video/BV1qXtN6JEHm/>; Co视「DW14 Kigurumi展纪实加长版」2026年8月29日、<https://www.bilibili.com/video/BV1tz426jEXb/>; 咩咩酱Kig「初次kig体验｜JK妹妹蜕变成可爱人形玩偶！」2026年8月29日、<https://www.bilibili.com/video/BV117tK6AEMY/>; 甜心ヒドラジン「第一次变娃过生日，切蛋糕啦」2026年8月30日、<https://www.bilibili.com/video/BV1Eg496JEkz/>。公開メタデータ・タグ: <https://api.bilibili.com/x/web-interface/view?bvid=BV1qXtN6JEHm>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1qXtN6JEHm>、<https://api.bilibili.com/x/web-interface/view?bvid=BV1tz426jEXb>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1tz426jEXb>、<https://api.bilibili.com/x/web-interface/view?bvid=BV117tK6AEMY>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV117tK6AEMY>、<https://api.bilibili.com/x/web-interface/view?bvid=BV1Eg496JEkz>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Eg496JEkz>
+[^bili-aug31-craft]: 冷芙科技社kigurumi「Kig风扇,这次不一样！」Bilibili, 2026年8月29日、<https://www.bilibili.com/video/BV1vs426dE4w/>; 冉月剧团Umoon「冉月剧团kigurumi定制头壳成品展示（No.238）」2026年8月30日、<https://www.bilibili.com/video/BV1FitH6KEPD/>。公開メタデータ・タグ: <https://api.bilibili.com/x/web-interface/view?bvid=BV1vs426dE4w>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1vs426dE4w>、<https://api.bilibili.com/x/web-interface/view?bvid=BV1FitH6KEPD>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1FitH6KEPD>
 [^dw14-day1]: 五代雄介-初音未来kiger「DWday1 順利完結啦～」Bilibili, 2026年8月21日、<https://www.bilibili.com/video/BV1bN8z6MEkQ/>; 望月_kiger「DW14 Day1 Part1」「Part2」2026年8月21-22日、<https://www.bilibili.com/video/BV1558B6GEDs/>、<https://www.bilibili.com/video/BV1EM8B6jEsK/>; 繁星游弋似歌「DW14首日 燃尽了……」2026年8月21日、<https://www.bilibili.com/video/BV1zb8z6DEJ9/>; 老骚豆豉「【DW14-20260821】惠州娃展个人直播录像D1」2026年8月22日、<https://www.bilibili.com/video/BV15c8r6UEsx/>。公開メタデータ: <https://api.bilibili.com/x/web-interface/view?bvid=BV1bN8z6MEkQ>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1558B6GEDs>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1EM8B6jEsK>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1zb8z6DEJ9>, <https://api.bilibili.com/x/web-interface/view?bvid=BV15c8r6UEsx>
 [^dw14-three-days]: 一蓑烟雨f「DW14 Day1回顧」「DW14 Day2」「DW14 Day3」Bilibili, 2026年8月24日、<https://www.bilibili.com/video/BV1hV8e64EEq/>、<https://www.bilibili.com/video/BV1xr8Y6EEdf/>、<https://www.bilibili.com/video/BV1Eo8Y6MEv4/>; Yo桜の御離「如夢一場 再會DW14」2026年8月24日、<https://www.bilibili.com/video/BV1CKhN6aEhJ/>。公開メタデータ: <https://api.bilibili.com/x/web-interface/view?bvid=BV1hV8e64EEq>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1xr8Y6EEdf>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1Eo8Y6MEv4>, <https://api.bilibili.com/x/web-interface/view?bvid=BV1CKhN6aEhJ>
+[^dw14-talent]: 废材na想吃烤鸭肉「Dw14娃娃才艺展示：超可爱爱弥斯kigurumi《catch me if you can》《round n round》透明酱dollweekend」Bilibili, 2026年8月25日、<https://www.bilibili.com/video/BV1ZUhg6ME3c/>。公開メタデータ・タグ: <https://api.bilibili.com/x/web-interface/view?bvid=BV1ZUhg6ME3c>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1ZUhg6ME3c>
+[^bili-aug28]: 夜雪千沫Channel「【DW14】和100多位娃娃的集邮合集【kigurumi】」Bilibili, 2026年8月27日、<https://www.bilibili.com/video/BV12E4o66EkP/>。晴风雾雨「dw14千年组走秀部分」、三哥很danger「【kig】幽灵鲨的腿环真的这么容易掉吗？」、Al1cks「【kigurumi】试下十周年打歌服」Bilibili, 2026年8月28日、<https://www.bilibili.com/video/BV1VN4o6nEiz/>、<https://www.bilibili.com/video/BV1uh4d6CEH5/>、<https://www.bilibili.com/video/BV1rT4d6FEnz/>。公開メタデータ・タグ: <https://api.bilibili.com/x/web-interface/view?bvid=BV12E4o66EkP>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV12E4o66EkP>、<https://api.bilibili.com/x/web-interface/view?bvid=BV1VN4o6nEiz>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1VN4o6nEiz>、<https://api.bilibili.com/x/web-interface/view?bvid=BV1uh4d6CEH5>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1uh4d6CEH5>、<https://api.bilibili.com/x/web-interface/view?bvid=BV1rT4d6FEnz>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1rT4d6FEnz>
+[^dw14-logistics]: 是慎某人「DW14正片？先行公開：荔枝味の千人娃娃集会 - Doll Weekend 14」Bilibili, 2026年8月26日、<https://www.bilibili.com/video/BV15A8R6REeN/>; 整颗纱露朵「DW14のアフタヌーンティーには何があったか」Bilibili, 2026年8月26日、<https://www.bilibili.com/video/BV1beh56NEbp/>。公開メタデータ・タグ: <https://api.bilibili.com/x/web-interface/view?bvid=BV15A8R6REeN>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV15A8R6REeN>、<https://api.bilibili.com/x/web-interface/view?bvid=BV1beh56NEbp>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1beh56NEbp>
+[^bili-making-notes]: 雲玖久「新しい頭殻を開封」Bilibili, 2026年8月26日、<https://www.bilibili.com/video/BV1op8Z6qESU/>; -SUCE-「Krgurumi：チョコレート企画の失敗」Bilibili, 2026年8月27日、<https://www.bilibili.com/video/BV1EB8o6BEXe/>。公開メタデータ・タグ: <https://api.bilibili.com/x/web-interface/view?bvid=BV1op8Z6qESU>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1op8Z6qESU>、<https://api.bilibili.com/x/web-interface/view?bvid=BV1EB8o6BEXe>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1EB8o6BEXe>
+[^bili-daily]: Adriano枫斓「【kigurumi】在东郊记忆，遇到另一个自己」Bilibili, 2026年8月25日、<https://www.bilibili.com/video/BV12VhV6fESM/>。公開メタデータ・タグ: <https://api.bilibili.com/x/web-interface/view?bvid=BV12VhV6fESM>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV12VhV6fESM>
+[^bili-talk]: 光猫-爱丽丝・海南KIG次元联合社「娃娃群体皮质醇」Bilibili, 2026年8月26日、<https://www.bilibili.com/video/BV1WKhj6wERu/>。公開メタデータ・タグ: <https://api.bilibili.com/x/web-interface/view?bvid=BV1WKhj6wERu>、<https://api.bilibili.com/x/tag/archive/tags?bvid=BV1WKhj6wERu>
 [^dwkig]: Doll Weekend「Doll Weekend × KIGURUMI 奇谷米 夏日娃娃撮影会」<https://dollweekend.cn/cn/event/dwkigurumi>
 [^bili-guide]: Kaze「Kigurumi入坑指南｜从零开始变成娃娃」Bilibili, <https://www.bilibili.com/video/BV1iEz7BrEHs/>; public metadata: <https://api.bilibili.com/x/web-interface/view?bvid=BV1iEz7BrEHs>
 [^handbook]: 「Kigurumi 不完全手冊」<https://how.kig.land/>

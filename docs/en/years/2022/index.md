@@ -2,7 +2,7 @@
 title: "2022 Kigurumi Chronicle"
 subtitle: "Detailed public-source edition · de-duplicated against 2023/2024/2025"
 author: "Kigurumi Chronicle editors"
-date: "2026-07-28"
+date: "2026-09-05"
 language: "en"
 status: "Based on publicly retrievable sources; private spaces, deleted posts, and unpublished photographs are excluded from factual claims"
 ---
@@ -20,6 +20,8 @@ status: "Based on publicly retrievable sources; private spaces, deleted posts, a
 This volume uses **kigurumi** in the same broad but separated sense as the later chronicles: animegao kigurumi and mask-based character performance; doller and the Chinese-language "娃 / Kig / Kiger" scene; official IP mascot-style greetings; and rules at large cosplay events that directly affect full-head costumes, public-space access, heat risk, photography, or physical contact.
 
 The 2022 record is more fragmented than the 2023–2025 record. Official event pages, organizer archives, venue rules, and on-site media reports take priority. Public video indexes may support a publication date or show that an event circulated publicly, but they do not replace the organizer's account. Anonymous forums are not used to establish allegations or identify people.
+
+In a September 5, 2026 recheck, the cited FGO, Inside Games, キグルミwasshoi!, 着ぐFesta, and Doll Weekend pages remained publicly retrievable. Doll Weekend's current event pages still do not give exact dates for DW5–DW8. The additional Bilibili metadata establishes only public-video publication dates and, for DW7, an upper bound showing that the event had already ended; it does not replace dates the organizer has not published.
 
 | De-duplication case | Treatment in this volume |
 | --- | --- |
@@ -119,23 +121,19 @@ The first 着ぐFesta was held on August 6 at GarageStudioC7. Its TwiPla page re
 
 The organizer also presented the event as a learning exercise for future services. Later editions developed more formal rules and activities; those changes belong to later annual volumes. The 2022 record is the first, deliberately lightweight entry point.
 
-### Second half of 2022: Doll Weekend 7, "Connecting New Beginnings"
+### By September 13: Doll Weekend 7, "Connecting New Beginnings"
 
-The official Doll Weekend archive places DW7 in Guangzhou, reports more than 150 participants, and identifies it as the first edition to include exhibitor partners.<sup>[[S9]](#s9)</sup><sup>[[S12]](#s12)</sup>
+The official Doll Weekend archive places DW7 in Guangzhou, reports more than 150 participants, and identifies it as the first edition to include exhibitor partners. A main public video was published on September 13, 2022, and the description says DW7 had successfully concluded. The event therefore ended no later than that date, but neither the site nor the video gives its exact event date.<sup>[[S9]](#s9)</sup><sup>[[S12]](#s12)</sup><sup>[[S16]](#s16)</sup>
 
 Exhibitor participation connected gatherings with a supply chain of masks, bodysuits, wigs, costumes, eye parts, footwear, padding, photography, storage, and transport. The event is recorded here because that link was a material 2022 change, not because later commercial growth should be projected backward onto it.
 
 ![Doll Weekend's 2022 development](../../../assets/images/kigurumi-2022-chronicle-en/dw_growth_2022.svg)
 
-### End of 2022: Doll Weekend 8, "Warm Winter Gathering"
+### By December 27: Doll Weekend 8, "Warm Winter Gathering"
 
-The official page places DW8 in Huizhou and describes it as the first reunion after emerging from the pandemic's shadow, centered on the beach, sea, and fireworks.<sup>[[S9]](#s9)</sup><sup>[[S13]](#s13)</sup>
+The official page places DW8 in Huizhou and describes it as the first reunion after emerging from the pandemic's shadow, centered on the beach, sea, and fireworks. The official film, published on December 27, 2022, also identifies the Huizhou seashore. This confirms that the event had occurred by then, but does not establish its exact date.<sup>[[S9]](#s9)</sup><sup>[[S13]](#s13)</sup><sup>[[S17]](#s17)</sup>
 
 DW8 closes the year's Doll Weekend arc emotionally: DW5 introduced a shared theme, DW6 expanded into a seaside holiday, DW7 added exhibitors and passed 150 participants, and DW8 framed gathering itself as the central event. The archive does not infer private attendance details from photographs or social posts.
-
-### Anonymous rumor spaces: governance pressure, not evidence
-
-An anonymous 5ch thread active in 2022 shows that reputational disputes and observation threads existed around the scene.<sup>[[S16]](#s16)</sup> It is retained only as low-confidence evidence that such a discussion space existed. No allegation, identity claim, or personal name from the thread is reproduced as fact.
 
 ## 3. Organizations and settings
 
@@ -205,10 +203,6 @@ The pass system at キグルミwasshoi! is an early example of converting a hard
 
 The hotel event prohibited entering the water and regulated equipment near the pool. Seaside Doll Weekend formats also made footing, weather, cooling, and assistance more important.<sup>[[S3]](#s3)</sup><sup>[[S11]](#s11)</sup><sup>[[S13]](#s13)</sup>
 
-### 6. Anonymous discussion could not establish facts
-
-The existence of an anonymous thread shows governance pressure, but its claims cannot meet the archive's standard for identity or wrongdoing.<sup>[[S16]](#s16)</sup>
-
 ## 6. Interpretive notes
 
 ### Official mascot greetings and animegao kigurumi diverged
@@ -238,7 +232,6 @@ The 2022 editions show incremental development through themes, locations, exhibi
 | World Cosplay Summit | Physical-stage return and 2022 health, heat, and photography rules | Later full-face refinements and updated venue rules |
 | 着ぐFesta | The first, 24-person, no-reservation edition | Later workshops, trials, dealers, and expanded conduct rules |
 | Doll Weekend | DW5–DW8 themes, seaside format, exhibitors, and reunion | DW9–DW12 scale, internationalization, and later production |
-| Rumor and harassment | Governance pressure only | No anonymous allegation is promoted in any volume |
 
 This separation prevents mature 2023–2025 systems from being projected backward. The value of 2022 is the rebuilding of venues, rules, and social connection under unstable conditions.
 
@@ -301,5 +294,8 @@ This separation prevents mature 2023–2025 systems from being projected backwar
 <a id="s15"></a>**[S15] Bilibili public video index for Doll Weekend 6, published July 27, 2022.**
 <https://www.bilibili.com/video/BV1Ra411K7ss/>
 
-<a id="s16"></a>**[S16] 5ch anonymous thread index, retained only as low-confidence evidence that an anonymous discussion space existed.**
-<https://egg.5ch.net/test/read.cgi/twwatch/1656382510/>
+<a id="s16"></a>**[S16] Bilibili, main public Doll Weekend 7 film, published by 年糕蛋炒饭 on September 13, 2022; its description says the event had concluded.**
+<https://www.bilibili.com/video/BV1Ke4y1y7Kq/>
+
+<a id="s17"></a>**[S17] Bilibili, official Doll Weekend 8 film, published December 27, 2022.**
+<https://www.bilibili.com/video/BV1Yd4y1a7RU/>

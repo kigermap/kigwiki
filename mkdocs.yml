@@ -6,8 +6,11 @@ copyright: Copyright &copy; 2026 Kigurumi Chronicle Archive. Content is provided
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh
-  logo: assets/images/sample-archive.svg
+  font: false
+  icon:
+    logo: material/book-open-page-variant-outline
   favicon: assets/images/sample-archive.svg
   features:
     - announce.dismiss
@@ -105,6 +108,12 @@ plugins:
                 - 编年总览: chronicle/index.md
                 - 年份目录:
                     - 年份总览: years/index.md
+                    - 1997 年 Kigurumi 编年史: years/1997/index.md
+                    - 1998 年 Kigurumi 编年史: years/1998/index.md
+                    - 1999 年 Kigurumi 编年史: years/1999/index.md
+                    - 2000 年 Kigurumi 编年史: years/2000/index.md
+                    - 2001 年 Kigurumi 编年史: years/2001/index.md
+                    - 2002 年 Kigurumi 编年史: years/2002/index.md
                     - 2003 年 Kigurumi 编年史: years/2003/index.md
                     - 2004 年 Kigurumi 编年史: years/2004/index.md
                     - 2005 年 Kigurumi 编年史: years/2005/index.md
@@ -132,6 +141,7 @@ plugins:
                     - 采集总览: digests/index.md
                     - 2026 年 7 月公开资料摘要: digests/2026-07/index.md
                     - 2026 年 8 月公开资料摘要: digests/2026-08/index.md
+                    - 2026 年 9 月公开资料摘要: digests/2026-09/index.md
             - 志目:
                 - 地点目录: places/index.md
                 - 人物目录: people/index.md
@@ -203,6 +213,12 @@ plugins:
                 - 編年總覽: chronicle/index.md
                 - 年份目錄:
                     - 年份總覽: years/index.md
+                    - 1997 年 Kigurumi 編年史: years/1997/index.md
+                    - 1998 年 Kigurumi 編年史: years/1998/index.md
+                    - 1999 年 Kigurumi 編年史: years/1999/index.md
+                    - 2000 年 Kigurumi 編年史: years/2000/index.md
+                    - 2001 年 Kigurumi 編年史: years/2001/index.md
+                    - 2002 年 Kigurumi 編年史: years/2002/index.md
                     - 2003 年 Kigurumi 編年史: years/2003/index.md
                     - 2004 年 Kigurumi 編年史: years/2004/index.md
                     - 2005 年 Kigurumi 編年史: years/2005/index.md
@@ -230,6 +246,7 @@ plugins:
                     - 採集總覽: digests/index.md
                     - 2026 年 7 月公開資料摘要: digests/2026-07/index.md
                     - 2026 年 8 月公開資料摘要: digests/2026-08/index.md
+                    - 2026 年 9 月公開資料摘要: digests/2026-09/index.md
             - 志目:
                 - 地點目錄: places/index.md
                 - 人物目錄: people/index.md
@@ -301,6 +318,12 @@ plugins:
                 - Overview: chronicle/index.md
                 - Years:
                     - Years Overview: years/index.md
+                    - 1997 Kigurumi Chronicle: years/1997/index.md
+                    - 1998 Kigurumi Chronicle: years/1998/index.md
+                    - 1999 Kigurumi Chronicle: years/1999/index.md
+                    - 2000 Kigurumi Chronicle: years/2000/index.md
+                    - 2001 Kigurumi Chronicle: years/2001/index.md
+                    - 2002 Kigurumi Chronicle: years/2002/index.md
                     - 2003 Kigurumi Chronicle: years/2003/index.md
                     - 2004 Kigurumi Chronicle: years/2004/index.md
                     - 2005 Kigurumi Chronicle: years/2005/index.md
@@ -325,6 +348,7 @@ plugins:
                     - Collection Overview: digests/index.md
                     - July 2026 Public-Source Digest: digests/2026-07/index.md
                     - August 2026 Public-Source Digest: digests/2026-08/index.md
+                    - September 2026 Public-Source Digest: digests/2026-09/index.md
             - Gazetteer:
                 - Places: places/index.md
                 - People: people/index.md
@@ -394,6 +418,12 @@ plugins:
                 - 編年総覧: chronicle/index.md
                 - 年別目録:
                     - 年別総覧: years/index.md
+                    - 1997年 Kigurumi 編年史: years/1997/index.md
+                    - 1998年 Kigurumi 編年史: years/1998/index.md
+                    - 1999年 Kigurumi 編年史: years/1999/index.md
+                    - 2000年 Kigurumi 編年史: years/2000/index.md
+                    - 2001年 Kigurumi 編年史: years/2001/index.md
+                    - 2002年 Kigurumi 編年史: years/2002/index.md
                     - 2003年 Kigurumi 編年史: years/2003/index.md
                     - 2004年 Kigurumi 編年史: years/2004/index.md
                     - 2005年 Kigurumi 編年史: years/2005/index.md
@@ -421,6 +451,7 @@ plugins:
                     - 収集総覧: digests/index.md
                     - 2026年7月 公開資料ダイジェスト: digests/2026-07/index.md
                     - 2026年8月 公開資料ダイジェスト: digests/2026-08/index.md
+                    - 2026年9月 公開資料ダイジェスト: digests/2026-09/index.md
             - 志目:
                 - 場所目録: places/index.md
                 - 人物目録: people/index.md
@@ -492,6 +523,12 @@ plugins:
                 - Обзор: chronicle/index.md
                 - Годы:
                     - Обзор годов: years/index.md
+                    - Хроника Kigurumi 1997 года: years/1997/index.md
+                    - Хроника Kigurumi 1998 года: years/1998/index.md
+                    - Хроника Kigurumi 1999 года: years/1999/index.md
+                    - Хроника Kigurumi 2000 года: years/2000/index.md
+                    - Хроника Kigurumi 2001 года: years/2001/index.md
+                    - Хроника Kigurumi 2002 года: years/2002/index.md
                     - Хроника Kigurumi 2003 года: years/2003/index.md
                     - Хроника Kigurumi 2004 года: years/2004/index.md
                     - Хроника Kigurumi 2005 года: years/2005/index.md
@@ -519,6 +556,7 @@ plugins:
                     - Обзор подборок: digests/index.md
                     - Обзор за июль 2026 года: digests/2026-07/index.md
                     - Обзор за август 2026 года: digests/2026-08/index.md
+                    - Обзор за сентябрь 2026 года: digests/2026-09/index.md
             - Справочник:
                 - Места: places/index.md
                 - Люди: people/index.md
@@ -542,10 +580,10 @@ hooks:
   - scripts/site_hooks.py
 
 extra_css:
-  - assets/stylesheets/extra.css?v=20260613-join-qq-card
+  - assets/stylesheets/extra.css?v=20260909-museum
 
 extra_javascript:
-  - assets/javascripts/archive-ui.js?v=20260613-mobile-nav
+  - assets/javascripts/archive-ui.js?v=20260909-museum
 
 extra:
   generator: false
@@ -611,6 +649,12 @@ nav:
       - 编年总览: chronicle/index.md
       - 年份目录:
           - 年份总览: years/index.md
+          - 1997 年 Kigurumi 编年史: years/1997/index.md
+          - 1998 年 Kigurumi 编年史: years/1998/index.md
+          - 1999 年 Kigurumi 编年史: years/1999/index.md
+          - 2000 年 Kigurumi 编年史: years/2000/index.md
+          - 2001 年 Kigurumi 编年史: years/2001/index.md
+          - 2002 年 Kigurumi 编年史: years/2002/index.md
           - 2003 年 Kigurumi 编年史: years/2003/index.md
           - 2004 年 Kigurumi 编年史: years/2004/index.md
           - 2005 年 Kigurumi 编年史: years/2005/index.md
@@ -638,6 +682,7 @@ nav:
           - 采集总览: digests/index.md
           - 2026 年 7 月公开资料摘要: digests/2026-07/index.md
           - 2026 年 8 月公开资料摘要: digests/2026-08/index.md
+          - 2026 年 9 月公开资料摘要: digests/2026-09/index.md
   - 志目:
       - 地点目录: places/index.md
       - 人物目录: people/index.md

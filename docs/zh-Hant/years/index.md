@@ -8,6 +8,12 @@
   <p class="archive-kicker">Published Years</p>
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
+    <article class="archive-feature"><span class="archive-feature__icon">97</span><h3>1997 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期、來場人數與改為一年兩屆的背景，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="1997/">閱讀 1997 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">98</span><h3>1998 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期、來場人數與春季排隊紀念品，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="1998/">閱讀 1998 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">99</span><h3>1999 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期、來場人數與春季舞台節目，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="1999/">閱讀 1999 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">00</span><h3>2000 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期、來場人數與累計百萬來場里程碑，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="2000/">閱讀 2000 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">01</span><h3>2001 年 Kigurumi 編年史</h3><p>記錄東京電玩展春、秋兩屆的實際日期與來場人數，並明確保留 kigurumi / animegao 規則、實際參與和圖片識別的證據空白。</p><a href="2001/">閱讀 2001 年</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">02</span><h3>2002 年 Kigurumi 編年史</h3><p>記錄東京電玩展 2002 的計畫日程、公眾開放日與會場，並明確保留 kigurumi / animegao 規則、實際參與和完成結果的證據空白。</p><a href="2002/">閱讀 2002 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">03</span><h3>2003 年 Kigurumi 編年史</h3><p>記錄 Inside Doll 在 2003 年 4 月已公開活躍及其全年更新節奏，保留兩個第一方頁面的起始日期衝突，並與現實裝演證據分開。</p><a href="2003/">閱讀 2003 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">04</span><h3>2004 年 Kigurumi 編年史</h3><p>整理東京電玩展目前最早可核驗的大型着ぐるみ、更衣、寄存、檢查和攝影同意規則，並以閉幕後報告確認整體展會完成。</p><a href="2004/">閱讀 2004 年</a></article>
     <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>2005 年 Kigurumi 編年史</h3><p>記錄東京電玩展 2005 的計畫日程、公眾開放日與會場，並明確保留 kigurumi 規則、實際參與和完成結果的證據空白。</p><a href="2005/">閱讀 2005 年</a></article>

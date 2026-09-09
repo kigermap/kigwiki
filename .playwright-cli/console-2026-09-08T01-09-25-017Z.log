@@ -1,0 +1,6 @@
+[    1003ms] [LOG] Enabled live reload @ http://127.0.0.1:8000/digests/2026-09/:3062
+[   29860ms] [LOG] Enabled live reload @ http://127.0.0.1:8000/en/digests/2026-09/:2870
+[   61675ms] [LOG] Enabled live reload @ http://127.0.0.1:8000/ja/digests/2026-09/:3059
+[   81789ms] [LOG] Enabled live reload @ http://127.0.0.1:8000/ru/digests/2026-09/:3059
+[  101235ms] [LOG] Enabled live reload @ http://127.0.0.1:8000/zh-Hant/digests/2026-09/:3059
+[  121837ms] [LOG] Enabled live reload @ http://127.0.0.1:8000/digests/2026-09/:3062

@@ -26,6 +26,42 @@
   <h2>已整理年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">97</span>
+      <h3>1997 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展春、秋两届的实际日期、来场人数与改为一年两届的背景，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="1997/">阅读 1997 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">98</span>
+      <h3>1998 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展春、秋两届的实际日期、来场人数与春季排队纪念品，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="1998/">阅读 1998 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">99</span>
+      <h3>1999 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展春、秋两届的实际日期、来场人数与春季舞台节目，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="1999/">阅读 1999 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">00</span>
+      <h3>2000 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展春、秋两届的实际日期、来场人数与累计百万来场里程碑，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="2000/">阅读 2000 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">01</span>
+      <h3>2001 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展春、秋两届的实际日期和来场人数，并明确保留 kigurumi / animegao 规则、实际参与与图片识别的证据空白。</p>
+      <a href="2001/">阅读 2001 年</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">02</span>
+      <h3>2002 年 Kigurumi 编年史</h3>
+      <p>记录东京电玩展 2002 的计划日程、公众开放日与会场，并明确保留 kigurumi / animegao 规则、实际参与和完成结果的证据空白。</p>
+      <a href="2002/">阅读 2002 年</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">03</span>
       <h3>2003 年 Kigurumi 编年史</h3>
       <p>记录 Inside Doll 在 2003 年 4 月已经公开活跃及其全年更新节奏，保留两个第一方页面的起始日期冲突，并与现实装演证据分开。</p>
@@ -170,7 +206,7 @@
   <p class="archive-kicker">Draft Year Blocks</p>
   <h2>预制年份分卷</h2>
   <div class="archive-feature-grid">
-    <article class="archive-feature"><span class="archive-feature__icon">02</span><h3>2002</h3><p>下一待整理年份；继续核验更早的专题网站、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
+    <article class="archive-feature"><span class="archive-feature__icon">96</span><h3>1996</h3><p>下一待整理年份；继续核验更早的专题网站、旧相册说明和活动称谓，不用后年资料反向补写。</p></article>
     <article class="archive-feature"><span class="archive-feature__icon">今</span><h3>2025-至今</h3><p>进入持续修志阶段，新增事件应同步绑定人物、地点和来源。</p><a href="2025/">查看已整理的 2025 年</a></article>
   </div>
 </section>

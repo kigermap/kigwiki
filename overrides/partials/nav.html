@@ -1,0 +1,39 @@
+{% macro archive_link(entry, icon, section=false, label=none) %}
+  {% set active = page and (entry == page or (section and page.url.startswith(entry.url))) %}
+  <li class="md-nav__item">
+    <a href="{{ entry.url | url }}" class="md-nav__link{% if active %} md-nav__link--active{% endif %}"{% if entry == page %} aria-current="page"{% endif %}>
+      <span class="archive-nav-icon md-icon" aria-hidden="true">{% include ".icons/material/" ~ icon ~ ".svg" %}</span>
+      <span>{{ label or entry.title }}</span>
+    </a>
+  </li>
+{% endmacro %}
+{% macro route_link(route, icon, group=false) %}
+  {% for entry in nav.pages %}
+    {% if entry.file.src_uri == route or entry.file.src_uri.endswith('/' ~ route) %}
+      {{ archive_link(entry, icon, true, entry.parent.title if group and entry.parent else none) }}
+    {% endif %}
+  {% endfor %}
+{% endmacro %}
+<nav class="md-nav md-nav--primary" aria-label="{{ lang.t('nav') }}" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="{{ nav.homepage.url | url }}" class="md-nav__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">{% include "partials/logo.html" %}</a>
+    {{ config.site_name }}
+  </label>
+  <ul class="md-nav__list archive-nav-main" data-md-scrollfix>
+    {{ archive_link(nav.homepage, 'home-outline') }}
+    {{ route_link('chronicle/index.md', 'book-open-page-variant-outline') }}
+    {{ route_link('years/index.md', 'calendar-blank-outline', true) }}
+    {{ route_link('digests/index.md', 'text-box-outline', true) }}
+    {{ route_link('places/index.md', 'map-marker-outline') }}
+    {{ route_link('people/index.md', 'account-group-outline') }}
+    {{ route_link('sources/index.md', 'database-outline', true) }}
+  </ul>
+  <ul class="md-nav__list archive-nav-meta" data-md-scrollfix>
+    {{ route_link('about/index.md', 'information-outline') }}
+    {{ route_link('join/index.md', 'account-plus-outline') }}
+    {{ route_link('support/index.md', 'heart-outline') }}
+    {{ route_link('citation/index.md', 'format-quote-close') }}
+    {{ route_link('faq/index.md', 'help-circle-outline') }}
+    {{ route_link('license/index.md', 'code-tags') }}
+  </ul>
+</nav>

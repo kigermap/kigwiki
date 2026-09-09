@@ -1,0 +1,13 @@
+{% if page %}
+<nav class="md-path archive-breadcrumbs" aria-label="{{ lang.t('nav') }}">
+  <ol class="md-path__list">
+    <li><a href="{{ nav.homepage.url | url }}">{{ nav.homepage.title }}</a></li>
+    {% for ancestor in page.ancestors | reverse %}
+      {% if ancestor.children and ancestor.children[0].url %}
+      <li><a href="{{ ancestor.children[0].url | url }}">{{ ancestor.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% if page != nav.homepage %}<li aria-current="page">{{ page.title }}</li>{% endif %}
+  </ol>
+</nav>
+{% endif %}

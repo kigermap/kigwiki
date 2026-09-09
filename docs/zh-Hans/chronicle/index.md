@@ -44,6 +44,42 @@
   <h2>已录入年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
     <article class="archive-feature">
+      <span class="archive-feature__icon">97</span>
+      <h3>1997 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展春、秋两届的实际日期、来场人数与改为一年两届的背景，并公开标示 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="../years/1997/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">98</span>
+      <h3>1998 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展春、秋两届的实际日期、来场人数与春季排队纪念品，并公开标示 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="../years/1998/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">99</span>
+      <h3>1999 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展春、秋两届的实际日期、来场人数与春季舞台节目，并公开标示 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="../years/1999/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">00</span>
+      <h3>2000 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展春、秋两届的实际日期、来场人数与累计百万来场里程碑，并公开标示 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <a href="../years/2000/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">01</span>
+      <h3>2001 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展春、秋两届的实际日期和来场人数，并公开标示 kigurumi / animegao 规则、实际参与与图片识别的证据空白。</p>
+      <a href="../years/2001/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
+      <span class="archive-feature__icon">02</span>
+      <h3>2002 年 Kigurumi 编年史</h3>
+      <p>收录东京电玩展 2002 的计划日程、公众开放日和会场，并公开标示 kigurumi / animegao 规则与实际参与的证据空白。</p>
+      <a href="../years/2002/">进入年度页</a>
+    </article>
+    <article class="archive-feature">
       <span class="archive-feature__icon">03</span>
       <h3>2003 年 Kigurumi 编年史</h3>
       <p>收录 Inside Doll 在 2003 年 4 月已经公开活跃及其全年编辑更新，并保留两个第一方页面互相冲突的起始日期。</p>
@@ -188,6 +224,6 @@
   <div class="archive-note">
     <strong>近期采集</strong>
     <p>正在发生或尚未稳定的内容先进入按月维护的近期采集页，经来源复核和去重后再写入年度卷。</p>
-    <a href="../digests/2026-08/">查看 2026 年 8 月采集</a>
+    <a href="../digests/2026-09/">查看 2026 年 9 月采集</a>
   </div>
 </section>

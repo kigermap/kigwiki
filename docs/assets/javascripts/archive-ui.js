@@ -169,8 +169,7 @@
     },
   };
 
-  const getLocaleForPath = () => {
-    const path = location.pathname;
+  const getLocaleForPath = (path = location.pathname) => {
     return (
       ["/zh-Hant/", "/en/", "/ja/", "/ru/"].find((prefix) => path.startsWith(prefix)) || "/"
     );
@@ -208,7 +207,8 @@
     );
     if (!headerTitle || !current) return;
 
-    current.textContent = getMobilePageTitle();
+    current.textContent = document.querySelector(".archive-hero")
+      ? LOCALES[getLocaleForPath()].siteName : getMobilePageTitle();
     headerTitle.classList.add("archive-mobile-page-title-ready");
   };
 
@@ -266,6 +266,17 @@
     document.querySelectorAll(".md-typeset table:not([data-archive-enhanced])").forEach((table) => {
       table.dataset.archiveEnhanced = "true";
       table.classList.add("archive-data-table");
+
+      if (!table.closest(".md-typeset__scrollwrap, .archive-table-scroll")) {
+        const wrapper = document.createElement("div");
+        wrapper.className = "archive-table-scroll";
+        table.before(wrapper);
+        wrapper.append(table);
+      }
+      const scrollRegion = table.closest(".md-typeset__scrollwrap, .archive-table-scroll");
+      scrollRegion.tabIndex = 0;
+      scrollRegion.setAttribute("role", "region");
+      scrollRegion.setAttribute("aria-label", table.querySelector("th")?.textContent || getMobilePageTitle());
 
       const headers = Array.from(table.querySelectorAll("thead th")).map((cell) =>
         cell.textContent.trim()
@@ -387,10 +398,10 @@
   };
 
   const snippet = (text, terms) => {
-    const normalizedText = normalize(text);
+    const body = new DOMParser().parseFromString(text, "text/html").body.textContent.replace(/\s+/g, " ").trim();
+    const normalizedText = normalize(body);
     const first = terms.map((term) => normalizedText.indexOf(term)).find((index) => index >= 0) ?? 0;
     const start = Math.max(0, first - 48);
-    const body = text.replace(/\s+/g, " ").trim();
     return `${start > 0 ? "... " : ""}${body.slice(start, start + 132)}${body.length > start + 132 ? " ..." : ""}`;
   };
 
@@ -404,10 +415,12 @@
       .map((doc) => {
         const title = doc.title || "";
         const locationValue = doc.location || "";
+        if (getLocaleForPath(new URL(locationValue || ".", base).pathname) !== getLocaleForPath()) return null;
         const text = doc.text || "";
         const haystack = normalize(`${title} ${locationValue} ${text}`);
         if (!terms.every((term) => haystack.includes(term))) return null;
         const score =
+          (locationValue.includes("#") ? 0 : 6) +
           terms.reduce((total, term) => total + (normalize(title).includes(term) ? 8 : 0), 0) +
           terms.reduce((total, term) => total + (normalize(locationValue).includes(term) ? 4 : 0), 0) +
           terms.reduce((total, term) => total + (normalize(text).includes(term) ? 1 : 0), 0);
@@ -561,23 +574,192 @@
     window.addEventListener("scroll", window.__archiveNavScrollUpdate, { passive: true });
   };
 
-  ready(() => {
-    setupMobilePageTitle();
+  const THEME_MESSAGES = {
+    "zh-Hans": { search: "搜索年份或关键词", all: "全部", oldest: "年份从早到晚", newest: "年份从晚到早", sort: "年份排序", toc: "本页目录" },
+    "zh-Hant": { search: "搜尋年份或關鍵詞", all: "全部", oldest: "年份由早到晚", newest: "年份由晚到早", sort: "年份排序", toc: "本頁目錄" },
+    en: { search: "Search years or keywords", all: "All", oldest: "Oldest first", newest: "Newest first", sort: "Sort years", toc: "On this page" },
+    ja: { search: "年・キーワードを検索", all: "すべて", oldest: "古い順", newest: "新しい順", sort: "年の並び順", toc: "このページの目次" },
+    ru: { search: "Поиск по году или слову", all: "Все", oldest: "Сначала ранние", newest: "Сначала поздние", sort: "Порядок годов", toc: "На этой странице" },
+  };
+
+  const themeIcon = (name) => document.querySelector("#archive-theme-icons")?.content
+    .querySelector(`[data-icon="${name}"]`)?.cloneNode(true) || document.createElement("span");
+
+  const setupYearCatalogues = (messages) => {
+    document.querySelectorAll(".archive-feature-grid:not([data-year-catalogue])").forEach((grid) => {
+      const records = Array.from(grid.querySelectorAll(".archive-feature")).map((item) => {
+        const link = item.querySelector("a");
+        const year = link && new URL(link.href).pathname.match(/\/years\/(\d{4})\/$/)?.[1];
+        return { item, year: Number(year), text: normalize(item.textContent) };
+      });
+      if (records.length < 10 || records.some((record) => !record.year)) return;
+      grid.dataset.yearCatalogue = "true";
+      grid.classList.add("archive-year-grid");
+      records.forEach(({ item, year }) => {
+        const badge = item.querySelector(".archive-feature__icon");
+        if (badge) badge.textContent = year;
+      });
+
+      const panel = document.createElement("div");
+      panel.className = "archive-year-tools";
+      const row = document.createElement("div");
+      row.className = "archive-year-tools__row";
+      const label = document.createElement("label");
+      label.className = "archive-year-search";
+      const input = document.createElement("input");
+      input.type = "search";
+      input.placeholder = messages.search;
+      input.setAttribute("aria-label", messages.search);
+      label.append(themeIcon("magnify"), input);
+      const sort = document.createElement("select");
+      sort.setAttribute("aria-label", messages.sort);
+      [["asc", messages.oldest], ["desc", messages.newest]].forEach(([value, text]) => {
+        const option = document.createElement("option");
+        option.value = value;
+        option.textContent = text;
+        sort.append(option);
+      });
+      row.append(label, sort);
+      const chips = document.createElement("div");
+      chips.className = "archive-chip-list";
+      const status = document.createElement("p");
+      status.className = "archive-filter-status";
+      status.setAttribute("aria-live", "polite");
+      const empty = document.createElement("p");
+      empty.className = "archive-empty";
+      empty.textContent = getMessages().noResults;
+      empty.hidden = true;
+      let decade = null;
+
+      const filter = () => {
+        const query = normalize(input.value);
+        let count = 0;
+        records.forEach(({ item, year, text }) => {
+          const visible = (!decade || Math.floor(year / 10) * 10 === decade) && text.includes(query);
+          item.hidden = !visible;
+          if (visible) count += 1;
+        });
+        status.textContent = getMessages().showingMatches(count);
+        empty.hidden = count > 0;
+        grid.hidden = count === 0;
+      };
+      const decades = [...new Set(records.map(({ year }) => Math.floor(year / 10) * 10))].sort();
+      [null, ...decades].forEach((value) => {
+        const chip = document.createElement("button");
+        chip.type = "button";
+        chip.className = `archive-chip${value === null ? " archive-chip--active" : ""}`;
+        chip.textContent = value === null ? messages.all : `${value}s`;
+        chip.setAttribute("aria-pressed", String(value === null));
+        chip.addEventListener("click", () => {
+          decade = value;
+          chips.querySelectorAll("button").forEach((button) => {
+            button.classList.toggle("archive-chip--active", button === chip);
+            button.setAttribute("aria-pressed", String(button === chip));
+          });
+          filter();
+        });
+        chips.append(chip);
+      });
+      input.addEventListener("input", filter);
+      sort.addEventListener("change", () => {
+        [...records].sort((a, b) => sort.value === "asc" ? a.year - b.year : b.year - a.year)
+          .forEach(({ item }) => grid.append(item));
+      });
+      panel.append(row, chips, status);
+      grid.before(panel);
+      grid.after(empty);
+      filter();
+
+      if (/\/years\/$/.test(location.pathname)) {
+        const intro = document.querySelector(".archive-page-intro");
+        const section = grid.closest(".archive-section");
+        if (intro && section) intro.after(section);
+      }
+    });
+  };
+
+  const setupTheme = () => {
+    const article = document.querySelector(".md-content__inner");
+    if (!article || article.dataset.themeReady) return;
+    article.dataset.themeReady = "true";
+    const locale = LOCALES[getLocaleForPath()] || LOCALES["/"];
+    const messages = THEME_MESSAGES[locale.lang];
+    const hero = article.querySelector(".archive-hero");
+    if (hero) {
+      const catalogue = article.querySelector(".archive-feature-grid")?.closest(".archive-section");
+      if (catalogue) {
+        catalogue.classList.add("archive-catalogue");
+        hero.after(catalogue);
+        catalogue.querySelectorAll(".archive-feature").forEach((feature, index) => {
+          const number = document.createElement("span");
+          number.className = "archive-number";
+          number.textContent = String(index + 1).padStart(2, "0");
+          number.setAttribute("aria-hidden", "true");
+          feature.prepend(number);
+          const link = feature.querySelector("a");
+          const source = Array.from(document.querySelectorAll(".archive-nav-main a, .archive-nav-meta a"))
+            .find((navLink) => navLink.href === link?.href)?.querySelector(".archive-nav-icon");
+          if (source) feature.querySelector(".archive-feature__icon")?.replaceChildren(source.cloneNode(true));
+        });
+      }
+      const chronicle = Array.from(hero.querySelectorAll(".md-button"))
+        .find((link) => new URL(link.href).pathname.endsWith("/chronicle/"));
+      if (chronicle) {
+        hero.querySelectorAll(".md-button").forEach((link) => link.classList.toggle("md-button--primary", link === chronicle));
+        chronicle.parentElement.prepend(chronicle);
+      }
+    }
+    article.querySelectorAll(".archive-feature > a, .archive-actions > a").forEach((link) => link.append(themeIcon("arrow-right")));
+    setupYearCatalogues(messages);
+
+    const toc = document.querySelector(".md-nav--secondary .md-nav__list");
+    if (!hero && toc?.children.length) {
+      const mobileToc = document.createElement("details");
+      mobileToc.className = "archive-mobile-toc";
+      const summary = document.createElement("summary");
+      summary.append(themeIcon("format-list-bulleted"), document.createTextNode(messages.toc));
+      const list = toc.cloneNode(true);
+      list.removeAttribute("data-md-component");
+      list.querySelectorAll("[id]").forEach((element) => element.removeAttribute("id"));
+      list.addEventListener("click", (event) => {
+        if (event.target.closest("a")) mobileToc.open = false;
+      });
+      mobileToc.append(summary, list);
+      (article.querySelector(".archive-page-intro") || article.querySelector("h1"))?.after(mobileToc);
+    }
+    if (!hero && !document.querySelector(".archive-reading-progress")) {
+      const progress = document.createElement("div");
+      progress.className = "archive-reading-progress";
+      progress.setAttribute("aria-hidden", "true");
+      document.body.append(progress);
+      let scheduled = false;
+      const update = () => {
+        const available = article.scrollHeight - window.innerHeight;
+        const offset = window.scrollY - (article.getBoundingClientRect().top + window.scrollY) + 64;
+        progress.style.transform = `scaleX(${available > 0 ? Math.min(1, Math.max(0, offset / available)) : 0})`;
+        scheduled = false;
+      };
+      window.addEventListener("scroll", () => {
+        if (!scheduled) { scheduled = true; requestAnimationFrame(update); }
+      }, { passive: true });
+      window.addEventListener("resize", update);
+      update();
+    }
+  };
+
+  const initialize = () => {
     setupNotFoundLocale();
+    setupMobilePageTitle();
+    setupTheme();
     enhanceTables();
     setupIndexFilters();
     setupSearchFallback();
     setupNavigationState();
-  });
+  };
+
+  ready(initialize);
 
   if (window.document$?.subscribe) {
-    window.document$.subscribe(() => {
-      setupMobilePageTitle();
-      setupNotFoundLocale();
-      enhanceTables();
-      setupIndexFilters();
-      setupSearchFallback();
-      setupNavigationState();
-    });
+    window.document$.subscribe(initialize);
   }
 })();
