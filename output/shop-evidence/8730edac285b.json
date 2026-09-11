@@ -1,0 +1,210 @@
+{
+  "url": "https://www.goofish.com/search?q=kigurumi",
+  "status": 200,
+  "text": "闲鱼 - 闲不住？上闲鱼！ 登录 搜索 消息 手机 数码 电脑 服饰 箱包 运动 技能 卡券 潮玩 母婴 美妆 个护 家具 家电 家装 文玩 珠宝 礼品 食品 宠物 花卉 图书 游戏 音像 汽车 电动车 租房 五金 设备 农牧 Banner横幅 衣橱捡漏 二次元 手机数码 省钱卡券 猜你喜欢 BJD娃娃 垂钓 吉他乐器 台球 摄影摄像 钱币收藏 女装穿搭 居家好物 大牌美妆 机车",
+  "links": [
+    {
+      "text": "登录",
+      "url": "https://www.goofish.com/login?spm=a21ybx.seo.sitemap.1"
+    },
+    {
+      "text": "搜索",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.sitemap.2"
+    },
+    {
+      "text": "消息",
+      "url": "https://www.goofish.com/im?spm=a21ybx.seo.sitemap.3"
+    },
+    {
+      "text": "手机",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.1&q=%E6%89%8B%E6%9C%BA"
+    },
+    {
+      "text": "数码",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.2&q=%E6%95%B0%E7%A0%81"
+    },
+    {
+      "text": "电脑",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.3&q=%E7%94%B5%E8%84%91"
+    },
+    {
+      "text": "服饰",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.4&q=%E6%9C%8D%E9%A5%B0"
+    },
+    {
+      "text": "箱包",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.5&q=%E7%AE%B1%E5%8C%85"
+    },
+    {
+      "text": "运动",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.6&q=%E8%BF%90%E5%8A%A8"
+    },
+    {
+      "text": "技能",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.7&q=%E6%8A%80%E8%83%BD"
+    },
+    {
+      "text": "卡券",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.8&q=%E5%8D%A1%E5%88%B8"
+    },
+    {
+      "text": "潮玩",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.9&q=%E6%BD%AE%E7%8E%A9"
+    },
+    {
+      "text": "母婴",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.10&q=%E6%AF%8D%E5%A9%B4"
+    },
+    {
+      "text": "美妆",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.11&q=%E7%BE%8E%E5%A6%86"
+    },
+    {
+      "text": "个护",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.12&q=%E4%B8%AA%E6%8A%A4"
+    },
+    {
+      "text": "家具",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.13&q=%E5%AE%B6%E5%85%B7"
+    },
+    {
+      "text": "家电",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.14&q=%E5%AE%B6%E7%94%B5"
+    },
+    {
+      "text": "家装",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.15&q=%E5%AE%B6%E8%A3%85"
+    },
+    {
+      "text": "文玩",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.16&q=%E6%96%87%E7%8E%A9"
+    },
+    {
+      "text": "珠宝",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.17&q=%E7%8F%A0%E5%AE%9D"
+    },
+    {
+      "text": "礼品",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.18&q=%E7%A4%BC%E5%93%81"
+    },
+    {
+      "text": "食品",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.19&q=%E9%A3%9F%E5%93%81"
+    },
+    {
+      "text": "宠物",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.20&q=%E5%AE%A0%E7%89%A9"
+    },
+    {
+      "text": "花卉",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.21&q=%E8%8A%B1%E5%8D%89"
+    },
+    {
+      "text": "图书",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.22&q=%E5%9B%BE%E4%B9%A6"
+    },
+    {
+      "text": "游戏",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.23&q=%E6%B8%B8%E6%88%8F"
+    },
+    {
+      "text": "音像",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.24&q=%E9%9F%B3%E5%83%8F"
+    },
+    {
+      "text": "汽车",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.25&q=%E6%B1%BD%E8%BD%A6"
+    },
+    {
+      "text": "电动车",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.26&q=%E7%94%B5%E5%8A%A8%E8%BD%A6"
+    },
+    {
+      "text": "租房",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.27&q=%E7%A7%9F%E6%88%BF"
+    },
+    {
+      "text": "五金",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.28&q=%E4%BA%94%E9%87%91"
+    },
+    {
+      "text": "设备",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.29&q=%E8%AE%BE%E5%A4%87"
+    },
+    {
+      "text": "农牧",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.category.30&q=%E5%86%9C%E7%89%A7"
+    },
+    {
+      "text": "Banner横幅",
+      "url": "https://www.goofish.com/mach-feeds?machId=166630&publishTimes=2&spm=a21ybx.seo.banner.1"
+    },
+    {
+      "text": "衣橱捡漏",
+      "url": "https://www.goofish.com/mach-feeds?machId=163873&publishTimes=1&spm=a21ybx.seo.channel.1"
+    },
+    {
+      "text": "二次元",
+      "url": "https://www.goofish.com/mach-feeds?machId=165202&publishTimes=1&spm=a21ybx.seo.channel.2"
+    },
+    {
+      "text": "手机数码",
+      "url": "https://www.goofish.com/mach-feeds?machId=163816&publishTimes=1&spm=a21ybx.seo.channel.3"
+    },
+    {
+      "text": "省钱卡券",
+      "url": "https://www.goofish.com/mach-feeds?machId=165364&publishTimes=1&spm=a21ybx.seo.channel.4"
+    },
+    {
+      "text": "猜你喜欢",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.1&q=%E7%8C%9C%E4%BD%A0%E5%96%9C%E6%AC%A2"
+    },
+    {
+      "text": "BJD娃娃",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.2&q=BJD%E5%A8%83%E5%A8%83"
+    },
+    {
+      "text": "垂钓",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.3&q=%E5%9E%82%E9%92%93"
+    },
+    {
+      "text": "吉他乐器",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.4&q=%E5%90%89%E4%BB%96%E4%B9%90%E5%99%A8"
+    },
+    {
+      "text": "台球",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.5&q=%E5%8F%B0%E7%90%83"
+    },
+    {
+      "text": "摄影摄像",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.6&q=%E6%91%84%E5%BD%B1%E6%91%84%E5%83%8F"
+    },
+    {
+      "text": "钱币收藏",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.7&q=%E9%92%B1%E5%B8%81%E6%94%B6%E8%97%8F"
+    },
+    {
+      "text": "女装穿搭",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.8&q=%E5%A5%B3%E8%A3%85%E7%A9%BF%E6%90%AD"
+    },
+    {
+      "text": "居家好物",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.9&q=%E5%B1%85%E5%AE%B6%E5%A5%BD%E7%89%A9"
+    },
+    {
+      "text": "大牌美妆",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.10&q=%E5%A4%A7%E7%89%8C%E7%BE%8E%E5%A6%86"
+    },
+    {
+      "text": "机车",
+      "url": "https://www.goofish.com/search?spm=a21ybx.seo.tab.11&q=%E6%9C%BA%E8%BD%A6"
+    }
+  ],
+  "images": [
+    {
+      "alt": "闲鱼站点Logo",
+      "src": "https://gw.alicdn.com/imgextra/i4/O1CN01puu0XC1vG0PyKApAV_!!6000000006144-2-tps-242-150.png"
+    }
+  ],
+  "fetched_at": "2026-09-09T08:24:35.624636+00:00"
+}

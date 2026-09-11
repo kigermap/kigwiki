@@ -1,55 +1,17 @@
 ---
 title: "2022 Kigurumi Chronicle"
-subtitle: "Detailed public-source edition · de-duplicated against 2023/2024/2025"
+subtitle: "Public-source chronicle"
 author: "Kigurumi Chronicle editors"
 date: "2026-09-05"
 language: "en"
-status: "Based on publicly retrievable sources; private spaces, deleted posts, and unpublished photographs are excluded from factual claims"
+status: "Public-source chronicle"
 ---
 
 # 2022 Kigurumi Chronicle
 
-> Editorial scope: This volume follows the structure established by the 2025, 2024, and 2023 chronicles without repeating later editions of the same events, later rule changes, or later industry growth. It records a series only when its 2022 edition provides an independent event, early rule set, early scale, offline restart, or other material change.
+> This volume records events, works and publications from this year. Announcements and completed events are identified separately.
 
-![2022 Kigurumi public-source timeline](../../../assets/images/kigurumi-2022-chronicle-en/timeline_2022.svg)
-
----
-
-## 0. Scope, de-duplication, and confidence
-
-This volume uses **kigurumi** in the same broad but separated sense as the later chronicles: animegao kigurumi and mask-based character performance; doller and the Chinese-language "娃 / Kig / Kiger" scene; official IP mascot-style greetings; and rules at large cosplay events that directly affect full-head costumes, public-space access, heat risk, photography, or physical contact.
-
-The 2022 record is more fragmented than the 2023–2025 record. Official event pages, organizer archives, venue rules, and on-site media reports take priority. Public video indexes may support a publication date or show that an event circulated publicly, but they do not replace the organizer's account. Anonymous forums are not used to establish allegations or identify people.
-
-In a September 5, 2026 recheck, the cited FGO, Inside Games, キグルミwasshoi!, 着ぐFesta, and Doll Weekend pages remained publicly retrievable. Doll Weekend's current event pages still do not give exact dates for DW5–DW8. The additional Bilibili metadata establishes only public-video publication dates and, for DW7, an upper bound showing that the event had already ended; it does not replace dates the organizer has not published.
-
-| De-duplication case | Treatment in this volume |
-| --- | --- |
-| A series continued in 2023–2025 | Record only its distinct 2022 edition, early rules, and contemporary scale |
-| Terminology already explained in the 2025 volume | Keep only the distinctions needed to read the 2022 record |
-| FGO or other official greetings continued later | Record only the AnimeJapan and FGO Fes. 2022 nodes |
-| WCS later expanded full-face and heat rules | Record the 2022 return to a physical stage and that year's rules |
-| Doll Weekend later reached DW9–DW12 | Record only DW5–DW8 and their 2022 development |
-| Later editions of 着ぐFesta added more formal rules | Record the low-barrier first edition held in 2022 |
-| Anonymous allegations | Record only the existence of governance pressure, never the allegation as fact |
-
-![2022 Kigurumi ecosystem](../../../assets/images/kigurumi-2022-chronicle-en/ecosystem_2022.svg)
-
-## 1. The year's overall arc
-
-The defining feature of 2022 was not explosive growth but **offline reconnection**. Events that had been canceled, reduced, postponed, reservation-only, or moved online during 2020–2021 began reopening physical venues. Organizers had to place existing kigurumi concerns, including limited vision, ventilation, assistance, contact, photography, and changing space, inside new public-health controls.
-
-Five threads are visible in the surviving public record:
-
-1. Japan's specialist scene rebuilt complex in-person formats. The 19th キグルミwasshoi! used a hotel hall, lounge, poolside, chapel, stage, dealer area, photography services, and lodging while publishing detailed consent and venue rules.<sup>[[S3]](#s3)</sup>
-2. Lower-barrier gatherings appeared. The first 着ぐFesta invited people to attend without advance booking and treated the event as a way to learn what participants wanted from future editions.<sup>[[S8]](#s8)</sup>
-3. Official IP characters returned to major public venues. FGO scheduled a cosplayer and kigurumi greeting stage at AnimeJapan and used six official kigurumi at FGO Fes. 2022.<sup>[[S1]](#s1)</sup><sup>[[S2]](#s2)</sup>
-4. World Cosplay Summit returned its championship to a physical stage while retaining COVID, heat, photography, and public-space controls.<sup>[[S4]](#s4)</sup><sup>[[S5]](#s5)</sup><sup>[[S6]](#s6)</sup><sup>[[S7]](#s7)</sup>
-5. Doll Weekend moved from its first themed edition through a seaside format, exhibitor participation, and a post-lockdown reunion across DW5–DW8.<sup>[[S9]](#s9)</sup><sup>[[S10]](#s10)</sup><sup>[[S11]](#s11)</sup><sup>[[S12]](#s12)</sup><sup>[[S13]](#s13)</sup>
-
-In short, 2022 reconnected many of the systems that later became larger: specialist venues, newcomer access, official greetings, public-event governance, themed gatherings, and maker-to-participant links.
-
-## 2. 2022 chronology
+## 2022 chronology
 
 ### January–February: reopening remained conditional
 
@@ -134,118 +96,6 @@ Exhibitor participation connected gatherings with a supply chain of masks, bodys
 The official page places DW8 in Huizhou and describes it as the first reunion after emerging from the pandemic's shadow, centered on the beach, sea, and fireworks. The official film, published on December 27, 2022, also identifies the Huizhou seashore. This confirms that the event had occurred by then, but does not establish its exact date.<sup>[[S9]](#s9)</sup><sup>[[S13]](#s13)</sup><sup>[[S17]](#s17)</sup>
 
 DW8 closes the year's Doll Weekend arc emotionally: DW5 introduced a shared theme, DW6 expanded into a seaside holiday, DW7 added exhibitors and passed 150 participants, and DW8 framed gathering itself as the central event. The archive does not infer private attendance details from photographs or social posts.
-
-## 3. Organizations and settings
-
-### キグルミwasshoi! and its organizer network
-
-The 19th edition represents a specialist, hotel-based model with multiple photo settings, lodging, stage content, dealers, and consent infrastructure.<sup>[[S3]](#s3)</sup>
-
-### GarageStudioC7 and 着ぐFesta
-
-The first 着ぐFesta represents a smaller, low-barrier model designed around free interaction, basic photography, and participant feedback.<sup>[[S8]](#s8)</sup>
-
-### FGO PROJECT, AnimeJapan, and FGO Fes.
-
-These official IP settings used kigurumi as part of licensed venue operation, scheduled greeting, and audience welcome rather than as independent fan practice.<sup>[[S1]](#s1)</sup><sup>[[S2]](#s2)</sup>
-
-### World Cosplay Summit
-
-WCS represents the large public-event model in which kigurumi-relevant conduct is governed through general rules for heat, photography, changing rooms, masks, and shared urban space.<sup>[[S4]](#s4)</sup><sup>[[S5]](#s5)</sup><sup>[[S6]](#s6)</sup><sup>[[S7]](#s7)</sup>
-
-### Doll Weekend and the Chinese-language "娃 / Kig / Kiger" scene
-
-DW5–DW8 show a progression from a first shared theme to a destination format, exhibitor links, larger participation, and a reunion narrative.<sup>[[S9]](#s9)</sup><sup>[[S10]](#s10)</sup><sup>[[S11]](#s11)</sup><sup>[[S12]](#s12)</sup><sup>[[S13]](#s13)</sup>
-
-## 4. Positive developments
-
-### 1. Physical events reopened
-
-FGO Fes. and the WCS championship returned to physical venues after roughly three years, while the first 着ぐFesta answered demand for an easy-to-join gathering.<sup>[[S2]](#s2)</sup><sup>[[S4]](#s4)</sup><sup>[[S8]](#s8)</sup>
-
-### 2. Specialist organizers could still operate complex spaces
-
-キグルミwasshoi! combined multiple hotel settings and services without treating consent, public access, or venue safety as afterthoughts.<sup>[[S3]](#s3)</sup>
-
-### 3. A lower-barrier newcomer route appeared
-
-The first 着ぐFesta deliberately limited program complexity and used participant feedback to shape later editions.<sup>[[S8]](#s8)</sup>
-
-### 4. Doll Weekend became more thematic and connected
-
-DW5–DW8 demonstrate theme design, environmental staging, exhibitor participation, and an event identity that was more structured than an informal meetup.<sup>[[S9]](#s9)</sup><sup>[[S10]](#s10)</sup><sup>[[S11]](#s11)</sup><sup>[[S12]](#s12)</sup><sup>[[S13]](#s13)</sup>
-
-### 5. Official IP kept kigurumi publicly visible
-
-AnimeJapan and FGO Fes. placed licensed kigurumi in mainstream anime-event contexts at a time when physical fan experiences were returning.<sup>[[S1]](#s1)</sup><sup>[[S2]](#s2)</sup>
-
-## 5. Risks and negative pressures
-
-![2022 Kigurumi risk matrix](../../../assets/images/kigurumi-2022-chronicle-en/risk_matrix_2022.svg)
-
-### 1. COVID still shaped participation
-
-Entry screening, masks, distancing, changing-room silence, and illness exclusions meant offline return remained conditional.<sup>[[S7]](#s7)</sup>
-
-### 2. Heat and dehydration were explicit hazards
-
-WCS warned that staff could stop clothing likely to cause serious dehydration. This concern is amplified by full-head costumes and limited ventilation.<sup>[[S6]](#s6)</sup>
-
-### 3. Photography required consent
-
-Both specialist and public-event rules rejected the idea that attendance automatically authorized photography or publication.<sup>[[S3]](#s3)</sup><sup>[[S5]](#s5)</sup>
-
-### 4. Contact boundaries needed visible tools
-
-The pass system at キグルミwasshoi! is an early example of converting a hard-to-communicate boundary into an event-readable signal.<sup>[[S3]](#s3)</sup>
-
-### 5. Pools, beaches, and night settings increased risk
-
-The hotel event prohibited entering the water and regulated equipment near the pool. Seaside Doll Weekend formats also made footing, weather, cooling, and assistance more important.<sup>[[S3]](#s3)</sup><sup>[[S11]](#s11)</sup><sup>[[S13]](#s13)</sup>
-
-## 6. Interpretive notes
-
-### Official mascot greetings and animegao kigurumi diverged
-
-Official FGO kigurumi were licensed, scheduled parts of an IP event. Animegao and doller activity was participant- or community-led. Both shaped public understanding, but they should not be collapsed into one organizational practice.<sup>[[S1]](#s1)</sup><sup>[[S2]](#s2)</sup>
-
-### Consent became infrastructure
-
-Passes, pre-photography permission, publication permission, and interaction rules show consent moving from informal courtesy into explicit event governance.<sup>[[S3]](#s3)</sup><sup>[[S5]](#s5)</sup>
-
-### Three Japanese event models coexisted
-
-The hotel specialist event, the large public summit, and the low-barrier studio meetup served different needs: production depth, public visibility, and newcomer access.<sup>[[S3]](#s3)</sup><sup>[[S4]](#s4)</sup><sup>[[S8]](#s8)</sup>
-
-### Doll Weekend did not become large overnight
-
-The 2022 editions show incremental development through themes, locations, exhibitors, participant scale, and post-pandemic reunion. Later growth should not be rewritten as if it already existed at DW5.<sup>[[S9]](#s9)</sup><sup>[[S10]](#s10)</sup><sup>[[S11]](#s11)</sup><sup>[[S12]](#s12)</sup><sup>[[S13]](#s13)</sup>
-
-![From reopening to later growth](../../../assets/images/kigurumi-2022-chronicle-en/transition_2022.svg)
-
-## 7. Cross-year de-duplication index
-
-| Series or subject | Retained in the 2022 volume | Left to later volumes |
-| --- | --- | --- |
-| FGO official greetings | AnimeJapan 2022 and FGO Fes. physical return | Later character lineups and booth formats |
-| キグルミwasshoi! | The 19th edition's hotel model and rules | Later editions and later organizer changes |
-| World Cosplay Summit | Physical-stage return and 2022 health, heat, and photography rules | Later full-face refinements and updated venue rules |
-| 着ぐFesta | The first, 24-person, no-reservation edition | Later workshops, trials, dealers, and expanded conduct rules |
-| Doll Weekend | DW5–DW8 themes, seaside format, exhibitors, and reunion | DW9–DW12 scale, internationalization, and later production |
-
-This separation prevents mature 2023–2025 systems from being projected backward. The value of 2022 is the rebuilding of venues, rules, and social connection under unstable conditions.
-
-## 8. Conclusion
-
-**Reopening.** FGO Fes. returned to a physical anniversary event, the WCS championship returned to a physical stage, and 着ぐFesta created a lightweight gathering.<sup>[[S2]](#s2)</sup><sup>[[S4]](#s4)</sup><sup>[[S8]](#s8)</sup>
-
-**Rules.** Specialist passes, photography permission, heat controls, COVID measures, and public-space restrictions show that reopening depended on explicit boundaries.<sup>[[S3]](#s3)</sup><sup>[[S5]](#s5)</sup><sup>[[S6]](#s6)</sup><sup>[[S7]](#s7)</sup>
-
-**Themed growth.** DW5–DW8 moved through a first theme, destination immersion, exhibitor links, and a reunion without yet possessing the scale of later editions.<sup>[[S9]](#s9)</sup><sup>[[S10]](#s10)</sup><sup>[[S11]](#s11)</sup><sup>[[S12]](#s12)</sup><sup>[[S13]](#s13)</sup>
-
-**Embodied presence.** Whether at an official FGO gate, a specialist hotel event, WCS, or a Doll Weekend beach setting, kigurumi depended on shared physical space for movement, greeting, photography, endurance, and consent.
-
-2022 was therefore not an empty year. It was a year of post-pandemic reconnection, rewritten rules, renewed themed events, and re-embodied official IP: less spectacular than 2025, but foundational to the years that followed.
 
 ## Sources
 

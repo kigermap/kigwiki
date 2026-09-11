@@ -1,0 +1,30 @@
+{
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLScgAfIOdUWjB1GRJr7OK_x6feWYJTZTnm6Arf4Y1GgMlMpL3g/viewform?usp=send_form",
+  "status": 401,
+  "text": "允许 Google 表单访问您必要的 Cookie 停用必要的 Cookie 后，您将无法访问此内容 了解详情 允许使用 Cookie 登录到您的 Google 账号 您必须登录才能访问此内容 登录 无法访问您的 Google 账号 我们目前无法访问此内容。请尝试登录您的 Google 账号或允许 Cookie 访问以继续操作。 了解详情",
+  "links": [
+    {
+      "text": "了解详情",
+      "url": "https://support.google.com/drive?p=enable_storage_access"
+    },
+    {
+      "text": "了解详情",
+      "url": "https://support.google.com/drive?p=enable_storage_access"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Google 表单",
+      "src": "//ssl.gstatic.com/docs/common/product/forms_app_icon2.png"
+    },
+    {
+      "alt": "Google 徽标",
+      "src": "https://www.gstatic.com/images/branding/googleg/1x/googleg_standard_color_48dp.png"
+    },
+    {
+      "alt": "Google 徽标",
+      "src": "https://www.gstatic.com/images/branding/googleg/1x/googleg_standard_color_48dp.png"
+    }
+  ],
+  "fetched_at": "2026-09-09T09:40:05.787888+00:00"
+}

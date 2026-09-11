@@ -28,10 +28,40 @@
     <article class="archive-feature">
       <span class="archive-feature__icon">論</span>
       <h3>AIGC 時代意見領袖生成機理與趨勢挑戰</h3>
-      <p>收錄蔡聖涵、魏德毓發表於《寧德師範學院學報（哲學社會科學版）》2026 年第 1 期的論文內容，並補充 SOR 生成機理與增強回路輔助圖示。</p>
+      <p>收錄蔡聖涵、魏德毓發表於《寧德師範學院學報（哲學社會科學版）》2026 年第 1 期的論文內容，並補充 SOR 生成機理與增強迴路輔助圖示。</p>
       <a href="academic-papers/aigc-opinion-leaders/">閱讀資料</a>
     </article>
   </div>
+</section>
+
+<section class="archive-section" markdown>
+  <p class="archive-kicker">Annual Sources</p>
+  <h2>年度資料來源</h2>
+
+| 來源 | 可查內容 | 歸年依據 |
+| --- | --- | --- |
+| [造型工房 SIGMA 歷史圖集](https://www.buildupstudiosigma.com/archive/) | 角色製作說明、表情部件、服裝與攝影協作 | 明示製作年月與圖集日期分別記錄；圖集日期不直接視爲拍攝日 |
+| [Laurie Simmons 作品檔案](https://www.lauriesimmons.net/artwork/kigurumi-dollers-and-how-we-see) | Kigurumi, Dollers and How We See 系列 | 藝術家檔案的作品年份與展覽資料 |
+| [mograg gallery 展覽檔案](https://www.mograg.com/artist2001.html) | Hyokkame 展覽、講座與藝術家簡介 | 展覽起止日期、講座時間與簡介中的明確年份 |
+| [Kigurumi Online 工作坊](https://kig-o.com/index.php/kigurumi-workshop/) | 面具教學、部件選擇與設計版本 | 當屆公告的日期，以及頁面明確標註的歷年設計 |
+| [着ぐるみ Advent Calendar 2024](https://adventar.org/calendars/10384) | 每日作者、文章題目與原文入口 | 日曆條目的發佈日期；失效原文不擴寫其正文 |
+| [東京電玩展官方歷史](https://tgs.cesa.or.jp/2026/30th) | 歷屆日程、主題、海報與來場統計 | 當屆官方記錄；總人數不作爲 kigurumi 人數 |
+
+</section>
+
+<section class="archive-section" markdown>
+  <p class="archive-kicker">Undated Records</p>
+  <h2>尚未確定年份的活動線索</h2>
+
+以下條目可在 [Doll Weekend 官方活動目錄](https://dollweekend.cn/cn/event/)查到，但本輪所見頁面沒有足以確認年份的日期信息，因此保留在來源目錄，待日期補證後再進入對應年度。
+
+| 條目 | 當前狀態 |
+| --- | --- |
+| Doll Weekend 1–4 | 可查早期活動名稱、場景與影像入口；不能僅按屆數順序推定年份 |
+| Doll Weekend Special 2「娃娃泳池大戰」 | 可查廣州泳池主題與影像入口；季節描寫不足以確定舉辦年份 |
+
+來源於 2026 年 9 月 9 日複覈。視頻發表時間、合照上傳時間與活動舉辦時間分別保留，不相互替代。
+
 </section>
 
 <section class="archive-section archive-section--split">

@@ -1,0 +1,14 @@
+- generic [ref=f2e2]:
+  - separator [ref=f2e3]
+  - iframe [ref=f2e8]:
+    - generic [ref=f3e2]:
+      - generic [ref=f3e3]:
+        - checkbox "进行人机身份验证" [ref=f3e7]
+        - generic [aria-hidden] [ref=f3e11]: 进行人机身份验证
+      - generic [ref=f3e12]: reCAPTCHA
+  - separator [ref=f2e9]
+  - generic [ref=f2e10]:
+    - text: 关于此网页 我们的系统检测到您的计算机网络中存在异常流量。此网页用于确认这些请求是由您而不是自动程序发出的。
+    - link "为什么会这样？" [ref=f2e11] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=f2e12]: IP 地址：64.118.148.229时间：2026-09-09T08:20:47Z网址：https://www.google.com.hk/search?q=kigurumi+mask+makers+shop&sei=3hahav_6Ec_O2roP7-vRgQg

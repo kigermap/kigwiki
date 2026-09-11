@@ -5,7 +5,7 @@ language: "en"
 
 # Years
 
-Annual pages turn verified event records into stable volumes. Each volume keeps chronology, source quality, domain classification, cross-year de-duplication, and unresolved research leads visible.
+Annual pages organize verified events and publications by year. Each volume presents that year's chronology and sources, distinguishing announcements, completed events and publication dates.
 
 ## English edition
 

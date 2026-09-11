@@ -1,0 +1,50 @@
+{
+  "url": "https://www.sogou.com/antispider/?m=1&antip=web_hd&from=%2Fweb%3Fquery%3Dkigurumi%2B%25E5%25A4%25B4%25E5%25A3%25B3%2B%25E5%25B7%25A5%25E5%259D%258A&suuid=8bfeaf0e-7a9e-4204-ad23-fb6c9351c1d4",
+  "status": 200,
+  "text": "搜狗搜索 返回首页>> IP：124.93.38.84 访问时间：2026.09.09 17:39:35 SourceVerifyCode：fb6c9351c1d4 From：www.sogou.com 此验证码用于确认这些请求是您的正常行为而不是自动程序发出的，需要您协助验证。 验证码： 提交 提交后没解决问题？欢迎 反馈 。 企业推广 关于搜狗 免责声明 意见反馈 © 2026 Sogou Inc. - 京ICP证050897号 - 京公网安备1100 00000025号",
+  "links": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "返回首页>>",
+      "url": "/"
+    },
+    {
+      "text": "提交",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "反馈",
+      "url": "https://fankui.sogou.com/index.php/web/web/index?type=10&anti_time=1788946775&domain=www.sogou.com"
+    },
+    {
+      "text": "企业推广",
+      "url": "http://fuwu.sogou.com/"
+    },
+    {
+      "text": "关于搜狗",
+      "url": "http://corp.sogou.com/"
+    },
+    {
+      "text": "免责声明",
+      "url": "/docs/terms.htm?v=1"
+    },
+    {
+      "text": "意见反馈",
+      "url": "https://fankui.sogou.com/index.php/web/web/index?type=10&anti_time=1788946775&domain=www.sogou.com"
+    },
+    {
+      "text": "京ICP证050897号",
+      "url": "http://www.miibeian.gov.cn"
+    }
+  ],
+  "images": [
+    {
+      "alt": null,
+      "src": "static/images/logo_180x60.png"
+    }
+  ],
+  "fetched_at": "2026-09-09T09:39:35.470741+00:00"
+}

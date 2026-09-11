@@ -1,0 +1,391 @@
+- generic [active] [ref=e1]:
+  - link "跳转至" [ref=e2] [cursor=pointer]:
+    - /url: "#_1"
+  - banner [ref=e3]:
+    - navigation "页眉" [ref=e4]:
+      - link "Kigurumi 编年志" [ref=e5] [cursor=pointer]:
+        - /url: ..
+      - generic [ref=e9]:
+        - generic [ref=e10]: Kigurumi 编年志
+        - generic: 年份目录
+      - generic [ref=e12]:
+        - radio "切换到深色模式"
+        - generic "切换到深色模式" [ref=e13] [cursor=pointer]
+        - radio "切换到浅色模式"
+      - generic [ref=e17]:
+        - button "选择当前语言" [ref=e18] [cursor=pointer]
+        - generic [ref=e21]:
+          - list:
+            - listitem [ref=e22]:
+              - link "简体中文" [ref=e23] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=e24]:
+              - link "繁體中文" [ref=e25] [cursor=pointer]:
+                - /url: ../zh-Hant/years/
+            - listitem [ref=e26]:
+              - link "English" [ref=e27] [cursor=pointer]:
+                - /url: ../en/years/
+            - listitem [ref=e28]:
+              - link "日本語" [ref=e29] [cursor=pointer]:
+                - /url: ../ja/years/
+            - listitem [ref=e30]:
+              - link "Русский" [ref=e31] [cursor=pointer]:
+                - /url: ../ru/years/
+      - dialog [ref=e32]:
+        - search [ref=e33]:
+          - generic [ref=e34]:
+            - textbox "搜索" [ref=e35]
+            - navigation "查找":
+              - link "分享":
+                - /url: http://127.0.0.1:8023/years/?q=
+              - button "清空当前内容"
+          - generic [ref=e37]: 正在初始化搜索引擎
+  - generic [ref=e40]:
+    - main [ref=e41]:
+      - generic [ref=e42]:
+        - navigation "导航栏" [ref=e46]:
+          - list [ref=e47]:
+            - listitem [ref=e48]:
+              - link "首页" [ref=e49] [cursor=pointer]:
+                - /url: ..
+            - listitem [ref=e54]:
+              - link "编年总览" [ref=e55] [cursor=pointer]:
+                - /url: ../chronicle/
+            - listitem [ref=e60]:
+              - link "年份目录" [ref=e61] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=e66]:
+              - link "近期采集" [ref=e67] [cursor=pointer]:
+                - /url: ../digests/
+            - listitem [ref=e72]:
+              - link "头壳店铺" [ref=e73] [cursor=pointer]:
+                - /url: ../makers/
+            - listitem [ref=e78]:
+              - link "地点目录" [ref=e79] [cursor=pointer]:
+                - /url: ../places/
+            - listitem [ref=e84]:
+              - link "人物目录" [ref=e85] [cursor=pointer]:
+                - /url: ../people/
+            - listitem [ref=e90]:
+              - link "来源目录" [ref=e91] [cursor=pointer]:
+                - /url: ../sources/
+          - list [ref=e96]:
+            - listitem [ref=e97]:
+              - link "关于介绍" [ref=e98] [cursor=pointer]:
+                - /url: ../about/
+            - listitem [ref=e103]:
+              - link "参与加入" [ref=e104] [cursor=pointer]:
+                - /url: ../join/
+            - listitem [ref=e109]:
+              - link "贡献与支持" [ref=e110] [cursor=pointer]:
+                - /url: ../support/
+            - listitem [ref=e115]:
+              - link "引用规范" [ref=e116] [cursor=pointer]:
+                - /url: ../citation/
+            - listitem [ref=e121]:
+              - link "常见问题" [ref=e122] [cursor=pointer]:
+                - /url: ../faq/
+            - listitem [ref=e127]:
+              - link "开源协议" [ref=e128] [cursor=pointer]:
+                - /url: ../license/
+        - navigation "目录" [ref=e136]:
+          - list [ref=e138]:
+            - listitem [ref=e139]:
+              - link "年度条目的基本结构" [ref=e140] [cursor=pointer]:
+                - /url: "#_2"
+            - listitem [ref=e141]:
+              - link "已整理年度" [ref=e142] [cursor=pointer]:
+                - /url: "#_3"
+            - listitem [ref=e143]:
+              - link "预制年份分卷" [ref=e144] [cursor=pointer]:
+                - /url: "#_4"
+        - generic [ref=e145]:
+          - navigation "导航栏" [ref=e146]:
+            - list [ref=e147]:
+              - listitem [ref=e148]:
+                - link "首页" [ref=e149] [cursor=pointer]:
+                  - /url: ..
+              - listitem [ref=e150]:
+                - text: /
+                - link "编年" [ref=e151] [cursor=pointer]:
+                  - /url: ../chronicle/
+              - listitem [ref=e152]:
+                - text: /
+                - link "年份目录" [ref=e153] [cursor=pointer]:
+                  - /url: ./
+              - listitem [ref=e154]: /年份总览
+          - article [ref=e155]:
+            - generic [ref=e156]:
+              - paragraph [ref=e157]: Years
+              - heading [level=1] [ref=e158]:
+                - text: 年份目录
+                - link "¶" [ref=e159] [cursor=pointer]:
+                  - /url: "#_1"
+              - paragraph [ref=e160]: 按年份浏览 1997–2025 年的活动、角色作品、制作实践与社群资料。每卷记录本年发生的事件或发表的资料，连续活动按当届内容整理；尚未确定年份的线索保留在来源目录。
+            - generic [ref=e161]:
+              - paragraph [ref=e162]: Published Years
+              - heading [level=2] [ref=e163]:
+                - text: 已整理年度
+                - link "¶" [ref=e164] [cursor=pointer]:
+                  - /url: "#_3"
+              - generic [ref=e165]:
+                - generic [ref=e166]:
+                  - searchbox "搜索年份或关键词" [ref=e171]
+                  - combobox "年份排序" [ref=e172]:
+                    - option "年份从早到晚" [selected]
+                    - option "年份从晚到早"
+                - generic [ref=e173]:
+                  - button "全部" [pressed] [ref=e174] [cursor=pointer]
+                  - button "1990s" [ref=e175] [cursor=pointer]
+                  - button "2000s" [ref=e176] [cursor=pointer]
+                  - button "2010s" [ref=e177] [cursor=pointer]
+                  - button "2020s" [ref=e178] [cursor=pointer]
+                - paragraph [ref=e179]: 显示 29 条匹配记录
+              - generic [ref=e180]:
+                - article [ref=e181]:
+                  - generic [ref=e182]: "1997"
+                  - heading "1997 年 Kigurumi 编年史" [level=3] [ref=e183]
+                  - paragraph [ref=e184]: 东京电玩展春秋两届的日程、主题与整体来场统计。
+                  - link "阅读 1997 年" [ref=e185] [cursor=pointer]:
+                    - /url: 1997/
+                - article [ref=e189]:
+                  - generic [ref=e190]: "1998"
+                  - heading "1998 年 Kigurumi 编年史" [level=3] [ref=e191]
+                  - paragraph [ref=e192]: 东京电玩展两次会期、宣传主题和春季入场纪念品安排。
+                  - link "阅读 1998 年" [ref=e193] [cursor=pointer]:
+                    - /url: 1998/
+                - article [ref=e197]:
+                  - generic [ref=e198]: "1999"
+                  - heading "1999 年 Kigurumi 编年史" [level=3] [ref=e199]
+                  - paragraph [ref=e200]: SIGMA 创立记载、Multi 眼睑与手腕附件，以及参照插画的角色摄影。
+                  - link "阅读 1999 年" [ref=e201] [cursor=pointer]:
+                    - /url: 1999/
+                - article [ref=e205]:
+                  - generic [ref=e206]: "2000"
+                  - heading "2000 年 Kigurumi 编年史" [level=3] [ref=e207]
+                  - paragraph [ref=e208]: 双叶萤与来栖川绫香制作、Multi 可替换眼部部件及表情原理说明图。
+                  - link "阅读 2000 年" [ref=e209] [cursor=pointer]:
+                    - /url: 2000/
+                - article [ref=e213]:
+                  - generic [ref=e214]: "2001"
+                  - heading "2001 年 Kigurumi 编年史" [level=3] [ref=e215]
+                  - paragraph [ref=e216]: 芹香场景与灯光、Multi 户外摄影，以及绫香和奈留的有日期图集。
+                  - link "阅读 2001 年" [ref=e217] [cursor=pointer]:
+                    - /url: 2001/
+                - article [ref=e221]:
+                  - generic [ref=e222]: "2002"
+                  - heading "2002 年 Kigurumi 编年史" [level=3] [ref=e223]
+                  - paragraph [ref=e224]: 明日香新造型、前原忍与御剑凉子的角色图集，以及展会闭幕统计。
+                  - link "阅读 2002 年" [ref=e225] [cursor=pointer]:
+                    - /url: 2002/
+                - article [ref=e229]:
+                  - generic [ref=e230]: "2003"
+                  - heading "2003 年 Kigurumi 编年史" [level=3] [ref=e231]
+                  - paragraph [ref=e232]: 水原历、爱泽友美、桃宫莓与风见瑞穗的作品档案，及 Inside Doll 的网站更新。
+                  - link "阅读 2003 年" [ref=e233] [cursor=pointer]:
+                    - /url: 2003/
+                - article [ref=e237]:
+                  - generic [ref=e238]: "2004"
+                  - heading "2004 年 Kigurumi 编年史" [level=3] [ref=e239]
+                  - paragraph [ref=e240]: 春丽动作摄影、国分寺小依与爱德华角色展示，以及当届公共展会参与条件。
+                  - link "阅读 2004 年" [ref=e241] [cursor=pointer]:
+                    - /url: 2004/
+                - article [ref=e245]:
+                  - generic [ref=e246]: "2005"
+                  - heading "2005 年 Kigurumi 编年史" [level=3] [ref=e247]
+                  - paragraph [ref=e248]: 琥珀与翡翠成对制作、双恋角色、希耶尔与千代图集，以及展会规模。
+                  - link "阅读 2005 年" [ref=e249] [cursor=pointer]:
+                    - /url: 2005/
+                - article [ref=e253]:
+                  - generic [ref=e254]: "2006"
+                  - heading "2006 年 Kigurumi 编年史" [level=3] [ref=e255]
+                  - paragraph [ref=e256]: 白蔷薇姐妹的成对角色制作，以及东京电玩展日程、主题与闭幕结果。
+                  - link "阅读 2006 年" [ref=e257] [cursor=pointer]:
+                    - /url: 2006/
+                - article [ref=e261]:
+                  - generic [ref=e262]: "2007"
+                  - heading "2007 年 Kigurumi 编年史" [level=3] [ref=e263]
+                  - paragraph [ref=e264]: 东京电玩展四日会期与闭幕统计；专题活动记录仍待更多原始资料。
+                  - link "阅读 2007 年" [ref=e265] [cursor=pointer]:
+                    - /url: 2007/
+                - article [ref=e269]:
+                  - generic [ref=e270]: "2008"
+                  - heading "2008 年 Kigurumi 编年史" [level=3] [ref=e271]
+                  - paragraph [ref=e272]: 东京电玩展当届日程、主题与来场统计，以及公共活动的档案入口。
+                  - link "阅读 2008 年" [ref=e273] [cursor=pointer]:
+                    - /url: 2008/
+                - article [ref=e277]:
+                  - generic [ref=e278]: "2009"
+                  - heading "2009 年 Kigurumi 编年史" [level=3] [ref=e279]
+                  - paragraph [ref=e280]: 东京电玩展行李检查、现场缝纫工具、更衣时限及当届规模。
+                  - link "阅读 2009 年" [ref=e281] [cursor=pointer]:
+                    - /url: 2009/
+                - article [ref=e285]:
+                  - generic [ref=e286]: "2010"
+                  - heading "2010 年 Kigurumi 编年史" [level=3] [ref=e287]
+                  - paragraph [ref=e288]: 秋叶原青风亭 kigurumi 咖啡馆预告，以及电玩展的 cosplay 专门企划。
+                  - link "阅读 2010 年" [ref=e289] [cursor=pointer]:
+                    - /url: 2010/
+                - article [ref=e293]:
+                  - generic [ref=e294]: "2011"
+                  - heading "2011 年 Kigurumi 编年史" [level=3] [ref=e295]
+                  - paragraph [ref=e296]: 东京电玩展本届更衣与寄存场地、公共参与安排及整体来场统计。
+                  - link "阅读 2011 年" [ref=e297] [cursor=pointer]:
+                    - /url: 2011/
+                - article [ref=e301]:
+                  - generic [ref=e302]: "2012"
+                  - heading "2012 年 Kigurumi 编年史" [level=3] [ref=e303]
+                  - paragraph [ref=e304]: 东京电玩展早间换装、指定摄影区和影像使用限制，以及本届统计。
+                  - link "阅读 2012 年" [ref=e305] [cursor=pointer]:
+                    - /url: 2012/
+                - article [ref=e309]:
+                  - generic [ref=e310]: "2013"
+                  - heading "2013 年 Kigurumi 编年史" [level=3] [ref=e311]
+                  - paragraph [ref=e312]: 河妖开始制作面具的自述，以及东京电玩展本届参与与摄影条件。
+                  - link "阅读 2013 年" [ref=e313] [cursor=pointer]:
+                    - /url: 2013/
+                - article [ref=e317]:
+                  - generic [ref=e318]: "2014"
+                  - heading "2014 年 Kigurumi 编年史" [level=3] [ref=e319]
+                  - paragraph [ref=e320]: Laurie Simmons 的 Kigurumi 摄影系列，以及 AnimeJapan 官方角色互动。
+                  - link "阅读 2014 年" [ref=e321] [cursor=pointer]:
+                    - /url: 2014/
+                - article [ref=e325]:
+                  - generic [ref=e326]: "2015"
+                  - heading "2015 年 Kigurumi 编年史" [level=3] [ref=e327]
+                  - paragraph [ref=e328]: Teitoku Workshop 与 Hyokkame 的创立记录，以及 AnimeJapan 活动空间。
+                  - link "阅读 2015 年" [ref=e329] [cursor=pointer]:
+                    - /url: 2015/
+                - article [ref=e333]:
+                  - generic [ref=e334]: "2016"
+                  - heading "2016 年 Kigurumi 编年史" [level=3] [ref=e335]
+                  - paragraph [ref=e336]: AnimeJapan 本届着ぐるみ参与区域、更衣寄存和公共摄影服务。
+                  - link "阅读 2016 年" [ref=e337] [cursor=pointer]:
+                    - /url: 2016/
+                - article [ref=e341]:
+                  - generic [ref=e342]: "2017"
+                  - heading "2017 年 Kigurumi 编年史" [level=3] [ref=e343]
+                  - paragraph [ref=e344]: FGO Fes. 着ぐるみ舞台、SIGMA Twin Angel 图集，以及 220 份社群问卷。
+                  - link "阅读 2017 年" [ref=e345] [cursor=pointer]:
+                    - /url: 2017/
+                - article [ref=e349]:
+                  - generic [ref=e350]: "2018"
+                  - heading "2018 年 Kigurumi 编年史" [level=3] [ref=e351]
+                  - paragraph [ref=e352]: SIGMA 新面具展售与量产接单，以及面具制作匹配服务的学位研究。
+                  - link "阅读 2018 年" [ref=e353] [cursor=pointer]:
+                    - /url: 2018/
+                - article [ref=e357]:
+                  - generic [ref=e358]: "2019"
+                  - heading "2019 年 Kigurumi 编年史" [level=3] [ref=e359]
+                  - paragraph [ref=e360]: SIGMA 二十周年公告，以及 AnimeJapan 的 FGO 官方角色节目。
+                  - link "阅读 2019 年" [ref=e361] [cursor=pointer]:
+                    - /url: 2019/
+                - article [ref=e365]:
+                  - generic [ref=e366]: "2020"
+                  - heading "2020 年 Kigurumi 编年史" [level=3] [ref=e367]
+                  - paragraph [ref=e368]: Hyokkame 面具展与讲座、取消的展会计划，以及 WCS 线上活动。
+                  - link "阅读 2020 年" [ref=e369] [cursor=pointer]:
+                    - /url: 2020/
+                - article [ref=e373]:
+                  - generic [ref=e374]: "2021"
+                  - heading "2021 年 Kigurumi 编年史" [level=3] [ref=e375]
+                  - paragraph [ref=e376]: WCS 混合活动与官方手册，以及第 18 回キグルミwasshoi! 酒店活动。
+                  - link "阅读 2021 年" [ref=e377] [cursor=pointer]:
+                    - /url: 2021/
+                - article [ref=e381]:
+                  - generic [ref=e382]: "2022"
+                  - heading "2022 年 Kigurumi 编年史" [level=3] [ref=e383]
+                  - paragraph [ref=e384]: 专门活动恢复、着ぐFesta 首回、DW5–8 影像发表与入门面具设计。
+                  - link "阅读 2022 年" [ref=e385] [cursor=pointer]:
+                    - /url: 2022/
+                - article [ref=e389]:
+                  - generic [ref=e390]: "2023"
+                  - heading "2023 年 Kigurumi 编年史" [level=3] [ref=e391]
+                  - paragraph [ref=e392]: 着ぐFesta 的不同活动形态、DW9 舞台展示与 DW10 国际参与。
+                  - link "阅读 2023 年" [ref=e393] [cursor=pointer]:
+                    - /url: 2023/
+                - article [ref=e397]:
+                  - generic [ref=e398]: "2024"
+                  - heading "2024 年 Kigurumi 编年史" [level=3] [ref=e399]
+                  - paragraph [ref=e400]: DW11 才艺影像、制面工作坊设计、Advent Calendar 写作与社群调查。
+                  - link "阅读 2024 年" [ref=e401] [cursor=pointer]:
+                    - /url: 2024/
+                - article [ref=e405]:
+                  - generic [ref=e406]: "2025"
+                  - heading "2025 年 Kigurumi 编年史" [level=3] [ref=e407]
+                  - paragraph [ref=e408]: 多伦多制面工作坊、DW12 河源活动、国际合作及制作方名录更新。
+                  - link "阅读 2025 年" [ref=e409] [cursor=pointer]:
+                    - /url: 2025/
+            - generic [ref=e413]:
+              - paragraph [ref=e414]: Annual Structure
+              - heading [level=2] [ref=e415]:
+                - text: 年度条目的基本结构
+                - link "¶" [ref=e416] [cursor=pointer]:
+                  - /url: "#_2"
+              - region "字段" [ref=e417]:
+                - table [ref=e419]:
+                  - rowgroup [ref=e420]:
+                    - row [ref=e421]:
+                      - columnheader "字段" [ref=e422]
+                      - columnheader "说明" [ref=e423]
+                  - rowgroup [ref=e424]:
+                    - row [ref=e425]:
+                      - cell "年度重点" [ref=e426]
+                      - cell "先看本年的关键作品、活动和公开资料。" [ref=e427]
+                    - row [ref=e428]:
+                      - cell "年度纪事" [ref=e429]
+                      - cell "按日期列出事实、地点、制作与参与方式，并说明日期对应制作、发表还是举办。" [ref=e430]
+                    - row [ref=e431]:
+                      - cell "年度小结" [ref=e432]
+                      - cell "汇总本年主要变化与现有资料能支持的结论。" [ref=e433]
+                    - row [ref=e434]:
+                      - cell "参考资料" [ref=e435]
+                      - cell "提供原文、图集、活动页与报告入口，注明失效链接及资料限制。" [ref=e436]
+            - generic [ref=e437]:
+              - paragraph [ref=e438]: Draft Year Blocks
+              - heading [level=2] [ref=e439]:
+                - text: 预制年份分卷
+                - link "¶" [ref=e440] [cursor=pointer]:
+                  - /url: "#_4"
+              - generic [ref=e441]:
+                - article [ref=e442]:
+                  - generic [ref=e443]: "96"
+                  - heading "1996" [level=3] [ref=e444]
+                  - paragraph [ref=e445]: 下一待整理年份；继续核验更早的专题网站、旧相册说明和活动称谓，不用后年资料反向补写。
+                - article [ref=e446]:
+                  - generic [ref=e447]: 今
+                  - heading "2025-至今" [level=3] [ref=e448]
+                  - paragraph [ref=e449]: 进入持续修志阶段，新增事件应同步绑定人物、地点和来源。
+                  - link "查看已整理的 2025 年" [ref=e450] [cursor=pointer]:
+                    - /url: 2025/
+    - contentinfo [ref=e454]:
+      - navigation "页脚" [ref=e455]:
+        - 'link "上一页: 编年总览" [ref=e456] [cursor=pointer]':
+          - /url: ../chronicle/
+          - generic [ref=e460]:
+            - text: 上一页
+            - generic [ref=e461]: 编年总览
+        - 'link "下一页: 1997 年 Kigurumi 编年史" [ref=e462] [cursor=pointer]':
+          - /url: 1997/
+          - generic [ref=e463]:
+            - text: 下一页
+            - generic [ref=e464]: 1997 年 Kigurumi 编年史
+      - generic [ref=e469]:
+        - generic [ref=e470]: Copyright © 2026 Kigurumi 编年志资料馆。本站内容用于资料整理、研究与教育参考；引用时请保留署名、出处与语境。
+        - generic [ref=e472]:
+          - link "首页" [ref=e473] [cursor=pointer]:
+            - /url: /
+          - link "参与加入" [ref=e476] [cursor=pointer]:
+            - /url: /join/
+          - link "编年目录" [ref=e479] [cursor=pointer]:
+            - /url: /chronicle/
+          - link "地点目录" [ref=e482] [cursor=pointer]:
+            - /url: /places/
+          - link "关于介绍" [ref=e485] [cursor=pointer]:
+            - /url: /about/
+          - link "引用规范" [ref=e488] [cursor=pointer]:
+            - /url: /citation/
+          - link "常见问题" [ref=e491] [cursor=pointer]:
+            - /url: /faq/
+          - link "开源协议" [ref=e494] [cursor=pointer]:
+            - /url: /license/

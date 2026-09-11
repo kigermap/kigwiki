@@ -1,0 +1,142 @@
+{
+  "url": "https://www.kigis.me/order",
+  "status": 500,
+  "text": "KIGURUMI头壳定制需求收集 - MEIS 莓萌 莓萌 头壳定制 拼好头 量产头壳 Doll Everyday 线下门店 & 娃聚展会 简体中文 KIGURUMI头壳定制需求收集 欢迎来到MEIS莓萌KIGURUMI头壳定制服务 请认真填写以下信息，我们将根据您的需求为您打造专属的角色头壳 填写提示 标有 * 的字段为必填项 请尽可能提供详细的角色参考图片，有助于提高还原度 表单支持保存进度，您可以随时返回继续填写 提交后我们会尽快与您联系确认细节 如有任何疑问，请通过QQ或其他方式联系我们 爱好｜创作｜分享｜共生 MEIS Twitter MEIS Bilibili MEIS 小红书 Pinhaotou Twitter Pinhaotou Bilibili 官方Q群 (QQ) 官方店铺 (Taobao) 站内链接 Kigurumi 指南 定制下单 订单查询 拼好头 头壳碎片兑换 联系我们 关于我们 网站地图 友情链接 河妖工坊 Doll Weekend 偶域 Kig.Land 不还原人形 豫ICP备2025116796号-1 莓萌 ® • 拼好头 ™ • Doll Everyday ™ | © 2023-2025 虹野物联",
+  "links": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "莓萌 头壳定制",
+      "url": "/order"
+    },
+    {
+      "text": "拼好头 量产头壳",
+      "url": "/pinhaotou"
+    },
+    {
+      "text": "Doll Everyday 线下门店 & 娃聚展会",
+      "url": "/dolleveryday"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "MEIS Twitter",
+      "url": "https://x.com/KigMEIS"
+    },
+    {
+      "text": "MEIS Bilibili",
+      "url": "https://space.bilibili.com/3546864949398208"
+    },
+    {
+      "text": "MEIS 小红书",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=meismoe"
+    },
+    {
+      "text": "Pinhaotou Twitter",
+      "url": "https://x.com/pinhaotou"
+    },
+    {
+      "text": "Pinhaotou Bilibili",
+      "url": "https://space.bilibili.com/3546800566831253"
+    },
+    {
+      "text": "官方Q群 (QQ)",
+      "url": "https://qm.qq.com/q/ujodzxwQbm"
+    },
+    {
+      "text": "官方店铺 (Taobao)",
+      "url": "https://meis.taobao.com"
+    },
+    {
+      "text": "Kigurumi 指南",
+      "url": "/kigurumi"
+    },
+    {
+      "text": "定制下单",
+      "url": "/order"
+    },
+    {
+      "text": "订单查询",
+      "url": "/query"
+    },
+    {
+      "text": "拼好头",
+      "url": "/pinhaotou"
+    },
+    {
+      "text": "头壳碎片兑换",
+      "url": "/piece"
+    },
+    {
+      "text": "联系我们",
+      "url": "/contact"
+    },
+    {
+      "text": "关于我们",
+      "url": "/about"
+    },
+    {
+      "text": "网站地图",
+      "url": "/sitemap.xml"
+    },
+    {
+      "text": "河妖工坊",
+      "url": "https://heyaoheyao.com/"
+    },
+    {
+      "text": "Doll Weekend",
+      "url": "https://www.dollweekend.com/"
+    },
+    {
+      "text": "偶域 Kig.Land",
+      "url": "https://kig.land/"
+    },
+    {
+      "text": "不还原人形",
+      "url": "https://bhyrenxing.com/"
+    },
+    {
+      "text": "豫ICP备2025116796号-1",
+      "url": "https://beian.miit.gov.cn/"
+    },
+    {
+      "text": "莓萌 ®",
+      "url": "/order"
+    },
+    {
+      "text": "拼好头 ™",
+      "url": "/pinhaotou"
+    },
+    {
+      "text": "Doll Everyday ™",
+      "url": "/dolleveryday"
+    },
+    {
+      "text": "虹野物联",
+      "url": "/about"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Logo",
+      "src": "/images/meimoe.svg"
+    },
+    {
+      "alt": "Logo (Dark Mode)",
+      "src": "/images/meimoe-white.svg"
+    },
+    {
+      "alt": "Logo",
+      "src": "/images/meimoe.svg"
+    },
+    {
+      "alt": "Logo (Dark Mode)",
+      "src": "/images/meimoe-white.svg"
+    }
+  ],
+  "fetched_at": "2026-09-09T08:22:08.968105+00:00"
+}

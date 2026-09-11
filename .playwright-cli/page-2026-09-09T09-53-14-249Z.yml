@@ -1,0 +1,287 @@
+- generic [active] [ref=f30e1]:
+  - link "跳转至" [ref=f30e2] [cursor=pointer]:
+    - /url: "#_1"
+  - banner [ref=f30e3]:
+    - navigation "页眉" [ref=f30e4]:
+      - link "Kigurumi 编年志" [ref=f30e5] [cursor=pointer]:
+        - /url: ..
+      - generic [ref=f30e9]:
+        - generic [ref=f30e10]: Kigurumi 编年志
+        - generic: 头壳店铺
+      - generic [ref=f30e12]:
+        - radio "切换到深色模式"
+        - generic "切换到深色模式" [ref=f30e13] [cursor=pointer]
+        - radio "切换到浅色模式"
+      - generic [ref=f30e17]:
+        - button "选择当前语言" [ref=f30e18] [cursor=pointer]
+        - generic [ref=f30e21]:
+          - list:
+            - listitem [ref=f30e22]:
+              - link "简体中文" [ref=f30e23] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=f30e24]:
+              - link "繁體中文" [ref=f30e25] [cursor=pointer]:
+                - /url: ../zh-Hant/makers/
+            - listitem [ref=f30e26]:
+              - link "English" [ref=f30e27] [cursor=pointer]:
+                - /url: ../en/makers/
+            - listitem [ref=f30e28]:
+              - link "日本語" [ref=f30e29] [cursor=pointer]:
+                - /url: ../ja/makers/
+            - listitem [ref=f30e30]:
+              - link "Русский" [ref=f30e31] [cursor=pointer]:
+                - /url: ../ru/makers/
+      - dialog [ref=f30e32]:
+        - search [ref=f30e33]:
+          - generic [ref=f30e34]:
+            - textbox "搜索" [ref=f30e35]
+            - navigation "查找":
+              - link "分享":
+                - /url: http://127.0.0.1:8021/makers/?q=
+              - button "清空当前内容"
+          - generic [ref=f30e37]: 正在初始化搜索引擎
+  - generic [ref=f30e40]:
+    - main [ref=f30e41]:
+      - generic [ref=f30e42]:
+        - navigation "导航栏" [ref=f30e46]:
+          - list [ref=f30e47]:
+            - listitem [ref=f30e48]:
+              - link "首页" [ref=f30e49] [cursor=pointer]:
+                - /url: ..
+            - listitem [ref=f30e54]:
+              - link "编年总览" [ref=f30e55] [cursor=pointer]:
+                - /url: ../chronicle/
+            - listitem [ref=f30e60]:
+              - link "年份目录" [ref=f30e61] [cursor=pointer]:
+                - /url: ../years/
+            - listitem [ref=f30e66]:
+              - link "近期采集" [ref=f30e67] [cursor=pointer]:
+                - /url: ../digests/
+            - listitem [ref=f30e72]:
+              - link "头壳店铺" [ref=f30e73] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=f30e78]:
+              - link "地点目录" [ref=f30e79] [cursor=pointer]:
+                - /url: ../places/
+            - listitem [ref=f30e84]:
+              - link "人物目录" [ref=f30e85] [cursor=pointer]:
+                - /url: ../people/
+            - listitem [ref=f30e90]:
+              - link "来源目录" [ref=f30e91] [cursor=pointer]:
+                - /url: ../sources/
+          - list [ref=f30e96]:
+            - listitem [ref=f30e97]:
+              - link "关于介绍" [ref=f30e98] [cursor=pointer]:
+                - /url: ../about/
+            - listitem [ref=f30e103]:
+              - link "参与加入" [ref=f30e104] [cursor=pointer]:
+                - /url: ../join/
+            - listitem [ref=f30e109]:
+              - link "贡献与支持" [ref=f30e110] [cursor=pointer]:
+                - /url: ../support/
+            - listitem [ref=f30e115]:
+              - link "引用规范" [ref=f30e116] [cursor=pointer]:
+                - /url: ../citation/
+            - listitem [ref=f30e121]:
+              - link "常见问题" [ref=f30e122] [cursor=pointer]:
+                - /url: ../faq/
+            - listitem [ref=f30e127]:
+              - link "开源协议" [ref=f30e128] [cursor=pointer]:
+                - /url: ../license/
+        - generic [ref=f30e133]:
+          - navigation "导航栏" [ref=f30e134]:
+            - list [ref=f30e135]:
+              - listitem [ref=f30e136]:
+                - link "首页" [ref=f30e137] [cursor=pointer]:
+                  - /url: ..
+              - listitem [ref=f30e138]:
+                - text: /
+                - link "头壳店铺" [ref=f30e139] [cursor=pointer]:
+                  - /url: ./
+              - listitem [ref=f30e140]: /店铺目录
+          - article [ref=f30e141]:
+            - generic [ref=f30e142]:
+              - paragraph [ref=f30e143]: KIGURUMI / MAKER DIRECTORY
+              - heading "头壳店铺" [level=1] [ref=f30e144]
+              - paragraph [ref=f30e145]: 国内与海外的 animegao kigurumi 头壳制作者。按店铺归档，沿公开来源了解作品、价格与委托方式。
+              - paragraph [ref=f30e146]:
+                - text: 资料核实 · 2026-09-09
+                - link "收录与复核说明" [ref=f30e147] [cursor=pointer]:
+                  - /url: methodology/
+            - generic [ref=f30e151]:
+              - generic [ref=f30e152]:
+                - strong [ref=f30e153]: "36"
+                - generic [ref=f30e154]: 有公开销售 / 询价入口
+              - generic [ref=f30e155]:
+                - strong [ref=f30e156]: "40"
+                - generic [ref=f30e157]: 独立店铺档案
+              - generic [ref=f30e158]:
+                - strong [ref=f30e159]: "07"
+                - generic [ref=f30e160]: 地区分组
+            - paragraph [ref=f30e161]: 仅收录人脸 / 动漫角色头壳。Furry 兽头、兽装及连体睡衣不在本目录范围内；混合经营店铺仅记录符合范围的商品。
+            - generic [ref=f30e162]:
+              - search "筛选头壳店铺" [ref=f30e163]:
+                - generic [ref=f30e164]:
+                  - generic [ref=f30e165]: 搜索店铺
+                  - searchbox "搜索店铺" [ref=f30e166]
+                - generic [ref=f30e167]:
+                  - generic [ref=f30e168]: 所在地区
+                  - combobox "所在地区" [ref=f30e169]:
+                    - option "全部地区" [selected]
+                    - option "中国大陆"
+                    - option "中国台湾"
+                    - option "日本"
+                    - option "英国"
+                    - option "澳大利亚 / 新加坡"
+                    - option "中国香港"
+                    - option "地区待核实"
+                    - option "美国"
+                - generic [ref=f30e170]:
+                  - generic [ref=f30e171]: 营业证据
+                  - combobox "营业证据" [ref=f30e172]:
+                    - option "公开销售 / 接受询价" [selected]
+                    - option "全部档案"
+                    - option "公开销售"
+                    - option "接受询价"
+                    - option "周期抽选"
+                    - option "暂停定制"
+                    - option "接单待核实"
+                - generic [ref=f30e173]:
+                  - generic [ref=f30e174]: 商品类型
+                  - combobox "商品类型" [ref=f30e175]:
+                    - option "全部类型" [selected]
+                    - option "修复"
+                    - option "全定制"
+                    - option "半定制"
+                    - option "改妆"
+                    - option "现货成品"
+                    - option "素体"
+                    - option "肤色衣"
+                    - option "配件"
+                    - option "量产成品"
+                - generic [ref=f30e176]:
+                  - generic [ref=f30e177]: 官方提及渠道
+                  - combobox "官方提及渠道" [ref=f30e178]:
+                    - option "全部渠道"
+                    - option "官网"
+                    - option "淘宝"
+                    - option "官网 / BASE"
+                    - option "Etsy"
+                    - option "Bilibili"
+                    - option "X"
+                    - option "闲鱼" [selected]
+                    - option "Amazon"
+                - button "重置筛选" [ref=f30e179] [cursor=pointer]
+              - generic [ref=f30e183]:
+                - status [ref=f30e184]: 4 家符合条件 / 共 40 份档案
+                - link "下载完整数据" [ref=f30e185] [cursor=pointer]:
+                  - /url: /assets/data/makers.json
+              - generic [aria-hidden] [ref=f30e189]:
+                - generic [ref=f30e190]: 店铺 / 品牌
+                - generic [ref=f30e191]: 所在地区
+                - generic [ref=f30e192]: 商品与服务
+                - generic [ref=f30e193]: 公开价格摘要
+                - generic [ref=f30e194]: 营业证据
+              - list [ref=f30e195]:
+                - listitem [ref=f30e196]:
+                  - link "查看 猫豆腐 NekoToufu 的店铺档案" [ref=f30e197] [cursor=pointer]:
+                    - /url: nekotofu/
+                    - generic [ref=f30e198]:
+                      - img "猫豆腐 NekoToufu 品牌识别图" [ref=f30e199]
+                      - generic [ref=f30e200]:
+                        - strong [ref=f30e201]: 猫豆腐 NekoToufu
+                        - generic [ref=f30e202]: 提供 kigurumi 全流程定制，官方声明淘宝、闲鱼同名，并设国际业务账号。
+                    - generic [ref=f30e203]: 中国大陆
+                    - generic [ref=f30e204]: 全定制 / 肤色衣
+                    - generic [ref=f30e205]: 头壳按需求询价；无已核实当前价目表
+                    - generic [ref=f30e206]: 接受询价
+                - listitem [ref=f30e212]:
+                  - link "查看 虾饺工房 Haagaau 的店铺档案" [ref=f30e213] [cursor=pointer]:
+                    - /url: haagaau/
+                    - generic [ref=f30e214]:
+                      - img "虾饺工房 Haagaau 品牌识别图" [ref=f30e215]
+                      - generic [ref=f30e216]:
+                        - strong [ref=f30e217]: 虾饺工房 Haagaau
+                        - generic [ref=f30e218]: 制作 kigurumi 头壳，公开淘宝与闲鱼店名，并区分国内和国际业务入口。
+                    - generic [ref=f30e219]: 中国大陆
+                    - generic [ref=f30e220]: 全定制
+                    - generic [ref=f30e221]: 头壳按需求询价；无已核实当前价目表
+                    - generic [ref=f30e222]: 接受询价
+                - listitem [ref=f30e228]:
+                  - link "查看 底层人员 4uuone 的店铺档案" [ref=f30e229] [cursor=pointer]:
+                    - /url: 4uuone/
+                    - generic [ref=f30e230]:
+                      - img "底层人员 4uuone 品牌识别图" [ref=f30e231]
+                      - generic [ref=f30e232]:
+                        - strong [ref=f30e233]: 底层人员 4uuone
+                        - generic [ref=f30e234]: 公开业务账号写明淘宝、闲鱼均为 kigurumi底层人员，亦使用 4u 名称。
+                    - generic [ref=f30e235]: 中国大陆
+                    - generic [ref=f30e236]: 全定制
+                    - generic [ref=f30e237]: 头壳按需求询价；无已核实当前价目表
+                    - generic [ref=f30e238]: 接受询价
+                - listitem [ref=f30e244]:
+                  - link "查看 速趴抛瓦 Power Kigurumi 的店铺档案" [ref=f30e245] [cursor=pointer]:
+                    - /url: power/
+                    - generic [ref=f30e246]:
+                      - img "速趴抛瓦 Power Kigurumi 品牌识别图" [ref=f30e247]
+                      - generic [ref=f30e248]:
+                        - strong [ref=f30e249]: 速趴抛瓦 Power Kigurumi
+                        - generic [ref=f30e250]: 淘宝与闲鱼公开店名为速趴抛瓦kigurumi，提供业务 QQ 联系。
+                    - generic [ref=f30e251]: 中国大陆
+                    - generic [ref=f30e252]: 全定制
+                    - generic [ref=f30e253]: 头壳按需求询价；无已核实当前价目表
+                    - generic [ref=f30e254]: 接受询价
+            - heading [level=2] [ref=f30e260]:
+              - text: 本次复核
+              - link "¶" [ref=f30e261] [cursor=pointer]:
+                - /url: "#_1"
+            - paragraph [ref=f30e262]:
+              - strong [ref=f30e263]: “公开销售 / 接受询价”代表第一方网页有商业入口，不等同于已经验证可立即接单、现货库存或交易履约。
+              - text: 原币金额是核实时的公开快照，订金、配件及停产余货分别标注。
+            - list [ref=f30e264]:
+              - listitem [ref=f30e265]: 猫豆腐、虾饺工房、底层人员及抛瓦均有官方淘宝／闲鱼店名声明；平台 UID、库存及价格另行核实。底层人员与抛瓦分别建档。
+              - listitem [ref=f30e266]: 官方提及渠道包括已提供链接与只声明店名两种，详情逐项标注；第三方历史关联不计入这一筛选。
+              - listitem [ref=f30e267]: 莓萌与拼好头合并；与偶域保持独立。KigLover 更名为 MidDreamKigu。
+              - listitem [ref=f30e268]: 冉月新增进店咨询与业务群证据；哆啦、新颜、哈卡的新单状态待确认，Kigurumi Sensei 暂停定制。
+              - listitem [ref=f30e269]: 深海工坊夏季促销已结束，哈卡历史均价及星玥琦单日促销不作为当前报价。
+              - listitem [ref=f30e270]: HiDolls 的 Animal 系列不收录；Mirrodoll 当前域名转为宠物盲盒，不作为头壳营业证据。
+            - paragraph [ref=f30e271]:
+              - link "查看平台覆盖、待复核线索与去重依据" [ref=f30e272] [cursor=pointer]:
+                - /url: methodology/
+              - text: ·
+              - link "地点目录" [ref=f30e273] [cursor=pointer]:
+                - /url: ../places/
+              - text: ·
+              - link "提交补充或勘误" [ref=f30e274] [cursor=pointer]:
+                - /url: ../join/
+    - contentinfo [ref=f30e275]:
+      - navigation "页脚" [ref=f30e276]:
+        - 'link "上一页: 2026 年 9 月公开资料摘要" [ref=f30e277] [cursor=pointer]':
+          - /url: ../digests/2026-09/
+          - generic [ref=f30e281]:
+            - text: 上一页
+            - generic [ref=f30e282]: 2026 年 9 月公开资料摘要
+        - 'link "下一页: 收录与复核" [ref=f30e283] [cursor=pointer]':
+          - /url: methodology/
+          - generic [ref=f30e284]:
+            - text: 下一页
+            - generic [ref=f30e285]: 收录与复核
+      - generic [ref=f30e290]:
+        - generic [ref=f30e291]: Copyright © 2026 Kigurumi 编年志资料馆。本站内容用于资料整理、研究与教育参考；引用时请保留署名、出处与语境。
+        - generic [ref=f30e293]:
+          - link "首页" [ref=f30e294] [cursor=pointer]:
+            - /url: /
+          - link "参与加入" [ref=f30e297] [cursor=pointer]:
+            - /url: /join/
+          - link "编年目录" [ref=f30e300] [cursor=pointer]:
+            - /url: /chronicle/
+          - link "地点目录" [ref=f30e303] [cursor=pointer]:
+            - /url: /places/
+          - link "关于介绍" [ref=f30e306] [cursor=pointer]:
+            - /url: /about/
+          - link "引用规范" [ref=f30e309] [cursor=pointer]:
+            - /url: /citation/
+          - link "常见问题" [ref=f30e312] [cursor=pointer]:
+            - /url: /faq/
+          - link "开源协议" [ref=f30e315] [cursor=pointer]:
+            - /url: /license/

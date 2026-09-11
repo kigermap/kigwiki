@@ -1,71 +1,83 @@
 ---
 title: "2020 年 Kigurumi 編年史"
-subtitle: "公開資料校勘版"
-date: "2026-07-28"
+subtitle: "年度重點與資料紀事"
+date: "2026-09-09"
 language: "zh-Hant"
-status: "僅收錄可追溯公開資料；取消、線上替代與資料空白分開標註"
+status: "公開資料增補版；按事件發生及資料發表年份歸檔"
 ---
 
 # 2020 年 Kigurumi 編年史
 
-> 2021–2025 年已完成。本次依照「完成年份不重複、每次只向前整理一年」的規則整理 2020 年，不用後年活動倒填資料空白。
+2020 年補入年初 Hyokkame 面具個展與專題對談。此後 AnimeJapan 取消、WCS 轉向線上，構成這一年從實體展示到遠程參與的不同階段。
 
-![2020 年公開資料時間軸](../../../assets/images/kigurumi-2020-chronicle/timeline_2020.svg)
+## 年度重點
 
-## 0. 範圍
+- **1 月 11–26 日**：東京 Mograg Gallery 舉辦《KAWAII × KIGMASK》。
+- **1 月 17 日**：面具與佩戴者主題對談。
+- **2 月取消、8 月線上**：FGO 原定展位互動隨 AnimeJapan 取消；WCS 採用在線活動。[^hyokkame-show][^grape][^animejapan][^wcs2020]
 
-本文討論 animegao kigurumi、美少女着ぐるみ、面具型角色扮演、官方 IP 着ぐるみ，以及直接相關的展會、更衣、攝影、互動和公開傳播條件。WCS 是相鄰的綜合 cosplay 場域，只用來記錄公共基礎設施如何轉到線上。
+## 年度紀事
 
-主辦方或 IP 官方公告可確認計畫、日期、取消與活動結構。參與者影像和搜尋摘要只作線索；沒有可核日期的活動檔案不推定屬於 2020。
+### 1 月 11–26 日：Hyokkame《KAWAII × KIGMASK》個展
 
-## 1. 年度主線
+Mograg Gallery 保存的展覽頁確認會期爲 1 月 11–26 日，開放時間 13:00–20:00、週一休館。畫廊介紹將重點放在“佩戴面具的人存在於現場”的體驗，而不僅是陳列一個物件。[^hyokkame-show]
 
-1. FGO 原定於 AnimeJapan 2020 展位安排 cosplayer / 着ぐるみ。[^fgo-aj]
-2. AnimeJapan 與 FGO 均於 2 月 27 日確認展會和展位取消。[^animejapan][^fgo-aj]
-3. WCS 於 8 月 1–2 日改為 24 小時全球線上節目，並開放 Zoom gathering、居家裝扮與虛擬背景。[^wcs2020][^wcs-entry]
+1 月 11 日的 grape Japan 報道進一步介紹可更換眼部、以魔術貼固定的可拆假髮、可拆洗內襯，以及將眼部作品裝框展示的安排。[^grape] 這些是當年報道中的設計與展陳說明，不能外推成所有面具品牌的結構。
 
-## 2. 主要紀事
+### 1 月 17 日：關於面具與佩戴者的對談
 
-### 1 月 27 日與 2 月 27 日：FGO kigurumi 計畫公布後取消
+同期企劃安排 Hyokkame 與舞踏家、面具店經營者大川原脩平進行「マスクとその“中の人”考」對談，畫廊頁寫明 19:00–21:00、限 20 名、1,200 日元含一杯飲品。[^hyokkame-show]
 
-FGO 官方出展頁明確列出 “コスプレイヤー / 着ぐるみ”，原定於 3 月 21–22 日在東京 Big Sight 的 AnimeJapan 2020 展位登場。[^fgo-aj]
+媒體稿對起始時間有不同寫法，本卷採用主辦畫廊的 19:00。該條是公開節目安排；未取得逐字稿，不替參與者編寫具體討論結論。
 
-2 月 27 日，AnimeJapan 因疫情擴散、政府活動自肅方針及參與者安全而宣布取消。FGO 同日追加說明，確認展位一併取消。[^animejapan][^fgo-aj] 因此這是一條「已計畫但未發生」的 kigurumi 記錄，不能寫成實際 greeting。
+### 1 月 27 日：FGO 公佈 AnimeJapan 2020 的 cosplayer / 着ぐるみ計劃
 
-AnimeJapan 原規劃的 Cosplayers World 包括更衣室、cloakroom、攝影背景和服裝製作企劃。[^aj-cosplay] 對全頭套參與者而言，取消也代表運輸、換裝、休息和攝影等整套線下條件消失。
+FGO 官方出展頁說明，原定 3 月 21–22 日在東京 Big Sight 舉行的 AnimeJapan 2020 將設置 FGO 展位，公開項目中包括 “コスプレイヤー / 着ぐるみ”。[^fgo-aj]
 
-### 7 月 1 日與 8 月 1–2 日：WCS 全面轉為線上
+### 2 月 27 日：AnimeJapan 與 FGO 展位取消
 
-WCS 2020 ONLINE 特設站於 7 月 1 日開放。開幕儀式安排在 8 月 1 日 12:00–13:00，線上節目從 8 月 1 日 20:00 持續至 8 月 2 日 20:00，共 24 小時。[^wcs2020]
+AnimeJapan 官方公告稱，因新型冠狀病毒感染擴散、政府提出大型活動自肅方針，並考慮來場者及所有相關人員的安全，決定取消 AnimeJapan 2020 與 Family Anime Festa 2020。[^animejapan] 同日，FGO 官方在原出展頁追加說明，確認 FGO 展位隨展會取消。[^fgo-aj]
 
-官方參與頁允許從家中穿 costume 加入按作品或主題分組的 Zoom gathering，使用虛擬背景，並可能進入官方直播接受訪問。未成年人需要監護人許可，節目影像亦可能被後續用於網站、電視、報紙和宣傳材料。[^wcs-entry]
+取消記錄不能寫成“FGO kigurumi 在 AnimeJapan 2020 登場”。成熟的編年史必須同時保存計劃與結果：
 
-對 kigurumi 而言，線上化降低了頭殼運輸與更衣室門檻，卻把家庭環境、現實身份和影像長期再利用變成新的隱私與同意問題。
+| 字段 | 結論 |
+| --- | --- |
+| 原計劃 | 3 月 21–22 日，FGO 展位含 cosplayer / 着ぐるみ |
+| 最終狀態 | 2 月 27 日確認取消，未作爲已發生活動計入 |
+| 歷史意義 | 證明疫情直接切斷了已公佈的官方 kigurumi 實體節點 |
 
-## 3. 分類與空白
+AnimeJapan 原先還規劃了 Cosplayers World，包括付費登記、更衣室、cloakroom、官方攝影背景和服裝製作企劃。[^aj-cosplay] 這些設施並非 kigurumi 專用，但全頭套參與者尤其依賴運輸、換裝、休息與攝影空間；展會取消意味着整套線下條件同時消失。
 
-| 領域 | 2020 可核驗內容 | 結論 |
-| --- | --- | --- |
-| 編年 | FGO 計畫與取消；WCS 線上化 | 收錄 |
-| 日常 / 雜談 | 居家裝扮、Zoom 交流、遠程訪問 | 只寫官方流程 |
-| 工坊 / 手工 | WCS 提到居家 costume challenge | 不獨立建板塊 |
-| 禮儀 / 安全 | 疫情取消、監護人許可、影像再利用 | 收錄 |
-| 百科 / 科普 | 區分計畫、取消與已發生 | 收錄 |
-| 學術 | 未發現可核驗的直接相關新論文 | 保留空白 |
+### 7 月 1 日：WCS 2020 ONLINE 官方站開放
 
-本輪未找到一手來源足以確認日期、地點與結果的 2020 年專門 animegao 聚會。Doll Weekend 現存 DW1–4 檔案仍缺可核日期，不能從序號反推年份。[^dw-archive]
+WCS 官方檔案記錄，WCS 2020 ONLINE 特設站在 7 月 1 日開放。[^wcs2020] 該頁把疫情影響下的新形態定義爲從名古屋面向全球的線上發佈。
 
-## 4. 去重與結論
+### 8 月 1–2 日：24 小時直播與 Zoom cosplay gathering
 
-本文只保留 FGO 已公布但取消的 kigurumi 計畫，以及 WCS 的全面線上替代。2021 的混合化、`キグルミwasshoi!`，以及 2022–2025 的 greeting、現場恢復和安全規則留在各自年度。
+WCS 2020 ONLINE 的開幕儀式安排在 8 月 1 日 12:00–13:00，在線節目從 8 月 1 日 20:00 連續到 8 月 2 日 20:00，共 24 小時。官方檔案列出 YouTube、Niconico、Twitch 等傳播渠道。[^wcs2020]
 
-2020 年的核心不是活動數量，而是參與基礎的斷裂與重組：實體場館消失，直播、Zoom、虛擬背景和可長期再利用的影像成為替代。資料空白保留為待考，不以推測補全。
+參與頁還提供了更具體的遠程結構：[^wcs-entry]
+
+- 參與者可從家中穿着 costume 加入 Zoom gathering；
+- gathering 依作品或主題分組，可使用虛擬背景；
+- 部分參與者可進入官方直播節目並接受主持人採訪；
+- 未成年人出鏡需要監護人許可；
+- 節目中的影像可能繼續用於網站、報紙、電視、宣傳冊和網絡廣告；
+- 官方提供照片框和背景素材，鼓勵以統一標籤發佈公開照片。
+
+對 kigurumi 來說，線上化降低了運輸頭殼、尋找更衣室和長途移動的門檻，但也改變了風險結構：家庭環境可能被攝入，角色背後的現實身份更難與直播畫面分離，影像授權的傳播範圍也比普通現場合影更長。因而 2020 年的禮儀重點從“現場能否拍攝”擴展爲“誰能觀看、是否錄製、以後如何再利用”。
+
+## 年度小結
+
+本年不只有活動取消：年初面具展留下了部件、可維護性和佩戴錶達的記錄；疫情期間的取消公告與遠程活動則改變了公共交流形式。各階段均依當年來源記錄。
 
 ## 參考資料
 
 [^fgo-aj]: Fate/Grand Order, “「AnimeJapan 2020」出展情報について,” <https://news.fate-go.jp/2020/aj2020/>
-[^animejapan]: AnimeJapan, “「AnimeJapan 2020／ファミリーアニメフェスタ2020」開催中止について,” <https://www.anime-japan.jp/2020/news/#10045>
+[^animejapan]: AnimeJapan, “「AnimeJapan 2020／ファミリーアニメフェスタ2020」開催中止について,” 2020-02-27, <https://www.anime-japan.jp/2020/news/#10045>
 [^aj-cosplay]: AnimeJapan, “コスプレイヤーズワールド,” <https://www.anime-japan.jp/2020/main/cosplay/>
 [^wcs2020]: World Cosplay Summit, “WORLD COSPLAY SUMMIT 2020 ONLINE,” <https://www.worldcosplaysummit.jp/2020/en/>
 [^wcs-entry]: World Cosplay Summit, “Entry & Online Gathering Venue Information,” <https://www.worldcosplaysummit.jp/2020/en/plan/>
-[^dw-archive]: Doll Weekend, 活動檔案, <https://dollweekend.cn/cn/event/>
+
+[^hyokkame-show]: Mograg Gallery，Hyokkame 個展與 2020-01-17 對談，<https://www.mograg.com/artist2001.html>。
+[^grape]: grape Japan，2020-01-11，Hyokkame 個展報道，<https://grapee.jp/en/129757>。

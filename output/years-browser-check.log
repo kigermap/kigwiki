@@ -1,0 +1,35 @@
+### Result
+[{"route":"years/","title":"年份总览 - Kigurumi 编年志","width":1440,"overflow":false,"brokenImages":[],"headings":["已整理年度","年度条目的基本结构","预制年份分卷"],"missingSourceAnchors":[]},{"route":"years/2000/","title":"2000 年 Kigurumi 编年史 - Kigurumi 编年志","width":1440,"overflow":false,"brokenImages":[],"headings":["年度重点","年度纪事","年度小结","参考资料"],"missingSourceAnchors":[]},{"route":"years/2024/","title":"2024 年 Kigurumi 编年史 - Kigurumi 编年志","width":1440,"overflow":false,"brokenImages":[],"headings":["年度重点","年度纪事","年度小结","参考资料"],"missingSourceAnchors":[]},{"route":"years/2025/","title":"2025 年 Kigurumi 编年史 - Kigurumi 编年志","width":1440,"overflow":false,"brokenImages":[],"headings":["年度重点","年度纪事","年度小结","参考资料"],"missingSourceAnchors":[]},{"route":"years/","title":"年份总览 - Kigurumi 编年志","width":390,"overflow":false,"brokenImages":[],"headings":["已整理年度","年度条目的基本结构","预制年份分卷"],"missingSourceAnchors":[]},{"route":"years/2000/","title":"2000 年 Kigurumi 编年史 - Kigurumi 编年志","width":390,"overflow":false,"brokenImages":[],"headings":["年度重点","年度纪事","年度小结","参考资料"],"missingSourceAnchors":[]},{"route":"years/2024/","title":"2024 年 Kigurumi 编年史 - Kigurumi 编年志","width":390,"overflow":false,"brokenImages":[],"headings":["年度重点","年度纪事","年度小结","参考资料"],"missingSourceAnchors":[]},{"route":"years/2025/","title":"2025 年 Kigurumi 编年史 - Kigurumi 编年志","width":390,"overflow":false,"brokenImages":[],"headings":["年度重点","年度纪事","年度小结","参考资料"],"missingSourceAnchors":[]}]
+### Ran Playwright code
+```js
+await (async (page) => {
+  const results = [];
+  for (const viewport of [{width: 1440, height: 1000}, {width: 390, height: 844}]) {
+    await page.setViewportSize(viewport);
+    for (const route of ["years/", "years/2000/", "years/2024/", "years/2025/"]) {
+      await page.goto("http://127.0.0.1:8023/" + route);
+      await page.waitForLoadState("networkidle");
+      const result = await page.evaluate(() => {
+        const content = document.querySelector("article.md-content__inner");
+        return {
+          title: document.title,
+          width: window.innerWidth,
+          overflow: document.documentElement.scrollWidth > window.innerWidth,
+          brokenImages: [...content.querySelectorAll("img")].filter(i => !i.complete || !i.naturalWidth).map(i => i.src),
+          headings: [...content.querySelectorAll("h2")].map(h => h.textContent.replace("¶", "").trim()),
+          missingSourceAnchors: [...content.querySelectorAll('a[href^="#s"], a.footnote-ref')].filter(a => !document.getElementById(decodeURIComponent(a.hash.slice(1)))).map(a => a.hash),
+        };
+      });
+      results.push({route, ...result});
+      const slug = route.replaceAll("/", "-").replace(/-$/, "");
+      await page.screenshot({path: "output/playwright/annual-" + slug + "-" + viewport.width + ".png", fullPage: false});
+      if (route === "years/2000/" || route === "years/2025/") {
+        await page.locator('img[src*="explainer.webp"]').scrollIntoViewIfNeeded();
+        await page.screenshot({path: "output/playwright/annual-" + slug + "-illustration-" + viewport.width + ".png"});
+      }
+    }
+  }
+  return results;
+}
+)(page);
+```

@@ -1,41 +1,48 @@
 ---
 title: "2019 年 Kigurumi 編年史"
-subtitle: "公開資料校勘版"
-date: "2026-07-31"
+subtitle: "年度重點與資料紀事"
+date: "2026-09-09"
 language: "zh-Hant"
-status: "僅收錄可追溯公開資料；綜合 cosplay 場域與專門 kigurumi 活動分開標註"
+status: "公開資料增補版；按事件發生及資料發表年份歸檔"
 ---
 
 # 2019 年 Kigurumi 編年史
 
-> 2020–2025 年已完成。本輪依照每次只向前整理一年的規則，整理 2019 年。可靠的一手資料集中於 AnimeJapan 的官方角色着ぐるみ登場與相鄰公共 cosplay 基礎設施；無日期的專門活動線索不寫成事實。
+2019 年保留 FGO 的展位着ぐるみ安排，並補入 SIGMA 的創立二十週年公告。前者是本屆官方角色活動，後者是製作團隊當年的紀念與公開傳播節點。
 
-## 資料邊界與主要紀事
+## 年度重點
 
-本文討論 animegao kigurumi、官方 IP 着ぐるみ，以及直接相關的更衣、攜帶、攝影與公開展示條件。FGO 官方公告可確認展位項目，AnimeJapan 官方頁可確認場地與 cosplay 區域。
+- **3 月 23–24 日**：FGO 在 AnimeJapan 東 6 Hall J73 安排着ぐるみ與官方 cosplayer。
+- **8 月 15 日**：SIGMA 公佈創立二十週年消息。
+- **公共攝影**：Cosplayers World 繼續提供當屆參與場域。[^fgo-aj][^sigma-anniversary]
 
-### 3 月 23–24 日：FGO 明列着ぐるみ／官方 cosplayer 登場
+## 年度紀事
 
-Fate/Grand Order 官方公告確認 AnimeJapan 2019 於 3 月 23–24 日在東京 Big Sight 舉行，FGO 展位位於東 6 Hall J73。3 月 11 日的追加說明把「着ぐるみ／オフィシャルコスプレイヤーの登場」列為展位項目。[^fgo-aj]
+### 3 月 23–24 日：FGO 在 AnimeJapan 2019 明列着ぐるみ／官方 cosplayer 登場
 
-這是官方 kigurumi 的直接證據。來源未稱其為專門 animegao 活動，故本文只記為大型公開動漫展會中的官方角色着ぐるみ展示。
+Fate/Grand Order 官方公告確認 AnimeJapan 2019 於 3 月 23–24 日在東京 Big Sight 舉行，FGO 展位設在東 6 Hall J73；3 月 11 日的追加說明將“着ぐるみ／オフィシャルコスプレイヤーの登場”列爲展位項目。[^fgo-aj]
 
-AnimeJapan 的 Cosplayers World 頁面確認活動在東京 Big Sight 東 1–8 Hall 舉行，並提供 cosplay 參與安排。[^aj-cosplay] 它不能證明所有參與者都是 kigurumi performer，但能說明全頭套實踐相鄰的入場、更衣、攜帶與攝影公共條件。
+這是可直接寫入的官方 kigurumi 節點：來源沒有把它稱作 animegao 專門活動，因此本文不替它擴大定義；但它明確證明官方角色着ぐるみ在公共動漫展會中被安排爲可見的展位節目。
 
-## 分類、去重與結論
+### 同期：Cosplayers World 提供公共參與基礎設施
 
-| 領域 | 2019 可核驗內容 | 結論 |
-| --- | --- | --- |
-| 編年 | FGO 展位着ぐるみ／官方 cosplayer | 收錄 |
-| 日常 / 雜談 | 公開角色展示與觀眾接觸 | 僅寫主辦方公開節目 |
-| 工坊 / 手工 | 未發現可獨立核驗教程 | 保留空白 |
-| 禮儀 / 安全 | 一般公共參與安排 | 不推定專門規範 |
-| 百科 / 科普 | 區分官方 IP 着ぐるみ、animegao 與一般 cosplay | 收錄 |
-| 學術 | 未發現直接相關且可核驗新論文 | 保留空白 |
+AnimeJapan 2019 官方 Cosplayers World 頁面確認活動在東京 Big Sight 東 1–8 Hall 舉行，並設有 cosplay 參與安排。[^aj-cosplay] 該來源本身不證明每位參與者都是 kigurumi performer，但它記錄了全頭套實踐所依賴的公共條件：進入展場、更衣、攜帶與攝影的組織空間。
 
-本文只保留 2019 年的官方登場與場地語境。2020 年取消、2021 年混合恢復及 2022–2025 年內容均留在各自年度卷；無法核實日期、地點與結果的專門頁面不從後續序號回推。最穩妥的結論是：官方角色着ぐるみ已是公開展會的明確節目，而一般 cosplay 基礎設施構成相鄰活動環境。
+因此 2019 的結論不是“綜合 cosplay 展會等於 kigurumi 聚會”，而是官方 IP 着ぐるみ展示與一般 cosplay 基礎設施在同一公共場域相交。
+
+### 8 月 15 日：SIGMA 創立二十週年公告
+
+SIGMA 官方新聞以 2019 年 8 月 15 日爲日期，公佈「造型工房SIGMAは創立20週年を迎えました」，並鏈接相關官方社交消息。[^sigma-anniversary]
+
+本條記錄當年的紀念公告，不重複登記一次工房成立。公告可以說明團隊持續公開經營與維護品牌記錄，但週年數字不是出貨量或活躍用戶統計。
+
+## 年度小結
+
+本年資料一端連接大型 IP 的現場角色節目，一端連接製作工房的長期品牌記錄。兩類節點分別體現公開活動與製作組織的持續性。
 
 ## 參考資料
 
-[^fgo-aj]: Fate/Grand Order, 「AnimeJapan 2019」出展情報について, 2019-03-23, <https://news.fate-go.jp/2019/aj2019/>
-[^aj-cosplay]: AnimeJapan, 「コスプレイヤーズワールド」, <https://www.anime-japan.jp/2019/main/cosplay/>
+[^fgo-aj]: Fate/Grand Order, “「AnimeJapan 2019」出展情報について,” 2019-03-23, <https://news.fate-go.jp/2019/aj2019/>
+[^aj-cosplay]: AnimeJapan, “コスプレイヤーズワールド,” <https://www.anime-japan.jp/2019/main/cosplay/>
+
+[^sigma-anniversary]: SIGMA 官方首頁新聞，2019-08-15 創立二十週年公告，<https://www.buildupstudiosigma.com/>。

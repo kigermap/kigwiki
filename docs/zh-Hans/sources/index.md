@@ -34,6 +34,36 @@
   </div>
 </section>
 
+<section class="archive-section" markdown>
+  <p class="archive-kicker">Annual Sources</p>
+  <h2>年度资料来源</h2>
+
+| 来源 | 可查内容 | 归年依据 |
+| --- | --- | --- |
+| [造型工房 SIGMA 历史图集](https://www.buildupstudiosigma.com/archive/) | 角色制作说明、表情部件、服装与摄影协作 | 明示制作年月与图集日期分别记录；图集日期不直接视为拍摄日 |
+| [Laurie Simmons 作品档案](https://www.lauriesimmons.net/artwork/kigurumi-dollers-and-how-we-see) | Kigurumi, Dollers and How We See 系列 | 艺术家档案的作品年份与展览资料 |
+| [mograg gallery 展览档案](https://www.mograg.com/artist2001.html) | Hyokkame 展览、讲座与艺术家简介 | 展览起止日期、讲座时间与简介中的明确年份 |
+| [Kigurumi Online 工作坊](https://kig-o.com/index.php/kigurumi-workshop/) | 面具教学、部件选择与设计版本 | 当届公告的日期，以及页面明确标注的历年设计 |
+| [着ぐるみ Advent Calendar 2024](https://adventar.org/calendars/10384) | 每日作者、文章题目与原文入口 | 日历条目的发布日期；失效原文不扩写其正文 |
+| [东京电玩展官方历史](https://tgs.cesa.or.jp/2026/30th) | 历届日程、主题、海报与来场统计 | 当届官方记录；总人数不作为 kigurumi 人数 |
+
+</section>
+
+<section class="archive-section" markdown>
+  <p class="archive-kicker">Undated Records</p>
+  <h2>尚未确定年份的活动线索</h2>
+
+以下条目可在 [Doll Weekend 官方活动目录](https://dollweekend.cn/cn/event/)查到，但本轮所见页面没有足以确认年份的日期信息，因此保留在来源目录，待日期补证后再进入对应年度。
+
+| 条目 | 当前状态 |
+| --- | --- |
+| Doll Weekend 1–4 | 可查早期活动名称、场景与影像入口；不能仅按届数顺序推定年份 |
+| Doll Weekend Special 2「娃娃泳池大战」 | 可查广州泳池主题与影像入口；季节描写不足以确定举办年份 |
+
+来源于 2026 年 9 月 9 日复核。视频发表时间、合照上传时间与活动举办时间分别保留，不相互替代。
+
+</section>
+
 <section class="archive-section archive-section--split">
   <div markdown>
     <p class="archive-kicker">Citation Discipline</p>

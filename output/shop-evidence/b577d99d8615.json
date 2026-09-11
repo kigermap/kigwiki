@@ -1,0 +1,25 @@
+{
+  "url": "https://huyaoshouzuo.com/",
+  "status": 200,
+  "text": "狐妖手作 狐妖手作 站点正处于维护模式 乳胶衣测量表(A) 乳胶衣定制测量数据收集 进入测量表 乳胶衣测量表(B) 乳胶衣定制测量数据收集 进入测量表 Kig 打底衣测量表 Kig 打底衣定制测量数据收集 进入测量表 颜色选择器 帮助选择精确的颜色值 进入选择器",
+  "links": [
+    {
+      "text": "进入测量表",
+      "url": "/tools/questionnaire/latex/"
+    },
+    {
+      "text": "进入测量表",
+      "url": "/tools/questionnaire/latex-b/"
+    },
+    {
+      "text": "进入测量表",
+      "url": "/tools/questionnaire/kig-suit/"
+    },
+    {
+      "text": "进入选择器",
+      "url": "/tools/color-picker/"
+    }
+  ],
+  "images": [],
+  "fetched_at": "2026-09-09T09:39:06.449410+00:00"
+}

@@ -19,38 +19,38 @@
   <p class="archive-kicker">Published Years</p>
   <h2>公開済み年度</h2>
   <div class="archive-feature-grid archive-feature-grid--compact">
-    <article class="archive-feature"><span class="archive-feature__icon">97</span><h3>1997年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、年2回開催への移行を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/1997/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">98</span><h3>1998年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、春の待機列記念品を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/1998/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">99</span><h3>1999年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、春のステージ企画を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/1999/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">00</span><h3>2000年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日、来場者数、累計100万人の節目を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/2000/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">01</span><h3>2001年 Kigurumi 編年史</h3><p>東京ゲームショウ春・秋の実施日と来場者数を収録し、kigurumi / animegao 規定、実参加、写真識別の証拠空白を明記する。</p><a href="../years/2001/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">02</span><h3>2002年 Kigurumi 編年史</h3><p>東京ゲームショウ2002の予定日程、一般公開日、会場を収録し、kigurumi / animegao 規定と実参加の証拠空白を明記する。</p><a href="../years/2002/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">03</span><h3>2003年 Kigurumi 編年史</h3><p>Inside Doll が2003年4月には公開活動中で、その後も編集更新を続けたことを収録し、二つの一次ページで食い違う開始日を併記する。</p><a href="../years/2003/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">04</span><h3>2004年 Kigurumi 編年史</h3><p>東京ゲームショウで現在最初に検証できる大型着ぐるみ、更衣、クローク、衣装確認、撮影同意の規定と実来場証拠の空白を収録する。</p><a href="../years/2004/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>2005年 Kigurumi 編年史</h3><p>東京ゲームショウの予定日程、一般公開日、会場を収録し、kigurumi 規定、実参加、完了結果の証拠空白を明記する。</p><a href="../years/2005/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>2006年 Kigurumi 編年史</h3><p>東京ゲームショウの当年日程と閉幕を確認し、2004年と項目ごとに同じ公共規定を継続として扱う。</p><a href="../years/2006/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007年 Kigurumi 編年史</h3><p>東京ゲームショウ2007の日程、会場、閉幕を確認し、共同する公開規定は2004年巻へ接続して反復しない。</p><a href="../years/2007/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008年 Kigurumi 編年史</h3><p>東京ゲームショウ2008の日程、会場、閉幕結果と、関連する参加・専門規定の公開証拠空白を収録する。</p><a href="../years/2008/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009年 Kigurumi 編年史</h3><p>東京ゲームショウ2009の手荷物検査計画、裁縫道具、更衣室受付時限を収録し、共同規定は2004年へ移す。</p><a href="../years/2009/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010年 Kigurumi 編年史</h3><p>東京ゲームショウの新設 cosplay 企画、7ホール早朝更衣、夜間延長を収録し、基本規定は2004年に遡る。</p><a href="../years/2010/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011年 Kigurumi 編年史</h3><p>東京ゲームショウの更衣・クロークが2010年の7ホールから2ホールへ移った固有の変化を収録し、共通規定は繰り返さない。</p><a href="../years/2011/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>2012年 Kigurumi 編年史</h3><p>東京ゲームショウの7ホール更衣・クローク、早朝更衣、指定撮影区域、動画・営利撮影・画像公開の境界を収録する。</p><a href="../years/2012/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>2013年 Kigurumi 編年史</h3><p>東京ゲームショウの大型着ぐるみ、更衣、指定撮影区域、撮影許可、画像公開同意の公共規則を収録する。</p><a href="../years/2013/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014年 Kigurumi 編年史</h3><p>AnimeJapan の公式キャラクター着ぐるみ交流と、Cosplayers World の屋内外撮影エリア・衣装レンタルの実運用を収録する。</p><a href="../years/2014/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>2015年 Kigurumi 編年史</h3><p>AnimeJapan の拡張された着ぐるみ利用可能空間、移動補助、撮影同意、更衣室のプライバシーと設備運用を収録する。</p><a href="../years/2015/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>2016年 Kigurumi 編年史</h3><p>AnimeJapan の着ぐるみエリア、更衣、保管、撮影同意と設備の実運用を収録する。</p><a href="../years/2016/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017年 Kigurumi 編年史</h3><p>AnimeJapan の会場・女性専用プレミアム更衣選択の拡張と、有効回答220件のコミュニティ自主調査を収録する。</p><a href="../years/2017/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">18</span><h3>2018年 Kigurumi 編年史</h3><p>AnimeJapan の着ぐるみ視界・アテンド・撮影規則と、慶應の animegao マスク制作マッチング研究を収録する。</p><a href="../years/2018/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">19</span><h3>2019年 Kigurumi 編年史</h3><p>AnimeJapan の FGO 公式着ぐるみ／公式コスプレイヤー登場と公共コスプレ会場条件を収録する。</p><a href="../years/2019/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020年 Kigurumi 編年史</h3><p>FGO 公式着ぐるみ企画の告知と中止、WCS の全面オンライン化、遠隔参加と映像利用の境界を収録する。</p><a href="../years/2020/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">21</span><h3>2021年 Kigurumi 編年史</h3><p>WCS 初のハイブリッド形式、第18回 キグルミwasshoi! のホテル型再開、日付未確認の Doll Weekend 1–4 を整理する。</p><a href="../years/2021/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">22</span><h3>2022年 Kigurumi 編年史</h3><p>感染症流行後のオフライン再開、キグルミwasshoi!、着ぐFesta 初回、FGO 公式 greeting、WCS リスク規則、Doll Weekend 5-8 を収録する。</p><a href="../years/2022/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">23</span><h3>2023年 Kigurumi 編年史</h3><p>オフライン復帰、着ぐFesta のルール化、Doll Weekend 10、WCS の完全復活、公式 IP greeting、リスク治理の前置テキストを収録する。</p><a href="../years/2023/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>2024年 Kigurumi 編年史</h3><p>専門イベントの形成、公式IP greeting、Doll Weekend 11、夏季安全治理、年末の知識生産、リスク境界を収録する。</p><a href="../years/2024/">年度ページへ</a></article>
-    <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>2025年 Kigurumi 編年史</h3><p>2025年の公開ノード、活動制度、地域横断ネットワーク、Doll Weekend 12、WCSルール、公式IP greeting、リスク治理を収録する。</p><a href="../years/2025/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">97</span><h3>1997年 Kigurumi 編年史</h3><p>4月4-6日：TGS 1997春の完了記録 · 9月5-7日：TGS 1997秋の完了記録</p><a href="../years/1997/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">98</span><h3>1998年 Kigurumi 編年史</h3><p>3月20-22日：TGS 1998 春の完了記録 · 10月9-11日：TGS 1998 秋の完了記録</p><a href="../years/1998/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">99</span><h3>1999年 Kigurumi 編年史</h3><p>3月19-21日：TGS 1999 春の完了記録 · 9月17-19日：TGS 1999 秋の完了記録</p><a href="../years/1999/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">00</span><h3>2000年 Kigurumi 編年史</h3><p>3月31日-4月2日：TGS 2000春の実施記録 · 9月22-24日：TGS 2000秋の実施記録</p><a href="../years/2000/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">01</span><h3>2001年 Kigurumi 編年史</h3><p>3月30日-4月1日：TGS 2001春の実施記録 · 10月12-14日：TGS 2001秋の実施記録</p><a href="../years/2001/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">02</span><h3>2002年 Kigurumi 編年史</h3><p>9月20-22日：隣接する公共展示会が日程と会場を公開 · 同年資料から引用可能な kigurumi 規定は形成できない</p><a href="../years/2002/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">03</span><h3>2003年 Kigurumi 編年史</h3><p>4月：専門サイトが公開更新期に入る · 5-6月：編集作品と投稿が継続して公開される</p><a href="../years/2003/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">04</span><h3>2004年 Kigurumi 編年史</h3><p>9月24-26日：日程、会場、一般公開枠 · 9月25-26日：大きな着ぐるみが公共衣装の境界に入る</p><a href="../years/2004/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">05</span><h3>2005年 Kigurumi 編年史</h3><p>5月16日：主催者がテーマ、日程、目標を発表 · 9月16-18日：公式予定期間、完了状態は未確認</p><a href="../years/2005/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">06</span><h3>2006年 Kigurumi 編年史</h3><p>9月22-24日：当年の日程と幕張会場 · 9月23-24日：2004年公共規定の項目ごとの継続</p><a href="../years/2006/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">07</span><h3>2007年 Kigurumi 編年史</h3><p>9月22-23日：公開 cosplay 運用が継続 · 9月23日：公式告知が閉幕を確認</p><a href="../years/2007/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">08</span><h3>2008年 Kigurumi 編年史</h3><p>10月9-12日：東京ゲームショウ2008開催 · 公開来場者アーカイブには引用可能な kigurumi 規則系統がまだない</p><a href="../years/2008/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">09</span><h3>2009年 Kigurumi 編年史</h3><p>9月26-27日：一般公開日の手荷物検査計画が cosplay 参加者を含む · 9月26-27日：共同規定が継続し、裁縫道具と受付時限が加わる</p><a href="../years/2009/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">10</span><h3>2010年 Kigurumi 編年史</h3><p>9月18-19日：TGS が一連の cosplay 企画を新設 · 9月18-19日：7ホールの更衣、クローク、早朝利用が一つの参加動線を構成</p><a href="../years/2010/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">11</span><h3>2011年 Kigurumi 編年史</h3><p>9月17-18日：大型着ぐるみ規定は2004年の境界を継続 · 9月17-18日：更衣・クロークが7ホールから2ホールへ移動</p><a href="../years/2011/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">12</span><h3>2012年 Kigurumi 編年史</h3><p>9月22-23日：大型着ぐるみが公共展示会の衣装境界に入る · 9月22-23日：7ホールの更衣、クローク、補修支援が一つの参加動線になる</p><a href="../years/2012/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">13</span><h3>2013年 Kigurumi 編年史</h3><p>9月19-22日：大きな着ぐるみが公共イベントの衣装境界に入る · 9月21-22日：更衣、指定撮影区域、画像公開同意を一つの参加条件に統合</p><a href="../years/2013/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">14</span><h3>2014年 Kigurumi 編年史</h3><p>3月22-23日：Family Park でキャラクター着ぐるみの公開交流を実施 · 3月22-23日：Cosplayers World の屋内外撮影基盤が実運用</p><a href="../years/2014/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">15</span><h3>2015年 Kigurumi 編年史</h3><p>3月21-22日：AnimeJapan 2015 が着ぐるみを含む公共 cosplay 空間を拡張 · 閉幕後：開催レポートが拡張エリアと撮影設備の実運用を確認</p><a href="../years/2015/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">16</span><h3>2016年 Kigurumi 編年史</h3><p>3月26-27日：AnimeJapan 2016 が着ぐるみを含む公共 cosplay 基盤を提供 · 閉幕後：開催レポートが臨時屋外区と撮影設備の運用を確認</p><a href="../years/2016/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">17</span><h3>2017年 Kigurumi 編年史</h3><p>3月25-26日：AnimeJapan 2017 が公共 cosplay 空間と更衣選択を拡張 · 10月4日から約一週間：自主的な「国勢調査」が数量的スナップショットを残す</p><a href="../years/2017/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">18</span><h3>2018年 Kigurumi 編年史</h3><p>3月24-25日：AnimeJapan 2018 が着ぐるみの公共会場規則を拡張 · 2018年度：animegao マスク制作が学位研究の対象になる</p><a href="../years/2018/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">19</span><h3>2019年 Kigurumi 編年史</h3><p>3月23–24日：FGO が AnimeJapan 2019 で着ぐるみ／公式コスプレイヤー登場を明記 · 同時期：Cosplayers World という隣接する公共基盤</p><a href="../years/2019/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">20</span><h3>2020年 Kigurumi 編年史</h3><p>1月27日、2月27日：FGO 着ぐるみ企画の告知と中止 · 7月1日、8月1–2日：WCS の全面オンライン化</p><a href="../years/2020/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">21</span><h3>2021年 Kigurumi 編年史</h3><p>5月22日、8月7–8日：WCS のハイブリッド開催 · 10月23–24日：第18回 キグルミwasshoi!</p><a href="../years/2021/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">22</span><h3>2022年 Kigurumi 編年史</h3><p>1月から2月: オフライン再開前夜 - 依然として流行管理がすべての活動の基礎となる変数 · 3 月 26 ～ 27 日: FGO × AnimeJapan 2022 – 年初めの cosplayer / kigurumi greeting stage の公式リターン</p><a href="../years/2022/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">23</span><h3>2023年 Kigurumi 編年史</h3><p>3月25日～26日：FGO × AnimeJapan 2023 - 公式コスプレイヤー / kigurumi グリーティングブース復帰 · 3月下旬頃：Doll Weekend 9「Light of the Stage」 - 中国語圏の娃/Kig 圏のステージノード</p><a href="../years/2023/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">24</span><h3>2024年 Kigurumi 編年史</h3><p>2月10日頃：着着ぐFesta！特別スタジオ撮影イベント中止 – 小規模イベントの費用と不確実性 · 3月16日・17日：ホロライブSUPER EXPO 2024 マスコット撮影会</p><a href="../years/2024/">年度ページへ</a></article>
+    <article class="archive-feature"><span class="archive-feature__icon">25</span><h3>2025年 Kigurumi 編年史</h3><p>公式 IP と教育化 · 8月の密集ノード</p><a href="../years/2025/">年度ページへ</a></article>
   </div>
 </section>
 
 ## 近期収集
 
-進行中または未確定の情報は、まず[月次の近期収集ページ](../digests/index.md)で出典確認と重複排除を行う。現在の更新は[2026年9月 公開資料ダイジェスト](../digests/2026-09/index.md)であり、安定した内容だけを年次編年へ移す。
+進行中または未確定の情報は、まず[月次の近期収集ページ](../digests/index.md)で出典と日付の確認を行う。現在の更新は[2026年9月 公開資料ダイジェスト](../digests/2026-09/index.md)であり、安定した内容だけを年次編年へ移す。

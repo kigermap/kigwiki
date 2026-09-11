@@ -1,0 +1,275 @@
+
+[31m │  ⚠  Warning from the Material for MkDocs team[0m
+[31m │[0m
+[31m │[0m  MkDocs 2.0, the underlying framework of Material for MkDocs,
+[31m │[0m  will introduce backward-incompatible changes, including:
+[31m │[0m
+[31m │  × [0mAll plugins will stop working – the plugin system has been removed
+[31m │  × [0mAll theme overrides will break – the theming system has been rewritten
+[31m │  × [0mNo migration path exists – existing projects cannot be upgraded
+[31m │  × [0mClosed contribution model – community members can't report bugs
+[31m │  × [0mCurrently unlicensed – unsuitable for production use
+[31m │[0m
+[31m │[0m  Our full analysis:
+[31m │[0m
+[31m │[0m  [4mhttps://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/[0m
+[0m
+INFO    -  mkdocs_static_i18n: Building 'zh-Hans' documentation to directory: /Users/licheng/Documents/Codex/2026-06-12/wiki/outputs/chronicle-wiki/site
+INFO    -  mkdocs_static_i18n: Language 'zh-Hans' is not supported by lunr.js, not setting it in the 'plugins.search.lang' option
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hans' config 'copyright' with 'Copyright &copy; 2026 Kigurumi 编年志资料馆。本站内容用于资料整理、研究与教育参考；引用时请保留署名、出处与语境。'
+INFO    -  mkdocs_static_i18n: Updating 'zh-Hans' config 'extra' with '{'social': [{'icon': 'material/home', 'link': '/', 'name': '首页'}, {'icon': 'material/account-plus', 'link': '/join/', 'name': '参与加入'}, {'icon': 'material/timeline-clock', 'link': '/chronicle/', 'name': '编年目录'}, {'icon': 'material/map-marker-radius', 'link': '/places/', 'name': '地点目录'}, {'icon': 'material/information', 'link': '/about/', 'name': '关于介绍'}, {'icon': 'material/format-quote-close', 'link': '/citation/', 'name': '引用规范'}, {'icon': 'material/frequently-asked-questions', 'link': '/faq/', 'name': '常见问题'}, {'icon': 'material/license', 'link': '/license/', 'name': '开源协议'}]}'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hans' config 'nav' with '[{'首页': 'index.md'}, {'关于介绍': 'about/index.md'}, {'参与加入': 'join/index.md'}, {'贡献与支持': 'support/index.md'}, {'编年': [{'编年总览': 'chronicle/index.md'}, {'年份目录': [{'年份总览': 'years/index.md'}, {'1997 年 Kigurumi 编年史': 'years/1997/index.md'}, {'1998 年 Kigurumi 编年史': 'years/1998/index.md'}, {'1999 年 Kigurumi 编年史': 'years/1999/index.md'}, {'2000 年 Kigurumi 编年史': 'years/2000/index.md'}, {'2001 年 Kigurumi 编年史': 'years/2001/index.md'}, {'2002 年 Kigurumi 编年史': 'years/2002/index.md'}, {'2003 年 Kigurumi 编年史': 'years/2003/index.md'}, {'2004 年 Kigurumi 编年史': 'years/2004/index.md'}, {'2005 年 Kigurumi 编年史': 'years/2005/index.md'}, {'2006 年 Kigurumi 编年史': 'years/2006/index.md'}, {'2007 年 Kigurumi 编年史': 'years/2007/index.md'}, {'2008 年 Kigurumi 编年史': 'years/2008/index.md'}, {'2009 年 Kigurumi 编年史': 'years/2009/index.md'}, {'2010 年 Kigurumi 编年史': 'years/2010/index.md'}, {'2011 年 Kigurumi 编年史': 'years/2011/index.md'}, {'2012 年 Kigurumi 编年史': 'years/2012/index.md'}, {'2013 年 Kigurumi 编年史': 'years/2013/index.md'}, {'2014 年 Kigurumi 编年史': 'years/2014/index.md'}, {'2015 年 Kigurumi 编年史': 'years/2015/index.md'}, {'2016 年 Kigurumi 编年史': 'years/2016/index.md'}, {'2017 年 Kigurumi 编年史': 'years/2017/index.md'}, {'2018 年 Kigurumi 编年史': 'years/2018/index.md'}, {'2019 年 Kigurumi 编年史': 'years/2019/index.md'}, {'2020 年 Kigurumi 编年史': 'years/2020/index.md'}, {'2021 年 Kigurumi 编年史': 'years/2021/index.md'}, {'2022 年 Kigurumi 编年史': 'years/2022/index.md'}, {'2023 年 Kigurumi 编年史': 'years/2023/index.md'}, {'2024 年 Kigurumi 编年史': 'years/2024/index.md'}, {'2025 年 Kigurumi 编年史': 'years/2025/index.md'}]}, {'近期采集': [{'采集总览': 'digests/index.md'}, {'2026 年 7 月公开资料摘要': 'digests/2026-07/index.md'}, {'2026 年 8 月公开资料摘要': 'digests/2026-08/index.md'}, {'2026 年 9 月公开资料摘要': 'digests/2026-09/index.md'}]}]}, {'头壳店铺': [{'店铺目录': 'makers/index.md'}, {'收录与复核': 'makers/methodology.md'}]}, {'志目': [{'地点目录': 'places/index.md'}, {'人物目录': 'people/index.md'}, {'来源目录': [{'来源总览': 'sources/index.md'}, {'调查报告': [{'2017 着ぐるみ国势调查结果报告书': 'sources/survey-reports/kigurumi-census-2017/index.md'}]}, {'学术论文': [{'AIGC 时代意见领袖生成机理与趋势挑战': 'sources/academic-papers/aigc-opinion-leaders/index.md'}]}]}]}, {'引用规范': 'citation/index.md'}, {'常见问题': 'faq/index.md'}, {'开源协议': 'license/index.md'}]'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hans' config 'site_description' with '面向 kigurumi 社群的编年史、修志与资料馆。'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hans' config 'site_name' with 'Kigurumi 编年志'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hans' config 'theme.language' with 'zh'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hans' config 'theme.palette' with '[{'media': '(prefers-color-scheme: light)', 'scheme': 'default', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-night', 'name': '切换到深色模式'}}, {'media': '(prefers-color-scheme: dark)', 'scheme': 'slate', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-sunny', 'name': '切换到浅色模式'}}]'
+INFO    -  Cleaning site directory
+INFO    -  Building documentation to directory: /Users/licheng/Documents/Codex/2026-06-12/wiki/outputs/chronicle-wiki/site
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - assets/images/years/provenance.md
+  - zh-Hans/makers/2dfantasy/index.md
+  - zh-Hans/makers/4uuone/index.md
+  - zh-Hans/makers/akg/index.md
+  - zh-Hans/makers/aniplus/index.md
+  - zh-Hans/makers/aria/index.md
+  - zh-Hans/makers/beadoll/index.md
+  - zh-Hans/makers/beartech/index.md
+  - zh-Hans/makers/bhy/index.md
+  - zh-Hans/makers/blackcat/index.md
+  - zh-Hans/makers/dame/index.md
+  - zh-Hans/makers/dora/index.md
+  - zh-Hans/makers/fantasymasks/index.md
+  - zh-Hans/makers/gko/index.md
+  - zh-Hans/makers/haagaau/index.md
+  - zh-Hans/makers/haka/index.md
+  - zh-Hans/makers/heyao/index.md
+  - zh-Hans/makers/hideyoshi/index.md
+  - zh-Hans/makers/hidolls/index.md
+  - zh-Hans/makers/huyao/index.md
+  - zh-Hans/makers/kaga/index.md
+  - zh-Hans/makers/kigcos/index.md
+  - zh-Hans/makers/kigland/index.md
+  - zh-Hans/makers/magicdoll/index.md
+  - zh-Hans/makers/meis/index.md
+  - zh-Hans/makers/middream/index.md
+  - zh-Hans/makers/munimuni/index.md
+  - zh-Hans/makers/nekotofu/index.md
+  - zh-Hans/makers/newfacedoll/index.md
+  - zh-Hans/makers/nm/index.md
+  - zh-Hans/makers/power/index.md
+  - zh-Hans/makers/rabbit/index.md
+  - zh-Hans/makers/raigeki/index.md
+  - zh-Hans/makers/sakurano/index.md
+  - zh-Hans/makers/samon/index.md
+  - zh-Hans/makers/sensei/index.md
+  - zh-Hans/makers/shinkai/index.md
+  - zh-Hans/makers/sigma/index.md
+  - zh-Hans/makers/teitoku/index.md
+  - zh-Hans/makers/umoon/index.md
+  - zh-Hans/makers/xingyueqi/index.md
+INFO    -  mkdocs_static_i18n: Building 'zh-Hant' documentation to directory: /Users/licheng/Documents/Codex/2026-06-12/wiki/outputs/chronicle-wiki/site/zh-Hant
+INFO    -  mkdocs_static_i18n: Language 'zh-Hant' is not supported by lunr.js, not setting it in the 'plugins.search.lang' option
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hant' config 'copyright' with 'Copyright &copy; 2026 Kigurumi 編年志資料館。本站內容用於資料整理、研究與教育參考；引用時請保留署名、出處與語境。'
+INFO    -  mkdocs_static_i18n: Updating 'zh-Hant' config 'extra' with '{'social': [{'icon': 'material/home', 'link': '/zh-Hant/', 'name': '首頁'}, {'icon': 'material/account-plus', 'link': '/zh-Hant/join/', 'name': '參與加入'}, {'icon': 'material/timeline-clock', 'link': '/zh-Hant/chronicle/', 'name': '編年目錄'}, {'icon': 'material/map-marker-radius', 'link': '/zh-Hant/places/', 'name': '地點目錄'}, {'icon': 'material/information', 'link': '/zh-Hant/about/', 'name': '關於介紹'}, {'icon': 'material/format-quote-close', 'link': '/zh-Hant/citation/', 'name': '引用規範'}, {'icon': 'material/frequently-asked-questions', 'link': '/zh-Hant/faq/', 'name': '常見問題'}, {'icon': 'material/license', 'link': '/zh-Hant/license/', 'name': '開源協議'}]}'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hant' config 'nav' with '[{'首頁': 'index.md'}, {'關於介紹': 'about/index.md'}, {'參與加入': 'join/index.md'}, {'貢獻與支持': 'support/index.md'}, {'編年': [{'編年總覽': 'chronicle/index.md'}, {'年份目錄': [{'年份總覽': 'years/index.md'}, {'1997 年 Kigurumi 編年史': 'years/1997/index.md'}, {'1998 年 Kigurumi 編年史': 'years/1998/index.md'}, {'1999 年 Kigurumi 編年史': 'years/1999/index.md'}, {'2000 年 Kigurumi 編年史': 'years/2000/index.md'}, {'2001 年 Kigurumi 編年史': 'years/2001/index.md'}, {'2002 年 Kigurumi 編年史': 'years/2002/index.md'}, {'2003 年 Kigurumi 編年史': 'years/2003/index.md'}, {'2004 年 Kigurumi 編年史': 'years/2004/index.md'}, {'2005 年 Kigurumi 編年史': 'years/2005/index.md'}, {'2006 年 Kigurumi 編年史': 'years/2006/index.md'}, {'2007 年 Kigurumi 編年史': 'years/2007/index.md'}, {'2008 年 Kigurumi 編年史': 'years/2008/index.md'}, {'2009 年 Kigurumi 編年史': 'years/2009/index.md'}, {'2010 年 Kigurumi 編年史': 'years/2010/index.md'}, {'2011 年 Kigurumi 編年史': 'years/2011/index.md'}, {'2012 年 Kigurumi 編年史': 'years/2012/index.md'}, {'2013 年 Kigurumi 編年史': 'years/2013/index.md'}, {'2014 年 Kigurumi 編年史': 'years/2014/index.md'}, {'2015 年 Kigurumi 編年史': 'years/2015/index.md'}, {'2016 年 Kigurumi 編年史': 'years/2016/index.md'}, {'2017 年 Kigurumi 編年史': 'years/2017/index.md'}, {'2018 年 Kigurumi 編年史': 'years/2018/index.md'}, {'2019 年 Kigurumi 編年史': 'years/2019/index.md'}, {'2020 年 Kigurumi 編年史': 'years/2020/index.md'}, {'2021 年 Kigurumi 編年史': 'years/2021/index.md'}, {'2022 年 Kigurumi 編年史': 'years/2022/index.md'}, {'2023 年 Kigurumi 編年史': 'years/2023/index.md'}, {'2024 年 Kigurumi 編年史': 'years/2024/index.md'}, {'2025 年 Kigurumi 編年史': 'years/2025/index.md'}]}, {'近期採集': [{'採集總覽': 'digests/index.md'}, {'2026 年 7 月公開資料摘要': 'digests/2026-07/index.md'}, {'2026 年 8 月公開資料摘要': 'digests/2026-08/index.md'}, {'2026 年 9 月公開資料摘要': 'digests/2026-09/index.md'}]}]}, {'頭殼店鋪': [{'店鋪目錄': 'makers/index.md'}, {'收錄與複核': 'makers/methodology.md'}]}, {'志目': [{'地點目錄': 'places/index.md'}, {'人物目錄': 'people/index.md'}, {'來源目錄': [{'來源總覽': 'sources/index.md'}, {'調查報告': [{'2017 着ぐるみ國勢調查結果報告書': 'sources/survey-reports/kigurumi-census-2017/index.md'}]}, {'學術論文': [{'AIGC 時代意見領袖生成機理與趨勢挑戰': 'sources/academic-papers/aigc-opinion-leaders/index.md'}]}]}]}, {'引用規範': 'citation/index.md'}, {'常見問題': 'faq/index.md'}, {'開源協議': 'license/index.md'}]'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hant' config 'site_description' with '面向 kigurumi 社群的編年史、修志與資料館。'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hant' config 'site_name' with 'Kigurumi 編年志'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hant' config 'theme.language' with 'zh-Hant'
+INFO    -  mkdocs_static_i18n: Overriding 'zh-Hant' config 'theme.palette' with '[{'media': '(prefers-color-scheme: light)', 'scheme': 'default', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-night', 'name': '切換到深色模式'}}, {'media': '(prefers-color-scheme: dark)', 'scheme': 'slate', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-sunny', 'name': '切換到淺色模式'}}]'
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - assets/images/years/provenance.md
+  - zh-Hans/makers/2dfantasy/index.md
+  - zh-Hans/makers/4uuone/index.md
+  - zh-Hans/makers/akg/index.md
+  - zh-Hans/makers/aniplus/index.md
+  - zh-Hans/makers/aria/index.md
+  - zh-Hans/makers/beadoll/index.md
+  - zh-Hans/makers/beartech/index.md
+  - zh-Hans/makers/bhy/index.md
+  - zh-Hans/makers/blackcat/index.md
+  - zh-Hans/makers/dame/index.md
+  - zh-Hans/makers/dora/index.md
+  - zh-Hans/makers/fantasymasks/index.md
+  - zh-Hans/makers/gko/index.md
+  - zh-Hans/makers/haagaau/index.md
+  - zh-Hans/makers/haka/index.md
+  - zh-Hans/makers/heyao/index.md
+  - zh-Hans/makers/hideyoshi/index.md
+  - zh-Hans/makers/hidolls/index.md
+  - zh-Hans/makers/huyao/index.md
+  - zh-Hans/makers/kaga/index.md
+  - zh-Hans/makers/kigcos/index.md
+  - zh-Hans/makers/kigland/index.md
+  - zh-Hans/makers/magicdoll/index.md
+  - zh-Hans/makers/meis/index.md
+  - zh-Hans/makers/middream/index.md
+  - zh-Hans/makers/munimuni/index.md
+  - zh-Hans/makers/nekotofu/index.md
+  - zh-Hans/makers/newfacedoll/index.md
+  - zh-Hans/makers/nm/index.md
+  - zh-Hans/makers/power/index.md
+  - zh-Hans/makers/rabbit/index.md
+  - zh-Hans/makers/raigeki/index.md
+  - zh-Hans/makers/sakurano/index.md
+  - zh-Hans/makers/samon/index.md
+  - zh-Hans/makers/sensei/index.md
+  - zh-Hans/makers/shinkai/index.md
+  - zh-Hans/makers/sigma/index.md
+  - zh-Hans/makers/teitoku/index.md
+  - zh-Hans/makers/umoon/index.md
+  - zh-Hans/makers/xingyueqi/index.md
+INFO    -  mkdocs_static_i18n: Building 'en' documentation to directory: /Users/licheng/Documents/Codex/2026-06-12/wiki/outputs/chronicle-wiki/site/en
+INFO    -  mkdocs_static_i18n: Overriding 'en' config 'copyright' with 'Copyright &copy; 2026 Kigurumi Chronicle Archive. Content is provided for archival and educational reference; please preserve attribution and source context when citing.'
+INFO    -  mkdocs_static_i18n: Updating 'en' config 'extra' with '{'social': [{'icon': 'material/home', 'link': '/en/', 'name': 'Home'}, {'icon': 'material/account-plus', 'link': '/en/join/', 'name': 'Join'}, {'icon': 'material/timeline-clock', 'link': '/en/chronicle/', 'name': 'Chronicle'}, {'icon': 'material/map-marker-radius', 'link': '/en/places/', 'name': 'Places'}, {'icon': 'material/information', 'link': '/en/about/', 'name': 'About'}, {'icon': 'material/format-quote-close', 'link': '/en/citation/', 'name': 'Citation'}, {'icon': 'material/frequently-asked-questions', 'link': '/en/faq/', 'name': 'FAQ'}, {'icon': 'material/license', 'link': '/en/license/', 'name': 'License'}]}'
+INFO    -  mkdocs_static_i18n: Overriding 'en' config 'nav' with '[{'Home': 'index.md'}, {'About': 'about/index.md'}, {'Join': 'join/index.md'}, {'Contribute': 'support/index.md'}, {'Chronicle': [{'Overview': 'chronicle/index.md'}, {'Years': [{'Years Overview': 'years/index.md'}, {'1997 Kigurumi Chronicle': 'years/1997/index.md'}, {'1998 Kigurumi Chronicle': 'years/1998/index.md'}, {'1999 Kigurumi Chronicle': 'years/1999/index.md'}, {'2000 Kigurumi Chronicle': 'years/2000/index.md'}, {'2001 Kigurumi Chronicle': 'years/2001/index.md'}, {'2002 Kigurumi Chronicle': 'years/2002/index.md'}, {'2003 Kigurumi Chronicle': 'years/2003/index.md'}, {'2004 Kigurumi Chronicle': 'years/2004/index.md'}, {'2005 Kigurumi Chronicle': 'years/2005/index.md'}, {'2006 Kigurumi Chronicle': 'years/2006/index.md'}, {'2007 Kigurumi Chronicle': 'years/2007/index.md'}, {'2008 Kigurumi Chronicle': 'years/2008/index.md'}, {'2009 Kigurumi Chronicle': 'years/2009/index.md'}, {'2010 Kigurumi Chronicle': 'years/2010/index.md'}, {'2011 Kigurumi Chronicle': 'years/2011/index.md'}, {'2012 Kigurumi Chronicle': 'years/2012/index.md'}, {'2013 Kigurumi Chronicle': 'years/2013/index.md'}, {'2014 Kigurumi Chronicle': 'years/2014/index.md'}, {'2015 Kigurumi Chronicle': 'years/2015/index.md'}, {'2016 Kigurumi Chronicle': 'years/2016/index.md'}, {'2017 Kigurumi Chronicle': 'years/2017/index.md'}, {'2018 Kigurumi Chronicle': 'years/2018/index.md'}, {'2019 Kigurumi Chronicle': 'years/2019/index.md'}, {'2020 Kigurumi Chronicle': 'years/2020/index.md'}, {'2021 Kigurumi Chronicle': 'years/2021/index.md'}, {'2022 Kigurumi Chronicle': 'years/2022/index.md'}]}, {'Recent Collection': [{'Collection Overview': 'digests/index.md'}, {'July 2026 Public-Source Digest': 'digests/2026-07/index.md'}, {'August 2026 Public-Source Digest': 'digests/2026-08/index.md'}, {'September 2026 Public-Source Digest': 'digests/2026-09/index.md'}]}]}, {'Mask Makers': [{'Maker Directory': 'makers/index.md'}, {'Sources and Verification': 'makers/methodology.md'}]}, {'Gazetteer': [{'Places': 'places/index.md'}, {'People': 'people/index.md'}, {'Sources': [{'Sources Overview': 'sources/index.md'}, {'Survey Reports': [{'2017 Kigurumi Census Results Report': 'sources/survey-reports/kigurumi-census-2017/index.md'}]}]}]}, {'Citation': 'citation/index.md'}, {'FAQ': 'faq/index.md'}, {'License': 'license/index.md'}]'
+INFO    -  mkdocs_static_i18n: Overriding 'en' config 'site_description' with 'A chronicle, gazetteer, and source archive for the kigurumi community.'
+INFO    -  mkdocs_static_i18n: Overriding 'en' config 'site_name' with 'Kigurumi Chronicle'
+INFO    -  mkdocs_static_i18n: Overriding 'en' config 'theme.language' with 'en'
+INFO    -  mkdocs_static_i18n: Overriding 'en' config 'theme.palette' with '[{'media': '(prefers-color-scheme: light)', 'scheme': 'default', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-night', 'name': 'Switch to dark mode'}}, {'media': '(prefers-color-scheme: dark)', 'scheme': 'slate', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-sunny', 'name': 'Switch to light mode'}}]'
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - assets/images/years/provenance.md
+  - zh-Hans/makers/2dfantasy/index.md
+  - zh-Hans/makers/4uuone/index.md
+  - zh-Hans/makers/akg/index.md
+  - zh-Hans/makers/aniplus/index.md
+  - zh-Hans/makers/aria/index.md
+  - zh-Hans/makers/beadoll/index.md
+  - zh-Hans/makers/beartech/index.md
+  - zh-Hans/makers/bhy/index.md
+  - zh-Hans/makers/blackcat/index.md
+  - zh-Hans/makers/dame/index.md
+  - zh-Hans/makers/dora/index.md
+  - zh-Hans/makers/fantasymasks/index.md
+  - zh-Hans/makers/gko/index.md
+  - zh-Hans/makers/haagaau/index.md
+  - zh-Hans/makers/haka/index.md
+  - zh-Hans/makers/heyao/index.md
+  - zh-Hans/makers/hideyoshi/index.md
+  - zh-Hans/makers/hidolls/index.md
+  - zh-Hans/makers/huyao/index.md
+  - zh-Hans/makers/kaga/index.md
+  - zh-Hans/makers/kigcos/index.md
+  - zh-Hans/makers/kigland/index.md
+  - zh-Hans/makers/magicdoll/index.md
+  - zh-Hans/makers/meis/index.md
+  - zh-Hans/makers/middream/index.md
+  - zh-Hans/makers/munimuni/index.md
+  - zh-Hans/makers/nekotofu/index.md
+  - zh-Hans/makers/newfacedoll/index.md
+  - zh-Hans/makers/nm/index.md
+  - zh-Hans/makers/power/index.md
+  - zh-Hans/makers/rabbit/index.md
+  - zh-Hans/makers/raigeki/index.md
+  - zh-Hans/makers/sakurano/index.md
+  - zh-Hans/makers/samon/index.md
+  - zh-Hans/makers/sensei/index.md
+  - zh-Hans/makers/shinkai/index.md
+  - zh-Hans/makers/sigma/index.md
+  - zh-Hans/makers/teitoku/index.md
+  - zh-Hans/makers/umoon/index.md
+  - zh-Hans/makers/xingyueqi/index.md
+  - zh-Hans/sources/academic-papers/aigc-opinion-leaders/index.md
+  - zh-Hans/years/2023/index.md
+  - zh-Hans/years/2024/index.md
+  - zh-Hans/years/2025/index.md
+INFO    -  mkdocs_static_i18n: Building 'ja' documentation to directory: /Users/licheng/Documents/Codex/2026-06-12/wiki/outputs/chronicle-wiki/site/ja
+INFO    -  mkdocs_static_i18n: Overriding 'ja' config 'copyright' with 'Copyright &copy; 2026 Kigurumi 編年誌アーカイブ。本文は資料整理、研究、教育参照のために提供しています。引用時は署名、出典、文脈を保ってください。'
+INFO    -  mkdocs_static_i18n: Updating 'ja' config 'extra' with '{'social': [{'icon': 'material/home', 'link': '/ja/', 'name': 'ホーム'}, {'icon': 'material/account-plus', 'link': '/ja/join/', 'name': '参加'}, {'icon': 'material/timeline-clock', 'link': '/ja/chronicle/', 'name': '編年目録'}, {'icon': 'material/map-marker-radius', 'link': '/ja/places/', 'name': '場所目録'}, {'icon': 'material/information', 'link': '/ja/about/', 'name': '紹介'}, {'icon': 'material/format-quote-close', 'link': '/ja/citation/', 'name': '引用規範'}, {'icon': 'material/frequently-asked-questions', 'link': '/ja/faq/', 'name': 'FAQ'}, {'icon': 'material/license', 'link': '/ja/license/', 'name': 'ライセンス'}]}'
+INFO    -  mkdocs_static_i18n: Overriding 'ja' config 'nav' with '[{'ホーム': 'index.md'}, {'紹介': 'about/index.md'}, {'参加案内': 'join/index.md'}, {'貢献と支援': 'support/index.md'}, {'編年': [{'編年総覧': 'chronicle/index.md'}, {'年別目録': [{'年別総覧': 'years/index.md'}, {'1997年 Kigurumi 編年史': 'years/1997/index.md'}, {'1998年 Kigurumi 編年史': 'years/1998/index.md'}, {'1999年 Kigurumi 編年史': 'years/1999/index.md'}, {'2000年 Kigurumi 編年史': 'years/2000/index.md'}, {'2001年 Kigurumi 編年史': 'years/2001/index.md'}, {'2002年 Kigurumi 編年史': 'years/2002/index.md'}, {'2003年 Kigurumi 編年史': 'years/2003/index.md'}, {'2004年 Kigurumi 編年史': 'years/2004/index.md'}, {'2005年 Kigurumi 編年史': 'years/2005/index.md'}, {'2006年 Kigurumi 編年史': 'years/2006/index.md'}, {'2007年 Kigurumi 編年史': 'years/2007/index.md'}, {'2008年 Kigurumi 編年史': 'years/2008/index.md'}, {'2009年 Kigurumi 編年史': 'years/2009/index.md'}, {'2010年 Kigurumi 編年史': 'years/2010/index.md'}, {'2011年 Kigurumi 編年史': 'years/2011/index.md'}, {'2012年 Kigurumi 編年史': 'years/2012/index.md'}, {'2013年 Kigurumi 編年史': 'years/2013/index.md'}, {'2014年 Kigurumi 編年史': 'years/2014/index.md'}, {'2015年 Kigurumi 編年史': 'years/2015/index.md'}, {'2016年 Kigurumi 編年史': 'years/2016/index.md'}, {'2017年 Kigurumi 編年史': 'years/2017/index.md'}, {'2018年 Kigurumi 編年史': 'years/2018/index.md'}, {'2019年 Kigurumi 編年史': 'years/2019/index.md'}, {'2020年 Kigurumi 編年史': 'years/2020/index.md'}, {'2021年 Kigurumi 編年史': 'years/2021/index.md'}, {'2022年 Kigurumi 編年史': 'years/2022/index.md'}, {'2023年 Kigurumi 編年史': 'years/2023/index.md'}, {'2024年 Kigurumi 編年史': 'years/2024/index.md'}, {'2025年 Kigurumi 編年史': 'years/2025/index.md'}]}, {'近期収集': [{'収集総覧': 'digests/index.md'}, {'2026年7月 公開資料ダイジェスト': 'digests/2026-07/index.md'}, {'2026年8月 公開資料ダイジェスト': 'digests/2026-08/index.md'}, {'2026年9月 公開資料ダイジェスト': 'digests/2026-09/index.md'}]}]}, {'マスク工房': [{'工房一覧': 'makers/index.md'}, {'出典と確認': 'makers/methodology.md'}]}, {'志目': [{'場所目録': 'places/index.md'}, {'人物目録': 'people/index.md'}, {'出典目録': [{'出典総覧': 'sources/index.md'}, {'調査報告': [{'2017 着ぐるみ国勢調査結果報告書': 'sources/survey-reports/kigurumi-census-2017/index.md'}]}, {'学術論文': [{'AIGC時代のオピニオンリーダー生成メカニズムと動向・課題': 'sources/academic-papers/aigc-opinion-leaders/index.md'}]}]}]}, {'引用規範': 'citation/index.md'}, {'FAQ': 'faq/index.md'}, {'ライセンス': 'license/index.md'}]'
+INFO    -  mkdocs_static_i18n: Overriding 'ja' config 'site_description' with 'kigurumi コミュニティのための編年史、地誌、資料アーカイブ。'
+INFO    -  mkdocs_static_i18n: Overriding 'ja' config 'site_name' with 'Kigurumi 編年誌'
+INFO    -  mkdocs_static_i18n: Overriding 'ja' config 'theme.language' with 'ja'
+INFO    -  mkdocs_static_i18n: Overriding 'ja' config 'theme.palette' with '[{'media': '(prefers-color-scheme: light)', 'scheme': 'default', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-night', 'name': 'ダークモードに切り替え'}}, {'media': '(prefers-color-scheme: dark)', 'scheme': 'slate', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-sunny', 'name': 'ライトモードに切り替え'}}]'
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - assets/images/years/provenance.md
+  - zh-Hans/makers/2dfantasy/index.md
+  - zh-Hans/makers/4uuone/index.md
+  - zh-Hans/makers/akg/index.md
+  - zh-Hans/makers/aniplus/index.md
+  - zh-Hans/makers/aria/index.md
+  - zh-Hans/makers/beadoll/index.md
+  - zh-Hans/makers/beartech/index.md
+  - zh-Hans/makers/bhy/index.md
+  - zh-Hans/makers/blackcat/index.md
+  - zh-Hans/makers/dame/index.md
+  - zh-Hans/makers/dora/index.md
+  - zh-Hans/makers/fantasymasks/index.md
+  - zh-Hans/makers/gko/index.md
+  - zh-Hans/makers/haagaau/index.md
+  - zh-Hans/makers/haka/index.md
+  - zh-Hans/makers/heyao/index.md
+  - zh-Hans/makers/hideyoshi/index.md
+  - zh-Hans/makers/hidolls/index.md
+  - zh-Hans/makers/huyao/index.md
+  - zh-Hans/makers/kaga/index.md
+  - zh-Hans/makers/kigcos/index.md
+  - zh-Hans/makers/kigland/index.md
+  - zh-Hans/makers/magicdoll/index.md
+  - zh-Hans/makers/meis/index.md
+  - zh-Hans/makers/middream/index.md
+  - zh-Hans/makers/munimuni/index.md
+  - zh-Hans/makers/nekotofu/index.md
+  - zh-Hans/makers/newfacedoll/index.md
+  - zh-Hans/makers/nm/index.md
+  - zh-Hans/makers/power/index.md
+  - zh-Hans/makers/rabbit/index.md
+  - zh-Hans/makers/raigeki/index.md
+  - zh-Hans/makers/sakurano/index.md
+  - zh-Hans/makers/samon/index.md
+  - zh-Hans/makers/sensei/index.md
+  - zh-Hans/makers/shinkai/index.md
+  - zh-Hans/makers/sigma/index.md
+  - zh-Hans/makers/teitoku/index.md
+  - zh-Hans/makers/umoon/index.md
+  - zh-Hans/makers/xingyueqi/index.md
+INFO    -  mkdocs_static_i18n: Building 'ru' documentation to directory: /Users/licheng/Documents/Codex/2026-06-12/wiki/outputs/chronicle-wiki/site/ru
+INFO    -  mkdocs_static_i18n: Overriding 'ru' config 'copyright' with 'Copyright &copy; 2026 Архив Kigurumi Chronicle. Материалы предназначены для архивных, исследовательских и образовательных целей; при цитировании сохраняйте авторство, источник и контекст.'
+INFO    -  mkdocs_static_i18n: Updating 'ru' config 'extra' with '{'social': [{'icon': 'material/home', 'link': '/ru/', 'name': 'Главная'}, {'icon': 'material/account-plus', 'link': '/ru/join/', 'name': 'Участие'}, {'icon': 'material/timeline-clock', 'link': '/ru/chronicle/', 'name': 'Хроника'}, {'icon': 'material/map-marker-radius', 'link': '/ru/places/', 'name': 'Места'}, {'icon': 'material/information', 'link': '/ru/about/', 'name': 'О проекте'}, {'icon': 'material/format-quote-close', 'link': '/ru/citation/', 'name': 'Цитирование'}, {'icon': 'material/frequently-asked-questions', 'link': '/ru/faq/', 'name': 'FAQ'}, {'icon': 'material/license', 'link': '/ru/license/', 'name': 'Лицензия'}]}'
+INFO    -  mkdocs_static_i18n: Overriding 'ru' config 'nav' with '[{'Главная': 'index.md'}, {'О проекте': 'about/index.md'}, {'Как участвовать': 'join/index.md'}, {'Поддержать': 'support/index.md'}, {'Хроника': [{'Обзор': 'chronicle/index.md'}, {'Годы': [{'Обзор годов': 'years/index.md'}, {'Хроника Kigurumi 1997 года': 'years/1997/index.md'}, {'Хроника Kigurumi 1998 года': 'years/1998/index.md'}, {'Хроника Kigurumi 1999 года': 'years/1999/index.md'}, {'Хроника Kigurumi 2000 года': 'years/2000/index.md'}, {'Хроника Kigurumi 2001 года': 'years/2001/index.md'}, {'Хроника Kigurumi 2002 года': 'years/2002/index.md'}, {'Хроника Kigurumi 2003 года': 'years/2003/index.md'}, {'Хроника Kigurumi 2004 года': 'years/2004/index.md'}, {'Хроника Kigurumi 2005 года': 'years/2005/index.md'}, {'Хроника Kigurumi 2006 года': 'years/2006/index.md'}, {'Хроника Kigurumi 2007 года': 'years/2007/index.md'}, {'Хроника Kigurumi 2008 года': 'years/2008/index.md'}, {'Хроника Kigurumi 2009 года': 'years/2009/index.md'}, {'Хроника Kigurumi 2010 года': 'years/2010/index.md'}, {'Хроника Kigurumi 2011 года': 'years/2011/index.md'}, {'Хроника Kigurumi 2012 года': 'years/2012/index.md'}, {'Хроника Kigurumi 2013 года': 'years/2013/index.md'}, {'Хроника Kigurumi 2014 года': 'years/2014/index.md'}, {'Хроника Kigurumi 2015 года': 'years/2015/index.md'}, {'Хроника Kigurumi 2016 года': 'years/2016/index.md'}, {'Хроника Kigurumi 2017 года': 'years/2017/index.md'}, {'Хроника Kigurumi 2018 года': 'years/2018/index.md'}, {'Хроника Kigurumi 2019 года': 'years/2019/index.md'}, {'Хроника Kigurumi 2020 года': 'years/2020/index.md'}, {'Хроника Kigurumi 2021 года': 'years/2021/index.md'}, {'Хроника Kigurumi 2022 года': 'years/2022/index.md'}, {'Хроника Kigurumi 2023 года': 'years/2023/index.md'}, {'Хроника Kigurumi 2024 года': 'years/2024/index.md'}, {'Хроника Kigurumi 2025 года': 'years/2025/index.md'}]}, {'Недавние материалы': [{'Обзор подборок': 'digests/index.md'}, {'Обзор за июль 2026 года': 'digests/2026-07/index.md'}, {'Обзор за август 2026 года': 'digests/2026-08/index.md'}, {'Обзор за сентябрь 2026 года': 'digests/2026-09/index.md'}]}]}, {'Мастерские масок': [{'Каталог мастерских': 'makers/index.md'}, {'Источники и проверка': 'makers/methodology.md'}]}, {'Справочник': [{'Места': 'places/index.md'}, {'Люди': 'people/index.md'}, {'Источники': [{'Обзор источников': 'sources/index.md'}, {'Отчеты об опросах': [{'Отчет о переписи кигуруми 2017 года': 'sources/survey-reports/kigurumi-census-2017/index.md'}]}, {'Научные статьи': [{'Механизм формирования лидеров мнений в эпоху AIGC и вызовы развития': 'sources/academic-papers/aigc-opinion-leaders/index.md'}]}]}]}, {'Цитирование': 'citation/index.md'}, {'FAQ': 'faq/index.md'}, {'Лицензия': 'license/index.md'}]'
+INFO    -  mkdocs_static_i18n: Overriding 'ru' config 'site_description' with 'Хроника, справочник и архив источников сообщества kigurumi.'
+INFO    -  mkdocs_static_i18n: Overriding 'ru' config 'site_name' with 'Хроника Kigurumi'
+INFO    -  mkdocs_static_i18n: Overriding 'ru' config 'theme.language' with 'ru'
+INFO    -  mkdocs_static_i18n: Overriding 'ru' config 'theme.palette' with '[{'media': '(prefers-color-scheme: light)', 'scheme': 'default', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-night', 'name': 'Переключить на темную тему'}}, {'media': '(prefers-color-scheme: dark)', 'scheme': 'slate', 'primary': 'custom', 'accent': 'custom', 'toggle': {'icon': 'material/weather-sunny', 'name': 'Переключить на светлую тему'}}]'
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - assets/images/years/provenance.md
+  - zh-Hans/makers/2dfantasy/index.md
+  - zh-Hans/makers/4uuone/index.md
+  - zh-Hans/makers/akg/index.md
+  - zh-Hans/makers/aniplus/index.md
+  - zh-Hans/makers/aria/index.md
+  - zh-Hans/makers/beadoll/index.md
+  - zh-Hans/makers/beartech/index.md
+  - zh-Hans/makers/bhy/index.md
+  - zh-Hans/makers/blackcat/index.md
+  - zh-Hans/makers/dame/index.md
+  - zh-Hans/makers/dora/index.md
+  - zh-Hans/makers/fantasymasks/index.md
+  - zh-Hans/makers/gko/index.md
+  - zh-Hans/makers/haagaau/index.md
+  - zh-Hans/makers/haka/index.md
+  - zh-Hans/makers/heyao/index.md
+  - zh-Hans/makers/hideyoshi/index.md
+  - zh-Hans/makers/hidolls/index.md
+  - zh-Hans/makers/huyao/index.md
+  - zh-Hans/makers/kaga/index.md
+  - zh-Hans/makers/kigcos/index.md
+  - zh-Hans/makers/kigland/index.md
+  - zh-Hans/makers/magicdoll/index.md
+  - zh-Hans/makers/meis/index.md
+  - zh-Hans/makers/middream/index.md
+  - zh-Hans/makers/munimuni/index.md
+  - zh-Hans/makers/nekotofu/index.md
+  - zh-Hans/makers/newfacedoll/index.md
+  - zh-Hans/makers/nm/index.md
+  - zh-Hans/makers/power/index.md
+  - zh-Hans/makers/rabbit/index.md
+  - zh-Hans/makers/raigeki/index.md
+  - zh-Hans/makers/sakurano/index.md
+  - zh-Hans/makers/samon/index.md
+  - zh-Hans/makers/sensei/index.md
+  - zh-Hans/makers/shinkai/index.md
+  - zh-Hans/makers/sigma/index.md
+  - zh-Hans/makers/teitoku/index.md
+  - zh-Hans/makers/umoon/index.md
+  - zh-Hans/makers/xingyueqi/index.md
+INFO    -  Documentation built in 24.67 seconds
