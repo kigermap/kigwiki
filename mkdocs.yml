@@ -145,6 +145,9 @@ plugins:
             - 头壳店铺:
                 - 店铺目录: makers/index.md
                 - 收录与复核: makers/methodology.md
+            - 线下体验:
+                - 体验目录: experiences/index.md
+                - 资料复核: experiences/research-notes.md
             - 志目:
                 - 地点目录: places/index.md
                 - 人物目录: people/index.md
@@ -253,6 +256,9 @@ plugins:
             - 頭殼店鋪:
                 - 店鋪目錄: makers/index.md
                 - 收錄與複核: makers/methodology.md
+            - 線下體驗:
+                - 體驗目錄: experiences/index.md
+                - 資料複核: experiences/research-notes.md
             - 志目:
                 - 地點目錄: places/index.md
                 - 人物目錄: people/index.md
@@ -358,6 +364,9 @@ plugins:
             - Mask Makers:
                 - Maker Directory: makers/index.md
                 - Sources and Verification: makers/methodology.md
+            - In-person Experiences:
+                - Experience Directory: experiences/index.md
+                - Research Notes: experiences/research-notes.md
             - Gazetteer:
                 - Places: places/index.md
                 - People: people/index.md
@@ -464,6 +473,9 @@ plugins:
             - マスク工房:
                 - 工房一覧: makers/index.md
                 - 出典と確認: makers/methodology.md
+            - 着ぐるみ体験:
+                - 体験施設一覧: experiences/index.md
+                - 調査記録: experiences/research-notes.md
             - 志目:
                 - 場所目録: places/index.md
                 - 人物目録: people/index.md
@@ -572,6 +584,9 @@ plugins:
             - Мастерские масок:
                 - Каталог мастерских: makers/index.md
                 - Источники и проверка: makers/methodology.md
+            - Очный опыт:
+                - Каталог студий: experiences/index.md
+                - Проверка источников: experiences/research-notes.md
             - Справочник:
                 - Места: places/index.md
                 - Люди: people/index.md
@@ -597,9 +612,10 @@ hooks:
 extra_css:
   - assets/stylesheets/extra.css?v=20260909-museum
   - assets/stylesheets/makers.css?v=20260909-makers
+  - assets/stylesheets/experiences.css?v=20260911-photos
 
 extra_javascript:
-  - assets/javascripts/archive-ui.js?v=20260909-makers
+  - assets/javascripts/archive-ui.js?v=20260911-experiences
   - assets/javascripts/makers.js?v=20260909-makers
 
 extra:
@@ -703,6 +719,9 @@ nav:
   - 头壳店铺:
       - 店铺目录: makers/index.md
       - 收录与复核: makers/methodology.md
+  - 线下体验:
+      - 体验目录: experiences/index.md
+      - 资料复核: experiences/research-notes.md
   - 志目:
       - 地点目录: places/index.md
       - 人物目录: people/index.md

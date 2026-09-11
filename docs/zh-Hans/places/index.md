@@ -6,6 +6,8 @@
 
 [头壳店铺目录](../makers/index.md)：按制作店铺浏览国内外 animegao kigurumi 头壳业务、公开报价、联系方式与跨平台归属。
 
+[线下体验目录](../experiences/index.md)：查阅头壳试戴、换装与摄影体验场所的公开地点、预约方式、价格条件和服务状态。
+
 <section class="archive-section" markdown>
   <p class="archive-kicker">Place & Status</p>
   <h2>地点与地位</h2>
