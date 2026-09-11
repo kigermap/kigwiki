@@ -1,0 +1,150 @@
+{
+  "url": "https://www.kigis.me/about",
+  "status": 200,
+  "text": "关于虹野物联 - MEIS 莓萌 莓萌 头壳定制 拼好头 量产头壳 Doll Everyday 线下门店 & 娃聚展会 简体中文 爱好｜创作｜分享｜共生 成为理想中的你！ 以智能制造连接二次元玩家和创作者 MEIS · Nijino IoT 郑州虹野物联科技有限公司是一家以 Kigurumi（动漫头壳）制造与智能化管理系统为核心的创新企业，总部位于郑州航空港区。我们通过自研的 MEIS（Mask/Manufacturing Elastic Intelligent System）柔性制造系统，将建模、打印、化妆、造型、包装等传统工坊式流程数字化、标准化、自动化。 通过端到端的智能化能力，虹野物联正打造新一代头壳制造产业链基础设施，连接创作者、玩家与合作伙伴，加速高质量角色内容的生产与流通。 旗下拥有多个品牌矩阵 莓萌® —— 定制品牌，聚焦还原与舒适的平衡； 拼好头™ —— 量产品牌，入坑友好与标准化； 绘面® —— 高端艺术级头壳品牌，专注极致美感与工艺； Doll Everyday™ —— 面向线下展会与玩家体验的文化品牌。 爱好｜创作｜分享｜共生 MEIS Twitter MEIS Bilibili MEIS 小红书 Pinhaotou Twitter Pinhaotou Bilibili 官方Q群 (QQ) 官方店铺 (Taobao) 站内链接 Kigurumi 指南 定制下单 订单查询 拼好头 头壳碎片兑换 联系我们 关于我们 网站地图 友情链接 河妖工坊 Doll Weekend 偶域 Kig.Land 不还原人形 豫ICP备2025116796号-1 莓萌 ® • 拼好头 ™ • Doll Everyday ™ | © 2023-2025 虹野物联",
+  "links": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "莓萌 头壳定制",
+      "url": "/order"
+    },
+    {
+      "text": "拼好头 量产头壳",
+      "url": "/pinhaotou"
+    },
+    {
+      "text": "Doll Everyday 线下门店 & 娃聚展会",
+      "url": "/dolleveryday"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "MEIS Twitter",
+      "url": "https://x.com/KigMEIS"
+    },
+    {
+      "text": "MEIS Bilibili",
+      "url": "https://space.bilibili.com/3546864949398208"
+    },
+    {
+      "text": "MEIS 小红书",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=meismoe"
+    },
+    {
+      "text": "Pinhaotou Twitter",
+      "url": "https://x.com/pinhaotou"
+    },
+    {
+      "text": "Pinhaotou Bilibili",
+      "url": "https://space.bilibili.com/3546800566831253"
+    },
+    {
+      "text": "官方Q群 (QQ)",
+      "url": "https://qm.qq.com/q/ujodzxwQbm"
+    },
+    {
+      "text": "官方店铺 (Taobao)",
+      "url": "https://meis.taobao.com"
+    },
+    {
+      "text": "Kigurumi 指南",
+      "url": "/kigurumi"
+    },
+    {
+      "text": "定制下单",
+      "url": "/order"
+    },
+    {
+      "text": "订单查询",
+      "url": "/query"
+    },
+    {
+      "text": "拼好头",
+      "url": "/pinhaotou"
+    },
+    {
+      "text": "头壳碎片兑换",
+      "url": "/piece"
+    },
+    {
+      "text": "联系我们",
+      "url": "/contact"
+    },
+    {
+      "text": "关于我们",
+      "url": "/about"
+    },
+    {
+      "text": "网站地图",
+      "url": "/sitemap.xml"
+    },
+    {
+      "text": "河妖工坊",
+      "url": "https://heyaoheyao.com/"
+    },
+    {
+      "text": "Doll Weekend",
+      "url": "https://www.dollweekend.com/"
+    },
+    {
+      "text": "偶域 Kig.Land",
+      "url": "https://kig.land/"
+    },
+    {
+      "text": "不还原人形",
+      "url": "https://bhyrenxing.com/"
+    },
+    {
+      "text": "豫ICP备2025116796号-1",
+      "url": "https://beian.miit.gov.cn/"
+    },
+    {
+      "text": "莓萌 ®",
+      "url": "/order"
+    },
+    {
+      "text": "拼好头 ™",
+      "url": "/pinhaotou"
+    },
+    {
+      "text": "Doll Everyday ™",
+      "url": "/dolleveryday"
+    },
+    {
+      "text": "虹野物联",
+      "url": "/about"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Logo",
+      "src": "/images/meimoe.svg"
+    },
+    {
+      "alt": "Logo (Dark Mode)",
+      "src": "/images/meimoe-white.svg"
+    },
+    {
+      "alt": "Meichan is Anon",
+      "src": "/images/meichan/meichan-guitar.png"
+    },
+    {
+      "alt": "虹野物联企业标识",
+      "src": "/images/nijino-iot.svg"
+    },
+    {
+      "alt": "Logo",
+      "src": "/images/meimoe.svg"
+    },
+    {
+      "alt": "Logo (Dark Mode)",
+      "src": "/images/meimoe-white.svg"
+    }
+  ],
+  "fetched_at": "2026-09-09T08:22:09.424383+00:00"
+}

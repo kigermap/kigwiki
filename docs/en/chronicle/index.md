@@ -5,7 +5,7 @@ language: "en"
 
 # Chronicle Overview
 
-The chronicle is the archive's time axis. A dated entry should identify the event, place, source, public-access boundary, confidence level, and unresolved questions. Monthly digests hold developing information; annual volumes contain only stable, de-duplicated records.
+The chronicle is the archive's time axis. A dated entry identifies the event, place and source. Monthly digests hold developing information; annual volumes organize verified records by the year of the event or publication.
 
 ## Published annual volumes
 

@@ -1,7 +1,7 @@
 <section class="archive-page-intro" markdown>
   <p class="archive-kicker">Years</p>
   <h1>年份目录</h1>
-  <p>年份目录为编年志提供年度入口。它适合普通读者按时间浏览，也适合整理者逐年补录事件、照片批次、访谈编号、地点变化和待考事项。</p>
+  <p>按年份浏览 1997–2025 年的活动、角色作品、制作实践与社群资料。每卷记录本年发生的事件或发表的资料，连续活动按当届内容整理；尚未确定年份的线索保留在来源目录。</p>
 </section>
 
 <section class="archive-section" markdown>
@@ -12,11 +12,10 @@
       <tr><th>字段</th><th>说明</th></tr>
     </thead>
     <tbody>
-      <tr><td>年度概述</td><td>这一年社群活动、资料整理和公开记录的总体状态。</td></tr>
-      <tr><td>主要事件</td><td>按时间列出活动、展陈、访谈、工艺更新和站点维护节点。</td></tr>
-      <tr><td>关联地点</td><td>会馆、工坊、展场、聚会空间和线上平台。</td></tr>
-      <tr><td>关联人物</td><td>组织者、摄影者、制作者、整理者和访谈对象。</td></tr>
-      <tr><td>来源与待考</td><td>对应照片、手册、网页存档、口述资料和未核实线索。</td></tr>
+      <tr><td>年度重点</td><td>先看本年的关键作品、活动和公开资料。</td></tr>
+      <tr><td>年度纪事</td><td>按日期列出事实、地点、制作与参与方式，并说明日期对应制作、发表还是举办。</td></tr>
+      <tr><td>年度小结</td><td>汇总本年主要变化与现有资料能支持的结论。</td></tr>
+      <tr><td>参考资料</td><td>提供原文、图集、活动页与报告入口，注明失效链接及资料限制。</td></tr>
     </tbody>
   </table>
 </section>
@@ -28,175 +27,175 @@
     <article class="archive-feature">
       <span class="archive-feature__icon">97</span>
       <h3>1997 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展春、秋两届的实际日期、来场人数与改为一年两届的背景，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <p>东京电玩展春秋两届的日程、主题与整体来场统计。</p>
       <a href="1997/">阅读 1997 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">98</span>
       <h3>1998 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展春、秋两届的实际日期、来场人数与春季排队纪念品，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <p>东京电玩展两次会期、宣传主题和春季入场纪念品安排。</p>
       <a href="1998/">阅读 1998 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">99</span>
       <h3>1999 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展春、秋两届的实际日期、来场人数与春季舞台节目，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <p>SIGMA 创立记载、Multi 眼睑与手腕附件，以及参照插画的角色摄影。</p>
       <a href="1999/">阅读 1999 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">00</span>
       <h3>2000 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展春、秋两届的实际日期、来场人数与累计百万来场里程碑，并明确保留 kigurumi / animegao 规则、实际参与和图片识别的证据空白。</p>
+      <p>双叶萤与来栖川绫香制作、Multi 可替换眼部部件及表情原理说明图。</p>
       <a href="2000/">阅读 2000 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">01</span>
       <h3>2001 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展春、秋两届的实际日期和来场人数，并明确保留 kigurumi / animegao 规则、实际参与与图片识别的证据空白。</p>
+      <p>芹香场景与灯光、Multi 户外摄影，以及绫香和奈留的有日期图集。</p>
       <a href="2001/">阅读 2001 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">02</span>
       <h3>2002 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展 2002 的计划日程、公众开放日与会场，并明确保留 kigurumi / animegao 规则、实际参与和完成结果的证据空白。</p>
+      <p>明日香新造型、前原忍与御剑凉子的角色图集，以及展会闭幕统计。</p>
       <a href="2002/">阅读 2002 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">03</span>
       <h3>2003 年 Kigurumi 编年史</h3>
-      <p>记录 Inside Doll 在 2003 年 4 月已经公开活跃及其全年更新节奏，保留两个第一方页面的起始日期冲突，并与现实装演证据分开。</p>
+      <p>水原历、爱泽友美、桃宫莓与风见瑞穗的作品档案，及 Inside Doll 的网站更新。</p>
       <a href="2003/">阅读 2003 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">04</span>
       <h3>2004 年 Kigurumi 编年史</h3>
-      <p>整理东京电玩展最早可核验的大型着ぐるみ、更衣、寄存、检查和摄影同意规则，并以闭幕后报告确认整体展会完成。</p>
+      <p>春丽动作摄影、国分寺小依与爱德华角色展示，以及当届公共展会参与条件。</p>
       <a href="2004/">阅读 2004 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">05</span>
       <h3>2005 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展 2005 的计划日程、公众开放日和会场，并明确保留 kigurumi 规则、实际参与与完成结果的证据空白。</p>
+      <p>琥珀与翡翠成对制作、《拜托了双子星》角色、希耶尔与千代图集，以及展会规模。</p>
       <a href="2005/">阅读 2005 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">06</span>
       <h3>2006 年 Kigurumi 编年史</h3>
-      <p>确认东京电玩展 2006 的日期、地点与闭幕，以及 2004 公共规则逐项延续且无可见实质变化。</p>
+      <p>白蔷薇姐妹的成对角色制作，以及东京电玩展日程、主题与闭幕结果。</p>
       <a href="2006/">阅读 2006 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">07</span>
       <h3>2007 年 Kigurumi 编年史</h3>
-      <p>确认东京电玩展 2007 的日期、地点与闭幕结果；共同公共规则回链 2004 年卷，不重复条文。</p>
+      <p>东京电玩展四日会期与闭幕统计；专题活动记录仍待更多原始资料。</p>
       <a href="2007/">阅读 2007 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">08</span>
       <h3>2008 年 Kigurumi 编年史</h3>
-      <p>确认东京电玩展 2008 的日期、地点与闭幕结果，并公开标注 animegao、大型着ぐるみ和专门规则的档案证据空白。</p>
+      <p>东京电玩展当届日程、主题与来场统计，以及公共活动的档案入口。</p>
       <a href="2008/">阅读 2008 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">09</span>
       <h3>2009 年 Kigurumi 编年史</h3>
-      <p>整理东京电玩展 2009 的行李检查安排、现场缝纫工具和更衣室办理时限；共同规则前移至 2004 年。</p>
+      <p>东京电玩展行李检查、现场缝纫工具、更衣时限及当届规模。</p>
       <a href="2009/">阅读 2009 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">10</span>
       <h3>2010 年 Kigurumi 编年史</h3>
-      <p>整理东京电玩展新增 cosplay 企划、7 号馆早间换装和舞会延时；基础规则追溯至 2004 年，场地变化与 2011 年去重。</p>
+      <p>秋叶原青风亭 kigurumi 咖啡馆预告，以及电玩展的 cosplay 专门企划。</p>
       <a href="2010/">阅读 2010 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">11</span>
       <h3>2011 年 Kigurumi 编年史</h3>
-      <p>记录东京电玩展更衣与寄存从 2010 年 7 号馆迁至 2 号馆；共同规则不重复，2012 年保留回迁和新增边界。</p>
+      <p>东京电玩展本届更衣与寄存场地、公共参与安排及整体来场统计。</p>
       <a href="2011/">阅读 2011 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">12</span>
       <h3>2012 年 Kigurumi 编年史</h3>
-      <p>整理东京电玩展 7 号馆更衣与寄存、早间换装、指定摄影区、视频和商业使用限制，并与 2013 年空间迁移去重。</p>
+      <p>东京电玩展早间换装、指定摄影区和影像使用限制，以及本届统计。</p>
       <a href="2012/">阅读 2012 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">13</span>
       <h3>2013 年 Kigurumi 编年史</h3>
-      <p>整理东京电玩展对大型着ぐるみ、更衣、指定摄影区、拍摄许可与图片发布同意的公共规则，并保留 animegao 参与证据空白。</p>
+      <p>河妖开始制作面具的自述，以及东京电玩展本届参与与摄影条件。</p>
       <a href="2013/">阅读 2013 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">14</span>
       <h3>2014 年 Kigurumi 编年史</h3>
-      <p>整理 AnimeJapan 中官方角色着ぐるみ的合影与握手，以及 Cosplayers World 室内外摄影区和服装租赁的实际运行，并与 animegao 参与证据分开。</p>
+      <p>Laurie Simmons 的 Kigurumi 摄影系列，以及 AnimeJapan 官方角色互动。</p>
       <a href="2014/">阅读 2014 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">15</span>
       <h3>2015 年 Kigurumi 编年史</h3>
-      <p>整理 AnimeJapan 扩大的公共 cosplay 空间、着ぐるみ移动协助、摄影同意与更衣隐私，并以闭幕后报告确认设施运行。</p>
+      <p>Teitoku Workshop 与 Hyokkame 的创立记录，以及 AnimeJapan 活动空间。</p>
       <a href="2015/">阅读 2015 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">16</span>
       <h3>2016 年 Kigurumi 编年史</h3>
-      <p>整理 AnimeJapan 明文涉及着ぐるみ的区域、换装、寄存与摄影规则，并以闭幕后报告确认公共 cosplay 设施实际运行。</p>
+      <p>AnimeJapan 本届着ぐるみ参与区域、更衣寄存和公共摄影服务。</p>
       <a href="2016/">阅读 2016 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">17</span>
       <h3>2017 年 Kigurumi 编年史</h3>
-      <p>整理 AnimeJapan 场地与女性专用高级更衣选择的扩展，以及 220 份有效回答的社群调查，并明确标注便利样本边界。</p>
+      <p>FGO Fes. 着ぐるみ舞台、SIGMA Twin Angel 图集，以及 220 份社群问卷。</p>
       <a href="2017/">阅读 2017 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">18</span>
       <h3>2018 年 Kigurumi 编年史</h3>
-      <p>整理公共活动中的着ぐるみ视野、陪同、摄影同意与更衣隐私规则，以及 animegao 面具制作匹配服务的学位研究。</p>
+      <p>SIGMA 新面具展售与量产接单，以及面具制作匹配服务的学位研究。</p>
       <a href="2018/">阅读 2018 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">19</span>
       <h3>2019 年 Kigurumi 编年史</h3>
-      <p>整理 AnimeJapan 中 FGO 官方着ぐるみ／官方 cosplayer 登场与公共 cosplay 基础设施，并明确保留专门活动资料空白。</p>
+      <p>SIGMA 二十周年公告，以及 AnimeJapan 的 FGO 官方角色节目。</p>
       <a href="2019/">阅读 2019 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">20</span>
       <h3>2020 年 Kigurumi 编年史</h3>
-      <p>整理 FGO 已公布但取消的官方着ぐるみ计划、WCS 全面线上化、远程参与与影像授权边界。</p>
+      <p>Hyokkame 面具展与讲座、取消的展会计划，以及 WCS 线上活动。</p>
       <a href="2020/">阅读 2020 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">21</span>
       <h3>2021 年 Kigurumi 编年史</h3>
-      <p>整理 WCS 混合活动、第 18 回 キグルミwasshoi! 及疫情期活动基础设施，并将无日期线索与事实时间轴分开。</p>
+      <p>WCS 混合活动与官方手册，以及第 18 回キグルミwasshoi! 酒店活动。</p>
       <a href="2021/">阅读 2021 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">22</span>
       <h3>2022 年 Kigurumi 编年史</h3>
-      <p>整理 2022 年公开可检索的 kigurumi 相关线下重启、官方 IP greeting、キグルミwasshoi!、着ぐFesta 首回、WCS 规则和 Doll Weekend 5-8，并纳入原创图表资源。</p>
+      <p>专门活动恢复、着ぐFesta 首回、DW5–8 影像发表与入门面具设计。</p>
       <a href="2022/">阅读 2022 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">23</span>
       <h3>2023 年 Kigurumi 编年史</h3>
-      <p>整理 2023 年公开可检索的 kigurumi 相关活动、官方 IP greeting、Doll Weekend 10、WCS 复苏、安全规则和年度前置关系，并纳入原创图表资源。</p>
+      <p>着ぐFesta 的不同活动形态、DW9 舞台展示与 DW10 国际参与。</p>
       <a href="2023/">阅读 2023 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">24</span>
       <h3>2024 年 Kigurumi 编年史</h3>
-      <p>整理 2024 年公开可检索的 kigurumi 相关活动、官方 greeting、中文娃/Kig 圈节点、知识生产、风险治理和年度结论，并纳入原创图表资源。</p>
+      <p>DW11 才艺影像、制面工作坊设计、Advent Calendar 写作与社群调查。</p>
       <a href="2024/">阅读 2024 年</a>
     </article>
     <article class="archive-feature">
       <span class="archive-feature__icon">25</span>
       <h3>2025 年 Kigurumi 编年史</h3>
-      <p>整理 2025 年公开可检索的 kigurumi 相关活动、规则、跨境合作、产业链、风险治理和年度结论，并纳入原创图表资源。</p>
+      <p>多伦多制面工作坊、DW12 河源活动、国际合作及制作方名录更新。</p>
       <a href="2025/">阅读 2025 年</a>
     </article>
   </div>

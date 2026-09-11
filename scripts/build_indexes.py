@@ -192,6 +192,20 @@ def _validate_archive_page(path: Path, locale: str, section: str, slug: str) -> 
     headings = re.findall(r"^#\s+\S.*$", body, flags=re.MULTILINE)
     if len(headings) != 1:
         errors.append(f"{_relative(path)} must contain exactly one Markdown H1; found {len(headings)}")
+    if section == "years":
+        obsolete_heading = re.compile(
+            r"去重|重複(?:排除|除去|整理|表)|de-?duplicat|"
+            r"(?:исключение|устранение|удаление) повторов", re.IGNORECASE
+        )
+        for heading in re.findall(r"^#{2,6} .+$", body, flags=re.MULTILINE):
+            if obsolete_heading.search(heading):
+                errors.append(f"{_relative(path)} has an obsolete comparison section: {heading}")
+        for label in set(re.findall(r"\[\^([^\]]+)\](?!:)", body)):
+            if not re.search(r"^\[\^" + re.escape(label) + r"\]:", body, flags=re.MULTILINE):
+                errors.append(f"{_relative(path)} has an undefined footnote: {label}")
+        for anchor in set(re.findall(r"\]\(#(s\d+)\)", body)):
+            if f'id="{anchor}"' not in body:
+                errors.append(f"{_relative(path)} has an undefined source anchor: {anchor}")
     return errors
 
 

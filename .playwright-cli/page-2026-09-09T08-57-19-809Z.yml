@@ -1,0 +1,390 @@
+- generic [active] [ref=f21e1]:
+  - link "跳转至" [ref=f21e2] [cursor=pointer]:
+    - /url: "#_1"
+  - banner [ref=f21e3]:
+    - navigation "页眉" [ref=f21e4]:
+      - generic [ref=f21e5] [cursor=pointer]
+      - generic [ref=f21e9]:
+        - generic:
+          - generic "MEIS 莓萌 / 拼好头"
+      - generic [ref=f21e10]:
+        - radio "切换到深色模式"
+        - generic "切换到深色模式" [ref=f21e11] [cursor=pointer]
+        - radio "切换到浅色模式"
+      - generic [ref=f21e15]:
+        - button "选择当前语言" [ref=f21e16] [cursor=pointer]
+        - generic [ref=f21e19]:
+          - list:
+            - listitem [ref=f21e20]:
+              - link "简体中文" [ref=f21e21] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=f21e22]:
+              - link "繁體中文" [ref=f21e23] [cursor=pointer]:
+                - /url: ../../zh-Hant/makers/meis/
+            - listitem [ref=f21e24]:
+              - link "English" [ref=f21e25] [cursor=pointer]:
+                - /url: ../../en/makers/meis/
+            - listitem [ref=f21e26]:
+              - link "日本語" [ref=f21e27] [cursor=pointer]:
+                - /url: ../../ja/makers/meis/
+            - listitem [ref=f21e28]:
+              - link "Русский" [ref=f21e29] [cursor=pointer]:
+                - /url: ../../ru/makers/meis/
+      - generic [ref=f21e30] [cursor=pointer]
+      - dialog:
+        - search:
+          - generic [ref=f21e33]:
+            - textbox "搜索" [ref=f21e34]
+            - generic [ref=f21e35] [cursor=pointer]
+            - navigation "查找":
+              - link "分享":
+                - /url: http://127.0.0.1:8021/makers/meis/?q=
+              - button "清空当前内容"
+          - generic: 正在初始化搜索引擎
+  - generic [ref=f21e41]:
+    - main [ref=f21e42]:
+      - generic [ref=f21e43]:
+        - navigation "导航栏" [ref=f21e46]:
+          - generic [ref=f21e47] [cursor=pointer]: Kigurumi 编年志
+          - list [ref=f21e48]:
+            - listitem [ref=f21e49]:
+              - link "首页" [ref=f21e50] [cursor=pointer]:
+                - /url: ../..
+            - listitem [ref=f21e55]:
+              - link "编年总览" [ref=f21e56] [cursor=pointer]:
+                - /url: ../../chronicle/
+            - listitem [ref=f21e61]:
+              - link "年份目录" [ref=f21e62] [cursor=pointer]:
+                - /url: ../../years/
+            - listitem [ref=f21e67]:
+              - link "近期采集" [ref=f21e68] [cursor=pointer]:
+                - /url: ../../digests/
+            - listitem [ref=f21e73]:
+              - link "头壳店铺" [ref=f21e74] [cursor=pointer]:
+                - /url: ../
+            - listitem [ref=f21e79]:
+              - link "地点目录" [ref=f21e80] [cursor=pointer]:
+                - /url: ../../places/
+            - listitem [ref=f21e85]:
+              - link "人物目录" [ref=f21e86] [cursor=pointer]:
+                - /url: ../../people/
+            - listitem [ref=f21e91]:
+              - link "来源目录" [ref=f21e92] [cursor=pointer]:
+                - /url: ../../sources/
+          - list [ref=f21e97]:
+            - listitem [ref=f21e98]:
+              - link "关于介绍" [ref=f21e99] [cursor=pointer]:
+                - /url: ../../about/
+            - listitem [ref=f21e104]:
+              - link "参与加入" [ref=f21e105] [cursor=pointer]:
+                - /url: ../../join/
+            - listitem [ref=f21e110]:
+              - link "贡献与支持" [ref=f21e111] [cursor=pointer]:
+                - /url: ../../support/
+            - listitem [ref=f21e116]:
+              - link "引用规范" [ref=f21e117] [cursor=pointer]:
+                - /url: ../../citation/
+            - listitem [ref=f21e122]:
+              - link "常见问题" [ref=f21e123] [cursor=pointer]:
+                - /url: ../../faq/
+            - listitem [ref=f21e128]:
+              - link "开源协议" [ref=f21e129] [cursor=pointer]:
+                - /url: ../../license/
+        - generic [ref=f21e134]:
+          - navigation "导航栏" [ref=f21e135]:
+            - list [ref=f21e136]:
+              - listitem [ref=f21e137]:
+                - link "首页" [ref=f21e138] [cursor=pointer]:
+                  - /url: ../..
+              - listitem [ref=f21e139]: /MEIS 莓萌 / 拼好头
+          - article [ref=f21e140]:
+            - paragraph [ref=f21e141]:
+              - link "头壳店铺目录" [ref=f21e142] [cursor=pointer]:
+                - /url: ../
+            - generic [ref=f21e146]:
+              - img "MEIS 莓萌 / 拼好头 品牌识别图" [ref=f21e147]
+              - generic [ref=f21e148]:
+                - paragraph [ref=f21e149]: MAKER RECORD / MEIS
+                - heading "MEIS 莓萌 / 拼好头" [level=1] [ref=f21e150]
+                - group [ref=f21e151]:
+                  - generic "本页目录" [ref=f21e152] [cursor=pointer]
+                - paragraph [ref=f21e156]: 同一经营主体下的角色定制与量产头壳品牌，提供 PHT 系列和一对一角色定制。
+            - paragraph [ref=f21e157]:
+              - generic [ref=f21e158]: 公开销售
+              - text: 网页核实 2026-09-09 · 来源见文末
+            - blockquote [ref=f21e159]:
+              - paragraph [ref=f21e160]:
+                - strong [ref=f21e161]: 营业证据
+                - text: ：官网有 PHT 系列价格、淘宝购买入口及客服时间；定制需求页本次返回 HTTP 500，定制请从官方客服确认。
+            - heading [level=2] [ref=f21e162]:
+              - text: 店铺介绍
+              - link "¶" [ref=f21e163] [cursor=pointer]:
+                - /url: "#_1"
+            - paragraph [ref=f21e164]: 郑州虹野物联科技有限公司旗下，莓萌侧重角色定制，拼好头侧重模具化量产；官网介绍了建模、打印、化妆、假发造型及包装流程。PHT-01 为人脸动漫头壳，官网列明磁吸眼片、可拆后壳和造型假发。绘面为同主体旗下品牌，本次未取得其独立在售商品。
+            - region "基本信息表" [ref=f21e165]:
+              - region "基本信息" [ref=f21e166]:
+                - table [ref=f21e167]:
+                  - rowgroup [ref=f21e168]:
+                    - row [ref=f21e169]:
+                      - columnheader "基本信息" [ref=f21e170]
+                      - columnheader "公开记录" [ref=f21e171]
+                  - rowgroup [ref=f21e172]:
+                    - row [ref=f21e173]:
+                      - cell "所在地区" [ref=f21e174]
+                      - cell "中国河南郑州航空港区（官网公布的总部）" [ref=f21e175]
+                    - row [ref=f21e176]:
+                      - cell "名称与别名" [ref=f21e177]
+                      - cell "莓萌 / 拼好头 / Pinhaotou / 虹野物联 / 绘面" [ref=f21e178]
+                    - row [ref=f21e179]:
+                      - cell "商品与服务" [ref=f21e180]
+                      - cell "量产成品 · 全定制 · 配件" [ref=f21e181]
+                    - row [ref=f21e182]:
+                      - cell "核实日期" [ref=f21e183]
+                      - cell "2026-09-09" [ref=f21e184]
+            - figure [ref=f21e185]:
+              - img "PHT-01 电子歌姬，店铺官方产品图。" [ref=f21e186]
+              - generic [ref=f21e187]:
+                - text: PHT-01 电子歌姬，店铺官方产品图。
+                - link "来源" [ref=f21e188] [cursor=pointer]:
+                  - /url: "#source-pht01"
+            - heading [level=2] [ref=f21e189]:
+              - text: 官方入口与平台归属
+              - link "¶" [ref=f21e190] [cursor=pointer]:
+                - /url: "#_2"
+            - region "平台表" [ref=f21e191]:
+              - region "平台" [ref=f21e192]:
+                - table [ref=f21e193]:
+                  - rowgroup [ref=f21e194]:
+                    - row [ref=f21e195]:
+                      - columnheader "平台" [ref=f21e196]
+                      - columnheader "店铺 / 入口" [ref=f21e197]
+                      - columnheader "归属证据" [ref=f21e198]
+                      - columnheader "依据" [ref=f21e199]
+                  - rowgroup [ref=f21e200]:
+                    - row [ref=f21e201]:
+                      - cell "官网" [ref=f21e202]
+                      - cell [ref=f21e203]:
+                        - link "莓萌与拼好头" [ref=f21e204] [cursor=pointer]:
+                          - /url: https://www.kigis.me/
+                      - cell "官方直链" [ref=f21e205]
+                      - cell [ref=f21e206]:
+                        - link "来源" [ref=f21e207] [cursor=pointer]:
+                          - /url: "#source-home"
+                    - row [ref=f21e208]:
+                      - cell "淘宝" [ref=f21e209]
+                      - cell [ref=f21e210]:
+                        - link "MEIS莓萌KIGURUMI" [ref=f21e211] [cursor=pointer]:
+                          - /url: https://meis.taobao.com/
+                      - cell "官方直链" [ref=f21e212]
+                      - cell [ref=f21e213]:
+                        - link "来源" [ref=f21e214] [cursor=pointer]:
+                          - /url: "#source-home"
+            - heading [level=2] [ref=f21e215]:
+              - text: 公开联系方式
+              - link "¶" [ref=f21e216] [cursor=pointer]:
+                - /url: "#_3"
+            - region "渠道表" [ref=f21e217]:
+              - region "渠道" [ref=f21e218]:
+                - table [ref=f21e219]:
+                  - rowgroup [ref=f21e220]:
+                    - row [ref=f21e221]:
+                      - columnheader "渠道" [ref=f21e222]
+                      - columnheader "公开业务联系方式" [ref=f21e223]
+                      - columnheader "依据" [ref=f21e224]
+                  - rowgroup [ref=f21e225]:
+                    - row [ref=f21e226]:
+                      - cell "QQ 官方群" [ref=f21e227]
+                      - cell [ref=f21e228]:
+                        - link "1036511798" [ref=f21e229] [cursor=pointer]:
+                          - /url: https://qm.qq.com/q/ujodzxwQbm
+                      - cell [ref=f21e230]:
+                        - link "来源" [ref=f21e231] [cursor=pointer]:
+                          - /url: "#source-contact"
+                    - row [ref=f21e232]:
+                      - cell "淘宝旺旺" [ref=f21e233]
+                      - cell [ref=f21e234]:
+                        - link "MEIS莓萌KIGURUMI" [ref=f21e235] [cursor=pointer]:
+                          - /url: https://meis.taobao.com/
+                      - cell [ref=f21e236]:
+                        - link "来源" [ref=f21e237] [cursor=pointer]:
+                          - /url: "#source-contact"
+                    - row [ref=f21e238]:
+                      - cell "X" [ref=f21e239]
+                      - cell [ref=f21e240]:
+                        - link "@KigMEIS" [ref=f21e241] [cursor=pointer]:
+                          - /url: https://x.com/KigMEIS
+                      - cell [ref=f21e242]:
+                        - link "来源" [ref=f21e243] [cursor=pointer]:
+                          - /url: "#source-home"
+                    - row [ref=f21e244]:
+                      - cell "Bilibili" [ref=f21e245]
+                      - cell [ref=f21e246]:
+                        - link "MEIS莓萌" [ref=f21e247] [cursor=pointer]:
+                          - /url: https://space.bilibili.com/3546864949398208
+                      - cell [ref=f21e248]:
+                        - link "来源" [ref=f21e249] [cursor=pointer]:
+                          - /url: "#source-home"
+                    - row [ref=f21e250]:
+                      - cell "X" [ref=f21e251]
+                      - cell [ref=f21e252]:
+                        - link "@pinhaotou" [ref=f21e253] [cursor=pointer]:
+                          - /url: https://x.com/pinhaotou
+                      - cell [ref=f21e254]:
+                        - link "来源" [ref=f21e255] [cursor=pointer]:
+                          - /url: "#source-home"
+                    - row [ref=f21e256]:
+                      - cell "Bilibili" [ref=f21e257]
+                      - cell [ref=f21e258]:
+                        - link "kigurumi拼好头" [ref=f21e259] [cursor=pointer]:
+                          - /url: https://space.bilibili.com/3546800566831253
+                      - cell [ref=f21e260]:
+                        - link "来源" [ref=f21e261] [cursor=pointer]:
+                          - /url: "#source-home"
+            - heading [level=2] [ref=f21e262]:
+              - text: 商品与价格
+              - link "¶" [ref=f21e263] [cursor=pointer]:
+                - /url: "#_4"
+            - paragraph [ref=f21e264]: 以下为核实当日公开页面记录，保留原币；不跨币种换算，不把订金、素体或配件当作完整头壳价格。未逐个完成下单，库存及最终配置以店铺确认为准。
+            - region "商品名称表" [ref=f21e265]:
+              - region "商品名称" [ref=f21e266]:
+                - table [ref=f21e267]:
+                  - rowgroup [ref=f21e268]:
+                    - row [ref=f21e269]:
+                      - columnheader "商品名称" [ref=f21e270]
+                      - columnheader "分类" [ref=f21e271]
+                      - columnheader "公开价格" [ref=f21e272]
+                      - columnheader "价格性质" [ref=f21e273]
+                      - columnheader "配置 / 状态" [ref=f21e274]
+                      - columnheader "依据" [ref=f21e275]
+                  - rowgroup [ref=f21e276]:
+                    - row [ref=f21e277]:
+                      - cell "PHT-01 电子歌姬" [ref=f21e278]
+                      - cell "量产成品" [ref=f21e279]
+                      - cell "CNY 998" [ref=f21e280]
+                      - cell "起价" [ref=f21e281]
+                      - cell "系列总览标价；首发与通贩档位不同" [ref=f21e282]
+                      - cell [ref=f21e283]:
+                        - link "来源" [ref=f21e284] [cursor=pointer]:
+                          - /url: "#source-catalog"
+                    - row [ref=f21e285]:
+                      - cell "PHT-02 星核猎手" [ref=f21e286]
+                      - cell "量产成品" [ref=f21e287]
+                      - cell "CNY 1145.14" [ref=f21e288]
+                      - cell "起价" [ref=f21e289]
+                      - cell "系列总览公开起价" [ref=f21e290]
+                      - cell [ref=f21e291]:
+                        - link "来源" [ref=f21e292] [cursor=pointer]:
+                          - /url: "#source-catalog"
+                    - row [ref=f21e293]:
+                      - cell "PHT-03 金色那菈" [ref=f21e294]
+                      - cell "量产成品" [ref=f21e295]
+                      - cell "CNY 998" [ref=f21e296]
+                      - cell "起价" [ref=f21e297]
+                      - cell "系列总览公开起价" [ref=f21e298]
+                      - cell [ref=f21e299]:
+                        - link "来源" [ref=f21e300] [cursor=pointer]:
+                          - /url: "#source-catalog"
+                    - row [ref=f21e301]:
+                      - cell "PHT-04 安辨雌雄" [ref=f21e302]
+                      - cell "量产成品" [ref=f21e303]
+                      - cell "CNY 1145.14" [ref=f21e304]
+                      - cell "起价" [ref=f21e305]
+                      - cell "系列总览公开起价" [ref=f21e306]
+                      - cell [ref=f21e307]:
+                        - link "来源" [ref=f21e308] [cursor=pointer]:
+                          - /url: "#source-catalog"
+                    - row [ref=f21e309]:
+                      - cell "PHT-05 洛水伊人" [ref=f21e310]
+                      - cell "量产成品" [ref=f21e311]
+                      - cell "CNY 998" [ref=f21e312]
+                      - cell "起价" [ref=f21e313]
+                      - cell "系列总览公开起价" [ref=f21e314]
+                      - cell [ref=f21e315]:
+                        - link "来源" [ref=f21e316] [cursor=pointer]:
+                          - /url: "#source-catalog"
+                    - row [ref=f21e317]:
+                      - cell "莓萌全头定制" [ref=f21e318]
+                      - cell "全定制" [ref=f21e319]
+                      - cell "CNY 3699" [ref=f21e320]
+                      - cell "起价" [ref=f21e321]
+                      - cell "PHT-01 FAQ 公开；需按角色报价" [ref=f21e322]
+                      - cell [ref=f21e323]:
+                        - link "来源" [ref=f21e324] [cursor=pointer]:
+                          - /url: "#source-pht01"
+                    - row [ref=f21e325]:
+                      - cell "PHT-01 全网孔纸眼片" [ref=f21e326]
+                      - cell "配件" [ref=f21e327]
+                      - cell "CNY 29" [ref=f21e328]
+                      - cell "选配差价" [ref=f21e329]
+                      - cell "不属于整头售价" [ref=f21e330]
+                      - cell [ref=f21e331]:
+                        - link "来源" [ref=f21e332] [cursor=pointer]:
+                          - /url: "#source-pht01"
+            - heading [level=2] [ref=f21e333]:
+              - text: 订购与服务
+              - link "¶" [ref=f21e334] [cursor=pointer]:
+                - /url: "#_5"
+            - paragraph [ref=f21e335]: 工作日 10:00–19:00，GMT+8。PHT-01 不接受改妆改型；官网说明全款含头壳、造型假发与发饰。运费、当前档期和活动以对应商品及客服确认为准。
+            - heading [level=2] [ref=f21e336]:
+              - text: 跨平台复核
+              - link "¶" [ref=f21e337] [cursor=pointer]:
+                - /url: "#_6"
+            - paragraph [ref=f21e338]: 官网关于页明确莓萌、拼好头、绘面属于虹野物联，按一个经营主体合并，保留子品牌。PHT-01 FAQ 明确与偶域 Kig.Land 不是同一家；友情链接不构成同店证据。尚未确认其拼多多、闲鱼、京东或亚马逊店铺。
+            - heading [level=2] [ref=f21e339]:
+              - text: 来源与图像
+              - link "¶" [ref=f21e340] [cursor=pointer]:
+                - /url: "#_7"
+            - paragraph [ref=f21e341]:
+              - text: 以下网页核实于
+              - strong [ref=f21e342]: 2026-09-09
+              - text: ；社群目录条目本身为 2025 年版本，不代表 2026 年营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+            - paragraph [ref=f21e343]:
+              - link "官方首页及平台链接" [ref=f21e344] [cursor=pointer]:
+                - /url: https://www.kigis.me/
+            - paragraph [ref=f21e345]:
+              - link "经营主体与品牌矩阵" [ref=f21e346] [cursor=pointer]:
+                - /url: https://www.kigis.me/about
+            - paragraph [ref=f21e347]:
+              - link "联系方式及服务时间" [ref=f21e348] [cursor=pointer]:
+                - /url: https://www.kigis.me/contact
+            - paragraph [ref=f21e349]:
+              - link "PHT 系列与公开价格" [ref=f21e350] [cursor=pointer]:
+                - /url: https://www.kigis.me/pinhaotou
+            - paragraph [ref=f21e351]:
+              - link "PHT-01 规格与定制价格 FAQ" [ref=f21e352] [cursor=pointer]:
+                - /url: https://www.kigis.me/pht-01
+            - paragraph [ref=f21e353]:
+              - text: 品牌识别图来自
+              - link "官方公开图片" [ref=f21e354] [cursor=pointer]:
+                - /url: https://www.kigis.me/images/meimoe.svg
+              - text: （
+              - link "来源" [ref=f21e355] [cursor=pointer]:
+                - /url: "#source-home"
+              - text: ），仅用于店铺识别，权利归原权利人。图片未获得开放许可，不属于本站原创内容授权范围。
+            - paragraph [ref=f21e356]: 未查到的电话、微信、详细地址及平台账号不作推测；需要补证的字段不代表该信息不存在。
+            - paragraph [ref=f21e357]:
+              - link "返回店铺目录" [ref=f21e358] [cursor=pointer]:
+                - /url: ../
+              - text: ·
+              - link "收录、去重与平台核实" [ref=f21e359] [cursor=pointer]:
+                - /url: ../methodology/
+    - contentinfo [ref=f21e360]:
+      - generic [ref=f21e362]:
+        - generic [ref=f21e363]: Copyright © 2026 Kigurumi 编年志资料馆。本站内容用于资料整理、研究与教育参考；引用时请保留署名、出处与语境。
+        - generic [ref=f21e365]:
+          - link "首页" [ref=f21e366] [cursor=pointer]:
+            - /url: /
+          - link "参与加入" [ref=f21e369] [cursor=pointer]:
+            - /url: /join/
+          - link "编年目录" [ref=f21e372] [cursor=pointer]:
+            - /url: /chronicle/
+          - link "地点目录" [ref=f21e375] [cursor=pointer]:
+            - /url: /places/
+          - link "关于介绍" [ref=f21e378] [cursor=pointer]:
+            - /url: /about/
+          - link "引用规范" [ref=f21e381] [cursor=pointer]:
+            - /url: /citation/
+          - link "常见问题" [ref=f21e384] [cursor=pointer]:
+            - /url: /faq/
+          - link "开源协议" [ref=f21e387] [cursor=pointer]:
+            - /url: /license/

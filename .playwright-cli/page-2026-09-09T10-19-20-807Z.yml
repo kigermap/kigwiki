@@ -1,0 +1,361 @@
+- generic [active] [ref=f37e1]:
+  - link "跳转至" [ref=f37e2] [cursor=pointer]:
+    - /url: "#_1"
+  - banner [ref=f37e3]:
+    - navigation "页眉" [ref=f37e4]:
+      - generic [ref=f37e5] [cursor=pointer]
+      - generic [ref=f37e8]: 猫豆腐 NekoToufu
+      - generic [ref=f37e10]:
+        - radio "切换到深色模式"
+        - generic "切换到深色模式" [ref=f37e11] [cursor=pointer]
+        - radio "切换到浅色模式"
+      - generic [ref=f37e15]:
+        - button "选择当前语言" [ref=f37e16] [cursor=pointer]
+        - generic [ref=f37e19]:
+          - list:
+            - listitem [ref=f37e20]:
+              - link "简体中文" [ref=f37e21] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=f37e22]:
+              - link "繁體中文" [ref=f37e23] [cursor=pointer]:
+                - /url: ../../zh-Hant/makers/nekotofu/
+            - listitem [ref=f37e24]:
+              - link "English" [ref=f37e25] [cursor=pointer]:
+                - /url: ../../en/makers/nekotofu/
+            - listitem [ref=f37e26]:
+              - link "日本語" [ref=f37e27] [cursor=pointer]:
+                - /url: ../../ja/makers/nekotofu/
+            - listitem [ref=f37e28]:
+              - link "Русский" [ref=f37e29] [cursor=pointer]:
+                - /url: ../../ru/makers/nekotofu/
+      - generic [ref=f37e30] [cursor=pointer]
+      - dialog:
+        - search:
+          - generic [ref=f37e33]:
+            - textbox "搜索" [ref=f37e34]
+            - generic [ref=f37e35] [cursor=pointer]
+            - navigation "查找":
+              - link "分享":
+                - /url: https://kigwiki.com/makers/nekotofu/?q=
+              - button "清空当前内容"
+          - generic: 正在初始化搜索引擎
+  - generic [ref=f37e41]:
+    - main [ref=f37e42]:
+      - generic [ref=f37e43]:
+        - navigation "导航栏" [ref=f37e46]:
+          - generic [ref=f37e47] [cursor=pointer]: Kigurumi 编年志
+          - list [ref=f37e48]:
+            - listitem [ref=f37e49]:
+              - link "首页" [ref=f37e50] [cursor=pointer]:
+                - /url: ../..
+            - listitem [ref=f37e55]:
+              - link "编年总览" [ref=f37e56] [cursor=pointer]:
+                - /url: ../../chronicle/
+            - listitem [ref=f37e61]:
+              - link "年份目录" [ref=f37e62] [cursor=pointer]:
+                - /url: ../../years/
+            - listitem [ref=f37e67]:
+              - link "近期采集" [ref=f37e68] [cursor=pointer]:
+                - /url: ../../digests/
+            - listitem [ref=f37e73]:
+              - link "头壳店铺" [ref=f37e74] [cursor=pointer]:
+                - /url: ../
+            - listitem [ref=f37e79]:
+              - link "地点目录" [ref=f37e80] [cursor=pointer]:
+                - /url: ../../places/
+            - listitem [ref=f37e85]:
+              - link "人物目录" [ref=f37e86] [cursor=pointer]:
+                - /url: ../../people/
+            - listitem [ref=f37e91]:
+              - link "来源目录" [ref=f37e92] [cursor=pointer]:
+                - /url: ../../sources/
+          - list [ref=f37e97]:
+            - listitem [ref=f37e98]:
+              - link "关于介绍" [ref=f37e99] [cursor=pointer]:
+                - /url: ../../about/
+            - listitem [ref=f37e104]:
+              - link "参与加入" [ref=f37e105] [cursor=pointer]:
+                - /url: ../../join/
+            - listitem [ref=f37e110]:
+              - link "贡献与支持" [ref=f37e111] [cursor=pointer]:
+                - /url: ../../support/
+            - listitem [ref=f37e116]:
+              - link "引用规范" [ref=f37e117] [cursor=pointer]:
+                - /url: ../../citation/
+            - listitem [ref=f37e122]:
+              - link "常见问题" [ref=f37e123] [cursor=pointer]:
+                - /url: ../../faq/
+            - listitem [ref=f37e128]:
+              - link "开源协议" [ref=f37e129] [cursor=pointer]:
+                - /url: ../../license/
+        - generic [ref=f37e134]:
+          - navigation "导航栏" [ref=f37e135]:
+            - list [ref=f37e136]:
+              - listitem [ref=f37e137]:
+                - link "首页" [ref=f37e138] [cursor=pointer]:
+                  - /url: ../..
+              - listitem [ref=f37e139]: /猫豆腐 NekoToufu
+          - article [ref=f37e140]:
+            - paragraph [ref=f37e141]:
+              - link "头壳店铺目录" [ref=f37e142] [cursor=pointer]:
+                - /url: ../
+            - generic [ref=f37e146]:
+              - img "猫豆腐 NekoToufu 品牌识别图" [ref=f37e147]
+              - generic [ref=f37e148]:
+                - paragraph [ref=f37e149]: MAKER RECORD / NEKOTOFU
+                - heading "猫豆腐 NekoToufu" [level=1] [ref=f37e150]
+                - group [ref=f37e151]:
+                  - generic "本页目录" [ref=f37e152] [cursor=pointer]
+                - paragraph [ref=f37e156]: 提供 kigurumi 全流程定制，官方声明淘宝、闲鱼同名，并设国际业务账号。
+            - paragraph [ref=f37e157]:
+              - generic [ref=f37e158]: 接受询价
+              - text: 网页核实 2026-09-09 · 来源见文末
+            - blockquote [ref=f37e159]:
+              - paragraph [ref=f37e160]:
+                - strong [ref=f37e161]: 营业证据
+                - text: ：当前可访问的第一方业务简介提供制作或店铺联系入口；平台商品、价格及即时接单名额尚未核实。
+            - heading [level=2] [ref=f37e162]:
+              - text: 店铺介绍
+              - link "¶" [ref=f37e163] [cursor=pointer]:
+                - /url: "#_1"
+            - paragraph [ref=f37e164]: 中文官方账号明确写明全流程定制和淘宝／闲鱼店铺同名，并直接关联国际账号。公开作品包括洛天依、明日方舟终末地管理员及鸣潮达妮娅；肤色衣业务与整头分开记录。
+            - region "基本信息表" [ref=f37e165]:
+              - region "基本信息" [ref=f37e166]:
+                - table [ref=f37e167]:
+                  - rowgroup [ref=f37e168]:
+                    - row [ref=f37e169]:
+                      - columnheader "基本信息" [ref=f37e170]
+                      - columnheader "公开记录" [ref=f37e171]
+                  - rowgroup [ref=f37e172]:
+                    - row [ref=f37e173]:
+                      - cell "所在地区" [ref=f37e174]
+                      - cell "中国；具体城市与制作地址未核实（国家线索来自社群目录）" [ref=f37e175]
+                    - row [ref=f37e176]:
+                      - cell "名称与别名" [ref=f37e177]
+                      - cell "猫豆腐NekoToufu / Nekotofu / NEKOTOUFU" [ref=f37e178]
+                    - row [ref=f37e179]:
+                      - cell "商品与服务" [ref=f37e180]
+                      - cell "全定制 · 肤色衣" [ref=f37e181]
+                    - row [ref=f37e182]:
+                      - cell "核实日期" [ref=f37e183]
+                      - cell "2026-09-09" [ref=f37e184]
+            - heading [level=2] [ref=f37e185]:
+              - text: 官方入口与平台归属
+              - link "¶" [ref=f37e186] [cursor=pointer]:
+                - /url: "#_2"
+            - region "平台表" [ref=f37e187]:
+              - region "平台" [ref=f37e188]:
+                - table [ref=f37e189]:
+                  - rowgroup [ref=f37e190]:
+                    - row [ref=f37e191]:
+                      - columnheader "平台" [ref=f37e192]
+                      - columnheader "店铺 / 入口" [ref=f37e193]
+                      - columnheader "归属证据" [ref=f37e194]
+                      - columnheader "依据" [ref=f37e195]
+                  - rowgroup [ref=f37e196]:
+                    - row [ref=f37e197]:
+                      - cell "X" [ref=f37e198]
+                      - cell [ref=f37e199]:
+                        - link "制作方公开业务账号" [ref=f37e200] [cursor=pointer]:
+                          - /url: https://x.com/nekotoufufu
+                      - cell "第一方业务说明" [ref=f37e201]
+                      - cell [ref=f37e202]:
+                        - link "来源" [ref=f37e203] [cursor=pointer]:
+                          - /url: "#source-profile"
+                    - row [ref=f37e204]:
+                      - cell "淘宝" [ref=f37e205]
+                      - cell [ref=f37e206]:
+                        - link "店名声明：猫豆腐NekoToufu" [ref=f37e207] [cursor=pointer]:
+                          - /url: https://x.com/nekotoufufu
+                      - cell "官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID" [ref=f37e208]
+                      - cell [ref=f37e209]:
+                        - link "来源" [ref=f37e210] [cursor=pointer]:
+                          - /url: "#source-profile"
+                    - row [ref=f37e211]:
+                      - cell "闲鱼" [ref=f37e212]
+                      - cell [ref=f37e213]:
+                        - link "店名声明：猫豆腐NekoToufu" [ref=f37e214] [cursor=pointer]:
+                          - /url: https://x.com/nekotoufufu
+                      - cell "官方简介明确声明；链接为声明出处，未取得店铺直链或平台 UID" [ref=f37e215]
+                      - cell [ref=f37e216]:
+                        - link "来源" [ref=f37e217] [cursor=pointer]:
+                          - /url: "#source-profile"
+                    - row [ref=f37e218]:
+                      - cell "淘宝" [ref=f37e219]
+                      - cell [ref=f37e220]:
+                        - link "历史店铺 URL（归属待复核）" [ref=f37e221] [cursor=pointer]:
+                          - /url: https://shop282541162.world.taobao.com/
+                      - cell "第三方历史 URL；不是本次核实的店铺直链" [ref=f37e222]
+                      - cell [ref=f37e223]:
+                        - link "来源" [ref=f37e224] [cursor=pointer]:
+                          - /url: "#source-directory"
+            - heading [level=2] [ref=f37e225]:
+              - text: 公开联系方式
+              - link "¶" [ref=f37e226] [cursor=pointer]:
+                - /url: "#_3"
+            - region "渠道表" [ref=f37e227]:
+              - region "渠道" [ref=f37e228]:
+                - table [ref=f37e229]:
+                  - rowgroup [ref=f37e230]:
+                    - row [ref=f37e231]:
+                      - columnheader "渠道" [ref=f37e232]
+                      - columnheader "公开业务联系方式" [ref=f37e233]
+                      - columnheader "依据" [ref=f37e234]
+                  - rowgroup [ref=f37e235]:
+                    - row [ref=f37e236]:
+                      - cell "X 业务联系" [ref=f37e237]
+                      - cell [ref=f37e238]:
+                        - link "@nekotoufufu" [ref=f37e239] [cursor=pointer]:
+                          - /url: https://x.com/nekotoufufu
+                      - cell [ref=f37e240]:
+                        - link "来源" [ref=f37e241] [cursor=pointer]:
+                          - /url: "#source-profile"
+                    - row [ref=f37e242]:
+                      - cell "官方 QQ 群（出处）" [ref=f37e243]
+                      - cell [ref=f37e244]:
+                        - link "915979496" [ref=f37e245] [cursor=pointer]:
+                          - /url: https://x.com/nekotoufufu
+                      - cell [ref=f37e246]:
+                        - link "来源" [ref=f37e247] [cursor=pointer]:
+                          - /url: "#source-profile"
+                    - row [ref=f37e248]:
+                      - cell "X 国际业务" [ref=f37e249]
+                      - cell [ref=f37e250]:
+                        - link "@NEKOTOUFU_shop" [ref=f37e251] [cursor=pointer]:
+                          - /url: https://x.com/NEKOTOUFU_shop
+                      - cell [ref=f37e252]:
+                        - link "来源" [ref=f37e253] [cursor=pointer]:
+                          - /url: "#source-international"
+                    - row [ref=f37e254]:
+                      - cell "Discord（肤色衣订购，出处）" [ref=f37e255]
+                      - cell [ref=f37e256]:
+                        - link "@VANGDE3293" [ref=f37e257] [cursor=pointer]:
+                          - /url: https://x.com/NEKOTOUFU_shop
+                      - cell [ref=f37e258]:
+                        - link "来源" [ref=f37e259] [cursor=pointer]:
+                          - /url: "#source-international"
+            - heading [level=2] [ref=f37e260]:
+              - text: 商品与价格
+              - link "¶" [ref=f37e261] [cursor=pointer]:
+                - /url: "#_4"
+            - paragraph [ref=f37e262]: 以下为核实当日公开页面记录，保留原币；不跨币种换算，不把订金、素体或配件当作完整头壳价格。未逐个完成下单，库存及最终配置以店铺确认为准。
+            - region "商品名称表" [ref=f37e263]:
+              - region "商品名称" [ref=f37e264]:
+                - table [ref=f37e265]:
+                  - rowgroup [ref=f37e266]:
+                    - row [ref=f37e267]:
+                      - columnheader "商品名称" [ref=f37e268]
+                      - columnheader "分类" [ref=f37e269]
+                      - columnheader "公开价格" [ref=f37e270]
+                      - columnheader "价格性质" [ref=f37e271]
+                      - columnheader "配置 / 状态" [ref=f37e272]
+                      - columnheader "依据" [ref=f37e273]
+                  - rowgroup [ref=f37e274]:
+                    - row [ref=f37e275]:
+                      - cell "洛天依头壳" [ref=f37e276]
+                      - cell "成品展示" [ref=f37e277]
+                      - cell "未公开" [ref=f37e278]
+                      - cell "未公开价格" [ref=f37e279]
+                      - cell "公开作品展示，不代表现货；当前报价需询问制作方" [ref=f37e280]
+                      - cell [ref=f37e281]:
+                        - link "来源" [ref=f37e282] [cursor=pointer]:
+                          - /url: "#source-profile"
+                    - row [ref=f37e283]:
+                      - cell "明日方舟：终末地 女管理员头壳" [ref=f37e284]
+                      - cell "成品展示" [ref=f37e285]
+                      - cell "未公开" [ref=f37e286]
+                      - cell "未公开价格" [ref=f37e287]
+                      - cell "公开作品展示，不代表现货；当前报价需询问制作方" [ref=f37e288]
+                      - cell [ref=f37e289]:
+                        - link "来源" [ref=f37e290] [cursor=pointer]:
+                          - /url: "#source-profile"
+                    - row [ref=f37e291]:
+                      - cell "鸣潮 达妮娅头壳" [ref=f37e292]
+                      - cell "成品展示" [ref=f37e293]
+                      - cell "未公开" [ref=f37e294]
+                      - cell "未公开价格" [ref=f37e295]
+                      - cell "公开作品展示，不代表现货；当前报价需询问制作方" [ref=f37e296]
+                      - cell [ref=f37e297]:
+                        - link "来源" [ref=f37e298] [cursor=pointer]:
+                          - /url: "#source-profile"
+                    - row [ref=f37e299]:
+                      - cell "全身肤色衣现货" [ref=f37e300]
+                      - cell "肤色衣" [ref=f37e301]
+                      - cell "$90 / ¥14,300" [ref=f37e302]
+                      - cell "国际账号置顶报价" [ref=f37e303]
+                      - cell "薄粉与小麦两种肤色；货币符号按原文保留，非头壳售价，当前库存待确认" [ref=f37e304]
+                      - cell [ref=f37e305]:
+                        - link "来源" [ref=f37e306] [cursor=pointer]:
+                          - /url: "#source-international"
+                    - row [ref=f37e307]:
+                      - cell "量身定制全身肤色衣" [ref=f37e308]
+                      - cell "肤色衣定制" [ref=f37e309]
+                      - cell "$120 / ¥19,000" [ref=f37e310]
+                      - cell "国际账号置顶报价" [ref=f37e311]
+                      - cell "原帖支持 VISA 与 Wise，通过所列 Discord 订购；非头壳售价" [ref=f37e312]
+                      - cell [ref=f37e313]:
+                        - link "来源" [ref=f37e314] [cursor=pointer]:
+                          - /url: "#source-international"
+            - heading [level=2] [ref=f37e315]:
+              - text: 订购与服务
+              - link "¶" [ref=f37e316] [cursor=pointer]:
+                - /url: "#_5"
+            - paragraph [ref=f37e317]: 当前报价、材料、尺寸、排期、支付、配送及售后须向制作方确认；公开作品不是在售库存。
+            - heading [level=2] [ref=f37e318]:
+              - text: 跨平台复核
+              - link "¶" [ref=f37e319] [cursor=pointer]:
+                - /url: "#_6"
+            - paragraph [ref=f37e320]: 中文号直接关联 @NEKOTOUFU_shop，归为同一店铺的国际渠道；淘宝与闲鱼名称有第一方声明，但具体平台 UID 未核实。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
+            - heading [level=2] [ref=f37e321]:
+              - text: 来源与图像
+              - link "¶" [ref=f37e322] [cursor=pointer]:
+                - /url: "#_7"
+            - paragraph [ref=f37e323]:
+              - text: 本档案整理于
+              - strong [ref=f37e324]: 2026-09-09
+              - text: ；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+            - paragraph [ref=f37e325]:
+              - link "制作方 X 公开简介、渠道与作品；访问于 2026-09-09" [ref=f37e326] [cursor=pointer]:
+                - /url: https://x.com/nekotoufufu
+            - paragraph [ref=f37e327]:
+              - link "2025-12-10 制作者目录；仅用于历史渠道线索" [ref=f37e328] [cursor=pointer]:
+                - /url: https://makers.kig-o.com/
+            - paragraph [ref=f37e329]:
+              - link "官方关联的国际业务号" [ref=f37e330] [cursor=pointer]:
+                - /url: https://x.com/NEKOTOUFU_shop
+            - paragraph [ref=f37e331]:
+              - text: 品牌识别图来自
+              - link "官方公开图片" [ref=f37e332] [cursor=pointer]:
+                - /url: https://pbs.twimg.com/profile_images/1819332827819003905/UPi0rl_c_400x400.jpg
+              - text: （
+              - link "来源" [ref=f37e333] [cursor=pointer]:
+                - /url: "#source-profile"
+              - text: ），仅用于店铺识别，权利归原权利人。图片未获得开放许可，不属于本站原创内容授权范围。
+            - paragraph [ref=f37e334]: 识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。
+            - paragraph [ref=f37e335]: 未查到的电话、微信、详细地址及平台账号不作推测；需要补证的字段不代表该信息不存在。
+            - paragraph [ref=f37e336]:
+              - link "返回店铺目录" [ref=f37e337] [cursor=pointer]:
+                - /url: ../
+              - text: ·
+              - link "收录、去重与平台核实" [ref=f37e338] [cursor=pointer]:
+                - /url: ../methodology/
+    - contentinfo [ref=f37e339]:
+      - generic [ref=f37e341]:
+        - generic [ref=f37e342]: Copyright © 2026 Kigurumi 编年志资料馆。本站内容用于资料整理、研究与教育参考；引用时请保留署名、出处与语境。
+        - generic [ref=f37e344]:
+          - link "首页" [ref=f37e345] [cursor=pointer]:
+            - /url: /
+          - link "参与加入" [ref=f37e348] [cursor=pointer]:
+            - /url: /join/
+          - link "编年目录" [ref=f37e351] [cursor=pointer]:
+            - /url: /chronicle/
+          - link "地点目录" [ref=f37e354] [cursor=pointer]:
+            - /url: /places/
+          - link "关于介绍" [ref=f37e357] [cursor=pointer]:
+            - /url: /about/
+          - link "引用规范" [ref=f37e360] [cursor=pointer]:
+            - /url: /citation/
+          - link "常见问题" [ref=f37e363] [cursor=pointer]:
+            - /url: /faq/
+          - link "开源协议" [ref=f37e366] [cursor=pointer]:
+            - /url: /license/

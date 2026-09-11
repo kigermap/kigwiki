@@ -1,0 +1,20 @@
+{
+  "url": "https://www.google.com/search?q=%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF+2000+%E6%AD%B4%E5%8F%B2",
+  "final_url": "https://www.google.com.hk/search?q=%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF+2000+%E6%AD%B4%E5%8F%B2",
+  "accessed": "2026-09-09",
+  "text": "Google Search\n如果您在几秒钟内没有被重定向，请点击\n此处\n。\n如果您无法访问 Google 搜索，请\n点击此处\n，或发送\n反馈\n。",
+  "links": [
+    {
+      "text": "此处",
+      "href": "/httpservice/retry/enablejs?sei=GzeharKIOvGCvr0P2oSTuAc"
+    },
+    {
+      "text": "点击此处",
+      "href": "/search?q=%E7%9D%80%E3%81%90%E3%82%8B%E3%81%BF+2000+%E6%AD%B4%E5%8F%B2&newwindow=1&sca_esv=ac456b0eb9994c0f&emsg=SG_REL&sei=GzeharKIOvGCvr0P2oSTuAc"
+    },
+    {
+      "text": "反馈",
+      "href": "https://support.google.com/websearch"
+    }
+  ]
+}

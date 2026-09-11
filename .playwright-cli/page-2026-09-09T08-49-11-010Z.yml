@@ -1,0 +1,401 @@
+- generic [active] [ref=f11e1]:
+  - link "跳转至" [ref=f11e2] [cursor=pointer]:
+    - /url: "#_1"
+  - banner [ref=f11e3]:
+    - navigation "页眉" [ref=f11e4]:
+      - link "Kigurumi 编年志" [ref=f11e5] [cursor=pointer]:
+        - /url: ..
+      - generic [ref=f11e9]:
+        - generic [ref=f11e10]: Kigurumi 编年志
+        - generic: 头壳店铺
+      - generic [ref=f11e12]:
+        - radio "切换到深色模式"
+        - generic "切换到深色模式" [ref=f11e13] [cursor=pointer]
+        - radio "切换到浅色模式"
+      - generic [ref=f11e17]:
+        - button "选择当前语言" [ref=f11e18] [cursor=pointer]
+        - generic [ref=f11e21]:
+          - list:
+            - listitem [ref=f11e22]:
+              - link "简体中文" [ref=f11e23] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=f11e24]:
+              - link "繁體中文" [ref=f11e25] [cursor=pointer]:
+                - /url: ../zh-Hant/makers/
+            - listitem [ref=f11e26]:
+              - link "English" [ref=f11e27] [cursor=pointer]:
+                - /url: ../en/makers/
+            - listitem [ref=f11e28]:
+              - link "日本語" [ref=f11e29] [cursor=pointer]:
+                - /url: ../ja/makers/
+            - listitem [ref=f11e30]:
+              - link "Русский" [ref=f11e31] [cursor=pointer]:
+                - /url: ../ru/makers/
+      - dialog [ref=f11e32]:
+        - search [ref=f11e33]:
+          - generic [ref=f11e34]:
+            - textbox "搜索" [ref=f11e35]
+            - navigation "查找":
+              - link "分享":
+                - /url: http://127.0.0.1:8021/makers/?q=
+              - button "清空当前内容"
+          - generic [ref=f11e37]: 正在初始化搜索引擎
+  - generic [ref=f11e40]:
+    - main [ref=f11e41]:
+      - generic [ref=f11e42]:
+        - navigation "导航栏" [ref=f11e46]:
+          - list [ref=f11e47]:
+            - listitem [ref=f11e48]:
+              - link "首页" [ref=f11e49] [cursor=pointer]:
+                - /url: ..
+            - listitem [ref=f11e54]:
+              - link "编年总览" [ref=f11e55] [cursor=pointer]:
+                - /url: ../chronicle/
+            - listitem [ref=f11e60]:
+              - link "年份目录" [ref=f11e61] [cursor=pointer]:
+                - /url: ../years/
+            - listitem [ref=f11e66]:
+              - link "近期采集" [ref=f11e67] [cursor=pointer]:
+                - /url: ../digests/
+            - listitem [ref=f11e72]:
+              - link "头壳店铺" [ref=f11e73] [cursor=pointer]:
+                - /url: ./
+            - listitem [ref=f11e78]:
+              - link "地点目录" [ref=f11e79] [cursor=pointer]:
+                - /url: ../places/
+            - listitem [ref=f11e84]:
+              - link "人物目录" [ref=f11e85] [cursor=pointer]:
+                - /url: ../people/
+            - listitem [ref=f11e90]:
+              - link "来源目录" [ref=f11e91] [cursor=pointer]:
+                - /url: ../sources/
+          - list [ref=f11e96]:
+            - listitem [ref=f11e97]:
+              - link "关于介绍" [ref=f11e98] [cursor=pointer]:
+                - /url: ../about/
+            - listitem [ref=f11e103]:
+              - link "参与加入" [ref=f11e104] [cursor=pointer]:
+                - /url: ../join/
+            - listitem [ref=f11e109]:
+              - link "贡献与支持" [ref=f11e110] [cursor=pointer]:
+                - /url: ../support/
+            - listitem [ref=f11e115]:
+              - link "引用规范" [ref=f11e116] [cursor=pointer]:
+                - /url: ../citation/
+            - listitem [ref=f11e121]:
+              - link "常见问题" [ref=f11e122] [cursor=pointer]:
+                - /url: ../faq/
+            - listitem [ref=f11e127]:
+              - link "开源协议" [ref=f11e128] [cursor=pointer]:
+                - /url: ../license/
+        - generic [ref=f11e133]:
+          - navigation "导航栏" [ref=f11e134]:
+            - list [ref=f11e135]:
+              - listitem [ref=f11e136]:
+                - link "首页" [ref=f11e137] [cursor=pointer]:
+                  - /url: ..
+              - listitem [ref=f11e138]:
+                - text: /
+                - link "头壳店铺" [ref=f11e139] [cursor=pointer]:
+                  - /url: ./
+              - listitem [ref=f11e140]: /店铺目录
+          - article [ref=f11e141]:
+            - generic [ref=f11e142]:
+              - paragraph [ref=f11e143]: KIGURUMI / MAKER DIRECTORY
+              - heading "头壳店铺" [level=1] [ref=f11e144]
+              - paragraph [ref=f11e145]: 国内与海外的 animegao kigurumi 头壳制作者。按店铺归档，沿公开来源了解作品、价格与委托方式。
+              - paragraph [ref=f11e146]:
+                - text: 资料核实 · 2026-09-09
+                - link "收录与复核说明" [ref=f11e147] [cursor=pointer]:
+                  - /url: methodology/
+            - generic [ref=f11e151]:
+              - generic [ref=f11e152]:
+                - strong [ref=f11e153]: "14"
+                - generic [ref=f11e154]: 有公开销售 / 询价入口
+              - generic [ref=f11e155]:
+                - strong [ref=f11e156]: "16"
+                - generic [ref=f11e157]: 独立店铺档案
+              - generic [ref=f11e158]:
+                - strong [ref=f11e159]: "07"
+                - generic [ref=f11e160]: 地区分组
+            - paragraph [ref=f11e161]: 仅收录人脸 / 动漫角色头壳。Furry 兽头、兽装及连体睡衣不在本目录范围内；混合经营店铺仅记录符合范围的商品。
+            - generic [ref=f11e162]:
+              - search "筛选头壳店铺" [ref=f11e163]:
+                - generic [ref=f11e164]:
+                  - generic [ref=f11e165]: 搜索店铺
+                  - searchbox "搜索店铺" [ref=f11e166]
+                - generic [ref=f11e167]:
+                  - generic [ref=f11e168]: 所在地区
+                  - combobox "所在地区" [ref=f11e169]:
+                    - option "全部地区" [selected]
+                    - option "中国大陆"
+                    - option "中国台湾"
+                    - option "日本"
+                    - option "英国"
+                    - option "澳大利亚 / 新加坡"
+                    - option "中国香港"
+                    - option "地区待核实"
+                    - option "美国"
+                - generic [ref=f11e170]:
+                  - generic [ref=f11e171]: 营业证据
+                  - combobox "营业证据" [ref=f11e172]:
+                    - option "公开销售 / 接受询价" [selected]
+                    - option "全部档案"
+                    - option "公开销售"
+                    - option "接受询价"
+                    - option "周期抽选"
+                    - option "暂停定制"
+                    - option "接单待核实"
+                - generic [ref=f11e173]:
+                  - generic [ref=f11e174]: 商品类型
+                  - combobox "商品类型" [ref=f11e175]:
+                    - option "全部类型" [selected]
+                    - option "修复"
+                    - option "全定制"
+                    - option "半定制"
+                    - option "改妆"
+                    - option "现货成品"
+                    - option "素体"
+                    - option "肤色衣"
+                    - option "配件"
+                    - option "量产成品"
+                - generic [ref=f11e176]:
+                  - generic [ref=f11e177]: 已确认渠道
+                  - combobox "已确认渠道" [ref=f11e178]:
+                    - option "全部渠道" [selected]
+                    - option "官网"
+                    - option "淘宝"
+                    - option "Etsy"
+                    - option "BASE"
+                - button "重置筛选" [ref=f11e179] [cursor=pointer]
+              - generic [ref=f11e183]:
+                - status [ref=f11e184]: 14 家符合条件 / 共 16 份档案
+                - link "下载完整数据" [ref=f11e185] [cursor=pointer]:
+                  - /url: /assets/data/makers.json
+              - generic [aria-hidden] [ref=f11e189]:
+                - generic [ref=f11e190]: 店铺 / 品牌
+                - generic [ref=f11e191]: 所在地区
+                - generic [ref=f11e192]: 商品与服务
+                - generic [ref=f11e193]: 公开价格摘要
+                - generic [ref=f11e194]: 营业证据
+              - list [ref=f11e195]:
+                - listitem [ref=f11e196]:
+                  - link "查看 MEIS 莓萌 / 拼好头 的店铺档案" [ref=f11e197] [cursor=pointer]:
+                    - /url: meis/
+                    - generic [ref=f11e198]:
+                      - img "MEIS 莓萌 / 拼好头 品牌识别图" [ref=f11e199]
+                      - generic [ref=f11e200]:
+                        - strong [ref=f11e201]: MEIS 莓萌 / 拼好头
+                        - generic [ref=f11e202]: 同一经营主体下的角色定制与量产头壳品牌，提供 PHT 系列和一对一角色定制。
+                    - generic [ref=f11e203]: 中国大陆
+                    - generic [ref=f11e204]: 量产成品 / 全定制
+                    - generic [ref=f11e205]: CNY 998 起（量产）
+                    - generic [ref=f11e206]: 公开销售
+                - listitem [ref=f11e212]:
+                  - link "查看 河妖工房 HEYAOHEYAO 的店铺档案" [ref=f11e213] [cursor=pointer]:
+                    - /url: heyao/
+                    - generic [ref=f11e214]:
+                      - img "河妖工房 HEYAOHEYAO 品牌识别图" [ref=f11e215]
+                      - generic [ref=f11e216]:
+                        - strong [ref=f11e217]: 河妖工房 HEYAOHEYAO
+                        - generic [ref=f11e218]: 提供角色头壳定制及命名型号现货，官网自述从 2013 年开始制作头壳。
+                    - generic [ref=f11e219]: 中国大陆
+                    - generic [ref=f11e220]: 现货成品 / 全定制
+                    - generic [ref=f11e221]: USD 1180 起（所录现货）
+                    - generic [ref=f11e222]: 公开销售
+                - listitem [ref=f11e228]:
+                  - link "查看 不还原人形 BHY 的店铺档案" [ref=f11e229] [cursor=pointer]:
+                    - /url: bhy/
+                    - generic [ref=f11e230]:
+                      - img "不还原人形 BHY 品牌识别图" [ref=f11e231]
+                      - generic [ref=f11e232]:
+                        - strong [ref=f11e233]: 不还原人形 BHY
+                        - generic [ref=f11e234]: 提供动漫角色全定制，官网公开约 150 个自然日工期及分阶段付款流程。
+                    - generic [ref=f11e235]: 中国大陆
+                    - generic [ref=f11e236]: 全定制
+                    - generic [ref=f11e237]: 整头询价；USD 400 起订金
+                    - generic [ref=f11e238]: 接受询价
+                - listitem [ref=f11e244]:
+                  - link "查看 玄猫物語 BlackCatKig 的店铺档案" [ref=f11e245] [cursor=pointer]:
+                    - /url: blackcat/
+                    - generic [ref=f11e246]:
+                      - img "玄猫物語 BlackCatKig 品牌识别图" [ref=f11e247]
+                      - generic [ref=f11e248]:
+                        - strong [ref=f11e249]: 玄猫物語 BlackCatKig
+                        - generic [ref=f11e250]: 上海的动漫人脸头壳工作室，提供 SLA 树脂打印、角色定制、现货与订单查询。
+                    - generic [ref=f11e251]: 中国大陆
+                    - generic [ref=f11e252]: 现货成品 / 全定制
+                    - generic [ref=f11e253]: USD 835（定制入口标价）
+                    - generic [ref=f11e254]: 公开销售
+                - listitem [ref=f11e260]:
+                  - link "查看 HiDolls / Dreammask Studio 的店铺档案" [ref=f11e261] [cursor=pointer]:
+                    - /url: hidolls/
+                    - generic [ref=f11e262]:
+                      - img "HiDolls / Dreammask Studio 品牌识别图" [ref=f11e263]
+                      - generic [ref=f11e264]:
+                        - strong [ref=f11e265]: HiDolls / Dreammask Studio
+                        - generic [ref=f11e266]: Dreammask 旗下的头壳产品线，提供 YumeFace 人脸模块化头壳与动漫角色定制。
+                    - generic [ref=f11e267]: 中国大陆
+                    - generic [ref=f11e268]: 量产成品 / 全定制
+                    - generic [ref=f11e269]: USD 1045.80（HD-T1 活动价）
+                    - generic [ref=f11e270]: 公开销售
+                - listitem [ref=f11e276]:
+                  - link "查看 偶域 Kig.Land 的店铺档案" [ref=f11e277] [cursor=pointer]:
+                    - /url: kigland/
+                    - generic [ref=f11e278]:
+                      - generic "未收录官方图标" [ref=f11e279]: 暂无图标
+                      - generic [ref=f11e280]:
+                        - strong [ref=f11e281]: 偶域 Kig.Land
+                        - generic [ref=f11e282]: 提供角色定制、现货、半成品、假发与道具，主站公开 M.A.G.I.C 头壳产品线。
+                    - generic [ref=f11e283]: 中国大陆
+                    - generic [ref=f11e284]: 现货成品 / 全定制
+                    - generic [ref=f11e285]: 官网未公开具体型号价格
+                    - generic [ref=f11e286]: 接受询价
+                - listitem [ref=f11e292]:
+                  - link "查看 豪華王 GKO 的店铺档案" [ref=f11e293] [cursor=pointer]:
+                    - /url: gko/
+                    - generic [ref=f11e294]:
+                      - img "豪華王 GKO 品牌识别图" [ref=f11e295]
+                      - generic [ref=f11e296]:
+                        - strong [ref=f11e297]: 豪華王 GKO
+                        - generic [ref=f11e298]: 提供 GPM 系列半定制头壳、FRP DIY 素体与成品，公开分项价格。
+                    - generic [ref=f11e299]: 中国台湾
+                    - generic [ref=f11e300]: 半定制 / 素体
+                    - generic [ref=f11e301]: USD 300 素体 / USD 960 本体
+                    - generic [ref=f11e302]: 公开销售
+                - listitem [ref=f11e308]:
+                  - link "查看 造型工房 SIGMA 的店铺档案" [ref=f11e309] [cursor=pointer]:
+                    - /url: sigma/
+                    - generic [ref=f11e310]:
+                      - generic "未收录官方图标" [ref=f11e311]: 暂无图标
+                      - generic [ref=f11e312]:
+                        - strong [ref=f11e313]: 造型工房 SIGMA
+                        - generic [ref=f11e314]: 1999 年成立的人型着ぐるみ造型团队，提供 ENA 等原创面型和角色定制。
+                    - generic [ref=f11e315]: 日本
+                    - generic [ref=f11e316]: 半定制 / 全定制
+                    - generic [ref=f11e317]: JPY 104500 起（ENA）
+                    - generic [ref=f11e318]: 接受询价
+                - listitem [ref=f11e324]:
+                  - link "查看 むにむに製作所 MuniMuni 的店铺档案" [ref=f11e325] [cursor=pointer]:
+                    - /url: munimuni/
+                    - generic [ref=f11e326]:
+                      - img "むにむに製作所 MuniMuni 品牌识别图" [ref=f11e327]
+                      - generic [ref=f11e328]:
+                        - strong [ref=f11e329]: むにむに製作所 MuniMuni
+                        - generic [ref=f11e330]: 提供 PVC 与 FRP 人脸面具、化妆套装和 DIY 零件，产品线覆盖 KAWAII、IDOL 等系列。
+                    - generic [ref=f11e331]: 日本
+                    - generic [ref=f11e332]: 量产成品 / 素体
+                    - generic [ref=f11e333]: JPY 19800（所录套装）
+                    - generic [ref=f11e334]: 公开销售
+                - listitem [ref=f11e340]:
+                  - link "查看 DAME Kigurumi 的店铺档案" [ref=f11e341] [cursor=pointer]:
+                    - /url: dame/
+                    - generic [ref=f11e342]:
+                      - img "DAME Kigurumi 品牌识别图" [ref=f11e343]
+                      - generic [ref=f11e344]:
+                        - strong [ref=f11e345]: DAME Kigurumi
+                        - generic [ref=f11e346]: 英国制作的可配置 animegao 头壳，Gen 3 支持可拆假发、可换眼片和全头后壳选配。
+                    - generic [ref=f11e347]: 英国
+                    - generic [ref=f11e348]: 半定制 / 素体
+                    - generic [ref=f11e349]: GBP 605 起（Ami Gen 3）
+                    - generic [ref=f11e350]: 公开销售
+                - listitem [ref=f11e356]:
+                  - link "查看 提督工房 Teitoku Workshop 的店铺档案" [ref=f11e357] [cursor=pointer]:
+                    - /url: teitoku/
+                    - generic [ref=f11e358]:
+                      - img "提督工房 Teitoku Workshop 品牌识别图" [ref=f11e359]
+                      - generic [ref=f11e360]:
+                        - strong [ref=f11e361]: 提督工房 Teitoku Workshop
+                        - generic [ref=f11e362]: 2015 年成立于香港的全定制工房，以周期申请方式承接头壳制作。
+                    - generic [ref=f11e363]: 中国香港
+                    - generic [ref=f11e364]: 全定制 / 修复
+                    - generic [ref=f11e365]: HKD 10000 起
+                    - generic [ref=f11e366]: 周期抽选
+                - listitem [ref=f11e372]:
+                  - link "查看 THE KAGA 的店铺档案" [ref=f11e373] [cursor=pointer]:
+                    - /url: kaga/
+                    - generic [ref=f11e374]:
+                      - generic "未收录官方图标" [ref=f11e375]: 暂无图标
+                      - generic [ref=f11e376]:
+                        - strong [ref=f11e377]: THE KAGA
+                        - generic [ref=f11e378]: 提供 FRP 角色头壳定制，官网 FAQ 公开起价、工期与配送费用。
+                    - generic [ref=f11e379]: 中国香港
+                    - generic [ref=f11e380]: 全定制
+                    - generic [ref=f11e381]: USD 800 起
+                    - generic [ref=f11e382]: 接受询价
+                - listitem [ref=f11e388]:
+                  - link "查看 KigCos / Wyu 的店铺档案" [ref=f11e389] [cursor=pointer]:
+                    - /url: kigcos/
+                    - generic [ref=f11e390]:
+                      - img "KigCos / Wyu 品牌识别图" [ref=f11e391]
+                      - generic [ref=f11e392]:
+                        - strong [ref=f11e393]: KigCos / Wyu
+                        - generic [ref=f11e394]: 提供多款可配置人脸头壳，部分型号可增加机械眨眼和可替换假发。
+                    - generic [ref=f11e395]: 澳大利亚 / 新加坡
+                    - generic [ref=f11e396]: 半定制 / 配件
+                    - generic [ref=f11e397]: USD 860 起（所录整头）
+                    - generic [ref=f11e398]: 接受询价
+                - listitem [ref=f11e404]:
+                  - link "查看 MidDreamKigu（原 KigLover） 的店铺档案" [ref=f11e405] [cursor=pointer]:
+                    - /url: middream/
+                    - generic [ref=f11e406]:
+                      - img "MidDreamKigu（原 KigLover） 品牌识别图" [ref=f11e407]
+                      - generic [ref=f11e408]:
+                        - strong [ref=f11e409]: MidDreamKigu（原 KigLover）
+                        - generic [ref=f11e410]: 官网已从 KigLover 更名为 MidDreamKigu，提供 animegao 角色头壳定制咨询。
+                    - generic [ref=f11e411]: 地区待核实
+                    - generic [ref=f11e412]: 全定制
+                    - generic [ref=f11e413]: 整头询价；订金单列
+                    - generic [ref=f11e414]: 接受询价
+            - heading [level=2] [ref=f11e420]:
+              - text: 本次复核
+              - link "¶" [ref=f11e421] [cursor=pointer]:
+                - /url: "#_1"
+            - paragraph [ref=f11e422]:
+              - strong [ref=f11e423]: “公开销售 / 接受询价”代表第一方网页有商业入口，不等同于已经验证可立即接单、现货库存或交易履约。
+              - text: 原币金额是核实时的公开快照，订金、配件及停产余货分别标注。
+            - list [ref=f11e424]:
+              - listitem [ref=f11e425]: 莓萌与拼好头合并；与偶域保持独立。
+              - listitem [ref=f11e426]: KigLover 更名为 MidDreamKigu；保留旧名方便检索。
+              - listitem [ref=f11e427]: Kigurumi Sensei 暂停定制；冉月剧团近期有成品，但新单状态待确认。
+              - listitem [ref=f11e428]: HiDolls 的 Animal 系列不收录；Mirrodoll 当前域名转为宠物盲盒，不作为头壳营业证据。
+            - paragraph [ref=f11e429]:
+              - link "查看平台覆盖、待复核线索与去重依据" [ref=f11e430] [cursor=pointer]:
+                - /url: methodology/
+              - text: ·
+              - link "地点目录" [ref=f11e431] [cursor=pointer]:
+                - /url: ../places/
+              - text: ·
+              - link "提交补充或勘误" [ref=f11e432] [cursor=pointer]:
+                - /url: ../join/
+    - contentinfo [ref=f11e433]:
+      - navigation "页脚" [ref=f11e434]:
+        - 'link "上一页: 2026 年 9 月公开资料摘要" [ref=f11e435] [cursor=pointer]':
+          - /url: ../digests/2026-09/
+          - generic [ref=f11e439]:
+            - text: 上一页
+            - generic [ref=f11e440]: 2026 年 9 月公开资料摘要
+        - 'link "下一页: 收录与复核" [ref=f11e441] [cursor=pointer]':
+          - /url: methodology/
+          - generic [ref=f11e442]:
+            - text: 下一页
+            - generic [ref=f11e443]: 收录与复核
+      - generic [ref=f11e448]:
+        - generic [ref=f11e449]: Copyright © 2026 Kigurumi 编年志资料馆。本站内容用于资料整理、研究与教育参考；引用时请保留署名、出处与语境。
+        - generic [ref=f11e451]:
+          - link "首页" [ref=f11e452] [cursor=pointer]:
+            - /url: /
+          - link "参与加入" [ref=f11e455] [cursor=pointer]:
+            - /url: /join/
+          - link "编年目录" [ref=f11e458] [cursor=pointer]:
+            - /url: /chronicle/
+          - link "地点目录" [ref=f11e461] [cursor=pointer]:
+            - /url: /places/
+          - link "关于介绍" [ref=f11e464] [cursor=pointer]:
+            - /url: /about/
+          - link "引用规范" [ref=f11e467] [cursor=pointer]:
+            - /url: /citation/
+          - link "常见问题" [ref=f11e470] [cursor=pointer]:
+            - /url: /faq/
+          - link "开源协议" [ref=f11e473] [cursor=pointer]:
+            - /url: /license/
