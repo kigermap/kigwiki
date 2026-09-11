@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "file": "doll-event-1.jpg",
+      "source_url": "https://www.kigis.me/images/dolleveryday/event-1.jpg",
+      "source_page": "https://www.kigis.me/dolleveryday",
+      "attribution": "MEIS / Doll Everyday",
+      "retrieved_at": "2026-09-11",
+      "width": 2400,
+      "height": 1556,
+      "bytes": 777054,
+      "sha256": "79426536941fd66ea19b7f0ed2e8e6feebf892f74735df90d6d16376baf89cef",
+      "rights": "Third-party official website image; copyright remains with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "doll-event-2.jpg",
+      "source_url": "https://www.kigis.me/images/dolleveryday/event-2.jpg",
+      "source_page": "https://www.kigis.me/dolleveryday",
+      "attribution": "MEIS / Doll Everyday",
+      "retrieved_at": "2026-09-11",
+      "width": 2400,
+      "height": 1350,
+      "bytes": 554475,
+      "sha256": "4ad98fbb244d8ca3a7da0ca72932841194cf40c8b6dd27adf915d63de180cfb9",
+      "rights": "Third-party official website image; copyright remains with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "doll-event-3.jpg",
+      "source_url": "https://www.kigis.me/images/dolleveryday/event-3.jpg",
+      "source_page": "https://www.kigis.me/dolleveryday",
+      "attribution": "MEIS / Doll Everyday",
+      "retrieved_at": "2026-09-11",
+      "width": 2400,
+      "height": 1350,
+      "bytes": 704164,
+      "sha256": "f4dba7e636a379e2f2fb041ab1eeadcbac73817475b7a7053ce1926662b8f3d5",
+      "rights": "Third-party official website image; copyright remains with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "satellite-dollkii.jpg",
+      "source_url": "https://image.jimcdn.com/app/cms/image/transf/dimension=1088x10000:format=jpg/path/s46aa1fd4cd0f1d5d/image/i534c62d9f361faa9/version/1780233649/image.jpg",
+      "source_page": "https://satellitedoor-men.jimdofree.com/",
+      "attribution": "Satellite Door",
+      "retrieved_at": "2026-09-11",
+      "width": 1088,
+      "height": 731,
+      "bytes": 217441,
+      "sha256": "012ceb819237761ef1e7ff29fda2daad1c67db37755e32f5c1c2b160383dc4b3",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "satellite-outdoor.jpg",
+      "source_url": "https://image.jimcdn.com/app/cms/image/transf/dimension=1052x1024:format=jpg/path/s46aa1fd4cd0f1d5d/image/i2c9a15fffcd6f6fd/version/1780102849/image.jpg",
+      "source_page": "https://satellitedoor-men.jimdofree.com/",
+      "attribution": "Satellite Door",
+      "retrieved_at": "2026-09-11",
+      "width": 1052,
+      "height": 701,
+      "bytes": 218568,
+      "sha256": "90a1f7b486a39b568b9db77e34ac55ff08a18ff5777dfa18c01b28c682014dc9",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "satellite-reve.png",
+      "source_url": "https://image.jimcdn.com/app/cms/image/transf/none/path/s46aa1fd4cd0f1d5d/image/i4d95cce37648a8eb/version/1776175764/image.png",
+      "source_page": "https://satellitedoor-men.jimdofree.com/",
+      "attribution": "Satellite Door",
+      "retrieved_at": "2026-09-11",
+      "width": 666,
+      "height": 1000,
+      "bytes": 1344909,
+      "sha256": "2026f539fcff889c31be64dc0942a0ddc4ebcdedd3f095e9039e501c24153bf9",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "c7-experience.webp",
+      "source_url": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=50;0;617;0,width=2560,height=1422/image/273978410/2d9133a9-bef1-4a20-a6ca-842aad82fda1.jpg",
+      "source_page": "https://garagestudioc7.jimdosite.com/kigurumi-experience/",
+      "attribution": "GarageStudioC7",
+      "retrieved_at": "2026-09-11",
+      "width": 2560,
+      "height": 1422,
+      "bytes": 188200,
+      "sha256": "7467b548dd7c95b918adaead4cad807517e458c1360540058110a4592a564a89",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "choko-ran.jpg",
+      "source_url": "https://www.choko-group.com/images/pic_rental01_29.jpg",
+      "source_page": "https://www.choko-group.com/rental.html",
+      "attribution": "CHOKO.group",
+      "retrieved_at": "2026-09-11",
+      "width": 265,
+      "height": 330,
+      "bytes": 17634,
+      "sha256": "87569aab41044884b827ef1042392f66f3c500163456a6eea4171aece70d1d16",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "choko-maid.jpg",
+      "source_url": "https://www.choko-group.com/images/pic_rental01_31.jpg",
+      "source_page": "https://www.choko-group.com/rental.html",
+      "attribution": "CHOKO.group",
+      "retrieved_at": "2026-09-11",
+      "width": 265,
+      "height": 330,
+      "bytes": 12449,
+      "sha256": "e72401f87deaa592f6c13c7513cfc79d6ae93fd19aa984ce31bf0c59fe641ce6",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "choko-studio.jpg",
+      "source_url": "https://www.choko-group.com/images/studio_img01.jpg",
+      "source_page": "https://www.choko-group.com/studio.html",
+      "attribution": "CHOKO.group",
+      "retrieved_at": "2026-09-11",
+      "width": 1594,
+      "height": 1200,
+      "bytes": 495997,
+      "sha256": "fef740eda096313d542c70895fcbde64fee79ea18c6c765b386b44651f5695c4",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "c7-garage.webp",
+      "source_url": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=667;0;0;0,width=2560,height=1422/image/270613701/ae83de2c-521e-45b1-b0e6-003b2c38d462.jpg",
+      "source_page": "https://garagestudioc7.jimdosite.com/",
+      "attribution": "GarageStudioC7",
+      "retrieved_at": "2026-09-11",
+      "width": 2560,
+      "height": 1422,
+      "bytes": 197932,
+      "sha256": "32c4525b1ba446239e624beb44c08941c76d2e1a5435b3cd9f831cea8f7636b9",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    },
+    {
+      "file": "c7-gallery.webp",
+      "source_url": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=2560,height=1707/image/273417105/ed52a5fd-1da3-4c4d-a822-2ba74f1b0e5b.jpg",
+      "source_page": "https://garagestudioc7.jimdosite.com/",
+      "attribution": "GarageStudioC7",
+      "retrieved_at": "2026-09-11",
+      "width": 2560,
+      "height": 1706,
+      "bytes": 177328,
+      "sha256": "0f9e16332ab83a63e029d9a26fcb65bdd8f188a1cc099de5145c4bb699c7510b",
+      "rights": "Third-party official website image; rights remain with the respective rights holder. No open license verified."
+    }
+  ]
+}
