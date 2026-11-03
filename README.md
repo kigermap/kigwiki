@@ -112,6 +112,8 @@ python scripts/build_indexes.py --write
 
 独立栏目为 `/makers/`，可筛选并进入每个主体的档案。其他语言沿用既有简体中文回退机制，不将回退内容冒充已完成翻译。
 
+目录使用作品卡片与分批展示（每次 24 条），筛选始终覆盖全部记录；详情页使用可切换图集、价格卡片和分区来源说明。共享展示组件位于 `scripts/maker_ui.py`，保留全部原始配图与来源锚点；布局同时适配桌面、手机及深色模式。
+
 - 数据母本：`docs/assets/data/makers.yml`，保留字段来源、币种、订金和营业状态。
 - 重新生成：`.venv/bin/python scripts/build_makers.py`。
 - 一致性校验：`.venv/bin/python scripts/build_makers.py --check`。
