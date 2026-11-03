@@ -47,9 +47,44 @@ description: "以熊熊家kigurumi发布制作业务，接受成品与角色定�
 
 简介与置顶将熊熊家、熊熊技研及完整淘宝名称对应；旧目录的长地址与短链尚未核实为同一 UID，分别标注证据。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+<h3>熊熊工业技研中心 · 二次元头壳</h3>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>1500-1800 左右</td></tr>
+<tr><th scope="row">参考价格</th><td>1999-3888</td></tr>
+<tr><th scope="row">工期时间</th><td>30-60 天</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop288725622.taobao.com/" rel="noopener noreferrer">https://shop288725622.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>【家人们捡到一个娃！】 <a href="https://www.bilibili.com/video/BV1xW7g6EEjw/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43" rel="noopener noreferrer">https://www.bilibili.com/video/BV1xW7g6EEjw/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43</a></td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>原文未填写</td></tr>
+<tr><th scope="row">编者批注</th><td>原文未填写</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/5348a86749becf6a.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/5348a86749becf6a.webp" alt="熊熊工业技研中心 · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>熊熊工业技研中心 · 原文配图 1</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/6b5c3fe541d7fe8a.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/6b5c3fe541d7fe8a.webp" alt="熊熊工业技研中心 · 原文配图 2" loading="lazy" decoding="async"></a><figcaption>熊熊工业技研中心 · 原文配图 2</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/61034b5f3499e063.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/61034b5f3499e063.webp" alt="熊熊工业技研中心 · 原文配图 3" loading="lazy" decoding="async"></a><figcaption>熊熊工业技研中心 · 原文配图 3</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#EXWWdYvSAo5WVAxH6iNcuo7Nnnh">查看原文对应位置</a>。图片权利归原权利人。</p>
+
+<h3>熊熊工业技研中心 · 肤色衣</h3>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">参考价格</th><td>基础款定制 445 事业线定制 550<br>基础款现货 378-428 事业线现货 478-528</td></tr>
+<tr><th scope="row">工期时间</th><td>定制 15-20天，均码2-4天</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop288725622.taobao.com/" rel="noopener noreferrer">https://shop288725622.taobao.com/</a></td></tr>
+<tr><th scope="row">编者批注</th><td>现货皮尺寸大一码 +10，有印花制作。基础款带裆</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/4db4c605700c61b3.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/4db4c605700c61b3.webp" alt="熊熊工业技研中心 · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>熊熊工业技研中心 · 原文配图 1</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#LlUxd0WgIojxbnxt2nIcfPh8n3c">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-profile"><a href="https://x.com/BearTechCenter" rel="noopener noreferrer">制作方 X 公开简介、渠道与作品；访问于 2026-09-09</a></p>
 

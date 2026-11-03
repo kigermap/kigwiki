@@ -49,9 +49,32 @@ description: "同一经营主体下的角色定制与量产头壳品牌，提供
 
 官网关于页明确莓萌、拼好头、绘面属于虹野物联，按一个经营主体合并，保留子品牌。PHT-01 FAQ 明确与偶域 Kig.Land 不是同一家；友情链接不构成同店证据。尚未确认其拼多多、闲鱼、京东或亚马逊店铺。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+<h3>MEIS 莓萌 KIGURUMI · 二次元头壳</h3>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>1000or1500</td></tr>
+<tr><th scope="row">参考价格</th><td>1145.14（量产头）3600+（全头）</td></tr>
+<tr><th scope="row">工期时间</th><td>原文未填写</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop536559670.taobao.com/" rel="noopener noreferrer">https://shop536559670.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>【黑泽露比的 360°AiScream～】 <a href="https://www.bilibili.com/video/BV1fSH1zwEbg/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43" rel="noopener noreferrer">https://www.bilibili.com/video/BV1fSH1zwEbg/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43</a></td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>子供向动漫，古早动漫，量产头，萝莉</td></tr>
+<tr><th scope="row">编者批注</th><td>替换脸 1500</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/43943f61c6955dfd.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/43943f61c6955dfd.webp" alt="MEIS 莓萌 KIGURUMI · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>MEIS 莓萌 KIGURUMI · 原文配图 1</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/81f8d9d7fa6eee02.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/81f8d9d7fa6eee02.webp" alt="MEIS 莓萌 KIGURUMI · 原文配图 2" loading="lazy" decoding="async"></a><figcaption>MEIS 莓萌 KIGURUMI · 原文配图 2</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/fad1e958aeb9f7c0.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/fad1e958aeb9f7c0.webp" alt="MEIS 莓萌 KIGURUMI · 原文配图 3" loading="lazy" decoding="async"></a><figcaption>MEIS 莓萌 KIGURUMI · 原文配图 3</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Lc1zdHBKdoRslKxqvvtcn3Xnnsc">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-home"><a href="https://www.kigis.me/" rel="noopener noreferrer">官方首页及平台链接</a></p>
 

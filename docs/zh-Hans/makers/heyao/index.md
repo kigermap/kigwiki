@@ -47,9 +47,44 @@ description: "提供角色头壳定制及命名型号现货，官网自述从 20
 
 官网品牌与河妖工房中文名称相互对应。淘宝 shop339252004 同时见于两份社群目录，归属仅作候选关联；本次没有取得官方跨链，不能把该店当前商品和价格并入官网数据。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+<h3>河妖工坊/河妖填充社/河妖研造所 · 二次元头壳</h3>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>3000</td></tr>
+<tr><th scope="row">参考价格</th><td>标头 5k-7k，拉链 6.5k-8k</td></tr>
+<tr><th scope="row">工期时间</th><td>3-4 个月</td></tr>
+<tr><th scope="row">店铺链接</th><td>河妖工坊：<a href="https://shop339252004.taobao.com/" rel="noopener noreferrer">https://shop339252004.taobao.com/</a><br>河妖填充社：<a href="https://shop547408715.taobao.com/" rel="noopener noreferrer">https://shop547408715.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>【新胶胶香香～】<br><a href="https://www.bilibili.com/video/BV1xyp2zEEwi/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43" rel="noopener noreferrer">https://www.bilibili.com/video/BV1xyp2zEEwi/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43</a></td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>明日方舟，少女，全类型，男角色，萝莉</td></tr>
+<tr><th scope="row">编者批注</th><td>批量接单，具体开单时间移步客服和官方客户群，河妖填充社是河妖拉链头定制</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/169cc2b9289efb0b.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/169cc2b9289efb0b.webp" alt="河妖工坊/河妖填充社/河妖研造所 · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>河妖工坊/河妖填充社/河妖研造所 · 原文配图 1</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/4f07be1104fc9160.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/4f07be1104fc9160.webp" alt="河妖工坊/河妖填充社/河妖研造所 · 原文配图 2" loading="lazy" decoding="async"></a><figcaption>河妖工坊/河妖填充社/河妖研造所 · 原文配图 2</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/99a1d17dc6fda114.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/99a1d17dc6fda114.webp" alt="河妖工坊/河妖填充社/河妖研造所 · 原文配图 3" loading="lazy" decoding="async"></a><figcaption>河妖工坊/河妖填充社/河妖研造所 · 原文配图 3</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#P4ZmdIbwQoCsnexbsMUc8ncQnmb">查看原文对应位置</a>。图片权利归原权利人。</p>
+
+<h3>河妖工坊 · 肤色衣</h3>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">参考价格</th><td>基础款：520 背心款：760</td></tr>
+<tr><th scope="row">工期时间</th><td>两周</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop339252004.taobao.com/" rel="noopener noreferrer">https://shop339252004.taobao.com/</a></td></tr>
+<tr><th scope="row">编者批注</th><td>加手部拉链：30，自带裆部</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/5e4b0e08ecc7926f.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/5e4b0e08ecc7926f.webp" alt="河妖工坊 · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>河妖工坊 · 原文配图 1</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Wn5Bd0DP4oVgirxueBeci0mInEb">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-home"><a href="https://heyaoheyao.com/" rel="noopener noreferrer">官方产品与品牌介绍</a></p>
 

@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 .DS_Store
 
+# Local authenticated clipboard snapshots and full-size downloaded source images.
+output/feishu-import-2026-11-03/

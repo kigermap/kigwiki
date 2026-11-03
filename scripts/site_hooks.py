@@ -572,6 +572,10 @@ def _patch_html_pages(site_dir: Path) -> None:
 
 def on_post_build(config, **kwargs):
     site_dir = Path(config["site_dir"])
+    # Keep this archive as a raw downloadable Markdown file, outside page routing.
+    download = Path("assets/data/feishu-shop-collection.md")
+    (site_dir / download).parent.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(Path(config["docs_dir"]) / download, site_dir / download)
     _patch_html_pages(site_dir)
     _mirror_sitemaps(site_dir)
 

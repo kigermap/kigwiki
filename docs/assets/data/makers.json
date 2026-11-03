@@ -33,6 +33,10 @@
   "makers": [
     {
       "id": "hidolls",
+      "collection_entries": [
+        "fcb0cd6456",
+        "f4ca7e2400"
+      ],
       "name": "HiDolls / Dreammask Studio",
       "aliases": [
         "HaiDolls",
@@ -147,6 +151,9 @@
     },
     {
       "id": "meis",
+      "collection_entries": [
+        "9a6ee5f6c0"
+      ],
       "name": "MEIS 莓萌 / 拼好头",
       "aliases": [
         "莓萌",
@@ -318,6 +325,10 @@
     },
     {
       "id": "heyao",
+      "collection_entries": [
+        "b92c172d01",
+        "19d135b284"
+      ],
       "name": "河妖工房 HEYAOHEYAO",
       "aliases": [
         "河妖工坊",
@@ -438,6 +449,9 @@
     },
     {
       "id": "bhy",
+      "collection_entries": [
+        "d3388c1668"
+      ],
       "name": "不还原人形 BHY",
       "aliases": [
         "BHYrenxing",
@@ -551,6 +565,10 @@
     },
     {
       "id": "blackcat",
+      "collection_entries": [
+        "db4165bf3c",
+        "4be48beeb9"
+      ],
       "name": "玄猫物語 BlackCatKig",
       "aliases": [
         "玄貓物語",
@@ -702,6 +720,9 @@
     },
     {
       "id": "kigland",
+      "collection_entries": [
+        "4f8227cb09"
+      ],
       "name": "偶域 Kig.Land",
       "aliases": [
         "KIGLAND",
@@ -1805,6 +1826,9 @@
     },
     {
       "id": "umoon",
+      "collection_entries": [
+        "c444c446e5"
+      ],
       "name": "冉月剧团 Umoon",
       "aliases": [
         "Umoon Kigurumi",
@@ -1909,6 +1933,9 @@
     },
     {
       "id": "raigeki",
+      "collection_entries": [
+        "d61fe6d97c"
+      ],
       "name": "雷击工坊 Raigeki",
       "aliases": [
         "雷撃工房",
@@ -1974,6 +2001,10 @@
     },
     {
       "id": "nekotofu",
+      "collection_entries": [
+        "84599ad29a",
+        "b7d213e0f2"
+      ],
       "name": "猫豆腐 NekoToufu",
       "aliases": [
         "猫豆腐NekoToufu",
@@ -2116,6 +2147,10 @@
     },
     {
       "id": "haagaau",
+      "collection_entries": [
+        "e6a2a5e668",
+        "f245ff915a"
+      ],
       "name": "虾饺工房 Haagaau",
       "aliases": [
         "Kigurumi虾饺工房",
@@ -2224,6 +2259,9 @@
     },
     {
       "id": "4uuone",
+      "collection_entries": [
+        "9a8be1518f"
+      ],
       "name": "底层人员 4uuone",
       "aliases": [
         "kigurumi底层人员",
@@ -2307,6 +2345,9 @@
     },
     {
       "id": "power",
+      "collection_entries": [
+        "dba66aa864"
+      ],
       "name": "速趴抛瓦 Power Kigurumi",
       "aliases": [
         "抛瓦",
@@ -2396,6 +2437,10 @@
     },
     {
       "id": "akg",
+      "collection_entries": [
+        "9c59010f7e",
+        "3f8560fb00"
+      ],
       "name": "AKG / Alice Kig Garden",
       "aliases": [
         "AKG工坊",
@@ -2499,6 +2544,9 @@
     },
     {
       "id": "beadoll",
+      "collection_entries": [
+        "ca720d375c"
+      ],
       "name": "偶形记 BEADOLL",
       "aliases": [
         "偶形记BEADOLL"
@@ -2567,6 +2615,9 @@
     },
     {
       "id": "dora",
+      "collection_entries": [
+        "76b640f652"
+      ],
       "name": "哆啦工坊 Dora Studio",
       "aliases": [
         "Kigurumi哆啦工坊",
@@ -2657,6 +2708,9 @@
     },
     {
       "id": "fantasymasks",
+      "collection_entries": [
+        "1cd9321e5e"
+      ],
       "name": "绮幻坊 FantasyMasks",
       "aliases": [
         "FantasyMasks绮幻坊",
@@ -2762,6 +2816,9 @@
     },
     {
       "id": "newfacedoll",
+      "collection_entries": [
+        "5e8947a123"
+      ],
       "name": "新颜玩偶 New Face Doll",
       "aliases": [
         "NFD",
@@ -2831,6 +2888,9 @@
     },
     {
       "id": "shinkai",
+      "collection_entries": [
+        "9f8d4ce9fb"
+      ],
       "name": "深海工坊 Shinkai Workshop",
       "aliases": [
         "深海工房",
@@ -2922,6 +2982,9 @@
     },
     {
       "id": "samon",
+      "collection_entries": [
+        "0fde75ddd6"
+      ],
       "name": "厚切三文鱼工坊 Samon",
       "aliases": [
         "KIGURUMI厚切三文鱼工坊",
@@ -3005,6 +3068,9 @@
     },
     {
       "id": "aniplus",
+      "collection_entries": [
+        "c36fb6563d"
+      ],
       "name": "壳反应 Aniplus",
       "aliases": [
         "壳反应Aniplus",
@@ -3097,6 +3163,9 @@
     },
     {
       "id": "nm",
+      "collection_entries": [
+        "4b4e04266f"
+      ],
       "name": "NM工坊 Nonhumanmasque",
       "aliases": [
         "nonhumanmasque",
@@ -3165,6 +3234,9 @@
     },
     {
       "id": "xingyueqi",
+      "collection_entries": [
+        "377dd0978b"
+      ],
       "name": "星玥琦工坊",
       "aliases": [
         "XYQ",
@@ -3245,6 +3317,9 @@
     },
     {
       "id": "sakurano",
+      "collection_entries": [
+        "d2010324f0"
+      ],
       "name": "乃粉罐头 Sakurano",
       "aliases": [
         "乃粉罐头",
@@ -3319,6 +3394,9 @@
     },
     {
       "id": "rabbit",
+      "collection_entries": [
+        "9dcabc3df5"
+      ],
       "name": "兔子 Kigurumi 工坊",
       "aliases": [
         "兔子kigurumi工坊",
@@ -3394,6 +3472,10 @@
     },
     {
       "id": "beartech",
+      "collection_entries": [
+        "c63b83f0e6",
+        "3b29325b73"
+      ],
       "name": "熊熊工业技研中心",
       "aliases": [
         "熊熊家kigurumi",
@@ -3479,6 +3561,9 @@
     },
     {
       "id": "magicdoll",
+      "collection_entries": [
+        "4974f389fd"
+      ],
       "name": "魔界工坊 MagicDoll",
       "aliases": [
         "魔界工坊MagicDoll",
@@ -3569,6 +3654,9 @@
     },
     {
       "id": "haka",
+      "collection_entries": [
+        "e7ebf9cc42"
+      ],
       "name": "哈卡人形 Kigurumi",
       "aliases": [
         "哈卡人形kigurumi",
@@ -3654,6 +3742,9 @@
     },
     {
       "id": "2dfantasy",
+      "collection_entries": [
+        "3e0bf0ea67"
+      ],
       "name": "二维幻想 2D Fantasy",
       "aliases": [
         "二维幻想",
@@ -3735,6 +3826,9 @@
     },
     {
       "id": "aria",
+      "collection_entries": [
+        "2119f632d5"
+      ],
       "name": "Haruka 的道具屋 ARIA",
       "aliases": [
         "haruka的道具屋ARIA",
@@ -3804,6 +3898,9 @@
     },
     {
       "id": "hideyoshi",
+      "collection_entries": [
+        "dd37b95dbc"
+      ],
       "name": "秀吉姬 Kigurumi 工坊",
       "aliases": [
         "秀吉姬kigurumi",
@@ -3879,6 +3976,10 @@
     },
     {
       "id": "huyao",
+      "collection_entries": [
+        "5f2dd1387a",
+        "385daf3d82"
+      ],
       "name": "狐妖手作 Kigurumi",
       "aliases": [
         "Kigurumi狐妖手作",
@@ -3967,6 +4068,3255 @@
       "logo": "https://pbs.twimg.com/profile_images/1959151122079424512/c9rdVmDo_400x400.jpg",
       "logo_source": "profile",
       "logo_note": "识别图为制作方公开业务账号头像，不宣称是注册商标；未收录私人照片或私人联系方式。"
+    },
+    {
+      "id": "shushu",
+      "name": "鼠鼠工坊 Kigurumi",
+      "aliases": [
+        "鼠鼠工坊 Kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "2c75957a5d"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女，可做男角色。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：u 类 3299+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "鼠鼠工坊 Kigurumi",
+          "https://shop599961211.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#OolBd9g3ioQ56hxgSTAcypgnnkc"
+        ]
+      }
+    },
+    {
+      "id": "moyu",
+      "name": "摸鱼工坊 Pro KIGURUMI 头壳",
+      "aliases": [
+        "摸鱼工坊 Pro KIGURUMI 头壳",
+        "摸鱼工坊 Lite KIGURUMI 头壳"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "9f1b989d04",
+        "372e61e368",
+        "aa72291a01"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：成女，大姐姐，可做男角色，硬头。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：pro3999+，摸鱼 lite：2699+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "摸鱼工坊 Pro KIGURUMI 头壳",
+          "https://shop194051903.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#JB6YdZyT9ocg1HxVppsc0ZfanIh"
+        ]
+      }
+    },
+    {
+      "id": "zhuoliang",
+      "name": "灼凉 KIG 定制",
+      "aliases": [
+        "灼凉 KIG 定制"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "e62aa3d00c"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：萝莉，小孩，BJD，可爱风。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：标准款 4850+，拉链头 5800+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "灼凉 KIG 定制",
+          "https://shop589127734.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#C5yHdA38woS9rbxSk7GcJeklnid"
+        ]
+      }
+    },
+    {
+      "id": "moxingtu",
+      "name": "魔形兔与原创设计",
+      "aliases": [
+        "魔形兔与原创设计"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "a017d7a49a"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：？",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "魔形兔与原创设计",
+          "https://shop202579386.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#TPDVd4q87oHRZVx02fncHUCVnBg"
+        ]
+      }
+    },
+    {
+      "id": "zongzi",
+      "name": "粽子工坊 kigurumi",
+      "aliases": [
+        "粽子工坊 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "563afdfbfe"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：鸣潮，少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：4000-5000+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "粽子工坊 kigurumi",
+          "https://shop435907155.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#MDMmd5orwoLgfKxUwiCcmuDOnfd"
+        ]
+      }
+    },
+    {
+      "id": "shenhaimao",
+      "name": "深海猫 KIGURUMI 工坊",
+      "aliases": [
+        "深海猫 KIGURUMI 工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "16b578ad96"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女，vrchat。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3399 起步",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "深海猫 KIGURUMI 工坊",
+          "https://ac9n728j47ex1mkav98ko24o3b2gq8p.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#QAvndwhlvoayBixCbMlcgAhSn6d"
+        ]
+      }
+    },
+    {
+      "id": "newstardoll",
+      "name": "新星玩偶 NewStarDoll",
+      "aliases": [
+        "新星玩偶 NewStarDoll"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "24e7a3e21a"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：4600+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "新星玩偶 NewStarDoll",
+          "https://shop331026813.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#IdzLdj2Dgop5faxMw4jcBBQsnGd"
+        ]
+      }
+    },
+    {
+      "id": "hongyin",
+      "name": "虹音 kigurumi 实验室",
+      "aliases": [
+        "虹音 kigurumi 实验室"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "ee12bf2aee"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3k-4k",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "虹音 kigurumi 实验室",
+          "https://shop331326971.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#VhQvdRFHcoPZQ7xAgBscGSIGnEc"
+        ]
+      }
+    },
+    {
+      "id": "cover",
+      "name": "COVER 咖物社",
+      "aliases": [
+        "COVER 咖物社"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "660e534c77"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女，成女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3.5k-3.7k+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "COVER 咖物社",
+          "https://shop327975594.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#VHJPdNpt3okGaWxO8WcceB7engc"
+        ]
+      }
+    },
+    {
+      "id": "lanche",
+      "name": "岚车时代 kigurumi 工坊",
+      "aliases": [
+        "岚车时代 kigurumi 工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "b5ca9e0aed"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：米哈游。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：4k-6.5k",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "岚车时代 kigurumi 工坊",
+          "https://shop427530040.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#WVxQdyx52o2igdxWabfc02vRnJe"
+        ]
+      }
+    },
+    {
+      "id": "tianwailaiwu",
+      "name": "kigurumi 天外来物",
+      "aliases": [
+        "kigurumi 天外来物"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "35b9c0aaf3"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：可爱，少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3500+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "kigurumi 天外来物",
+          "https://shop564771119.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#C47id2vaJoxpKnxf3YpcLy92nLn"
+        ]
+      }
+    },
+    {
+      "id": "vive",
+      "name": "歪物设计 kigurumi",
+      "aliases": [
+        "歪物设计 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "e9e1f99af3"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：成女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3999+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "歪物设计 kigurumi",
+          "https://m.tb.cn/h.8aLNzmi?tk=mzaMgqEOo6d",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#CH7Ody07zoLlsuxLyOLcZBldn3e"
+        ]
+      }
+    },
+    {
+      "id": "gezhe",
+      "name": "歌者人形 kigurumi",
+      "aliases": [
+        "歌者人形 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "400f00a212"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：崩坏星穹铁道，男角色。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2500+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "歌者人形 kigurumi",
+          "https://m.tb.cn/h.8apdIjL?tk=SCo0gqw2Gxd",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#RCTydvhkeoGTOLx17Zscq1JHn4b"
+        ]
+      }
+    },
+    {
+      "id": "xianbei",
+      "name": "仙贝工坊 kigurumi",
+      "aliases": [
+        "仙贝工坊 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "01239acc7c"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：御姐，成女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：4000-6000",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "仙贝工坊 kigurumi",
+          "https://shop188370151.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#QUI7dWJBnoKNXJx1L0icKhoNnib"
+        ]
+      }
+    },
+    {
+      "id": "mrkt",
+      "name": "斩梦工坊 MRKT",
+      "aliases": [
+        "斩梦工坊 MRKT"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "8a8158630b"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女，jk。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3.3k 左右",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "斩梦工坊 MRKT",
+          "https://shop242119612.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Ar6Ad57jZoybKvxJptBcJ06vntc"
+        ]
+      }
+    },
+    {
+      "id": "kigos",
+      "name": "KigOS",
+      "aliases": [
+        "KigOS"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "da325b3b37"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：普头 3.2k 拉链头 3.5k+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "KigOS",
+          "https://shop515893852.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#W5IfdvalYoEXraxQuuhc0BCqn0e"
+        ]
+      }
+    },
+    {
+      "id": "modu-pinhaoke",
+      "name": "魔都人偶 X 拼好壳 kigurumi 上海工坊",
+      "aliases": [
+        "魔都人偶 X 拼好壳 kigurumi 上海工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "910139f785"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：jk，少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2999+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "魔都人偶 X 拼好壳 kigurumi 上海工坊",
+          "https://shop497086715.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#EkDydEuZpoTVvPxLvcjcFYW3nUg"
+        ]
+      }
+    },
+    {
+      "id": "laoshu-zone",
+      "name": "老叔 zone",
+      "aliases": [
+        "老叔 zone"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "6f9440881a"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：米哈游，少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3000-4300+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "老叔 zone",
+          "https://kzbqz771krhtl0fwq8vocp8rkd6b833.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#I9uodmpdOo7xlexiqbfcsNKSnUc"
+        ]
+      }
+    },
+    {
+      "id": "milu",
+      "name": "麋鹿工坊",
+      "aliases": [
+        "麋鹿工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "19809a1443"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女，萝莉。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3499+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "麋鹿工坊",
+          "https://shop310029922.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#BGNndkmHroao01xMHDOcZGIVnXe"
+        ]
+      }
+    },
+    {
+      "id": "syndrome",
+      "name": "Kigurumi 综合征",
+      "aliases": [
+        "Kigurumi 综合征"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "107e685651"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：预设，覆面系，恶魔头。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：1.5k-3.8k",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "Kigurumi 综合征",
+          "https://shop292063795.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Xyq1dlumVo6YF3xFnvZcc90lnjh"
+        ]
+      }
+    },
+    {
+      "id": "guoke",
+      "name": "kigurumi 果壳屋",
+      "aliases": [
+        "kigurumi 果壳屋"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "ccd3f74601"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：米哈游，少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：4100+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "kigurumi 果壳屋",
+          "https://m.tb.cn/h.8Z0y1xQ?tk=TXT4gJ5THar",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#GsAadURmmoTx1zx7zf3cAwSjnjd"
+        ]
+      }
+    },
+    {
+      "id": "maoweicao",
+      "name": "猫尾草 kigurumi",
+      "aliases": [
+        "猫尾草 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "bf6184a3e4"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2988",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "猫尾草 kigurumi",
+          "https://shop282844359.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#LIOFd6QZwotrB6xbWjdcDinrnKb"
+        ]
+      }
+    },
+    {
+      "id": "zhongmeng",
+      "name": "仲梦工坊",
+      "aliases": [
+        "仲梦工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "d54222265c"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：米哈游，少女，萝莉。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：简单造型 2980 复杂造型 3200+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "仲梦工坊",
+          "https://shop411227296.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#ByzQdY9POoqOQCxPtotc3vxsnsf"
+        ]
+      }
+    },
+    {
+      "id": "yeka",
+      "name": "椰卡设计局",
+      "aliases": [
+        "椰卡设计局"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "b0594c1d77"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：米哈游。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "椰卡设计局",
+          "https://www.goofish.com/personal?spm=a21ybx.item.itemHeader.1.22cc282dKzDV2P&userId=3973204385",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#LsuTdR4wuoaXjGxCzZAci1d7nce"
+        ]
+      }
+    },
+    {
+      "id": "shedingji",
+      "name": "设定集 Kigurumi",
+      "aliases": [
+        "设定集 Kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "98be5b347a"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女，冷酷。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3/4 头 4000+，全头 4500+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "设定集 Kigurumi",
+          "https://8snt402qjnhqvqpjyrb6ga-lwb4yvb.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#SZHIdbICsoAyy6x92NAcWB6SnHg"
+        ]
+      }
+    },
+    {
+      "id": "zhuotishe",
+      "name": "kigurumi 着替社",
+      "aliases": [
+        "kigurumi 着替社"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "50dd3c2f86"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：4500+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "kigurumi 着替社",
+          "https://p1tuge2et89g667fqugatgcntidexpf.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#KFHld3nHOoyvsCxK5w4c7jUXnUe"
+        ]
+      }
+    },
+    {
+      "id": "renxingqihua",
+      "name": "人形企画 kigurumi",
+      "aliases": [
+        "人形企画 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "f82c0d54ab"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：明日方舟，明日方舟终末地，少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "人形企画 kigurumi",
+          "https://www.bilibili.com/video/BV1Q6Eg6hEBm/?share_source=copy_web&vd_source=cae513dbccbddc8faf4c19917083ff43",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#W42WdmUVrosY8hx5dZLcxWS7nlc"
+        ]
+      }
+    },
+    {
+      "id": "kuangchao",
+      "name": "狂潮人形 kigurumi",
+      "aliases": [
+        "狂潮人形 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "a28e126b3a",
+        "08bec0263d"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "狂潮人形 kigurumi",
+          "https://shop419815135.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#CEI5dXSd2oLkWlxNR4ZcuBPwn5g"
+        ]
+      }
+    },
+    {
+      "id": "ouzai",
+      "name": "鸥仔工作室",
+      "aliases": [
+        "鸥仔工作室"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "76c6c98088"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：明日方舟，可做男角色。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：全头 4200+，3/4 头 3700+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "鸥仔工作室",
+          "https://shop569680350.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Z2jydWTDMouYVwxonaSc29L6n0g"
+        ]
+      }
+    },
+    {
+      "id": "xingchen",
+      "name": "星尘 kigurumi",
+      "aliases": [
+        "星尘 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "c58a11ac6a"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：整活。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2500",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "星尘 kigurumi",
+          "https://g30bye-p29xhk0lpfuyzrpogf0819h.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#DB91dIih9ovGVdxuV9oczGiSnAh"
+        ]
+      }
+    },
+    {
+      "id": "qimengxinghe",
+      "name": "绮梦星河 kigurumi",
+      "aliases": [
+        "绮梦星河 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "d54010cb3e"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3899/4899",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "绮梦星河 kigurumi",
+          "https://dl6we9d4hsimyfragu9aqvz84r9ya6s.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#A5ywdfKmbo4ctOxMDAscMbdFnkb"
+        ]
+      }
+    },
+    {
+      "id": "tuntunmanli",
+      "name": "囤囤满栗 kigurumi",
+      "aliases": [
+        "囤囤满栗 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "f91319a0db"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：大眼，萝莉。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2500-3500",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "囤囤满栗 kigurumi",
+          "https://hjh03keqlxoxrutgov94s64668wmdj2.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Enzmd4SCPoPcTYxU7RvcUVnInqf"
+        ]
+      }
+    },
+    {
+      "id": "dingge",
+      "name": "定格工坊",
+      "aliases": [
+        "定格工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "e977e1f7f1"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：新店。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "定格工坊",
+          "https://m.tb.cn/h.8ZG2w8t?tk=0WuAgJ2JFBD",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#LufHdpK77o0ucixGhNzc6YNon9d"
+        ]
+      }
+    },
+    {
+      "id": "napclub",
+      "name": "kigurumi 午睡社 NapClub",
+      "aliases": [
+        "kigurumi 午睡社 NapClub"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "ccd9e910d5",
+        "a90451d9bf"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：萝莉，新店。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2899",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "kigurumi 午睡社 NapClub",
+          "https://entka911dpyg5ysd8l0q16be1qgb1yx.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#M8KBdHRjDozuN0xk7qec0iqonGd"
+        ]
+      }
+    },
+    {
+      "id": "fengling",
+      "name": "枫铃学院 kigurumi 工坊",
+      "aliases": [
+        "枫铃学院 kigurumi 工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "ab781cbe14"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：萝莉，新店。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2400",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "枫铃学院 kigurumi 工坊",
+          "https://snfljoob32dp87kz3fh51rs8hwn45zt.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#AmIGdqUuModutzxibOLcYAL8nSg"
+        ]
+      }
+    },
+    {
+      "id": "lengmian",
+      "name": "冷面厨房 KIGURUMI 定制",
+      "aliases": [
+        "冷面厨房 KIGURUMI 定制"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "1f57e3dc27"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：萝莉。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "冷面厨房 KIGURUMI 定制",
+          "https://qh7iqcyrf6qxzsb403wi77-74kel.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#N0Ybdil2ioACNMxNxSEcdZGCnYd"
+        ]
+      }
+    },
+    {
+      "id": "lizi",
+      "name": "栗子 kig",
+      "aliases": [
+        "栗子 kig"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "de3866aa56"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：1800-2400",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "栗子 kig",
+          "https://shop295746692.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#H5KJda9yeo5Gnoxi7ESchUMBnbb"
+        ]
+      }
+    },
+    {
+      "id": "mikuai",
+      "name": "米块工坊",
+      "aliases": [
+        "米块工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "64bae52eea"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2.3k 上下浮动",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "米块工坊",
+          "https://m.tb.cn/h.8YfOkay?tk=PreFgJ3ePVe",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Vr1ad0Vb0oEMNCx16KccqNxDnEg"
+        ]
+      }
+    },
+    {
+      "id": "maojing",
+      "name": "猫井 kigurumi",
+      "aliases": [
+        "猫井 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "9ac4177057"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：终末地。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2699-3860",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "猫井 kigurumi",
+          "https://m.tb.cn/h.80DWAJm?tk=wvf6gJeRwhk",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#UgIFd2Qg3o88waxNd3ycZpgunnc"
+        ]
+      }
+    },
+    {
+      "id": "elysium",
+      "name": "幻境乐园 kigurumi",
+      "aliases": [
+        "幻境乐园 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "e670362121"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：4500+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "幻境乐园 kigurumi",
+          "https://shop190076572.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#J4cAdqR1XoYY3FxxfwScRYoLnqc"
+        ]
+      }
+    },
+    {
+      "id": "kiwata",
+      "name": "Kiwata kigurumi",
+      "aliases": [
+        "Kiwata kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "f8f3a0a22e"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "Kiwata kigurumi",
+          "https://shop473062735.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#PnUedgDgxolEG2x98N4c1bAanhc"
+        ]
+      }
+    },
+    {
+      "id": "huanying",
+      "name": "幻荧工坊 kigurumi 头壳",
+      "aliases": [
+        "幻荧工坊 kigurumi 头壳"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "76d4adb1f4"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "幻荧工坊 kigurumi 头壳",
+          "https://shop293280283.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#CGOedYmqooF6XOxeADJcfbL4nmg"
+        ]
+      }
+    },
+    {
+      "id": "haide",
+      "name": "海德映画 kigurumi",
+      "aliases": [
+        "海德映画 kigurumi",
+        "海德映画"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "3327f908ae",
+        "bd15a68a48"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：998/1.8k-3.2k",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "海德映画 kigurumi",
+          "https://shop429356469.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#A6rIdAVuWocwUZxIlJMcDNqMnGf"
+        ]
+      }
+    },
+    {
+      "id": "ruirui",
+      "name": "睿睿的展馆",
+      "aliases": [
+        "睿睿的展馆"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "24aa83863e",
+        "cf37141fc5"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：1300-4300",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "睿睿的展馆",
+          "https://842alvj1pe79z2a0vcluqxr1hacvqw8.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Z5nMdbM9CoDsvNxXnhNcMQhynRd"
+        ]
+      }
+    },
+    {
+      "id": "bairimeng",
+      "name": "白日梦游家",
+      "aliases": [
+        "白日梦游家"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "cde1774c68"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：1500",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "白日梦游家",
+          "https://shop220406654.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#PmRAdEJYVoDfrFxx6s8c3yrbnWC"
+        ]
+      }
+    },
+    {
+      "id": "ouzhixing",
+      "name": "偶之形 kigurumi",
+      "aliases": [
+        "偶之形 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "ff25b43985"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：米哈游。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：3600-4200",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "偶之形 kigurumi",
+          "https://shop459678629.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#TxIQdTmlMoEhxDx0eMYcVLHknLd"
+        ]
+      }
+    },
+    {
+      "id": "yumao",
+      "name": "御猫人形制造",
+      "aliases": [
+        "御猫人形制造"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "66d0800e79"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：bjd，覆面系，写实，硬头。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2900-5500",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "御猫人形制造",
+          "https://shop104849160.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#ZhTGdQjLIo6n7wxFfJ0c1kV9ncb"
+        ]
+      }
+    },
+    {
+      "id": "yuanwei",
+      "name": "鸢尾造物",
+      "aliases": [
+        "鸢尾造物"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "208cfcf194"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "鸢尾造物",
+          "https://shop425162001.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#RIHWdQJJho3U0IxJrqNce2U3nqb"
+        ]
+      }
+    },
+    {
+      "id": "mengxing",
+      "name": "萌型造物 kigurumi",
+      "aliases": [
+        "萌型造物 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "5fa4679ce1"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：标准 2199+，轻量化 1599+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "萌型造物 kigurumi",
+          "https://m.tb.cn/h.8Z0Nyb9?tk=sRxegJUBzBC",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#E2Hid3YYCoHoF1xVIWCckJtFnbe"
+        ]
+      }
+    },
+    {
+      "id": "403kigurumi",
+      "name": "403kigurumi",
+      "aliases": [
+        "403kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "de5bb06565"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "403kigurumi",
+          "https://shop309484439.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#IappdSB79oy8OCxG1frc52dnn0b"
+        ]
+      }
+    },
+    {
+      "id": "xiaochai",
+      "name": "小柴 go 工坊",
+      "aliases": [
+        "小柴 go 工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "d27ab35f59"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2300",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "小柴 go 工坊",
+          "https://m.tb.cn/h.8Z0EYQW?tk=XnaygJ5f0Y0",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#NVfJdSrNgor67exZtMkct0sunBg"
+        ]
+      }
+    },
+    {
+      "id": "shiliang",
+      "name": "世良工坊",
+      "aliases": [
+        "世良工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "f0c22b4874"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：第五人格。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2000 上下",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "世良工坊",
+          "https://m.tb.cn/h.8ZbWEGx?tk=zp1sgJ5nYXj",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#CL6HdFEUdojQGSxXx4Ic06HEneT"
+        ]
+      }
+    },
+    {
+      "id": "tsw",
+      "name": "TSW 魅魔工坊 kigurumi",
+      "aliases": [
+        "TSW 魅魔工坊 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "37b3d9610c",
+        "56043e099e"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "TSW 魅魔工坊 kigurumi",
+          "https://shop193126403.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#LkMad0b2Ao9i6DxAD71cEufFnkg"
+        ]
+      }
+    },
+    {
+      "id": "ciwei",
+      "name": "刺猬工坊",
+      "aliases": [
+        "刺猬工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "15ba57b025"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：赛马娘，ba，少女，正太。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：拉链头 1899+ 全头 3500+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "刺猬工坊",
+          "https://www.bilibili.com/video/BV1hmxDzCE54?vd_source=d63f4306797d74a005a1a6afe92459ee",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#FzXIdeH4lohSmoxz8eAciWS8nbe"
+        ]
+      }
+    },
+    {
+      "id": "yushuying",
+      "name": "语数英在搓头壳",
+      "aliases": [
+        "语数英在搓头壳"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "0569bce1db"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：400-1100",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "语数英在搓头壳",
+          "https://m.tb.cn/h.8bNfahX?tk=NxXVgryF2hO",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#VHBrdPcBio3O6zxdDU1cKJpXnXf"
+        ]
+      }
+    },
+    {
+      "id": "xingli",
+      "name": "星璃工坊 kigurumi",
+      "aliases": [
+        "星璃工坊 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "361c818f59"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：1600-2799 左右",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "星璃工坊 kigurumi",
+          "https://9fq4wkvean4gfwjn3bvpmreiuvhfzk2.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#AzCydgyRboRKZwxlSVWcQk53nCe"
+        ]
+      }
+    },
+    {
+      "id": "gurgle-love",
+      "name": "GURGLE LOVE",
+      "aliases": [
+        "GURGLE LOVE"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "5d0785a9aa"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：道具商，bjd。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "GURGLE LOVE",
+          "https://gurglelovemask.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#YbmFdRaVgoW99uxichsc8f04nXb"
+        ]
+      }
+    },
+    {
+      "id": "shujiao",
+      "name": "薯角培根工坊 kigurumi",
+      "aliases": [
+        "薯角培根工坊 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "e3bce153df"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2800",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "薯角培根工坊 kigurumi",
+          "https://shop268908057.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Cq9xdTE8Pos8UCxSWzRc9YvXnmg"
+        ]
+      }
+    },
+    {
+      "id": "wanoufang",
+      "name": "万偶坊kigurumi",
+      "aliases": [
+        "万偶坊kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "bc802b2bf1"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2680+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "万偶坊kigurumi",
+          "https://bgr1u5dd6jybnpdwx63p1y172y2n9r.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Fpp5dH2V1ohBG4xdITGckP7Enwb"
+        ]
+      }
+    },
+    {
+      "id": "mimi",
+      "name": "咪咪Kigurumi创研",
+      "aliases": [
+        "咪咪Kigurumi创研"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "0fa19da1a7"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2288-3998",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "咪咪Kigurumi创研",
+          "https://shop319083920.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#IfJgdAjBOotlIaxPjLscYiiKn0R"
+        ]
+      }
+    },
+    {
+      "id": "tot",
+      "name": "TOT 千翼工坊",
+      "aliases": [
+        "TOT 千翼工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "ad952f3afe",
+        "3e295f47f9"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：正太。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "TOT 千翼工坊",
+          "https://shop259671642.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#GdV6dV5Raobe2TxnogXclIvSnGf"
+        ]
+      }
+    },
+    {
+      "id": "tangou",
+      "name": "糖偶形形",
+      "aliases": [
+        "糖偶形形"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "9224ec80cc"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "糖偶形形",
+          "https://shop308967420.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#W7uddo1IjooV4fxGosTcrWipnRe"
+        ]
+      }
+    },
+    {
+      "id": "xiaoqiu",
+      "name": "小秋 kig 工坊",
+      "aliases": [
+        "小秋 kig 工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "04abc6e4e8"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2000-5000",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "小秋 kig 工坊",
+          "https://m.tb.cn/h.80AqQE2?tk=oppTgJTZoyz",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#XwgAdybk4o6yujxDnfDczG4onWg"
+        ]
+      }
+    },
+    {
+      "id": "beiduo",
+      "name": "贝多 kigurumi",
+      "aliases": [
+        "贝多 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "a7fa7b9ad3"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：小孩，硬头。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2500",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "贝多 kigurumi",
+          "https://ini1vnwmq7sflqw9hq8sjvusyzdb8l4.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#N6VQd8jOzogdfuxHzSIcBK3vnOf"
+        ]
+      }
+    },
+    {
+      "id": "xiangsu",
+      "name": "像素工坊 kigurumi",
+      "aliases": [
+        "像素工坊 kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "df8b34b8b8"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2800-3200",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "像素工坊 kigurumi",
+          "https://shop109054661.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#DL9yd9lFKobtgWxisqWcXXmlnPb"
+        ]
+      }
+    },
+    {
+      "id": "mirrodoll",
+      "name": "Mirrodoll 镜之人形",
+      "aliases": [
+        "Mirrodoll 镜之人形"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "a0e278fe3a"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：米哈游，少女。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "Mirrodoll 镜之人形",
+          "https://shop416231077.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#PvP2dHCkAoKKGzxw9KQcbNemnLc"
+        ]
+      }
+    },
+    {
+      "id": "manzhiyu",
+      "name": "漫之语 Kigurumi 头壳工坊",
+      "aliases": [
+        "漫之语 Kigurumi 头壳工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "cde6d50c68"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "漫之语 Kigurumi 头壳工坊",
+          "https://shop486916542.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#XmLhdPN8foJLvTxVA6JccgFlnCd"
+        ]
+      }
+    },
+    {
+      "id": "tidugang",
+      "name": "提督港",
+      "aliases": [
+        "提督港"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "79a4523861"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：古早画风。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "提督港",
+          "https://shop136758349.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#LT1jdPKnQoUtdKxdl1ucEKgZnGh"
+        ]
+      }
+    },
+    {
+      "id": "huajuan",
+      "name": "花卷妈妈",
+      "aliases": [
+        "花卷妈妈"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "c6023bc2b3"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：写实，bjd。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：二次元 3600+，Bjd3800+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "花卷妈妈",
+          "https://shop493893392.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#MNCldZNYXo92lMx0MWkcePXsnmf"
+        ]
+      }
+    },
+    {
+      "id": "chuangwu",
+      "name": "创物造舍",
+      "aliases": [
+        "创物造舍"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "b15b218d68"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：1600-2200",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "创物造舍",
+          "https://shop451811100.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#McLnd9xH7ofiNuxHkibcOzk7n7e"
+        ]
+      }
+    },
+    {
+      "id": "jinshuotang",
+      "name": "锦朔棠工坊",
+      "aliases": [
+        "锦朔棠工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "5f104e64b7"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "锦朔棠工坊",
+          "https://shop124133632.taobao.com/?",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Q3MGdZzPCoIIOoxD2Pkc1FLdneg"
+        ]
+      }
+    },
+    {
+      "id": "xiaolu",
+      "name": "小鹿 kig 工作室",
+      "aliases": [
+        "小鹿 kig 工作室"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "d95009d365"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：1500-2200",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "小鹿 kig 工作室",
+          "https://shop346206944.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#IRVudR52Do421wxw6xCc9Ti3nKd"
+        ]
+      }
+    },
+    {
+      "id": "jili",
+      "name": "叽哩娃娃屋",
+      "aliases": [
+        "叽哩娃娃屋"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "c566582db2"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "叽哩娃娃屋",
+          "https://shop408072484.taobao.com/",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Hg2wdy3oYov9uTxjw4Cckq9XnVf"
+        ]
+      }
+    },
+    {
+      "id": "miaotu",
+      "name": "喵兔 kigurumi 工坊",
+      "aliases": [
+        "喵兔 kigurumi 工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "c8fc68e595"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：831/2750/3750",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "喵兔 kigurumi 工坊",
+          "https://m.tb.cn/h.80MZfiZ?tk=xNgOgJB5uiL",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#ATiwdWUhEoaLyAxHGiucJnbZnih"
+        ]
+      }
+    },
+    {
+      "id": "xiaokonglong",
+      "name": "真的是小恐龙嘛",
+      "aliases": [
+        "真的是小恐龙嘛"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "48c9f708ec"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "原文风格标签：恶魔头。收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：1000-2100",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "真的是小恐龙嘛",
+          "https://m.tb.cn/h.80M3upg?tk=fq9ogJBQhbx",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#JtXQdpp32opVlKxz9hFc9nj0n3Y"
+        ]
+      }
+    },
+    {
+      "id": "peiyangmin",
+      "name": "培养皿工坊",
+      "aliases": [
+        "培养皿工坊"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "626f17560c"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2980+",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "培养皿工坊",
+          "https://www.goofish.com/personal?spm=a21ybx.item.itemHeader.1.84aa114cPVyw8f&userId=2218773903571HU591",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#VUTid2zHsoy4w3xXdJwcOaGwnue"
+        ]
+      }
+    },
+    {
+      "id": "kotoba",
+      "name": "言葉 kig",
+      "aliases": [
+        "言葉 kig"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "3a8d15cec2"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：900",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "言葉 kig",
+          "https://m.tb.cn/h.8bqoPJ6?tk=MqGygraOzil",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#XjL0dqAxsoVI1TxkMS9chf6Gnhe"
+        ]
+      }
+    },
+    {
+      "id": "ningmeng",
+      "name": "柠檬工坊kigurumi",
+      "aliases": [
+        "柠檬工坊kigurumi"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "8cc0a1741b"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：2499-3499",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "柠檬工坊kigurumi",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#JZwodL2VCoQvEFxbJO8c4yDhnxb",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#JZwodL2VCoQvEFxbJO8c4yDhnxb"
+        ]
+      }
+    },
+    {
+      "id": "chashaomao",
+      "name": "叉烧猫OFFICE",
+      "aliases": [
+        "叉烧猫OFFICE"
+      ],
+      "region": "地区待核实",
+      "location": "原文未明确所在地",
+      "checked": "2026-11-03",
+      "collection_only": true,
+      "collection_entries": [
+        "b646b78fd0"
+      ],
+      "status": "unverified",
+      "status_note": "本次依据署名社群合集补录，尚未独立核实第一方接单状态。",
+      "summary": "收录作品配图与委托资料。",
+      "description": "据禾芷溪溪溪溪溪溪整理的飞书店铺合集补录。以下价格、工期、风格和批注为原文记载，尚未完成第一方复核。",
+      "categories": [
+        "头壳（合集记录）"
+      ],
+      "price_summary": "原文参考：未填写",
+      "contacts": [],
+      "channels": [
+        [
+          "合集所列渠道",
+          "叉烧猫OFFICE",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#MHsKd8qNHoyC8QxfSgpcieQ1n2b",
+          "第三方合集列出的入口，归属待第一方复核",
+          "feishu"
+        ]
+      ],
+      "products": [],
+      "terms": "见下方合集原文的工期与批注。",
+      "merge_note": "保留原文店名及渠道线索；不因同名、相同图片或相同店铺 URL 自动合并经营主体。",
+      "sources": {
+        "feishu": [
+          "禾芷溪溪溪溪溪溪：Kigurumi 店铺合集 Ver2.0（2026-11-03 采集）",
+          "https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#MHsKd8qNHoyC8QxfSgpcieQ1n2b"
+        ]
+      }
     }
   ]
 }

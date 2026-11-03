@@ -51,9 +51,48 @@ BlackCatKig、BKC、玄猫物語为同品牌；官网确认与 Molis 的组织�
 
 本站关联记录：[2025 年编年史](../../years/2025/index.md)。历史活动资料仅作背景，不作为本次营业证明。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+> **校勘**：合集称临时停单，与本站 2026-09-09 第一方销售入口记录口径不同；两项证据并列，当前接单需向店家确认。
+
+<h3>玄猫物语 · 二次元头壳</h3>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>1500</td></tr>
+<tr><th scope="row">参考价格</th><td>3800-5000</td></tr>
+<tr><th scope="row">工期时间</th><td>45-60 个工作日</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop299117373.taobao.com/" rel="noopener noreferrer">https://shop299117373.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>【拍摄结束了  剩下的你们不爱看  我来替你们体验】 <a href="https://www.bilibili.com/video/BV1zxGt6GEt5/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43" rel="noopener noreferrer">https://www.bilibili.com/video/BV1zxGt6GEt5/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43</a></td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>成女</td></tr>
+<tr><th scope="row">编者批注</th><td>替换脸 1800，临时停单，后续等开单通知</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/3c3cb9ab7c3848b3.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/3c3cb9ab7c3848b3.webp" alt="玄猫物语 · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>玄猫物语 · 原文配图 1</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/5bd90344152417e7.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/5bd90344152417e7.webp" alt="玄猫物语 · 原文配图 2" loading="lazy" decoding="async"></a><figcaption>玄猫物语 · 原文配图 2</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/a8278c1ad012eed5.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/a8278c1ad012eed5.webp" alt="玄猫物语 · 原文配图 3" loading="lazy" decoding="async"></a><figcaption>玄猫物语 · 原文配图 3</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Sw9ldpfbAoOWX9xEpcRcpAEcnIf">查看原文对应位置</a>。图片权利归原权利人。</p>
+
+> **校勘**：合集称临时停单，与本站 2026-09-09 第一方销售入口记录口径不同；两项证据并列，当前接单需向店家确认。
+
+<h3>玄猫物语 · 肤色衣</h3>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">参考价格</th><td>均码：429，事业线均码：449 ，定制：529</td></tr>
+<tr><th scope="row">工期时间</th><td>7-14 天</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop299117373.taobao.com/" rel="noopener noreferrer">https://shop299117373.taobao.com/</a></td></tr>
+<tr><th scope="row">编者批注</th><td>跟莫丽斯联名</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/6a324ae3d8f09946.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/6a324ae3d8f09946.webp" alt="玄猫物语 · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>玄猫物语 · 原文配图 1</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#LbRudbwkuowE4wxJ3FTcAZqwnZf">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-home"><a href="https://blackcatkig.com/" rel="noopener noreferrer">官方商品与标价</a></p>
 

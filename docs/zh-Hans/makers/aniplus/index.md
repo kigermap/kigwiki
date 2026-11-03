@@ -47,9 +47,32 @@ description: "制作 kigurumi 头壳，官方公开淘宝编号及海外业务�
 
 @KFY_aniplus_JP 由主账号直接指定为海外订单入口，归为同品牌渠道。全平台同名声明不自动确认未点名的平台。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+<h3>壳反应 aniplus · 二次元头壳</h3>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>1.5k</td></tr>
+<tr><th scope="row">参考价格</th><td>定制标准：3200+，定制 pro：6400+，lite：2899-3799（看征集人数），</td></tr>
+<tr><th scope="row">工期时间</th><td>定制版 7 个月，lite 版一周到一个半月（按下单顺序）</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop567949612.taobao.com/" rel="noopener noreferrer">https://shop567949612.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>【出货最速の传说 lite 版头壳】 <a href="https://www.bilibili.com/video/BV1Ex7P6XEBw/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43" rel="noopener noreferrer">https://www.bilibili.com/video/BV1Ex7P6XEBw/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43</a></td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>少女粽子工坊 kigurumi</td></tr>
+<tr><th scope="row">编者批注</th><td>现在 lite 版是给两个尺码 M（56 头围以内）和 L（60 头围以内），有像 c 服店铺的征集系统，lite 的价格不包括配饰，定制加急 2k5，lite 征集定金 100 抵 150，</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/36dc8eb488304fed.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/36dc8eb488304fed.webp" alt="壳反应 aniplus · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>壳反应 aniplus · 原文配图 1</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/8b322a487bfe4f1a.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/8b322a487bfe4f1a.webp" alt="壳反应 aniplus · 原文配图 2" loading="lazy" decoding="async"></a><figcaption>壳反应 aniplus · 原文配图 2</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/8cc2de4846211406.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/8cc2de4846211406.webp" alt="壳反应 aniplus · 原文配图 3" loading="lazy" decoding="async"></a><figcaption>壳反应 aniplus · 原文配图 3</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#OTgXdMLpBoAq0BxCiknceGO9n9d">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-profile"><a href="https://x.com/KFY_Aniplus" rel="noopener noreferrer">制作方 X 公开简介、渠道与作品；访问于 2026-09-09</a></p>
 

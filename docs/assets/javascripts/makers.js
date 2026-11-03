@@ -42,7 +42,7 @@
         names.forEach(name => {
           const value = values[name];
           const key = `maker_${name}`;
-          if (value && !(name === 'status' && value === 'active')) url.searchParams.set(key, value);
+          if (value && !(name === 'status' && value === 'all')) url.searchParams.set(key, value);
           else url.searchParams.delete(key);
         });
         history.replaceState(null, '', url);

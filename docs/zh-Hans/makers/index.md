@@ -11,25 +11,26 @@ hide:
 <p class="archive-kicker">KIGURUMI / MAKER DIRECTORY</p>
 <h1>头壳店铺</h1>
 <p>国内与海外的 animegao kigurumi 头壳制作者。<br>按店铺归档，沿公开来源了解作品、价格与委托方式。</p>
-<p class="maker-updated">资料核实 · 2026-09-09 <a href="methodology/">收录与复核说明 <span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 17.59 15.59 7H9V5h10v10h-2V8.41L6.41 19z"/></svg></span></a></p>
+<p class="maker-updated">第一方核实 · 2026-09-09 · 社群补录 2026-11-03 <a href="methodology/">收录与复核说明 <span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 17.59 15.59 7H9V5h10v10h-2V8.41L6.41 19z"/></svg></span></a></p>
 </section>
 
 <div class="maker-stats">
-<div><strong>36</strong><span>有公开销售 / 询价入口</span></div><div><strong>40</strong><span>独立店铺档案</span></div><div><strong>07</strong><span>地区分组</span></div>
+<div><strong>36</strong><span>有公开销售 / 询价入口</span></div><div><strong>119</strong><span>独立店铺档案</span></div><div><strong>07</strong><span>地区分组</span></div>
 </div>
 
 <p class="maker-scope">仅收录人脸 / 动漫角色头壳。Furry 兽头、兽装及连体睡衣不在本目录范围内；混合经营店铺仅记录符合范围的商品。</p>
 
+<div class="collection-callout"><strong>新增飞书店铺合集 · 2026-11-03</strong><p>153 条分类记录、379 处原文配图；新增 79 份头壳档案，并关联 31 份既有档案。</p><p><a href="collection/">浏览二次元头壳、BJD 与肤色衣合集 →</a></p></div>
 <div class="maker-directory" data-maker-directory>
 <form class="maker-filters" role="search" aria-label="筛选头壳店铺">
 <label class="maker-search"><span>搜索店铺</span><input type="search" name="q" placeholder="名称、别名、型号或公开联系方式" autocomplete="off"></label>
 <label><span>所在地区</span><select name="region"><option value="">全部地区</option><option value="中国大陆">中国大陆</option><option value="中国台湾">中国台湾</option><option value="日本">日本</option><option value="英国">英国</option><option value="澳大利亚 / 新加坡">澳大利亚 / 新加坡</option><option value="中国香港">中国香港</option><option value="地区待核实">地区待核实</option><option value="美国">美国</option></select></label>
-<label><span>营业证据</span><select name="status"><option value="active">公开销售 / 接受询价</option><option value="all">全部档案</option><option value="sales">公开销售</option><option value="inquiry">接受询价</option><option value="lottery">周期抽选</option><option value="paused">暂停定制</option><option value="unverified">接单待核实</option></select></label>
-<label><span>商品类型</span><select name="category"><option value="">全部类型</option><option value="修复">修复</option><option value="全定制">全定制</option><option value="半定制">半定制</option><option value="改妆">改妆</option><option value="现货成品">现货成品</option><option value="素体">素体</option><option value="肤色衣">肤色衣</option><option value="配件">配件</option><option value="量产成品">量产成品</option></select></label>
+<label><span>营业证据</span><select name="status"><option value="all">全部档案</option><option value="active">公开销售 / 接受询价</option><option value="sales">公开销售</option><option value="inquiry">接受询价</option><option value="lottery">周期抽选</option><option value="paused">暂停定制</option><option value="unverified">接单待核实</option></select></label>
+<label><span>商品类型</span><select name="category"><option value="">全部类型</option><option value="修复">修复</option><option value="全定制">全定制</option><option value="半定制">半定制</option><option value="头壳（合集记录）">头壳（合集记录）</option><option value="改妆">改妆</option><option value="现货成品">现货成品</option><option value="素体">素体</option><option value="肤色衣">肤色衣</option><option value="配件">配件</option><option value="量产成品">量产成品</option></select></label>
 <label><span>官方提及渠道</span><select name="platform"><option value="">全部渠道</option><option value="官网">官网</option><option value="淘宝">淘宝</option><option value="官网 / BASE">官网 / BASE</option><option value="Etsy">Etsy</option><option value="Bilibili">Bilibili</option><option value="X">X</option><option value="闲鱼">闲鱼</option><option value="Amazon">Amazon</option></select></label>
 <button type="reset" class="maker-reset" aria-label="重置筛选" title="重置筛选"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.73 20.83 17.58 18l-2.85-2.83 1.42-1.41L19 16.57l2.8-2.81 1.42 1.41L20.41 18l2.81 2.83-1.42 1.41L19 19.4l-2.85 2.84zM13 19.88c.04.3-.06.62-.29.83a.996.996 0 0 1-1.41 0L7.29 16.7a.99.99 0 0 1-.29-.83v-5.12L2.21 4.62a1 1 0 0 1 .17-1.4c.19-.14.4-.22.62-.22h14c.22 0 .43.08.62.22a1 1 0 0 1 .17 1.4L13 10.75zM5.04 5 9 10.06v5.52l2 2v-7.53L14.96 5z"/></svg></span></button>
 </form>
-<div class="maker-results-bar"><p data-maker-count role="status" aria-live="polite">36 家符合条件 / 共 40 份档案</p><a href="/assets/data/makers.json" download><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 20h14v-2H5m14-9h-4V3H9v6H5l7 7z"/></svg></span> 下载完整数据</a></div>
+<div class="maker-results-bar"><p data-maker-count role="status" aria-live="polite">119 家符合条件 / 共 119 份档案</p><a href="/assets/data/makers.json" download><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 20h14v-2H5m14-9h-4V3H9v6H5l7 7z"/></svg></span> 下载完整数据</a></div>
 <div class="maker-list-head" aria-hidden="true"><span>店铺 / 品牌</span><span>所在地区</span><span>商品与服务</span><span>公开价格摘要</span><span>营业证据</span></div>
 <ul class="maker-list">
 <li class="maker-row" data-search="MEIS 莓萌 / 拼好头 莓萌 拼好头 Pinhaotou 虹野物联 绘面 同一经营主体下的角色定制与量产头壳品牌，提供 PHT 系列和一对一角色定制。 中国河南郑州航空港区（官网公布的总部） PHT-01 电子歌姬 PHT-02 星核猎手 PHT-03 金色那菈 PHT-04 安辨雌雄 PHT-05 洛水伊人 莓萌全头定制 PHT-01 全网孔纸眼片 1036511798 MEIS莓萌KIGURUMI @KigMEIS MEIS莓萌 @pinhaotou kigurumi拼好头" data-region="中国大陆" data-status="sales" data-category="量产成品|全定制|配件" data-platform="官网|淘宝">
@@ -144,7 +145,7 @@ hide:
 <span class="maker-price"><span class="maker-mobile-label">价格</span>整头询价；订金单列</span>
 <span class="maker-row-end"><span class="maker-status maker-status--inquiry">接受询价</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
 </a></li>
-<li class="maker-row" data-search="Kigurumi Sensei J sensei jsensei3 KigurumiSenseiStore 居住美国的日本制作者，提供原创素体与 MuniMuni 素体改妆；当前暂停定制。 美国（官网介绍）；制作者来自日本，未公开具体工作室地址 Munimuni base commission Munimuni base cyclops Original base commission Quotation consultation KigurumiSenseiStore @jsensei3 @masuku_tsukuru" data-region="美国" data-status="paused" data-category="全定制|半定制|改妆" data-platform="官网|Etsy" hidden>
+<li class="maker-row" data-search="Kigurumi Sensei J sensei jsensei3 KigurumiSenseiStore 居住美国的日本制作者，提供原创素体与 MuniMuni 素体改妆；当前暂停定制。 美国（官网介绍）；制作者来自日本，未公开具体工作室地址 Munimuni base commission Munimuni base cyclops Original base commission Quotation consultation KigurumiSenseiStore @jsensei3 @masuku_tsukuru" data-region="美国" data-status="paused" data-category="全定制|半定制|改妆" data-platform="官网|Etsy">
 <a class="maker-row-link" href="sensei/" aria-label="查看 Kigurumi Sensei 的店铺档案">
 <span class="maker-identity"><img class="maker-logo" src="/assets/images/makers/sensei-logo.png" alt="Kigurumi Sensei 品牌识别图" width="88" height="60" loading="lazy"><span><strong>Kigurumi Sensei</strong><small>居住美国的日本制作者，提供原创素体与 MuniMuni 素体改妆；当前暂停定制。</small></span></span>
 <span class="maker-region"><span class="maker-mobile-label">地区</span>美国</span>
@@ -216,7 +217,7 @@ hide:
 <span class="maker-price"><span class="maker-mobile-label">价格</span>头壳按需求询价；无已核实当前价目表</span>
 <span class="maker-row-end"><span class="maker-status maker-status--inquiry">接受询价</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
 </a></li>
-<li class="maker-row" data-search="哆啦工坊 Dora Studio Kigurumi哆啦工坊 Dora Studio 营业账号公开淘宝店名及 QQ 群，能读取的作品记录主要停留在 2024 年。 中国；具体城市与制作地址未核实（国家线索来自社群目录） 布丽姬头壳 雷电将军／流萤／春日野穹头壳 @DoraKigStudio 539704355" data-region="中国大陆" data-status="unverified" data-category="全定制" data-platform="X|淘宝" hidden>
+<li class="maker-row" data-search="哆啦工坊 Dora Studio Kigurumi哆啦工坊 Dora Studio 营业账号公开淘宝店名及 QQ 群，能读取的作品记录主要停留在 2024 年。 中国；具体城市与制作地址未核实（国家线索来自社群目录） 布丽姬头壳 雷电将军／流萤／春日野穹头壳 @DoraKigStudio 539704355" data-region="中国大陆" data-status="unverified" data-category="全定制" data-platform="X|淘宝">
 <a class="maker-row-link" href="dora/" aria-label="查看 哆啦工坊 Dora Studio 的店铺档案">
 <span class="maker-identity"><img class="maker-logo" src="/assets/images/makers/dora-logo.jpg" alt="哆啦工坊 Dora Studio 品牌识别图" width="88" height="60" loading="lazy"><span><strong>哆啦工坊 Dora Studio</strong><small>营业账号公开淘宝店名及 QQ 群，能读取的作品记录主要停留在 2024 年。</small></span></span>
 <span class="maker-region"><span class="maker-mobile-label">地区</span>中国大陆</span>
@@ -232,7 +233,7 @@ hide:
 <span class="maker-price"><span class="maker-mobile-label">价格</span>头壳按需求询价；无已核实当前价目表</span>
 <span class="maker-row-end"><span class="maker-status maker-status--inquiry">接受询价</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
 </a></li>
-<li class="maker-row" data-search="新颜玩偶 New Face Doll NFD NFD新颜玩偶 New Face Doll 公开账号确认 NFD 制作者名称；本次可见 X 作品主要为 2023 年，接单待核实。 中国；具体城市与制作地址未核实（国家线索来自社群目录） 刑部姬／妮娅／摩根头壳 @NewfacedolL" data-region="中国大陆" data-status="unverified" data-category="全定制" data-platform="X" hidden>
+<li class="maker-row" data-search="新颜玩偶 New Face Doll NFD NFD新颜玩偶 New Face Doll 公开账号确认 NFD 制作者名称；本次可见 X 作品主要为 2023 年，接单待核实。 中国；具体城市与制作地址未核实（国家线索来自社群目录） 刑部姬／妮娅／摩根头壳 @NewfacedolL" data-region="中国大陆" data-status="unverified" data-category="全定制" data-platform="X">
 <a class="maker-row-link" href="newfacedoll/" aria-label="查看 新颜玩偶 New Face Doll 的店铺档案">
 <span class="maker-identity"><img class="maker-logo" src="/assets/images/makers/newfacedoll-logo.jpg" alt="新颜玩偶 New Face Doll 品牌识别图" width="88" height="60" loading="lazy"><span><strong>新颜玩偶 New Face Doll</strong><small>公开账号确认 NFD 制作者名称；本次可见 X 作品主要为 2023 年，接单待核实。</small></span></span>
 <span class="maker-region"><span class="maker-mobile-label">地区</span>中国大陆</span>
@@ -312,7 +313,7 @@ hide:
 <span class="maker-price"><span class="maker-mobile-label">价格</span>头壳按需求询价；无已核实当前价目表</span>
 <span class="maker-row-end"><span class="maker-status maker-status--inquiry">接受询价</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
 </a></li>
-<li class="maker-row" data-search="哈卡人形 Kigurumi 哈卡人形kigurumi Haka 公开自制与定制建模说明，保留 2025 年历史均价；当前接单状态待核实。 中国；具体城市与制作地址未核实（国家线索来自社群目录） 自制头壳／定制建模 @hakarenxin99 1041285347" data-region="中国大陆" data-status="unverified" data-category="全定制" data-platform="X|淘宝" hidden>
+<li class="maker-row" data-search="哈卡人形 Kigurumi 哈卡人形kigurumi Haka 公开自制与定制建模说明，保留 2025 年历史均价；当前接单状态待核实。 中国；具体城市与制作地址未核实（国家线索来自社群目录） 自制头壳／定制建模 @hakarenxin99 1041285347" data-region="中国大陆" data-status="unverified" data-category="全定制" data-platform="X|淘宝">
 <a class="maker-row-link" href="haka/" aria-label="查看 哈卡人形 Kigurumi 的店铺档案">
 <span class="maker-identity"><img class="maker-logo" src="/assets/images/makers/haka-logo.jpg" alt="哈卡人形 Kigurumi 品牌识别图" width="88" height="60" loading="lazy"><span><strong>哈卡人形 Kigurumi</strong><small>公开自制与定制建模说明，保留 2025 年历史均价；当前接单状态待核实。</small></span></span>
 <span class="maker-region"><span class="maker-mobile-label">地区</span>中国大陆</span>
@@ -352,11 +353,643 @@ hide:
 <span class="maker-price"><span class="maker-mobile-label">价格</span>头壳按需求询价；无已核实当前价目表</span>
 <span class="maker-row-end"><span class="maker-status maker-status--inquiry">接受询价</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
 </a></li>
+<li class="maker-row" data-search="鼠鼠工坊 Kigurumi 鼠鼠工坊 Kigurumi 原文风格标签：少女，可做男角色。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="shushu/" aria-label="查看 鼠鼠工坊 Kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/4d8825b11ad93bbc.webp" alt="鼠鼠工坊 Kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>鼠鼠工坊 Kigurumi</strong><small>原文风格标签：少女，可做男角色。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：u 类 3299+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="摸鱼工坊 Pro KIGURUMI 头壳 摸鱼工坊 Pro KIGURUMI 头壳 摸鱼工坊 Lite KIGURUMI 头壳 原文风格标签：成女，大姐姐，可做男角色，硬头。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="moyu/" aria-label="查看 摸鱼工坊 Pro KIGURUMI 头壳 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/a1fe65ef226aaefb.webp" alt="摸鱼工坊 Pro KIGURUMI 头壳 合集配图" width="88" height="60" loading="lazy"><span><strong>摸鱼工坊 Pro KIGURUMI 头壳</strong><small>原文风格标签：成女，大姐姐，可做男角色，硬头。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：pro3999+，摸鱼 lite：2699+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="灼凉 KIG 定制 灼凉 KIG 定制 原文风格标签：萝莉，小孩，BJD，可爱风。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="zhuoliang/" aria-label="查看 灼凉 KIG 定制 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/80019c9b8771b3f3.webp" alt="灼凉 KIG 定制 合集配图" width="88" height="60" loading="lazy"><span><strong>灼凉 KIG 定制</strong><small>原文风格标签：萝莉，小孩，BJD，可爱风。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：标准款 4850+，拉链头 5800+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="魔形兔与原创设计 魔形兔与原创设计 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="moxingtu/" aria-label="查看 魔形兔与原创设计 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/9b8b2105d85c9057.webp" alt="魔形兔与原创设计 合集配图" width="88" height="60" loading="lazy"><span><strong>魔形兔与原创设计</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：？</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="粽子工坊 kigurumi 粽子工坊 kigurumi 原文风格标签：鸣潮，少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="zongzi/" aria-label="查看 粽子工坊 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/5b43a313fdeb6d83.webp" alt="粽子工坊 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>粽子工坊 kigurumi</strong><small>原文风格标签：鸣潮，少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：4000-5000+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="深海猫 KIGURUMI 工坊 深海猫 KIGURUMI 工坊 原文风格标签：少女，vrchat。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="shenhaimao/" aria-label="查看 深海猫 KIGURUMI 工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/7c7507f6fd3eeec5.webp" alt="深海猫 KIGURUMI 工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>深海猫 KIGURUMI 工坊</strong><small>原文风格标签：少女，vrchat。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3399 起步</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="新星玩偶 NewStarDoll 新星玩偶 NewStarDoll 原文风格标签：少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="newstardoll/" aria-label="查看 新星玩偶 NewStarDoll 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/910873d5235b9231.webp" alt="新星玩偶 NewStarDoll 合集配图" width="88" height="60" loading="lazy"><span><strong>新星玩偶 NewStarDoll</strong><small>原文风格标签：少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：4600+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="虹音 kigurumi 实验室 虹音 kigurumi 实验室 原文风格标签：少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="hongyin/" aria-label="查看 虹音 kigurumi 实验室 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/d6dd17ef351a822e.webp" alt="虹音 kigurumi 实验室 合集配图" width="88" height="60" loading="lazy"><span><strong>虹音 kigurumi 实验室</strong><small>原文风格标签：少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3k-4k</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="COVER 咖物社 COVER 咖物社 原文风格标签：少女，成女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="cover/" aria-label="查看 COVER 咖物社 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/9f99e71d782d698f.webp" alt="COVER 咖物社 合集配图" width="88" height="60" loading="lazy"><span><strong>COVER 咖物社</strong><small>原文风格标签：少女，成女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3.5k-3.7k+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="岚车时代 kigurumi 工坊 岚车时代 kigurumi 工坊 原文风格标签：米哈游。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="lanche/" aria-label="查看 岚车时代 kigurumi 工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/451dca8c7323cae5.webp" alt="岚车时代 kigurumi 工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>岚车时代 kigurumi 工坊</strong><small>原文风格标签：米哈游。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：4k-6.5k</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="kigurumi 天外来物 kigurumi 天外来物 原文风格标签：可爱，少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="tianwailaiwu/" aria-label="查看 kigurumi 天外来物 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/051338e84c9e6637.webp" alt="kigurumi 天外来物 合集配图" width="88" height="60" loading="lazy"><span><strong>kigurumi 天外来物</strong><small>原文风格标签：可爱，少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3500+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="歪物设计 kigurumi 歪物设计 kigurumi 原文风格标签：成女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="vive/" aria-label="查看 歪物设计 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/9822ddddfc2039a0.webp" alt="歪物设计 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>歪物设计 kigurumi</strong><small>原文风格标签：成女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3999+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="歌者人形 kigurumi 歌者人形 kigurumi 原文风格标签：崩坏星穹铁道，男角色。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="gezhe/" aria-label="查看 歌者人形 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/1e56ce45c90d17ff.webp" alt="歌者人形 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>歌者人形 kigurumi</strong><small>原文风格标签：崩坏星穹铁道，男角色。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2500+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="仙贝工坊 kigurumi 仙贝工坊 kigurumi 原文风格标签：御姐，成女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="xianbei/" aria-label="查看 仙贝工坊 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/6bcffc1b48e5871c.webp" alt="仙贝工坊 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>仙贝工坊 kigurumi</strong><small>原文风格标签：御姐，成女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：4000-6000</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="斩梦工坊 MRKT 斩梦工坊 MRKT 原文风格标签：少女，jk。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="mrkt/" aria-label="查看 斩梦工坊 MRKT 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/3cb960f7a673af42.webp" alt="斩梦工坊 MRKT 合集配图" width="88" height="60" loading="lazy"><span><strong>斩梦工坊 MRKT</strong><small>原文风格标签：少女，jk。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3.3k 左右</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="KigOS KigOS 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="kigos/" aria-label="查看 KigOS 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/0fb1eede248a1d26.webp" alt="KigOS 合集配图" width="88" height="60" loading="lazy"><span><strong>KigOS</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：普头 3.2k 拉链头 3.5k+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="魔都人偶 X 拼好壳 kigurumi 上海工坊 魔都人偶 X 拼好壳 kigurumi 上海工坊 原文风格标签：jk，少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="modu-pinhaoke/" aria-label="查看 魔都人偶 X 拼好壳 kigurumi 上海工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/cc413bd288021692.webp" alt="魔都人偶 X 拼好壳 kigurumi 上海工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>魔都人偶 X 拼好壳 kigurumi 上海工坊</strong><small>原文风格标签：jk，少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2999+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="老叔 zone 老叔 zone 原文风格标签：米哈游，少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="laoshu-zone/" aria-label="查看 老叔 zone 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/19cebecf2b425dd1.webp" alt="老叔 zone 合集配图" width="88" height="60" loading="lazy"><span><strong>老叔 zone</strong><small>原文风格标签：米哈游，少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3000-4300+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="麋鹿工坊 麋鹿工坊 原文风格标签：少女，萝莉。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="milu/" aria-label="查看 麋鹿工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/91b0a9ef480ba934.webp" alt="麋鹿工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>麋鹿工坊</strong><small>原文风格标签：少女，萝莉。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3499+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="Kigurumi 综合征 Kigurumi 综合征 原文风格标签：预设，覆面系，恶魔头。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="syndrome/" aria-label="查看 Kigurumi 综合征 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/7594ae08f2cefc2e.webp" alt="Kigurumi 综合征 合集配图" width="88" height="60" loading="lazy"><span><strong>Kigurumi 综合征</strong><small>原文风格标签：预设，覆面系，恶魔头。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：1.5k-3.8k</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="kigurumi 果壳屋 kigurumi 果壳屋 原文风格标签：米哈游，少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="guoke/" aria-label="查看 kigurumi 果壳屋 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/d7a881290a6457a6.webp" alt="kigurumi 果壳屋 合集配图" width="88" height="60" loading="lazy"><span><strong>kigurumi 果壳屋</strong><small>原文风格标签：米哈游，少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：4100+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="猫尾草 kigurumi 猫尾草 kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="maoweicao/" aria-label="查看 猫尾草 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/8bca4c83059a7883.webp" alt="猫尾草 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>猫尾草 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2988</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="仲梦工坊 仲梦工坊 原文风格标签：米哈游，少女，萝莉。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="zhongmeng/" aria-label="查看 仲梦工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/dcdfe65d1c03eae9.webp" alt="仲梦工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>仲梦工坊</strong><small>原文风格标签：米哈游，少女，萝莉。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：简单造型 2980 复杂造型 3200+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="椰卡设计局 椰卡设计局 原文风格标签：米哈游。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="yeka/" aria-label="查看 椰卡设计局 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/deaf5b9aef4c2c3d.webp" alt="椰卡设计局 合集配图" width="88" height="60" loading="lazy"><span><strong>椰卡设计局</strong><small>原文风格标签：米哈游。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="设定集 Kigurumi 设定集 Kigurumi 原文风格标签：少女，冷酷。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="shedingji/" aria-label="查看 设定集 Kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/b6f9229b68aade4d.webp" alt="设定集 Kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>设定集 Kigurumi</strong><small>原文风格标签：少女，冷酷。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3/4 头 4000+，全头 4500+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="kigurumi 着替社 kigurumi 着替社 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="zhuotishe/" aria-label="查看 kigurumi 着替社 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/8e2baabcf0624289.webp" alt="kigurumi 着替社 合集配图" width="88" height="60" loading="lazy"><span><strong>kigurumi 着替社</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：4500+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="人形企画 kigurumi 人形企画 kigurumi 原文风格标签：明日方舟，明日方舟终末地，少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="renxingqihua/" aria-label="查看 人形企画 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/5d1963f55f166a3f.webp" alt="人形企画 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>人形企画 kigurumi</strong><small>原文风格标签：明日方舟，明日方舟终末地，少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="狂潮人形 kigurumi 狂潮人形 kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="kuangchao/" aria-label="查看 狂潮人形 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/d16c02aa10993577.webp" alt="狂潮人形 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>狂潮人形 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="鸥仔工作室 鸥仔工作室 原文风格标签：明日方舟，可做男角色。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="ouzai/" aria-label="查看 鸥仔工作室 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/ca5a1eca57ea33ec.webp" alt="鸥仔工作室 合集配图" width="88" height="60" loading="lazy"><span><strong>鸥仔工作室</strong><small>原文风格标签：明日方舟，可做男角色。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：全头 4200+，3/4 头 3700+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="星尘 kigurumi 星尘 kigurumi 原文风格标签：整活。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="xingchen/" aria-label="查看 星尘 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/81bc85955ea46cc2.webp" alt="星尘 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>星尘 kigurumi</strong><small>原文风格标签：整活。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2500</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="绮梦星河 kigurumi 绮梦星河 kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="qimengxinghe/" aria-label="查看 绮梦星河 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/2e4eea51113999ba.webp" alt="绮梦星河 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>绮梦星河 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3899/4899</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="囤囤满栗 kigurumi 囤囤满栗 kigurumi 原文风格标签：大眼，萝莉。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="tuntunmanli/" aria-label="查看 囤囤满栗 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/126fd87ba3c00169.webp" alt="囤囤满栗 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>囤囤满栗 kigurumi</strong><small>原文风格标签：大眼，萝莉。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2500-3500</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="定格工坊 定格工坊 原文风格标签：新店。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="dingge/" aria-label="查看 定格工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/515c47b4ce02e9fb.webp" alt="定格工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>定格工坊</strong><small>原文风格标签：新店。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="kigurumi 午睡社 NapClub kigurumi 午睡社 NapClub 原文风格标签：萝莉，新店。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="napclub/" aria-label="查看 kigurumi 午睡社 NapClub 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/521beb6ad1dfb5fc.webp" alt="kigurumi 午睡社 NapClub 合集配图" width="88" height="60" loading="lazy"><span><strong>kigurumi 午睡社 NapClub</strong><small>原文风格标签：萝莉，新店。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2899</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="枫铃学院 kigurumi 工坊 枫铃学院 kigurumi 工坊 原文风格标签：萝莉，新店。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="fengling/" aria-label="查看 枫铃学院 kigurumi 工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/1e1598334dccf3ff.webp" alt="枫铃学院 kigurumi 工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>枫铃学院 kigurumi 工坊</strong><small>原文风格标签：萝莉，新店。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2400</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="冷面厨房 KIGURUMI 定制 冷面厨房 KIGURUMI 定制 原文风格标签：萝莉。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="lengmian/" aria-label="查看 冷面厨房 KIGURUMI 定制 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/2344482681cfdb81.webp" alt="冷面厨房 KIGURUMI 定制 合集配图" width="88" height="60" loading="lazy"><span><strong>冷面厨房 KIGURUMI 定制</strong><small>原文风格标签：萝莉。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="栗子 kig 栗子 kig 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="lizi/" aria-label="查看 栗子 kig 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/c9600b06f2fa6c43.webp" alt="栗子 kig 合集配图" width="88" height="60" loading="lazy"><span><strong>栗子 kig</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：1800-2400</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="米块工坊 米块工坊 原文风格标签：少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="mikuai/" aria-label="查看 米块工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/bec47926c06cfda5.webp" alt="米块工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>米块工坊</strong><small>原文风格标签：少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2.3k 上下浮动</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="猫井 kigurumi 猫井 kigurumi 原文风格标签：终末地。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="maojing/" aria-label="查看 猫井 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/612f3894fc4ad107.webp" alt="猫井 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>猫井 kigurumi</strong><small>原文风格标签：终末地。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2699-3860</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="幻境乐园 kigurumi 幻境乐园 kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="elysium/" aria-label="查看 幻境乐园 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/6d3622e9a038740d.webp" alt="幻境乐园 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>幻境乐园 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：4500+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="Kiwata kigurumi Kiwata kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="kiwata/" aria-label="查看 Kiwata kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/1fbb948367770633.webp" alt="Kiwata kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>Kiwata kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="幻荧工坊 kigurumi 头壳 幻荧工坊 kigurumi 头壳 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="huanying/" aria-label="查看 幻荧工坊 kigurumi 头壳 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/b6f9e58bd69e718b.webp" alt="幻荧工坊 kigurumi 头壳 合集配图" width="88" height="60" loading="lazy"><span><strong>幻荧工坊 kigurumi 头壳</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="海德映画 kigurumi 海德映画 kigurumi 海德映画 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="haide/" aria-label="查看 海德映画 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/f75fd219dbb4b97c.webp" alt="海德映画 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>海德映画 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：998/1.8k-3.2k</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="睿睿的展馆 睿睿的展馆 原文风格标签：少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="ruirui/" aria-label="查看 睿睿的展馆 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/85bdc3c33a3ba0c0.webp" alt="睿睿的展馆 合集配图" width="88" height="60" loading="lazy"><span><strong>睿睿的展馆</strong><small>原文风格标签：少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：1300-4300</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="白日梦游家 白日梦游家 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="bairimeng/" aria-label="查看 白日梦游家 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/9047cb9691421c86.webp" alt="白日梦游家 合集配图" width="88" height="60" loading="lazy"><span><strong>白日梦游家</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：1500</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="偶之形 kigurumi 偶之形 kigurumi 原文风格标签：米哈游。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="ouzhixing/" aria-label="查看 偶之形 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/1347e405b3c692d4.webp" alt="偶之形 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>偶之形 kigurumi</strong><small>原文风格标签：米哈游。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：3600-4200</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="御猫人形制造 御猫人形制造 原文风格标签：bjd，覆面系，写实，硬头。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="yumao/" aria-label="查看 御猫人形制造 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/d6ab56c06e04a287.webp" alt="御猫人形制造 合集配图" width="88" height="60" loading="lazy"><span><strong>御猫人形制造</strong><small>原文风格标签：bjd，覆面系，写实，硬头。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2900-5500</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="鸢尾造物 鸢尾造物 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="yuanwei/" aria-label="查看 鸢尾造物 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/2c36dde3167ab764.webp" alt="鸢尾造物 合集配图" width="88" height="60" loading="lazy"><span><strong>鸢尾造物</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="萌型造物 kigurumi 萌型造物 kigurumi 原文风格标签：少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="mengxing/" aria-label="查看 萌型造物 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/cb249aecc1efbdd5.webp" alt="萌型造物 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>萌型造物 kigurumi</strong><small>原文风格标签：少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：标准 2199+，轻量化 1599+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="403kigurumi 403kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="403kigurumi/" aria-label="查看 403kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/0a1d6a1a487c9403.webp" alt="403kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>403kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="小柴 go 工坊 小柴 go 工坊 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="xiaochai/" aria-label="查看 小柴 go 工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/127bd1793df8d41d.webp" alt="小柴 go 工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>小柴 go 工坊</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2300</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="世良工坊 世良工坊 原文风格标签：第五人格。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="shiliang/" aria-label="查看 世良工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/da7784796433553c.webp" alt="世良工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>世良工坊</strong><small>原文风格标签：第五人格。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2000 上下</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="TSW 魅魔工坊 kigurumi TSW 魅魔工坊 kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="tsw/" aria-label="查看 TSW 魅魔工坊 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/aa73681de11ef85b.webp" alt="TSW 魅魔工坊 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>TSW 魅魔工坊 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="刺猬工坊 刺猬工坊 原文风格标签：赛马娘，ba，少女，正太。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="ciwei/" aria-label="查看 刺猬工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/d371ac3b437c8d26.webp" alt="刺猬工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>刺猬工坊</strong><small>原文风格标签：赛马娘，ba，少女，正太。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：拉链头 1899+ 全头 3500+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="语数英在搓头壳 语数英在搓头壳 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="yushuying/" aria-label="查看 语数英在搓头壳 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/8b0dd4a4893dc449.webp" alt="语数英在搓头壳 合集配图" width="88" height="60" loading="lazy"><span><strong>语数英在搓头壳</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：400-1100</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="星璃工坊 kigurumi 星璃工坊 kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="xingli/" aria-label="查看 星璃工坊 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/42ba6b8709e4f514.webp" alt="星璃工坊 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>星璃工坊 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：1600-2799 左右</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="GURGLE LOVE GURGLE LOVE 原文风格标签：道具商，bjd。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="gurgle-love/" aria-label="查看 GURGLE LOVE 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/cee267cc1df09ebd.webp" alt="GURGLE LOVE 合集配图" width="88" height="60" loading="lazy"><span><strong>GURGLE LOVE</strong><small>原文风格标签：道具商，bjd。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="薯角培根工坊 kigurumi 薯角培根工坊 kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="shujiao/" aria-label="查看 薯角培根工坊 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/f285216c8041df32.webp" alt="薯角培根工坊 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>薯角培根工坊 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2800</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="万偶坊kigurumi 万偶坊kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="wanoufang/" aria-label="查看 万偶坊kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/0c6b416ccd4c5c32.webp" alt="万偶坊kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>万偶坊kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2680+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="咪咪Kigurumi创研 咪咪Kigurumi创研 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="mimi/" aria-label="查看 咪咪Kigurumi创研 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/bf6707f2a65f9fc3.webp" alt="咪咪Kigurumi创研 合集配图" width="88" height="60" loading="lazy"><span><strong>咪咪Kigurumi创研</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2288-3998</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="TOT 千翼工坊 TOT 千翼工坊 原文风格标签：正太。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="tot/" aria-label="查看 TOT 千翼工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/5d674c525ecba53f.webp" alt="TOT 千翼工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>TOT 千翼工坊</strong><small>原文风格标签：正太。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="糖偶形形 糖偶形形 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="tangou/" aria-label="查看 糖偶形形 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/bfd348c9354b1a20.webp" alt="糖偶形形 合集配图" width="88" height="60" loading="lazy"><span><strong>糖偶形形</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="小秋 kig 工坊 小秋 kig 工坊 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="xiaoqiu/" aria-label="查看 小秋 kig 工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/b58181377bbae4be.webp" alt="小秋 kig 工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>小秋 kig 工坊</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2000-5000</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="贝多 kigurumi 贝多 kigurumi 原文风格标签：小孩，硬头。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="beiduo/" aria-label="查看 贝多 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/2d01049666e281b4.webp" alt="贝多 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>贝多 kigurumi</strong><small>原文风格标签：小孩，硬头。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2500</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="像素工坊 kigurumi 像素工坊 kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="xiangsu/" aria-label="查看 像素工坊 kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/04a676827662d93d.webp" alt="像素工坊 kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>像素工坊 kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2800-3200</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="Mirrodoll 镜之人形 Mirrodoll 镜之人形 原文风格标签：米哈游，少女。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="mirrodoll/" aria-label="查看 Mirrodoll 镜之人形 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/b9546332451be508.webp" alt="Mirrodoll 镜之人形 合集配图" width="88" height="60" loading="lazy"><span><strong>Mirrodoll 镜之人形</strong><small>原文风格标签：米哈游，少女。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="漫之语 Kigurumi 头壳工坊 漫之语 Kigurumi 头壳工坊 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="manzhiyu/" aria-label="查看 漫之语 Kigurumi 头壳工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/7346cc4b7ecc383c.webp" alt="漫之语 Kigurumi 头壳工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>漫之语 Kigurumi 头壳工坊</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="提督港 提督港 原文风格标签：古早画风。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="tidugang/" aria-label="查看 提督港 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/347935ba1e49aeed.webp" alt="提督港 合集配图" width="88" height="60" loading="lazy"><span><strong>提督港</strong><small>原文风格标签：古早画风。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="花卷妈妈 花卷妈妈 原文风格标签：写实，bjd。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="huajuan/" aria-label="查看 花卷妈妈 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/13f0ce14e3f48c6b.webp" alt="花卷妈妈 合集配图" width="88" height="60" loading="lazy"><span><strong>花卷妈妈</strong><small>原文风格标签：写实，bjd。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：二次元 3600+，Bjd3800+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="创物造舍 创物造舍 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="chuangwu/" aria-label="查看 创物造舍 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/6eda86cb93b43ba1.webp" alt="创物造舍 合集配图" width="88" height="60" loading="lazy"><span><strong>创物造舍</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：1600-2200</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="锦朔棠工坊 锦朔棠工坊 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="jinshuotang/" aria-label="查看 锦朔棠工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/e093c0db258973a9.webp" alt="锦朔棠工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>锦朔棠工坊</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="小鹿 kig 工作室 小鹿 kig 工作室 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="xiaolu/" aria-label="查看 小鹿 kig 工作室 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/dc4cb3adae2a0abe.webp" alt="小鹿 kig 工作室 合集配图" width="88" height="60" loading="lazy"><span><strong>小鹿 kig 工作室</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：1500-2200</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="叽哩娃娃屋 叽哩娃娃屋 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="jili/" aria-label="查看 叽哩娃娃屋 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/3aa44512d71b3dd3.webp" alt="叽哩娃娃屋 合集配图" width="88" height="60" loading="lazy"><span><strong>叽哩娃娃屋</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="喵兔 kigurumi 工坊 喵兔 kigurumi 工坊 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="miaotu/" aria-label="查看 喵兔 kigurumi 工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/6790c33c3e34bcdb.webp" alt="喵兔 kigurumi 工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>喵兔 kigurumi 工坊</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：831/2750/3750</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="真的是小恐龙嘛 真的是小恐龙嘛 原文风格标签：恶魔头。收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="xiaokonglong/" aria-label="查看 真的是小恐龙嘛 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/038dff9406749312.webp" alt="真的是小恐龙嘛 合集配图" width="88" height="60" loading="lazy"><span><strong>真的是小恐龙嘛</strong><small>原文风格标签：恶魔头。收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：1000-2100</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="培养皿工坊 培养皿工坊 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="peiyangmin/" aria-label="查看 培养皿工坊 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/80cb40afe2e9826b.webp" alt="培养皿工坊 合集配图" width="88" height="60" loading="lazy"><span><strong>培养皿工坊</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2980+</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="言葉 kig 言葉 kig 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="kotoba/" aria-label="查看 言葉 kig 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/8e44c8bf4204b0b8.webp" alt="言葉 kig 合集配图" width="88" height="60" loading="lazy"><span><strong>言葉 kig</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：900</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="柠檬工坊kigurumi 柠檬工坊kigurumi 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="ningmeng/" aria-label="查看 柠檬工坊kigurumi 的店铺档案">
+<span class="maker-identity"><img class="maker-logo" src="/assets/images/feishu-shops-2026-11-03/f3a5384a12a1c8b1.webp" alt="柠檬工坊kigurumi 合集配图" width="88" height="60" loading="lazy"><span><strong>柠檬工坊kigurumi</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：2499-3499</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
+<li class="maker-row" data-search="叉烧猫OFFICE 叉烧猫OFFICE 收录作品配图与委托资料。 原文未明确所在地" data-region="地区待核实" data-status="unverified" data-category="头壳（合集记录）" data-platform="">
+<a class="maker-row-link" href="chashaomao/" aria-label="查看 叉烧猫OFFICE 的店铺档案">
+<span class="maker-identity"><span class="maker-logo maker-logo--missing" aria-label="未收录官方图标">暂无图标</span><span><strong>叉烧猫OFFICE</strong><small>收录作品配图与委托资料。</small></span></span>
+<span class="maker-region"><span class="maker-mobile-label">地区</span>地区待核实</span>
+<span class="maker-categories"><span class="maker-mobile-label">类型</span>头壳（合集记录）</span>
+<span class="maker-price"><span class="maker-mobile-label">价格</span>原文参考：未填写</span>
+<span class="maker-row-end"><span class="maker-status maker-status--unverified">接单待核实</span><span class="maker-arrow" aria-hidden="true"><span class="md-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span></span></span>
+</a></li>
 </ul>
 <div class="maker-empty" data-maker-empty hidden><h2>没有匹配的店铺</h2><p>当前筛选结果为 0 家。</p><button type="button" data-maker-clear>清除筛选</button></div>
 </div>
 
-<noscript><p>另有暂停及待核实档案：<a href="sensei/">Kigurumi Sensei（暂停定制）</a>、<a href="dora/">哆啦工坊 Dora Studio（接单待核实）</a>、<a href="newfacedoll/">新颜玩偶 New Face Doll（接单待核实）</a>、<a href="haka/">哈卡人形 Kigurumi（接单待核实）</a>。</p></noscript>
+<noscript><p>另有暂停及待核实档案：<a href="sensei/">Kigurumi Sensei（暂停定制）</a>、<a href="dora/">哆啦工坊 Dora Studio（接单待核实）</a>、<a href="newfacedoll/">新颜玩偶 New Face Doll（接单待核实）</a>、<a href="haka/">哈卡人形 Kigurumi（接单待核实）</a>、<a href="shushu/">鼠鼠工坊 Kigurumi（接单待核实）</a>、<a href="moyu/">摸鱼工坊 Pro KIGURUMI 头壳（接单待核实）</a>、<a href="zhuoliang/">灼凉 KIG 定制（接单待核实）</a>、<a href="moxingtu/">魔形兔与原创设计（接单待核实）</a>、<a href="zongzi/">粽子工坊 kigurumi（接单待核实）</a>、<a href="shenhaimao/">深海猫 KIGURUMI 工坊（接单待核实）</a>、<a href="newstardoll/">新星玩偶 NewStarDoll（接单待核实）</a>、<a href="hongyin/">虹音 kigurumi 实验室（接单待核实）</a>、<a href="cover/">COVER 咖物社（接单待核实）</a>、<a href="lanche/">岚车时代 kigurumi 工坊（接单待核实）</a>、<a href="tianwailaiwu/">kigurumi 天外来物（接单待核实）</a>、<a href="vive/">歪物设计 kigurumi（接单待核实）</a>、<a href="gezhe/">歌者人形 kigurumi（接单待核实）</a>、<a href="xianbei/">仙贝工坊 kigurumi（接单待核实）</a>、<a href="mrkt/">斩梦工坊 MRKT（接单待核实）</a>、<a href="kigos/">KigOS（接单待核实）</a>、<a href="modu-pinhaoke/">魔都人偶 X 拼好壳 kigurumi 上海工坊（接单待核实）</a>、<a href="laoshu-zone/">老叔 zone（接单待核实）</a>、<a href="milu/">麋鹿工坊（接单待核实）</a>、<a href="syndrome/">Kigurumi 综合征（接单待核实）</a>、<a href="guoke/">kigurumi 果壳屋（接单待核实）</a>、<a href="maoweicao/">猫尾草 kigurumi（接单待核实）</a>、<a href="zhongmeng/">仲梦工坊（接单待核实）</a>、<a href="yeka/">椰卡设计局（接单待核实）</a>、<a href="shedingji/">设定集 Kigurumi（接单待核实）</a>、<a href="zhuotishe/">kigurumi 着替社（接单待核实）</a>、<a href="renxingqihua/">人形企画 kigurumi（接单待核实）</a>、<a href="kuangchao/">狂潮人形 kigurumi（接单待核实）</a>、<a href="ouzai/">鸥仔工作室（接单待核实）</a>、<a href="xingchen/">星尘 kigurumi（接单待核实）</a>、<a href="qimengxinghe/">绮梦星河 kigurumi（接单待核实）</a>、<a href="tuntunmanli/">囤囤满栗 kigurumi（接单待核实）</a>、<a href="dingge/">定格工坊（接单待核实）</a>、<a href="napclub/">kigurumi 午睡社 NapClub（接单待核实）</a>、<a href="fengling/">枫铃学院 kigurumi 工坊（接单待核实）</a>、<a href="lengmian/">冷面厨房 KIGURUMI 定制（接单待核实）</a>、<a href="lizi/">栗子 kig（接单待核实）</a>、<a href="mikuai/">米块工坊（接单待核实）</a>、<a href="maojing/">猫井 kigurumi（接单待核实）</a>、<a href="elysium/">幻境乐园 kigurumi（接单待核实）</a>、<a href="kiwata/">Kiwata kigurumi（接单待核实）</a>、<a href="huanying/">幻荧工坊 kigurumi 头壳（接单待核实）</a>、<a href="haide/">海德映画 kigurumi（接单待核实）</a>、<a href="ruirui/">睿睿的展馆（接单待核实）</a>、<a href="bairimeng/">白日梦游家（接单待核实）</a>、<a href="ouzhixing/">偶之形 kigurumi（接单待核实）</a>、<a href="yumao/">御猫人形制造（接单待核实）</a>、<a href="yuanwei/">鸢尾造物（接单待核实）</a>、<a href="mengxing/">萌型造物 kigurumi（接单待核实）</a>、<a href="403kigurumi/">403kigurumi（接单待核实）</a>、<a href="xiaochai/">小柴 go 工坊（接单待核实）</a>、<a href="shiliang/">世良工坊（接单待核实）</a>、<a href="tsw/">TSW 魅魔工坊 kigurumi（接单待核实）</a>、<a href="ciwei/">刺猬工坊（接单待核实）</a>、<a href="yushuying/">语数英在搓头壳（接单待核实）</a>、<a href="xingli/">星璃工坊 kigurumi（接单待核实）</a>、<a href="gurgle-love/">GURGLE LOVE（接单待核实）</a>、<a href="shujiao/">薯角培根工坊 kigurumi（接单待核实）</a>、<a href="wanoufang/">万偶坊kigurumi（接单待核实）</a>、<a href="mimi/">咪咪Kigurumi创研（接单待核实）</a>、<a href="tot/">TOT 千翼工坊（接单待核实）</a>、<a href="tangou/">糖偶形形（接单待核实）</a>、<a href="xiaoqiu/">小秋 kig 工坊（接单待核实）</a>、<a href="beiduo/">贝多 kigurumi（接单待核实）</a>、<a href="xiangsu/">像素工坊 kigurumi（接单待核实）</a>、<a href="mirrodoll/">Mirrodoll 镜之人形（接单待核实）</a>、<a href="manzhiyu/">漫之语 Kigurumi 头壳工坊（接单待核实）</a>、<a href="tidugang/">提督港（接单待核实）</a>、<a href="huajuan/">花卷妈妈（接单待核实）</a>、<a href="chuangwu/">创物造舍（接单待核实）</a>、<a href="jinshuotang/">锦朔棠工坊（接单待核实）</a>、<a href="xiaolu/">小鹿 kig 工作室（接单待核实）</a>、<a href="jili/">叽哩娃娃屋（接单待核实）</a>、<a href="miaotu/">喵兔 kigurumi 工坊（接单待核实）</a>、<a href="xiaokonglong/">真的是小恐龙嘛（接单待核实）</a>、<a href="peiyangmin/">培养皿工坊（接单待核实）</a>、<a href="kotoba/">言葉 kig（接单待核实）</a>、<a href="ningmeng/">柠檬工坊kigurumi（接单待核实）</a>、<a href="chashaomao/">叉烧猫OFFICE（接单待核实）</a>。</p></noscript>
 
 ## 本次复核
 
