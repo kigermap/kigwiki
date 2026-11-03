@@ -624,13 +624,13 @@ hooks:
 
 extra_css:
   - assets/stylesheets/extra.css?v=20260909-museum
-  - assets/stylesheets/makers.css?v=20261103-collection
+  - assets/stylesheets/makers.css?v=20261103-cards
   - assets/stylesheets/experiences.css?v=20260911-photos
 
 extra_javascript:
   - assets/javascripts/archive-ui.js?v=20260911-experiences
-  - assets/javascripts/makers.js?v=20261103-collection
-  - assets/javascripts/shop-collection.js?v=20261103
+  - assets/javascripts/makers.js?v=20261103-cards
+  - assets/javascripts/shop-collection.js?v=20261103-cards
 
 extra:
   generator: false

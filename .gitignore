@@ -7,3 +7,6 @@ __pycache__/
 
 # Local authenticated clipboard snapshots and full-size downloaded source images.
 output/feishu-import-2026-11-03/
+
+# Local redesign previews and verification logs.
+output/maker-redesign-2026-11-03/
