@@ -115,6 +115,9 @@ python scripts/build_indexes.py --write
 - 数据母本：`docs/assets/data/makers.yml`，保留字段来源、币种、订金和营业状态。
 - 重新生成：`.venv/bin/python scripts/build_makers.py`。
 - 一致性校验：`.venv/bin/python scripts/build_makers.py --check`。
+- 飞书合集来源母本：`docs/assets/data/feishu-shop-collection.json`；运行 `.venv/bin/python scripts/build_shop_collection.py` 生成 153 条来源详情和完整图文存档，`--check` 检查一致性与 379 张本地图片。
+- 2026-11-03 合集补录新增 79 份头壳档案、关联 31 份既有档案；目录默认展示全部 119 份档案。新增内容为社群来源，不能自动升级营业状态；既有第一方核实日期单独保留。
+- 图片清单：`docs/assets/images/feishu-shops-2026-11-03/manifest.json`，记录原始下载文件与网页压缩版的尺寸、校验值、来源和权利说明。原始剪贴板及下载文件仅保存在本地忽略目录 `output/feishu-import-2026-11-03/`。
 - 来源、去重及平台覆盖：`docs/zh-Hans/makers/methodology.md`。
 - 第三方图像出处：`docs/assets/images/makers/manifest.json`。不使用生成图伪造商标。
 

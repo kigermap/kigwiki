@@ -47,9 +47,31 @@ description: "青岛头壳手作工坊，公开接受国内外私信委托；202
 
 英文与中文工坊名称由同一官方简介对应；淘宝历史地址尚未取得第一方直链。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+<h3>深海工坊 kig 手作店 · 二次元头壳</h3>
+<p class="collection-source-note">原文带 # 标记：编者尚未查明全部信息。</p>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>3/4 头 1000 全头 1500</td></tr>
+<tr><th scope="row">参考价格</th><td>全头 3400</td></tr>
+<tr><th scope="row">工期时间</th><td>原文未填写</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop154932055.taobao.com/" rel="noopener noreferrer">https://shop154932055.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>原文未填写</td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>原文未填写</td></tr>
+<tr><th scope="row">编者批注</th><td>追焦眼，发光眼 200，全头玉米须烫 500</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/253b3d03d4c0dd90.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/253b3d03d4c0dd90.webp" alt="深海工坊 kig 手作店 · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>深海工坊 kig 手作店 · 原文配图 1</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#SUvDdFzXSotgUBxc9QXcKmhOn7c">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-profile"><a href="https://x.com/ShinkaiWorkshop" rel="noopener noreferrer">制作方 X 公开简介、渠道与作品；访问于 2026-09-09</a></p>
 

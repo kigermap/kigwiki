@@ -47,9 +47,33 @@ description: "手工头壳制作者，公开淘宝店名和私信定制入口。
 
 同一业务简介对应工坊名与淘宝名；历史店铺编号仍待第一方核实。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+<h3>秀吉姬 kigurumi 工坊 · 二次元头壳</h3>
+<p class="collection-source-note">原文带 # 标记：编者尚未查明全部信息。</p>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>原文未填写</td></tr>
+<tr><th scope="row">参考价格</th><td>3.5k-4k</td></tr>
+<tr><th scope="row">工期时间</th><td>5 个月左右</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop149798535.taobao.com/" rel="noopener noreferrer">https://shop149798535.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>【有坏蛋呜呜呜】 <a href="https://www.bilibili.com/video/BV1hWNM64EDT/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43" rel="noopener noreferrer">https://www.bilibili.com/video/BV1hWNM64EDT/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43</a></td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>赛马娘，硬头，覆面</td></tr>
+<tr><th scope="row">编者批注</th><td>可接硬头</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/8497958b14c03478.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/8497958b14c03478.webp" alt="秀吉姬 kigurumi 工坊 · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>秀吉姬 kigurumi 工坊 · 原文配图 1</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/29c8e6e0d7c40afd.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/29c8e6e0d7c40afd.webp" alt="秀吉姬 kigurumi 工坊 · 原文配图 2" loading="lazy" decoding="async"></a><figcaption>秀吉姬 kigurumi 工坊 · 原文配图 2</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/ca7dce74476f3ca8.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/ca7dce74476f3ca8.webp" alt="秀吉姬 kigurumi 工坊 · 原文配图 3" loading="lazy" decoding="async"></a><figcaption>秀吉姬 kigurumi 工坊 · 原文配图 3</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#Gu2bd8laNoYg7bxQ3yfcmnVBnZA">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-profile"><a href="https://x.com/lightning520" rel="noopener noreferrer">制作方 X 公开简介、渠道与作品；访问于 2026-09-09</a></p>
 

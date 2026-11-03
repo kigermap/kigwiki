@@ -144,6 +144,7 @@ plugins:
                     - 2026 年 9 月公开资料摘要: digests/2026-09/index.md
             - 头壳店铺:
                 - 店铺目录: makers/index.md
+                - 飞书店铺合集: makers/collection/index.md
                 - 收录与复核: makers/methodology.md
             - 线下体验:
                 - 体验目录: experiences/index.md
@@ -153,6 +154,7 @@ plugins:
                 - 人物目录: people/index.md
                 - 来源目录:
                     - 来源总览: sources/index.md
+                    - 飞书店铺合集图文存档: sources/shop-collections/hezhi-2026/index.md
                     - 调查报告:
                         - 2017 着ぐるみ国势调查结果报告书: sources/survey-reports/kigurumi-census-2017/index.md
                     - 学术论文:
@@ -255,6 +257,7 @@ plugins:
                     - 2026 年 9 月公開資料摘要: digests/2026-09/index.md
             - 頭殼店鋪:
                 - 店鋪目錄: makers/index.md
+                - 飛書店鋪合集: makers/collection/index.md
                 - 收錄與複核: makers/methodology.md
             - 線下體驗:
                 - 體驗目錄: experiences/index.md
@@ -264,6 +267,7 @@ plugins:
                 - 人物目錄: people/index.md
                 - 來源目錄:
                     - 來源總覽: sources/index.md
+                    - 飛書店鋪合集圖文存檔: sources/shop-collections/hezhi-2026/index.md
                     - 調查報告:
                         - 2017 着ぐるみ國勢調查結果報告書: sources/survey-reports/kigurumi-census-2017/index.md
                     - 學術論文:
@@ -363,6 +367,7 @@ plugins:
                     - September 2026 Public-Source Digest: digests/2026-09/index.md
             - Mask Makers:
                 - Maker Directory: makers/index.md
+                - Feishu Shop Collection: makers/collection/index.md
                 - Sources and Verification: makers/methodology.md
             - In-person Experiences:
                 - Experience Directory: experiences/index.md
@@ -372,6 +377,7 @@ plugins:
                 - People: people/index.md
                 - Sources:
                     - Sources Overview: sources/index.md
+                    - Feishu Shop Source Archive: sources/shop-collections/hezhi-2026/index.md
                     - Survey Reports:
                         - 2017 Kigurumi Census Results Report: sources/survey-reports/kigurumi-census-2017/index.md
             - Citation: citation/index.md
@@ -472,6 +478,7 @@ plugins:
                     - 2026年9月 公開資料ダイジェスト: digests/2026-09/index.md
             - マスク工房:
                 - 工房一覧: makers/index.md
+                - 飛書ショップ資料集: makers/collection/index.md
                 - 出典と確認: makers/methodology.md
             - 着ぐるみ体験:
                 - 体験施設一覧: experiences/index.md
@@ -481,6 +488,7 @@ plugins:
                 - 人物目録: people/index.md
                 - 出典目録:
                     - 出典総覧: sources/index.md
+                    - 飛書ショップ資料アーカイブ: sources/shop-collections/hezhi-2026/index.md
                     - 調査報告:
                         - 2017 着ぐるみ国勢調査結果報告書: sources/survey-reports/kigurumi-census-2017/index.md
                     - 学術論文:
@@ -583,6 +591,7 @@ plugins:
                     - Обзор за сентябрь 2026 года: digests/2026-09/index.md
             - Мастерские масок:
                 - Каталог мастерских: makers/index.md
+                - Коллекция магазинов Feishu: makers/collection/index.md
                 - Источники и проверка: makers/methodology.md
             - Очный опыт:
                 - Каталог студий: experiences/index.md
@@ -592,6 +601,7 @@ plugins:
                 - Люди: people/index.md
                 - Источники:
                     - Обзор источников: sources/index.md
+                    - Архив коллекции магазинов Feishu: sources/shop-collections/hezhi-2026/index.md
                     - Отчеты об опросах:
                         - Отчет о переписи кигуруми 2017 года: sources/survey-reports/kigurumi-census-2017/index.md
                     - Научные статьи:
@@ -606,17 +616,21 @@ plugins:
         - ja
         - ru
 
+exclude_docs: |
+  /assets/data/feishu-shop-collection.md
+
 hooks:
   - scripts/site_hooks.py
 
 extra_css:
   - assets/stylesheets/extra.css?v=20260909-museum
-  - assets/stylesheets/makers.css?v=20260909-makers
+  - assets/stylesheets/makers.css?v=20261103-collection
   - assets/stylesheets/experiences.css?v=20260911-photos
 
 extra_javascript:
   - assets/javascripts/archive-ui.js?v=20260911-experiences
-  - assets/javascripts/makers.js?v=20260909-makers
+  - assets/javascripts/makers.js?v=20261103-collection
+  - assets/javascripts/shop-collection.js?v=20261103
 
 extra:
   generator: false
@@ -718,6 +732,7 @@ nav:
           - 2026 年 9 月公开资料摘要: digests/2026-09/index.md
   - 头壳店铺:
       - 店铺目录: makers/index.md
+      - 飞书店铺合集: makers/collection/index.md
       - 收录与复核: makers/methodology.md
   - 线下体验:
       - 体验目录: experiences/index.md
@@ -727,6 +742,7 @@ nav:
       - 人物目录: people/index.md
       - 来源目录:
           - 来源总览: sources/index.md
+          - 飞书店铺合集图文存档: sources/shop-collections/hezhi-2026/index.md
           - 调查报告:
               - 2017 着ぐるみ国势调查结果报告书: sources/survey-reports/kigurumi-census-2017/index.md
           - 学术论文:

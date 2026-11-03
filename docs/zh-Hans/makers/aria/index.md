@@ -47,9 +47,33 @@ description: "店主公开声明经营 ARIA、制作头壳，并直接提供淘�
 
 官方简介与商品帖的淘宝编号一致；店主账号仅记录公开业务身份，不收录其他私人信息。 未取得新渠道的官方归属证据时，不按同名、同图自动合并。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+<h3>Haruka 的道具屋 ARIA · 二次元头壳</h3>
+<p class="collection-source-note">原文带 # 标记：编者尚未查明全部信息。</p>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>1000</td></tr>
+<tr><th scope="row">参考价格</th><td>3000</td></tr>
+<tr><th scope="row">工期时间</th><td>原文未填写</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop280538250.taobao.com/" rel="noopener noreferrer">https://shop280538250.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>【戴头壳也能用的社牛集邮打光技巧】 <a href="https://www.bilibili.com/video/BV1HY9yYqEY9/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43" rel="noopener noreferrer">https://www.bilibili.com/video/BV1HY9yYqEY9/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43</a></td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>少女，可爱</td></tr>
+<tr><th scope="row">编者批注</th><td>原文未填写</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/d3c159a092d5dc23.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/d3c159a092d5dc23.webp" alt="Haruka 的道具屋 ARIA · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>Haruka 的道具屋 ARIA · 原文配图 1</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/42e4aaba75ddb950.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/42e4aaba75ddb950.webp" alt="Haruka 的道具屋 ARIA · 原文配图 2" loading="lazy" decoding="async"></a><figcaption>Haruka 的道具屋 ARIA · 原文配图 2</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/3d9a472d99338f1f.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/3d9a472d99338f1f.webp" alt="Haruka 的道具屋 ARIA · 原文配图 3" loading="lazy" decoding="async"></a><figcaption>Haruka 的道具屋 ARIA · 原文配图 3</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#ELwGdpEhqoKEJPxPTQIcYphfnfc">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-profile"><a href="https://x.com/mitsukiriya" rel="noopener noreferrer">制作方 X 公开简介、渠道与作品；访问于 2026-09-09</a></p>
 

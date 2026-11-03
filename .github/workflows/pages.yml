@@ -31,7 +31,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Validate archive indexes
-        run: python scripts/build_indexes.py
+        run: |
+          python scripts/build_indexes.py
+          python scripts/build_shop_collection.py --check
+          python scripts/build_makers.py --check
 
       - name: Build site
         run: mkdocs build --strict

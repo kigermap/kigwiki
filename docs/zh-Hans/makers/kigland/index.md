@@ -47,9 +47,33 @@ description: "提供角色定制、现货、半成品、假发与道具，主站
 
 官网与 kigland.taobao.com 有明确直链。莓萌官网明确两者不是同一家，不能因友链或相近入门产品而合并。
 
+## 飞书合集补录（2026-11-03）
+
+以下为 **禾芷溪溪溪溪溪溪** 整理的《Kigurumi 店铺合集文档 Ver2.0（测试版）》记载。原文价格、工期、风格及批注属于社群资料；本次没有据此更新第一方营业状态。未写币种的金额保持原文，订金与整头价格分别记录。
+
+[浏览完整店铺合集](../collection/index.md) · [原文图文存档与校勘](../../sources/shop-collections/hezhi-2026/index.md)
+
+<h3>KigLand 偶域 kigurumi · 二次元头壳</h3>
+<p class="collection-source-note">原文带 # 标记：编者尚未查明全部信息。</p>
+<div class="maker-table-scroll"><table class="maker-table"><thead><tr><th>原文项目</th><th>合集记载</th></tr></thead><tbody>
+<tr><th scope="row">定金</th><td>定制头（998）</td></tr>
+<tr><th scope="row">参考价格</th><td>998-3000+（定制1999起）</td></tr>
+<tr><th scope="row">工期时间</th><td>原文未填写</td></tr>
+<tr><th scope="row">店铺链接</th><td><a href="https://shop172132778.taobao.com/" rel="noopener noreferrer">https://shop172132778.taobao.com/</a></td></tr>
+<tr><th scope="row">头壳相关视频</th><td>【不是手办是真人】 <a href="https://www.bilibili.com/video/BV1ZgM46fE3t/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43" rel="noopener noreferrer">https://www.bilibili.com/video/BV1ZgM46fE3t/?share_source=copy_web&amp;vd_source=cae513dbccbddc8faf4c19917083ff43</a></td></tr>
+<tr><th scope="row">风格适配（关键词 tag）</th><td>量产头</td></tr>
+<tr><th scope="row">编者批注</th><td>有初音，荧妹，岛风，流萤量产头</td></tr>
+</tbody></table></div>
+<div class="collection-gallery">
+<figure><a href="/assets/images/feishu-shops-2026-11-03/6c514ecbc9da3ebd.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/6c514ecbc9da3ebd.webp" alt="KigLand 偶域 kigurumi · 原文配图 1" loading="lazy" decoding="async"></a><figcaption>KigLand 偶域 kigurumi · 原文配图 1</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/bcac116e6775ed6c.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/bcac116e6775ed6c.webp" alt="KigLand 偶域 kigurumi · 原文配图 2" loading="lazy" decoding="async"></a><figcaption>KigLand 偶域 kigurumi · 原文配图 2</figcaption></figure>
+<figure><a href="/assets/images/feishu-shops-2026-11-03/cd79b28055f2cd21.webp" target="_blank" rel="noopener"><img src="/assets/images/feishu-shops-2026-11-03/cd79b28055f2cd21.webp" alt="KigLand 偶域 kigurumi · 原文配图 3" loading="lazy" decoding="async"></a><figcaption>KigLand 偶域 kigurumi · 原文配图 3</figcaption></figure>
+</div>
+<p class="collection-source-note">图文来源：禾芷溪溪溪溪溪溪《Kigurumi 店铺合集文档 Ver2.0（测试版）》 · 采集于 2026-11-03 · <a href="https://nq6m08wikis.feishu.cn/wiki/Kz0vwTR8Yif6RgkeNb6csJLxnrb#DGeOdT7bGoQIC2x7FcHcBpVcnlf">查看原文对应位置</a>。图片权利归原权利人。</p>
+
 ## 来源与图像
 
-本档案整理于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；社群目录为 2025 年版本，不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
+第一方资料核实于 **2026-09-09**；来源标题区分本轮已读取网页、官方链接与历史线索。列出链接不代表已读取所有目标页面或验证平台库存；早期社群目录为 2025 年版本，飞书合集补录另标采集日期，均不代表当前营业状态。店家描述已重新组织，材料与服务承诺仍为店方自述。
 
 <p id="source-home"><a href="https://kig.land/zh-CN" rel="noopener noreferrer">官方商品说明及联络入口</a></p>
 
